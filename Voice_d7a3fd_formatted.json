@@ -1,0 +1,402 @@
+[
+    {
+        "question": "<span> We completed the project ahead of schedule.</span>",
+        "option_1": "<span> The project were completed ahead of schedule.</span>",
+        "option_2": "<span> The project was completed ahead of schedule. </span>",
+        "option_3": "<span> We completed the project by being ahead of schedule.</span>",
+        "option_4": "<span> We were ahead of schedule completing the project.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is b.</span><p><span>When the subject cannot do an action. In the given sentence \"We completed the project ahead of schedule,\" the subject \"We\" performed the action of completing the project. Therefore, when transforming this sentence into the passive voice, the subject becomes the receiver of the action, and the agent performing the action becomes the grammatical subject of the passive voice sentence.</span></p><p><span>The correct passive voice form of the sentence is \"The project was completed ahead of schedule.\" This form maintains the correct tense (past tense) and passive voice structure. </span></p>"
+    },
+    {
+        "question": "<span> The company relayed the message to all employees through a company-wide email.</span>",
+        "option_1": "<span> The message were relayed to all employees through a company-wide email.</span>",
+        "option_2": "<span> The message was relayed to all employees through a company-wide email.</span>",
+        "option_3": "<span> The message was relayed by all employees through a company-wide email.</span>",
+        "option_4": "<span> The message were relayed by all employees through a company-wide email.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: b “The message was relayed to all employees through a company-wide email.”</span><p><span>The rule of changing active voice to passive voice:</span></p><p><span>Subject + V2 + Object</span><span style=\"font-family:Wingdings\"></span><span> Object + was/were + V3 + by + Subject</span></p>"
+    },
+    {
+        "question": "<span> The chef prepared the meal for the guests.</span>",
+        "option_1": "<span> The meal has prepared for the guests by the chef.</span>",
+        "option_2": "<span> The meal was prepared for the guests by the chef. </span>",
+        "option_3": "<span> The meal prepared for the guests by the chef.</span>",
+        "option_4": "<span> The meal was prepared for the chef by the guests.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: The meal was prepared for the guests by the chef.</span><p><span>This option correctly uses the passive voice to indicate that the meal (the subject) was prepared (the verb) by the chef (the agent), maintaining the original meaning of the sentence. </span></p>"
+    },
+    {
+        "question": "<span> The students completed the assignment before the deadline. </span>",
+        "option_1": "<span> The assignment is completed before the deadline by the students.</span>",
+        "option_2": "<span> The assignment was completed before the students by the deadline.</span>",
+        "option_3": "<span> The assignment was completed before the deadline by the students. </span>",
+        "option_4": "<span> The assignment was complete before the deadline by the students.</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is: c “The assignment was completed before the deadline by the students.”</span><p><span>This option correctly uses the passive voice to indicate that the assignment (the subject) was completed (the verb) before the deadline by the students (the agent). </span></p>"
+    },
+    {
+        "question": "<p>Someone stole my wallet yesterday.</p>",
+        "option_1": "<p>My wallet was stolen by someone yesterday.</p>",
+        "option_2": "<p>My wallet was stolen yesterday.</p>",
+        "option_3": "<p>Someone was stolen my wallet yesterday.</p>",
+        "option_4": "<p>My wallet was stole yesterday.</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The correct option is ‘b’: My wallet was stolen yesterday.</p> <p>Here, Subject is unknown so the focus is on the action itself, rather than on who performed the action.</p>"
+    },
+    {
+        "question": "<span> They appointed a new manager for the department.</span>",
+        "option_1": "<span> A new manager was appointed by the department.</span>",
+        "option_2": "<span> A new manager was appointed by them. </span>",
+        "option_3": "<span> They were appointed a new manager for the department.</span>",
+        "option_4": "<span> A new manager was appointed for the department.</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct option is d: A new manager was appointed for the department.</span><p><span>Here, Subject is unknown so the focus is on the action itself, rather than on who performed the action. </span></p>"
+    },
+    {
+        "question": "<span> The chef prepares the meal every evening.</span>",
+        "option_1": "<span> The meal is prepared by the chef every evening. </span>",
+        "option_2": "<span> The meal was prepared by the chef every evening.</span>",
+        "option_3": "<span> The chef is prepared meal by every evening.</span>",
+        "option_4": "<span> The chef was prepared meal by every evening </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is a: The meal is prepared by the chef every evening.</span><p><span>In the given sentence simple present tense is maintained </span></p><p><span>Rule of simple present tense in Active voice and Passive voice:</span></p><p><span>Subject + V1 +object (Active voice) ---- Object + is/am/are + V3 + by + subject (Passive voice)</span></p>"
+    },
+    {
+        "question": "<span> The students attend classes regularly. </span>",
+        "option_1": "<span> Classes was attended by the students regularly.</span>",
+        "option_2": "<span> The students was attended classes by regularly.</span>",
+        "option_3": "<span> Classes are attended by the students regularly.</span>",
+        "option_4": "<span> The students are attended classes by regularly.</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is c: Classes are attended by the students regularly.</span><p><span>In the given sentence simple present tense is maintained </span></p><p><span>Rule of simple present tense in Active voice and Passive voice:</span></p><p><span>Subject + V1 +object (Active voice) ---- Object + is/am/are + V3 + by + subject (Passive voice)</span></p>"
+    },
+    {
+        "question": "<span> She wrote a novel last year. </span>",
+        "option_1": "<span> A novel was written by her last year.</span>",
+        "option_2": "<span> She was wrote a novel by last year.</span>",
+        "option_3": "<span> A novel was written by she last year.</span>",
+        "option_4": "<span> Last year she was wrote a novel. </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is a: A novel was written by her last year.</span><p><span>In the given sentence simple past tense is maintained </span></p><p><span>Rule of simple past tense in Active voice and Passive voice:</span></p><p><span>Subject + V2 +object (Active voice) ---- Object + was/were + V3 + by + subject (Passive voice)</span></p>"
+    },
+    {
+        "question": "<span> The company launched a new product in 2020.</span>",
+        "option_1": "<span> A new product was launch by the company in 2020.</span>",
+        "option_2": "<span> A new product was launched by the company in 2020.</span>",
+        "option_3": "<span> A new product is launched by the company in 2020.</span>",
+        "option_4": "<span> A new product has launched by the company in 2020.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: A new product was launched by the company in 2020.</span><p><span>In the given sentence simple past tense is maintained </span></p><p><span>Rule of simple past tense in Active voice and Passive voice:</span></p><p><span>Subject + V2 +object (Active voice) ---- Object + was/were + V3 + by + subject (Passive voice)</span></p>"
+    },
+    {
+        "question": "<span> The company will launch a new product next month.</span>",
+        "option_1": "<span> A new product will be launched by the company next month. </span>",
+        "option_2": "<span> A new product will launched by the company next month.</span>",
+        "option_3": "<span> The company will be launched by a new product next month. </span>",
+        "option_4": "<span> The company will launched by a new product next month. </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is a: A new product will be launched by the company next month.</span><p><span>The given sentence is in simple future tense. Rule of Simple future tense in Active voice and Passive voice.</span></p><p><span>Subject + shall/will + V1 + object ---- Object + shall/will + be + V3 + by + subject</span></p>"
+    },
+    {
+        "question": "<span> She will write a novel next year. </span>",
+        "option_1": "<span> A novel will written by her next year.</span>",
+        "option_2": "<span> A novel will be written her by next year.</span>",
+        "option_3": "<span> A novel will written her by next year. </span>",
+        "option_4": "<span> A novel will be written by her next year. </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct option is d: A novel will be written by her next year.</span><p><span>The given sentence is in simple future tense. Rule of Simple future tense in Active voice and Passive voice.</span></p><p><span>Subject + shall/will + V1 + object ---- Object + shall/will + be + V3 + by + subject</span></p>"
+    },
+    {
+        "question": "<span> They can solve the problem easily.</span>",
+        "option_1": "<span> The problem could solved easily by them.</span>",
+        "option_2": "<span> The problem can be solved easily by them. </span>",
+        "option_3": "<span> The problem could be solved easily by them.</span>",
+        "option_4": "<span> The problem can solved easily by them. </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: The problem can be solved easily by them.</span><p><span>Rule of changing Active voice into Passive voice: </span></p><p><span>Subject + modal + V1 + object ---- Object + modal + be + V3 + by + subject</span></p>"
+    },
+    {
+        "question": "<span> He should finish the assignment by tomorrow. </span>",
+        "option_1": "<span> The assignment should be finished by him by tomorrow. </span>",
+        "option_2": "<span> The assignment would be finished by him by tomorrow.</span>",
+        "option_3": "<span> The assignment should finished by him by tomorrow.</span>",
+        "option_4": "<span> The assignment would finished by him by tomorrow. </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is a: The assignment should be finished by him by tomorrow.</span><p><span>Rule of changing Active voice into Passive voice: </span></p><p><span>Subject + modal + V1 + object ---- Object + modal + be + V3 + by + subject</span></p>"
+    },
+    {
+        "question": "<span> The cleaner cleaned the drawing room. </span>",
+        "option_1": "<span> The drawing room cleaned by cleaner.</span>",
+        "option_2": "<span> The drawing room should be cleaned.</span>",
+        "option_3": "<span> The drawing room was cleaned. </span>",
+        "option_4": "<span> The drawing room is cleaned</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is c: The drawing room was cleaned.</span><p><span>This option correctly uses the passive voice to indicate that the drawing room (the subject) was cleaned (the verb), implying the action was completed.</span></p>"
+    },
+    {
+        "question": "<span>She is writing a letter to her friend.</span>",
+        "option_1": "<span> A letter is being written to she friend by her.</span>",
+        "option_2": "<span> A letter was being written to her friend by her.</span>",
+        "option_3": "<span> A letter was being written to she friend by her.</span>",
+        "option_4": "<span> A letter is being written to her friend by her. </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct option is d: A letter is being written to her friend by her.</span><p><span>Change the voice: Active voice ---- Passive voice </span></p><p><span>Subject + is/am/are + V1 + ing + object ---- Object + is/am/are + being + V3 + by + subject </span></p>"
+    },
+    {
+        "question": "<span> They are building a new house in the neighborhood. </span>",
+        "option_1": "<span> A new house was being built in the neighborhood by them. </span>",
+        "option_2": "<span> A new house is being built in the neighborhood by they.</span>",
+        "option_3": "<span> A new house is being built in the neighborhood by them. </span>",
+        "option_4": "<span> A new house was being built in the neighborhood by they. </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is c:</span><span>A new house is being built in the neighborhood by them.</span><p><span>Change the voice: Active voice ---- Passive voice </span></p><p><span>Subject + is/am/are + V1 + ing + object ---- Object + is/am/are + being + V3 + by + subject</span></p>"
+    },
+    {
+        "question": "<span> She was cooking dinner when I arrived home.</span>",
+        "option_1": "<span> Dinner was being cooked by she when I arrived home.</span>",
+        "option_2": "<span> Dinner was being cooked by her when I arrived home.</span>",
+        "option_3": "<span> Dinner was being cooked by her when I arrive home.</span>",
+        "option_4": "<span> Dinner was being cooked by she when I arrive home. </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is d: Dinner was being cooked by her when I arrived home.</span><p><span>Change the voice: Active voice ---- Passive voice </span></p><p><span>Subject + is/am/are + V1 + ing + object ---- Object + is/am/are + being + V3 + by + subject</span></p>"
+    },
+    {
+        "question": "<span> They were watching a movie at that time.</span>",
+        "option_1": "<span> A movie was being watched by they at that time.</span>",
+        "option_2": "<span> A movie was being watched by them at that time.</span>",
+        "option_3": "<a name=\"_Hlk166496862\"><span>A movie was being watched by the time at they.</span></a>",
+        "option_4": "<span> A movie was being watched by the time at them. </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: A movie was being watched by them at that time. </span><p><span>Change the voice: Active voice ---- Passive voice </span></p><p><span>Subject + is/am/are + V1 + ing + object ---- Object + is/am/are + being + V3 + by + subject </span></p>"
+    },
+    {
+        "question": "<span> She put the keys on the table. </span>",
+        "option_1": "<span> The keys was put on the table by her.</span>",
+        "option_2": "<span> The keys were put on the table by she.</span>",
+        "option_3": "<span> The keys were put on the table by her. </span>",
+        "option_4": "<span> The keys was put on the table by she.</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is c: The keys were put on the table by her.</span><p><span>This option correctly uses the passive voice, with the subject \"the keys\" and the verb \"were put,\" followed by the agent \"by her.\"</span></p>"
+    },
+    {
+        "question": "<span> They hung the painting on the wall. </span>",
+        "option_1": "<span> The painting was hang on the wall by them</span>",
+        "option_2": "<span> The painting was hung on the wall by them. </span>",
+        "option_3": "<span> The painting was hung on the wall by they. </span>",
+        "option_4": "<span> The painting was hand on the wall by they.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: The painting was hung on the wall by them.</span><p><span>This option correctly uses the passive voice, with the verb \"hung\" in the past tense, to indicate that the painting (the subject) was hung (the verb) on the wall by them (the agent).</span></p>"
+    },
+    {
+        "question": "<span> She has completed her assignment.</span>",
+        "option_1": "<span> She has been completed her assignment.</span>",
+        "option_2": "<span> Her assignment has been completed. </span>",
+        "option_3": "<span> Her assignment has be completed.</span>",
+        "option_4": "<span> She has completed her assignment.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: Her assignment has been completed.</span><p><span>This option correctly uses the passive voice to indicate that the assignment (the subject) has been completed (the verb).</span></p>"
+    },
+    {
+        "question": "<span> They have finished the project on time. </span>",
+        "option_1": "<span> The project has been finished by time.</span>",
+        "option_2": "<span> The project they have finished on time.</span>",
+        "option_3": "<span> The project has been finished on time.</span>",
+        "option_4": "<span> The project has been finish on time.</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is c: The project has been finished on time. </span><p><span>“The project has been finished on time.” this option is correct. It is in passive voice, with \"has been finished\" indicating the completion of the project, and \"on time\" indicating that the completion occurred within the expected timeframe.</span></p>"
+    },
+    {
+        "question": "<span> She had finished her homework before dinner.</span>",
+        "option_1": "<span> Her homework has been finished before dinner.</span>",
+        "option_2": "<span> Her homework had been finished before dinner. </span>",
+        "option_3": "<span> Her homework had been finish before dinner.</span>",
+        "option_4": "<span> Her homework has been finish before dinner.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: Her homework had been finished before dinner.</span><p><span>This option correctly uses the passive voice, indicating that the homework (the subject) had been finished (the verb) before dinner (the time).</span></p>"
+    },
+    {
+        "question": "<span> They had completed the project by the deadline. </span>",
+        "option_1": "<span> The project has been completed by them.</span>",
+        "option_2": "<span> The project had been complete by the deadline.</span>",
+        "option_3": "<span> The project had been completed by the deadline. </span>",
+        "option_4": "<span> The project has been complete by the deadline to them.</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> Option c is correct. It uses the past perfect tense (\"had been completed\") to indicate that the action of completing the project occurred before the past event of the deadline. </span>"
+    },
+    {
+        "question": "<span> She will have completed her assignment by tomorrow.</span>",
+        "option_1": "<span> She will have been completed her assignment by tomorrow.</span>",
+        "option_2": "<span> Her assignment will has been completed by tomorrow.</span>",
+        "option_3": "<span> Her assignment would have been completed by tomorrow.</span>",
+        "option_4": "<span> Her assignment will have been completed by tomorrow.</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct option is d: Her assignment will have been completed by tomorrow. This option is correct. It uses the future perfect tense (\"will have been completed\") to indicate that the completion of her assignment will occur before tomorrow.</span>"
+    },
+    {
+        "question": "<span> They will have finished the project by the end of the week.</span>",
+        "option_1": "<span> The project would have been finished by the end of the week.</span>",
+        "option_2": "<span> The project will have be finished by the end of the week.</span>",
+        "option_3": "<span> The project will have been finished by the end of the week. </span>",
+        "option_4": "<span> The project would have been finishes by the end of the week.</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct answer is c. This option is correct. It uses the future perfect tense (\"will have been finished\") to indicate that the completion of the project will occur before the end of the week.</span>"
+    },
+    {
+        "question": "<span> Candies filled the jar.</span>",
+        "option_1": "<span> The jar was filled by the candies.</span>",
+        "option_2": "<span> The jar is filled by the candies.</span>",
+        "option_3": "<span> The jar is fill by the candies.</span>",
+        "option_4": "<span> The jar was filled with candies. </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct answer is d. </span><p><span>known to, surprised at/by, amazed at, astonished at, startled at, vexed at, annoyed with somebody, annoyed at something, contained in etc these verbs take fixed preposition after them that replaces the 'by' of 'by + sub'.</span></p>"
+    },
+    {
+        "question": "<span> His rude behavior astonished her.</span>",
+        "option_1": "<span> She is astonished at his rude behavior. </span>",
+        "option_2": "<span> She was astonished at his rude behavior. </span>",
+        "option_3": "<span> She was astonished by his rude behavior.</span>",
+        "option_4": "<span> She is astonished by his rude behavior.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is b.</span><p><span>known to, surprised at/by, amazed at, astonished at, startled at, vexed at, annoyed with somebody, annoyed at something, contained in, etc these verbs take fixed prepositions after them that replaces the 'by' of 'by + sub'.</span></p>"
+    },
+    {
+        "question": "<span> Colourful ornaments decorated the Christmas tree.</span>",
+        "option_1": "<span> The Christmas tree was decorated by colorful ornaments. </span>",
+        "option_2": "<span> The Christmas tree decorated with colourful ornaments.</span>",
+        "option_3": "<span> The Christmas tree was decorated with colorful ornaments.</span>",
+        "option_4": "<span> The Christmas tree decorated by colorful ornaments.</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct answer is c. “The Christmas tree was decorated with colorful ornaments.” This option is in passive voice and correctly indicates that the Christmas tree received the action of being decorated by the colorful ornaments. The preposition \"with\" appropriately follows the verb \"decorated\" to indicate what was used to decorate the tree.</span>"
+    },
+    {
+        "question": "<p>Their noisy neighbors annoy them.</p>",
+        "option_1": "<p>They annoyed with their noisy neighbors.</p>",
+        "option_2": "<p>They are annoyed with their noisy neighbors.</p>",
+        "option_3": "<p>They are annoyed by their noisy neighbours.</p>",
+        "option_4": "<p>They annoyed by their noisy neighbours.</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>The correct answer is b. They are annoyed by their noisy neighbours.</p> <p>known to, surprised at/by, amazed at, astonished at, startled at, vexed at, annoyed with somebody, annoyed at something, contained in, etc these verbs take fixed prepositions after them that replaces the 'by' of 'by + sub'.</p>"
+    },
+    {
+        "question": "<span> His words embody the essence.</span>",
+        "option_1": "<span> The essence is embodied by his words. </span>",
+        "option_2": "<span> The essence is embodied in his words.</span>",
+        "option_3": "<span> The essence is embodied for his words.</span>",
+        "option_4": "<span> The essence is embodied with his words. </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is b. The essence is embodied in his words. </span><p><span>known to, surprised at/by, amazed at, astonished at, startled at, vexed at, annoyed with somebody, annoyed at something, embodied in, contained in, etc these verbs take fixed prepositions after them that replaces the 'by' of 'by + sub'. </span></p>"
+    },
+    {
+        "question": "<span> Did she finish the report? </span>",
+        "option_1": "<span> Was the report finished to her?</span>",
+        "option_2": "<span> Was the report finished by her? </span>",
+        "option_3": "<span> Was the report finish by her?</span>",
+        "option_4": "<span> Was the report finished with her?</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: Was the report finished by her?</span><p><span>This option correctly uses the passive voice to indicate that the report (the subject) was finished (the verb) by her (the agent).</span></p>"
+    },
+    {
+        "question": "<span> Have they completed the task? </span>",
+        "option_1": "<span> Has the task be completed by them?</span>",
+        "option_2": "<span> Have the task been completed by they?</span>",
+        "option_3": "<span> Has the task been completed by them?</span>",
+        "option_4": "<span> Has the task been completed by they?</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is c: Has the task been completed by them? </span><p><span>In passive voice of interrogative sentences, we start the sentence with the helping verb that goes with the object.\" </span></p>"
+    },
+    {
+        "question": "<span> Why did she write the letter?</span>",
+        "option_1": "<span> Why was the letter written with her?</span>",
+        "option_2": "<span> Why was the letter written to her?</span>",
+        "option_3": "<span> Why was the letter written by her?</span>",
+        "option_4": "<span> Why was the letter written for her?</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is c: Why was the letter written by her?</span><p><span>In passive voice of interrogative sentences, we start the sentence with the helping verb that goes with the object.\" </span></p>"
+    },
+    {
+        "question": "<span> Where are they going for vacation? </span>",
+        "option_1": "<span> Where are they being taken to vacation?</span>",
+        "option_2": "<span> Where are they being taken by vacation?</span>",
+        "option_3": "<span> Where are they being take by vacation? </span>",
+        "option_4": "<span> Where are they being taken for vacation?</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct option is d: Where are they being taken for vacation?</span><p><span>In the passive voice of interrogative sentences with \"Wh-family\" words, we add the \"Wh\" word at the beginning of the sentence (\"Where\" in this case), followed by the appropriate helping verb (\"are\" in this case), then the subject (they), and finally the main verb in its past participle form (\"taken\"). Additionally, the destination (\"for vacation\") follows the main verb. So, the correct passive form matches this structure.</span></p>"
+    },
+    {
+        "question": "<span> Shut the door.</span>",
+        "option_1": "<span> Let the door be shut.</span>",
+        "option_2": "<span> The door be shut.</span>",
+        "option_3": "<span> Let the door shut.</span>",
+        "option_4": "<span> Let shut the door </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is a: Let the door be shut.</span><p><span>In passive voice, imperatives are often expressed using \"Let\" followed by the subject, then the base form of the verb, and sometimes the agent. In this case, \"Let the door be shut\" is a polite way of giving the command \"Shut the door\" in passive voice.</span></p>"
+    },
+    {
+        "question": "<span> Ramesh gave me a book to read.</span>",
+        "option_1": "<span> A book was given to me by Ramesh </span>",
+        "option_2": "<span> I was given a book by Ramesh to read.</span>",
+        "option_3": "<span> Ramesh given a book to me to read.</span>",
+        "option_4": "<span> I was gave a book by Ramesh to read.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: I was given a book by Ramesh to read. </span><p><span>In this sentence, the subject \"I\" is the recipient of the action \"given.\" The passive voice form correctly places the subject at the beginning of the sentence, followed by the auxiliary verb \"was\" and the past participle form of the main verb \"given.\" The agent performing the action (\"by Ramesh\") is placed at the end of the sentence. </span></p>"
+    },
+    {
+        "question": "<span> Kunal has to finish this work.</span>",
+        "option_1": "<span> This work has been finished by kunal.</span>",
+        "option_2": "<span> This work has to be finished by Kunal.</span>",
+        "option_3": "<span> This work had to be finished by kunal. </span>",
+        "option_4": "<span> This work have to be finished by kunal.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: This work has to be finished by Kunal. </span><p><span>In this sentence, the verb \"has to finish\" in the active voice is transformed into \"has to be finished\" in the passive voice. This maintains the meaning that the work needs to be completed, and it specifies that Kunal is the one who is required to finish it. </span></p>"
+    },
+    {
+        "question": "<span> Sunflower smells sweet.</span>",
+        "option_1": "<span> Sunflower smelt sweet.</span>",
+        "option_2": "<span> Sunflower is smelt sweet.</span>",
+        "option_3": "<span> Sunflower is sweet when it is smelt.</span>",
+        "option_4": "<span> Sunflower is sweet when it smelt.</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is c: Sunflower is sweet when it is smelt. </span><p><span>In this sentence, \"is smelt\" maintains the present tense and passive voice, indicating the ongoing quality of the sunflower's sweetness when it is smelled. The verb \"is\" agrees with the singular subject \"Sunflower,\" and \"smelt\" is the correct past participle form of the verb \"smell\" when used in the passive voice.</span></p>"
+    }
+]
