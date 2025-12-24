@@ -1,0 +1,402 @@
+[
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in active voice.</span><br/><span>Lovely tunes are composed by Domnica.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Domnica composes lovely tunes.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Domnica composes tunes lovely.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Domnica will compose lovely tunes.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Domnica composed lovely tunes.</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct Answer:</b></span><span> Domnica composes lovely tunes.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\">Rule Used:</span><span> In active voice, the subject performs the action. The verb must match the tense of the original passive voice sentence.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in passive voice.</span><br/><span>Ishika saw the tiger in the forest.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The tiger was seen by Ishika in the forest.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The tiger sees Ishika in the forest.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The tiger was seen by the forest in Ishika.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The tiger saw by Ishika in the forest.</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct Answer:</b></span><span> The tiger was seen by Ishika in the forest.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><span> In passive voice, the object of the active sentence becomes the subject. The verb is changed to its past participle form, and the subject (Ishika) is introduced after \"by.\"</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in active voice.</span><br/><span>The meal was not prepared by us.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>We did not prepare the meal.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>We did prepare the meal.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>We had not prepare the meal.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>We did not preparing the meal.</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct Answer:</b></span><span style=\"font-weight:bold\">We did not prepare the meal.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><span> To convert a sentence into active voice, the subject (in this case, \"we\") should perform the action directly (i.e., \"prepare\" the meal). The correct form is </span><span style=\"font-weight:bold\">\"We did not prepare the meal.\"</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in active voice.</span><br/><span>The homework must be done by you.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>You do the homework.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>You must do the homework.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>You should have done the homework.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>You will do the homework.</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct Answer:</b></span><span style=\"font-weight:bold\">You must do the homework.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><br/><span>In the active voice, the subject performs the action. The original sentence is in passive voice, where \"the homework\" is the subject and \"must be done\" is the action. In the active voice, the subject \"you\" must perform the action, and the correct transformation is \"You must do the homework.\"</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in active voice. </span><br/><span>The painting was admired by art enthusiasts from around the world.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Art enthusiasts from around the world admired the painting.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Art enthusiasts from around the world have admired the painting.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The painting has been admired by art enthusiasts from around the world.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The painting was being admired by art enthusiasts from around the world.</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct Answer:</b></span><span> Art enthusiasts from around the world admired the painting.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><br/><span>In the active voice, the subject performs the action. The given sentence in the passive voice (\"The painting was admired by art enthusiasts...\") is changed to </span><span style=\"font-weight:bold\">\"Art enthusiasts from around the world admired the painting,\"</span><span> where \"art enthusiasts\" is the subject performing the action.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in active voice.</span><br/><span>He will be made President by the people.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>By the people, he shall be made the President.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The people will make him President.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>People will be making him the President.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>He will be made President by the people.</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct Answer:</b></span><span> The people will make him President.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><br/><span>In the active voice, the subject (the people) performs the action. The sentence </span><span style=\"font-weight:bold\">\"He will be made President by the people\"</span><span> in passive voice is changed to </span><span style=\"font-weight:bold\">\"The people will make him President\"</span><span> in active voice.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in active voice.</span><br/><span>The contract was grabbed by the biggest telecom company in India.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The biggest telecom company in India has grabbed the contract.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The biggest telecom company in India grabbed the contract.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The biggest telecom company in India grabs the contract.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The biggest telecom company in India will grab the contract.</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct Answer:</b></span><span> The biggest telecom company in India grabbed the contract.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><br/><span>In active voice, the subject performs the action. The sentence \"The contract was grabbed by the biggest telecom company in India\" is in passive voice. To change it into active voice, we make \"The biggest telecom company in India\" the subject, and the action is expressed directly as \"grabbed.\"</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in active voice.</span><br/><span>By whom was grammar taught to you?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Who had taught you grammar?</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Did he teach you grammar?</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>You were taught grammar by whom?</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Who taught you grammar?</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct Answer:</b></span><span> Who taught you grammar?</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><br/><span>In active voice, the subject performs the action. The sentence \"By whom was grammar taught to you?\" is in passive voice. To convert it into active voice, we rephrase it so that \"Who\" becomes the subject, and the action (\"taught\") is directly performed.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that correctly expresses the given sentence in passive voice.</span><br/><span>The shareholders will elect him a director.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>He will be elected as director by the shareholders.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The shareholders have elected him a director.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The shareholders elected him a director.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>He will be elected a director.</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\">Correct answer</span><span>: - He will be elected as director by the shareholders.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\">Explanation</span><span>: -In the sentence \"He will be elected as director by the shareholders,\" we are converting the original active voice sentence \"The shareholders will elect him a director\" into passive voice.</span></p><ul><li><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">Active voice</span><span style=\"font-family:Cambria;font-size:11pt\">: The subject (the shareholders) performs the action (electing) on the object (him).</span></li><li><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">Passive voice</span><span style=\"font-family:Cambria;font-size:11pt\">: The object (him) becomes the subject of the sentence, and the focus shifts to the action done to him (being elected). The doer of the action (the shareholders) is still mentioned, but it comes at the end of the sentence.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>In passive voice, the auxiliary verb \"will be\" is used to indicate future tense, and \"elected\" is the past participle of the verb \"elect.\" The phrase \"as director\" is necessary to indicate the role he will hold after being elected, which is why \"as\" is used here.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the following sentence in active voice.</span><br/><span>The letter will be delivered by the postman tomorrow.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The postman will deliver the letter tomorrow.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The postman will have delivered the letter tomorrow.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The postman will be delivering the letter tomorrow.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The postman delivered the letter tomorrow</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\">Correct Answer</span><span>: The postman will deliver the letter tomorrow.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\">Explanation</span><span>: In active voice, the subject (postman) performs the action directly (will deliver). The sentence conveys the action being done by the subject in the future tense</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in passive voice.</span><br/><span>The company will launch the new product next month, and they are already promoting it through various marketing channels.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The new product was launched by the company next month, and it is already promoted through various marketing channels.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The new product will have been launched by the company next month, and it was already being promoted through various marketing channels.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The new product were been launched by the company next month, and it already was promoting through various marketing channels.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The new product will be launched by the company next month, and it is already being promoted through various marketing channels.</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct Answer:</b></span><br/><span>The new product will be launched by the company next month, and it is already being promoted through various marketing channels.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><br/><span>In passive voice, the object of the active sentence becomes the subject of the sentence. The structure changes as follows:</span></p><ul><li><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">Active voice:</span><span style=\"font-family:Cambria;font-size:11pt\"> \"The company will launch the new product.\"</span></li><li><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">Passive voice:</span><span style=\"font-family:Cambria;font-size:11pt\"> \"The new product will be launched by the company.\"</span></li></ul><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Similarly, for \"they are already promoting it through various marketing channels\":</span></p><ul><li><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">Active voice:</span><span style=\"font-family:Cambria;font-size:11pt\"> \"They are already promoting it.\"</span></li><li><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">Passive voice:</span><span style=\"font-family:Cambria;font-size:11pt\"> \"It is already being promoted.\"</span></li></ul><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Thus, the correct transformation in passive voice is:</span><br/><span>\"The new product will be launched by the company next month, and it is already being promoted through various marketing channels.”</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in passive voice. </span><br/><span>Historians tell us how this country was divided into three.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>We have been told by historians how this country was divided into three.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>We are told by historians how this country has been divided into three.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>We are told by historians how this country divided into three.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>We are told by historians how this country was divided into three.</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct Answer:</b></span><br/><span>We are told by historians how this country was divided into three.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><br/><span>In passive voice, the object of the sentence (in this case, \"how this country was divided into three\") becomes the subject of the sentence, and the focus shifts to the action.</span></p><ul><li><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">Active voice:</span><span style=\"font-family:Cambria;font-size:11pt\"> \"Historians tell us how this country was divided into three.\"</span></li><li><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">Passive voice:</span><span style=\"font-family:Cambria;font-size:11pt\"> \"We are told by historians how this country was divided into three.\"</span></li></ul>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that correctly expresses the given sentence in passive voice.</span><br/><span>The teachers of our school have already taken this training.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>This training has been taken by the teachers of our school.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>This training has already been taken by the teachers of our school.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>This training has already been taken by the our school teachers.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>This training was already taken by the teachers of our school.</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The correct option: - </span><span style=\"font-weight:bold\">This training has already been taken by the teachers of our school.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span></p><ul><li><span style=\"font-family:Cambria;font-size:11pt\">The subject \"</span><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">the teachers of our school</span><span style=\"font-family:Cambria;font-size:11pt\">\" becomes the agent in the passive voice.</span></li><li><span style=\"font-family:Cambria;font-size:11pt\">The phrase \"</span><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">have already taken</span><span style=\"font-family:Cambria;font-size:11pt\">\" in active voice is transformed into \"has already been taken\" in passive voice, maintaining the perfect tense.</span></li></ul>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the following sentence in passive voice.</span><br/><span>Ravi will play the match.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The match will be played by Ravi.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The match is played by Ravi.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The match will be playing by Ravi.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The match will have been played by Ravi.</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\">Correct Answer</span><span>: The match will be played by Ravi.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>To convert a sentence from active to passive voice:</span></p><ol type=\"1\"><li><span>Identify the subject, verb, and object in the active voice sentence.</span><ul><li><span style=\"font-family:Cambria;font-size:11pt\">Subject: Ravi</span></li><li><span style=\"font-family:Cambria;font-size:11pt\">Verb: will play</span></li><li><span style=\"font-family:Cambria;font-size:11pt\">Object: the match</span></li></ul></li><li><span>Swap the subject and the object.</span><ul><li><span style=\"font-family:Cambria;font-size:11pt\">The object \"the match\" becomes the subject of the passive voice sentence.</span></li></ul></li><li><span>Use the correct form of the verb \"to be\" followed by the past participle of the main verb.</span><ul><li><span style=\"font-family:Cambria;font-size:11pt\">\"will play\" becomes \"will be played.\"</span></li></ul></li></ol>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the following sentence in active voice.</span><br/><span>The car was repaired by the mechanic.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The mechanic has repaired the car.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The mechanic repaired the car.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The mechanic is repairing the car.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The mechanic repairs the car.</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\">Correct Answer</span><span>: </span><span style=\"font-weight:bold\">The mechanic repaired the car.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>To convert a sentence from passive to active voice:</span></p><ol type=\"1\"><li><span>Identify the subject, verb, and object in the passive sentence.</span><ul><li><span style=\"font-family:Cambria;font-size:11pt\">Subject: </span><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">The car</span></li><li><span style=\"font-family:Cambria;font-size:11pt\">Verb: </span><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">was repaired</span></li><li><span style=\"font-family:Cambria;font-size:11pt\">Object: </span><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">the mechanic</span></li></ul></li><li><span>Swap the subject and object roles.</span><ul><li><span style=\"font-family:Cambria;font-size:11pt\">The mechanic becomes the subject in the active voice.</span></li></ul></li><li><span>Use the verb in its correct tense.</span><ul><li><span style=\"font-family:Cambria;font-size:11pt\">\"Was repaired\" (past tense) becomes \"repaired.\"</span></li></ul></li></ol>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in passive voice.</span><br/><span>Each candidate was making tall promises.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Tall promises were being made by each candidate.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Tall promises will be made by each candidate.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Tall promises are being made by each candidate.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Tall promises are made by each candidate.</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\">Correct Answer</span><span>: </span><span style=\"font-weight:bold\">Tall promises were being made by each candidate.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>In passive voice, the object of the action (tall promises) becomes the subject of the sentence, and the verb is adjusted accordingly.</span><br/><span>The correct passive construction for the past continuous tense (\"was making\") is </span><span style=\"font-weight:bold\">\"were being made\"</span><span>.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in passive voice.</span><br/><span>He must deliver pizza.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Pizza can be delivered by him.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Pizza have to be delivered by him.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Pizza has to be delivered by him.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Pizza must be delivered by him.</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\">Correct Answer</span><span>: </span><span style=\"font-weight:bold\">Pizza must be delivered by him.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>In passive voice, the subject of the sentence (pizza) becomes the object, and the focus is on the action rather than the doer (him). The correct structure is:</span></p><ul><li><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">\"Pizza must be delivered by him.\"</span></li></ul>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in active voice.</span><br/><span>The letter was being typed by the secretary when the phone rang.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The secretary is typing the letter when the phone rings.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The secretary was typing the letter when the phone rang.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The secretary types the letter when the phone rings.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The secretary will type the letter when the phone rings.</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\">Correct Answer</span><span>: </span><span style=\"font-weight:bold\">The secretary was typing the letter when the phone rang.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The given sentence is in passive voice (\"The letter was being typed by the secretary when the phone rang\"). In active voice, the subject (the person performing the action) becomes the focus of the sentence.</span></p><ul><li><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">\"The secretary was typing the letter when the phone rang.\"</span><span style=\"font-family:Cambria;font-size:11pt\"> is the correct active voice conversion, as it maintains the past continuous tense used in the original sentence.</span></li></ul>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in passive voice</span><br/><span>Someone has taken my secret diary.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>My secret diary has to be taken by someone.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>My secret diary had been taken by someone.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>My secret diary has been taken by someone.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>My secret diary will have been taken by someone.</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\">Correct answer</span><span>: - </span><span style=\"font-weight:bold\">My secret diary has been taken by someone.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\">Explanation</span><span>:</span></p><ul><li><span style=\"font-family:Cambria;font-size:11pt\">In passive voice, the object of the active sentence (in this case, \"</span><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">my secret diary\") </span><span style=\"font-family:Cambria;font-size:11pt\">becomes the subject.</span></li><li><span style=\"font-family:Cambria;font-size:11pt\">\"</span><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">Has been taken</span><span style=\"font-family:Cambria;font-size:11pt\">\" is the correct passive construction for the present perfect tense.</span></li></ul>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the following sentence in passive voice.</span><br/><span>Sonam does not like bananas.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Bananas are not liked by Sonam.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Bananas had not been liked by Sonam.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Banana is not liked by Sonam.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Bananas have not been liked by Sonam.</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct Answer:</b></span><span> Bananas are not liked by Sonam.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><span> The passive voice is formed by switching the subject and the object, and adjusting the verb accordingly. In this case, \"bananas\" becomes the subject, and \"do not like\" changes to \"are not liked.\"</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in passive voice.</span><br/><span>Scientists were conducting experiments on the newly discovered species.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Experiments on the newly discovered species had been conducted by the scientists.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The newly discovered species has been conducting experiments by scientists.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The newly discovered species has been experimented on by scientists.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Experiments were being conducted on the newly discovered species by scientists.</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct answer:</b> - </span><span>Experiments were being conducted on the newly discovered species by scientists.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><br/><span>In the passive voice, the object of the active sentence becomes the subject. The verb \"were conducting\" is changed to \"were being conducted,\" and the subject \"scientists\" is placed at the end after \"by.\" This follows the structure of converting an active sentence into passive.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in active voice.</span><br/><span>The drug pedlar was arrested by the narcotics team.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The narcotics team arrest the drug pedlar.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The narcotics team arrested the drug pedlar.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The narcotics team was arrested the drug pedlar.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The narcotics team has arrested the drug pedlar.</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct answer:</b> - The narcotics team arrested the drug pedlar.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><br/><span>In active voice, the subject (the narcotics team) performs the action (arrested) on the object (the drug pedlar). This option correctly transforms the sentence into active voice.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that correctly expresses the given sentence in passive voice.</span><br/><span>I will never overlook this creativity.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>This creativity will not never be overlooked by me.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>This creativity will never be overlooked by me.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>This creativity will be overlooked by me.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>This creativity will being overlooked by me.</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct answer:</b></span><span style=\"font-weight:bold\">This creativity will never be overlooked by me.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span></p><ul><li><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">This creativity will never be overlooked by me</span><span style=\"font-family:Cambria;font-size:11pt\"> is the correct passive voice transformation of the sentence \"</span><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">I will never overlook this creativity</span><span style=\"font-family:Cambria;font-size:11pt\">.\"</span></li><li><span style=\"font-family:Cambria;font-size:11pt\">In passive voice, the object (\"</span><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">this creativity\")</span><span style=\"font-family:Cambria;font-size:11pt\"> becomes the subject, and the verb is changed to a form of \"</span><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">be</span><span style=\"font-family:Cambria;font-size:11pt\">\" + </span><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">past participle</span><span style=\"font-family:Cambria;font-size:11pt\">.</span></li></ul>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that correctly expresses the following sentence in passive voice.</span><br/><span>Who invited you to this party?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>By whom were you invited to this party?</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>By whom you were invited to this party?</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>By whom are you invited to this party?</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>By whom you are invited to this party?</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct answer:</b></span><span> By whom were you invited to this party?</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><span> In passive voice, the subject (you) becomes the receiver of the action. The sentence follows the structure: \"By whom + auxiliary verb (were) + subject (you) + past participle (invited).\"</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in passive voice.</span><br/><span>Don’t let Dylan fool you!</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Do not ever be fooled by Dylan.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Do not be fooled by Dylan.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Do not have been fooled by Dylan.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Do not be fool by Dylan.</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct Answer:</b> - Do not be fooled by Dylan.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><br/><span>The passive voice of \"Don't let Dylan fool you!\" would be </span><span style=\"font-weight:bold\">\"Do not be fooled by Dylan.\"</span><span> The focus shifts from the subject (you) to the action being done by Dylan.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in passive voice. </span><br/><span>The team will announce the winner tomorrow.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The winner will announce tomorrow by the team.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The team will announce tomorrow the winner.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The winner will be announced by the team tomorrow.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Tomorrow will be announced the winner by the team.</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct Answer:</b> - The winner will be announced by the team tomorrow.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><br/><span>In passive voice, the subject (the winner) becomes the receiver of the action, and the doer of the action (the team) is introduced with \"by.\"</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in passive voice.</span><br/><span>The children have made the box.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The box had been made by the children.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The box is being made by the children.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The box has been made by the children.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Children had made the box.</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\">The correct option in passive voice is</span><span>: -</span><span style=\"font-weight:bold\">The box has been made by the children.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span></p><ul><li><span style=\"font-family:Cambria;font-size:11pt\">The original sentence is in the active voice: \"</span><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">The children have made the box.\"</span></li><li><span style=\"font-family:Cambria;font-size:11pt\">To change it to passive voice, the object (\"the box\") becomes the subject of the sentence, and the verb is changed accordingly. The auxiliary verb \"have\" remains, and the past participle \"made\" stays the same.</span></li><li><span style=\"font-family:Cambria;font-size:11pt\">The correct passive structure is: </span><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">\"The box has been made by the children.\"</span></li></ul>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in passive voice. </span><br/><span>They are organising a concert for charity.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>A concert for charity is organising by them.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>A concert is being organised by them for charity.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>They are organising a charity concert.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>They are being organised a concert for charity.</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct Answer:</b></span><span> A concert is being organised by them for charity.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><br/><span>In passive voice, the object of the active sentence becomes the subject, and the verb is adjusted accordingly.</span></p><ul><li><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">Active</span><span style=\"font-family:Cambria;font-size:11pt\">: </span><span style=\"font-family:Cambria;font-size:11pt;font-style:italic\">They are organising a concert for charity.</span></li><li><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">Passive</span><span style=\"font-family:Cambria;font-size:11pt\">: </span><span style=\"font-family:Cambria;font-size:11pt;font-style:italic\">A concert is being organised by them for charity.</span></li></ul>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in active voice.</span><br/><span>I will be gifted a fancy doll by them the next day.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>They will gift me a fancy doll tomorrow.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>They are gifting me a fancy doll the next day.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>They gifted me a fancy doll yesterday.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>They gift me a fancy doll the previous day.</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct Answer:</b></span><span style=\"font-weight:bold\">They will gift me a fancy doll tomorrow.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span></p><ul><li><span style=\"font-family:Cambria;font-size:11pt\">The original sentence in passive voice is \"I will be gifted a fancy doll by them the next day.\"</span></li><li><span style=\"font-family:Cambria;font-size:11pt\">In the active voice, the subject (they) should perform the action (gift) on the object (me).</span></li><li><span style=\"font-family:Cambria;font-size:11pt\">The correct active voice construction is: \"They will gift me a fancy doll tomorrow.\"</span></li></ul>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in passive voice.</span><br/><span>Martha made pancakes yesterday.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Pancakes were made by Martha yesterday.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Pancakes had been made by Martha yesterday.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Pancakes was made by Martha yesterday.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Pancakes were being made by Martha yesterday.</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The correct answer is:</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\">Pancakes were made by Martha yesterday.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\">Explanation</span><span>: </span><span style=\"font-weight:bold\">In passive voice</span><span>, the object of the action becomes the subject of the sentence. The sentence \"Martha made pancakes yesterday\" becomes \"Pancakes were made by Martha yesterday,\" where \"pancakes\" is the subject receiving the action, and the verb is appropriately adjusted to match the tense (simple past).</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in passive voice.</span><br/><span>He will give a lecture on personality development.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>A lecture on personality development will be given by him.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>A lecture on personality development will be giving by him.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>A lecture will be given on personality development.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>A lecture on personality development can be given by him.</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\">Answer:</span><span> A lecture on personality development will be given by him.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><br/><span style=\"font-weight:bold\"><b>Explanation:</b></span><span> In the passive voice, the object (</span><span style=\"font-weight:bold\">a lecture on personality development</span><span>) becomes the subject, and the subject (</span><span style=\"font-weight:bold\">he</span><span>) comes after the verb \"</span><span style=\"font-weight:bold\">by</span><span>.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in passive voice.</span><br/><span>His behaviour vexes me sometimes.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>I am sometimes vexed by his behaviour.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>He is being vexing me with his behaviour</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Sometimes he vexes me with his behaviour.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>His behaviour is vexed.</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The <b>correct answer:</b> - </span><span style=\"font-weight:bold\">I am sometimes vexed by his behaviour.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><span> In passive voice, the object of the active sentence becomes the subject, and the subject becomes the agent introduced by \"by.\"</span></p><ul><li><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">Active Voice</span><span style=\"font-family:Cambria;font-size:11pt\">: His behaviour vexes me sometimes.</span></li><li><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">Passive Voice</span><span style=\"font-family:Cambria;font-size:11pt\">: I am sometimes vexed by his behaviour.</span></li></ul>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in passive voice. </span><br/><span>They have built a new bridge across the river.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>A new bridge has built across the river by them.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>A new bridge by them has been built across the river.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The river has been built a new bridge by them.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>A new bridge has been built across the river by them.</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct answer:</b> A new bridge has been built across the river by them.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><span> In the passive voice, the object of the active sentence becomes the subject, and the verb is changed accordingly. The structure of the passive voice is:</span><br/><span style=\"font-weight:bold\">Subject + has/have + been + past participle of the verb + by + the doer.</span></p><ul><li><span style=\"font-family:Cambria;font-size:11pt\">\"A new bridge\" becomes the subject.</span></li><li><span style=\"font-family:Cambria;font-size:11pt\">\"has been built\" is the correct verb form in passive voice.</span></li><li><span style=\"font-family:Cambria;font-size:11pt\">\"across the river\" stays as it is.</span></li><li><span style=\"font-family:Cambria;font-size:11pt\">\"by them\" indicates who performed the action.</span></li></ul>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in passive voice.</span><br/><span>They are building a new hospital in the city.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>A new hospital will be built in the city by them.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>A new hospital was built in the city by them.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>A new hospital is being built in the city by them.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>A new hospital has been built in the city by them.</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span><b>Correct answer:</b> </span><span style=\"font-weight:bold\">A new hospital is being built in the city by them.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span></p><ul><li><span style=\"font-family:Cambria;font-size:11pt\">The sentence \"</span><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">They are building a new hospital in the city</span><span style=\"font-family:Cambria;font-size:11pt\">\" is in the active voice.</span></li><li><span style=\"font-family:Cambria;font-size:11pt\">In passive voice, the object \"</span><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">a new hospital</span><span style=\"font-family:Cambria;font-size:11pt\">\" becomes the subject, and the verb \"</span><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">are building</span><span style=\"font-family:Cambria;font-size:11pt\">\" is changed to \"</span><span style=\"font-family:Cambria;font-size:11pt;font-weight:bold\">is being built</span><span style=\"font-family:Cambria;font-size:11pt\">\" to match the tense.</span></li></ul>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in active voice.</span><br/><span>By whom were you injured?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Who had injured you?</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Who had been injuring you?</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Who injured you?</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Who has injured you?</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct Answer:</b> Who injured you?</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The sentence \"</span><span style=\"font-weight:bold\">By whom were you injured?</span><span>\" is in the passive voice. The active voice version of this sentence removes the passive construction and directly identifies the subject performing the action. \"</span><span style=\"font-weight:bold\">Who injured you?</span><span>\" is the correct active voice form.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in active voice.</span><br/><span>Were the plants being grafted by the gardener?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Was the gardener grafted the plants?</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Were the plants grafting the gardener?</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Were the gardener grafting the plants?</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Was the gardener grafting the plants?</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Correct Answer:</b> Was the gardener grafting the plants?</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The sentence \"</span><span style=\"font-weight:bold\">Were the plants being grafted by the gardener?\"</span><span> is in passive voice. The active voice version would put the subject (the gardener) before the action (grafting). The correct active voice form is \"</span><span style=\"font-weight:bold\">Was the gardener grafting the plants?</span><span>\"</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in active voice.</span><br/><span>Why are you repeatedly called by her?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Why she calls you repeatedly?</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Why was she calling you repeatedly?</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Why had she called you repeatedly?</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Why does she call you repeatedly?</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:14pt;font-size:14pt\"><span style=\"font-weight:bold\"><b>Correct Answer:</b> Why does she call you repeatedly?</span></p><p style=\"margin-top:14pt;margin-bottom:14pt;font-size:14pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><br/><span>The given sentence is in </span><span style=\"font-weight:bold\">passive voice</span><span>: </span><span style=\"font-style:italic\">\"Why are you repeatedly called by her?\"</span><br/><span>To convert it into </span><span style=\"font-weight:bold\">active voice</span><span>, the structure should be:</span><br/><span style=\"font-weight:bold\">Subject + auxiliary verb + main verb + object</span></p><ul><li><span style=\"font-family:Cambria;font-size:14pt;font-weight:bold\">\"She\"</span><span style=\"font-family:Cambria;font-size:14pt\"> is the subject.</span></li><li><span style=\"font-family:Cambria;font-size:14pt;font-weight:bold\">\"Calls\"</span><span style=\"font-family:Cambria;font-size:14pt\"> is the main verb (present simple).</span></li><li><span style=\"font-family:Cambria;font-size:14pt;font-weight:bold\">\"You repeatedly\"</span><span style=\"font-family:Cambria;font-size:14pt\"> remains unchanged.</span></li></ul><p style=\"margin-top:14pt;margin-bottom:14pt;font-size:14pt\"><span>Thus, the correct active voice form is: </span><span style=\"font-weight:bold\">\"Why does she call you repeatedly?\"</span></p><p style=\"margin-top:14pt;margin-bottom:14pt;font-size:14pt\"><span style=\"font-weight:bold\">Other Options:</span></p><ul><li><span style=\"font-family:Cambria;font-size:14pt;font-weight:bold\">\"Why she calls you repeatedly?\"</span><span style=\"font-family:Cambria;font-size:14pt\"> – Incorrect; incorrect question structure, missing auxiliary verb \"does.\"</span></li><li><span style=\"font-family:Cambria;font-size:14pt;font-weight:bold\">\"Why was she calling you repeatedly?\"</span><span style=\"font-family:Cambria;font-size:14pt\"> – Incorrect; changes the tense from present to past continuous.</span></li><li><span style=\"font-family:Cambria;font-size:14pt;font-weight:bold\">\"Why had she called you repeatedly?\"</span><span style=\"font-family:Cambria;font-size:14pt\"> – Incorrect; changes the tense to past perfect, which alters the meaning.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:14pt\"></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in passive voice.</span><br/><span>Dipesh will send Rakesh away to college for certain reasons.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Rakesh would have been sent away to college for certain reasons by Dipesh.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Rakesh will have to be sent away to college for certain reasons by Dipesh.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Rakesh will be sent away to college for certain reasons by Dipesh.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Rakesh would be sent away to college for certain reasons by Dipesh.</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:14pt;font-size:14pt\"><span style=\"font-weight:bold\"><b>Correct Answer:</b> Rakesh will be sent away to college for certain reasons by Dipesh.</span></p><p style=\"margin-top:14pt;margin-bottom:14pt;font-size:14pt\"><span style=\"font-weight:bold\"><b>Explanation:</b></span><br/><span>To convert an </span><span style=\"font-weight:bold\">active voice</span><span> sentence into </span><span style=\"font-weight:bold\">passive voice</span><span>, follow this structure:</span></p><ul><li><span style=\"font-family:Cambria;font-size:14pt;font-weight:bold\">Active Voice:</span><span style=\"font-family:Cambria;font-size:14pt;font-style:italic\">Subject + will + verb (base form) + object</span></li><li><span style=\"font-family:Cambria;font-size:14pt;font-weight:bold\">Passive Voice:</span><span style=\"font-family:Cambria;font-size:14pt;font-style:italic\">Object + will be + past participle of verb + by subject</span></li></ul><p style=\"margin-top:14pt;margin-bottom:14pt;font-size:14pt\"><span>Applying this rule:</span></p><ul><li><span style=\"font-family:Cambria;font-size:14pt;font-weight:bold\">Active:</span><span style=\"font-family:Cambria;font-size:14pt;font-style:italic\">Dipesh will send Rakesh away to college for certain reasons.</span></li><li><span style=\"font-family:Cambria;font-size:14pt;font-weight:bold\">Passive:</span><span style=\"font-family:Cambria;font-size:14pt;font-style:italic\">Rakesh will be sent away to college for certain reasons by Dipesh.</span></li></ul>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in passive voice.</span><br/><span>Can you compose an inspiring poem?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>An inspiring poem can be composed by you.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Can an inspiring poem be composed by you?</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Can an inspiring poem by you composed?</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Can an inspiring poem be composed?</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:14pt;font-size:12pt\"><span style=\"font-family:'Times New Roman';font-weight:bold\"><b>Correct Answer:</b> Can an inspiring poem be composed by you?</span></p><p style=\"margin-top:14pt;margin-bottom:14pt;font-size:12pt\"><span style=\"font-family:'Times New Roman';font-weight:bold\"><b>Explanation:</b></span><br/><span style=\"font-family:'Times New Roman'\">In passive voice, the </span><span style=\"font-family:'Times New Roman';font-weight:bold\">object</span><span style=\"font-family:'Times New Roman'\"> of the active sentence becomes the </span><span style=\"font-family:'Times New Roman';font-weight:bold\">subject</span><span style=\"font-family:'Times New Roman'\">, and the verb is changed accordingly. The structure for passive voice in </span><span style=\"font-family:'Times New Roman';font-weight:bold\">interrogative sentences with 'can'</span><span style=\"font-family:'Times New Roman'\"> is:</span></p><p style=\"margin-top:14pt;margin-bottom:14pt;font-size:12pt\"><span style=\"font-family:'Times New Roman';font-weight:bold\">Can + object + be + past participle (V3) + by + subject?</span></p><p style=\"margin-top:14pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Times New Roman'\">Thus, </span><span style=\"font-family:'Times New Roman';font-weight:bold\">\"Can you compose an inspiring poem?\"</span><span style=\"font-family:'Times New Roman'\"> becomes </span><span style=\"font-family:'Times New Roman';font-weight:bold\">\"Can an inspiring poem be composed by you?\"</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>Select the option that expresses the given sentence in passive voice.</span><br/><span>The tutor was not teaching the student.</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The student was not taught by the tutor.</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The student was teaching the tutor.</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The student was not being teaching by the tutor.</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:11pt\"><span>The student was not being taught by the tutor.</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:14pt;font-size:12pt\"><span style=\"font-family:'Times New Roman';font-weight:bold\"><b>Correct Answer:</b> The student was not being taught by the tutor.</span></p><p style=\"margin-top:14pt;margin-bottom:14pt;font-size:12pt\"><span style=\"font-family:'Times New Roman';font-weight:bold\"><b>Explanation:</b></span><br/><span style=\"font-family:'Times New Roman'\">The given sentence is in </span><span style=\"font-family:'Times New Roman';font-weight:bold\">past continuous tense</span><span style=\"font-family:'Times New Roman'\"> (was not teaching). When converting to passive voice, the structure changes to:</span></p><p style=\"margin-top:14pt;margin-bottom:14pt;font-size:12pt\"><span style=\"font-family:'Times New Roman';font-weight:bold\">Subject + was/were + being + past participle + by + doer</span></p><p style=\"margin-top:14pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Times New Roman'\">Thus, </span><span style=\"font-family:'Times New Roman';font-weight:bold\">\"The tutor was not teaching the student.\"</span><span style=\"font-family:'Times New Roman'\"> changes to </span><span style=\"font-family:'Times New Roman';font-weight:bold\">\"The student was not being taught by the tutor.\"</span></p>"
+    }
+]
