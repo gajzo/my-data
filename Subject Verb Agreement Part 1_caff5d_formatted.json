@@ -1,0 +1,342 @@
+[
+    {
+        "question": "<span> Scientists and engineers works tirelessly in the lab, collaborating to develop innovative solutions to complex problems. </span>",
+        "option_1": "<span> in the lab, collaborating to develop </span>",
+        "option_2": "<span> No error </span>",
+        "option_3": "<span> innovative solutions to complex problems.</span>",
+        "option_4": "<span> Scientists and engineers works tirelessly</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct verb form for the sentence is \"work\" instead of \"works\" because \"scientists\" and \"engineers\" are two subjects joined by \"and,\" requiring a plural verb.</span><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"Scientists and engineers work tirelessly in the lab, collaborating to develop innovative solutions to complex problems.\"</span></p>"
+    },
+    {
+        "question": "<span> The CEO, as well as the board of directors, are responsible for strategic decision-making. </span>",
+        "option_1": "<span> The CEO, as well as the board </span>",
+        "option_2": "<span> of directors, are responsible </span>",
+        "option_3": "<span> for strategic decision-making.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> In this sentence, \"the CEO\" and \"the board of directors\" are joined by \"as well as\" and together they form the compound subject. When subjects are joined by \"as well as,\" the verb should agree with the main subject before \"as well as.\" Since \"the CEO\" is singular, the verb should also be singular.</span><p><span>Here's the corrected sentence: </span><span style=\"text-decoration:underline\">\"The CEO, as well as the board of directors, is responsible for strategic decision-making.\"</span></p>"
+    },
+    {
+        "question": "<span> The artist and master of surrealism, </span><a name=\"_Hlk164787218\"><span>Salvador Dalí, created dreamlike </span></a><span>worlds in their paintings.</span>",
+        "option_1": "<span> The artist and master of surrealism </span>",
+        "option_2": "<span> Salvador Dalí, created dreamlike</span>",
+        "option_3": "<span> worlds in their paintings.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> when an article come just before the 1</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:super\">st</span><span> subject, which means the person/thing is the same for which two nouns are used. Therefore, singular verb will be used.</span><p><span>Here's the corrected sentence: </span><span style=\"text-decoration:underline\">\"The artist and master of surrealism, Salvador Dalí, created dreamlike worlds in his paintings.\"</span></p>"
+    },
+    {
+        "question": "<span> Everyone in the class are expected to participate in the group discussion. </span>",
+        "option_1": "<span> No error</span>",
+        "option_2": "<span> Everyone in the class</span>",
+        "option_3": "<span> are expected to participate</span>",
+        "option_4": "<span> in the group discussion</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The error lies in subject-verb agreement. The subject \"everyone\" is singular, so it should be paired with the singular verb \"is\" instead of the plural verb \"are.\" </span><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"Everyone in the class is expected to participate in the group discussion.\"</span></p>"
+    },
+    {
+        "question": "<span> Macaroni and cheese </span><a name=\"_Hlk164788246\"><span>are a popular </span></a><span>comfort food.</span>",
+        "option_1": "<span> Macaroni and cheese </span>",
+        "option_2": "<span> are a popular </span>",
+        "option_3": "<span> comfort food.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> \"macaroni and cheese\" is considered a singular dish or food item, even though it consists of two ingredients. Therefore, a singular verb should be used. </span><p><span>Here's the corrected sentence: </span><span style=\"text-decoration:underline\">\"Macaroni and cheese is a popular comfort food.\"</span></p>"
+    },
+    {
+        "question": "<p>Neither of the proposal received unanimous support from the committee.</p>",
+        "option_1": "<p>received unanimous support</p>",
+        "option_2": "<p>Neither of the proposal</p>",
+        "option_3": "<p>from the committee.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The error is in \"Neither of the proposal.\" The word \"proposal\" should be in its plural form as \"proposals\" because \"Neither of\" refers to two items, requiring the plural noun.</p> <p>Here's the corrected sentence: <u>\"Neither of the proposals received unanimous support from the committee.\"</u></p>"
+    },
+    {
+        "question": "<p>May peace prevails on Earth and harmony reign in our hearts.</p>",
+        "option_1": "<p>prevail on Earth</p>",
+        "option_2": "<p>No improvement</p>",
+        "option_3": "<p>prevailed on Earth</p>",
+        "option_4": "<p>Prevailing on Earth</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>In optative sentences (a sentence that expresses a wish, prayer, curse, or other sentiments.), a singular subject takes a plural verb. So, \"May peace prevail on Earth\" is grammatically correct in expressing the wish for peace to exist universally.</p> <p>So, the correct sentence would be: May peace prevail on Earth and harmony reign in our hearts.</p>"
+    },
+    {
+        "question": "<span> All the cars in the parking lot is red.</span>",
+        "option_1": "<span> All the</span>",
+        "option_2": "<span> cars in</span>",
+        "option_3": "<span> the parking</span>",
+        "option_4": "<span> lot is red </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> ‘All’ can be used in both countable and uncountable sense. The singular verb comes with an</span><span>uncountable noun and the</span><span>plural verb comes with a</span><span>countable noun.</span><p><span>The correct answer is: (d) lot is red</span></p><p><span>In the sentence \"All the cars in the parking lot is red,\" there is an error in subject-verb agreement. The subject \"cars\" is plural, so it requires a plural verb. Therefore, the correct verb form should be \"are\" instead of \"is.\"</span></p><p><span>The corrected sentence is: </span><span style=\"text-decoration:underline\">\"All the cars in the parking lot are red.\"</span></p>"
+    },
+    {
+        "question": "<p>He understood that success doesn't come easily but are achieved through the wages of hard work and perseverance.</p>",
+        "option_1": "<p>He understood that success</p>",
+        "option_2": "<p>doesn't come easily but are</p>",
+        "option_3": "<p>achieved through the</p>",
+        "option_4": "<p>wages of hard work and perseverance</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>In the original sentence \"He understood that success doesn't come easily but are achieved through the wages of hard work and perseverance,\" there is a subject-verb agreement error. The subject \"success\" is singular, so it should be paired with the singular verb \"is\" instead of the plural verb \"are.\"</p> <p>Therefore, the corrected sentence is: \"He understood that success doesn't come easily but is achieved through the wages of hard work and perseverance.\"</p>"
+    },
+    {
+        "question": "<span> Several aircrafts are lined up on the runway, awaiting clearance for departure.</span>",
+        "option_1": "<span> Several aircrafts are</span>",
+        "option_2": "<span> lined up on the runway</span>",
+        "option_3": "<span> No error</span>",
+        "option_4": "<span> awaiting clearance for departure</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) Several aircrafts are</span><p><span>In the original sentence \"Several aircrafts are lined up on the runway, awaiting clearance for departure,\" there is a usage error with the word \"aircrafts.\" The correct plural form of \"aircraft\" is simply \"aircraft\" (without an \"s\"). </span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"Several aircraft are lined up on the runway, awaiting clearance for departure.\"</span></p><p><span>Deer, sheep, series, species, fish, crew, team, jury, aircraft, and</span><span>counsel are certain nouns that are used in both singular and plural forms. If they are used in the</span><span>singular sense, they take a</span><span>singular verb and if they are used in a</span><span>plural sense, they take a</span><span>plural verb.</span></p>"
+    },
+    {
+        "question": "<span> Sarah and John is best friends who enjoy exploring new hiking trails together on weekends. </span>",
+        "option_1": "<span> Sarah and John is best friends</span>",
+        "option_2": "<span> who enjoy exploring new hiking </span>",
+        "option_3": "<span> trails together on weekends.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct form of the verb should be \"are\" instead of \"is\" because \"Sarah\" and \"John\" are two individuals, requiring a plural verb. </span><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"Sarah and John are best friends who enjoy exploring new hiking trails together on weekends.\"</span></p>"
+    },
+    {
+        "question": "<span> The chef, rather than the waitstaff, </span><a name=\"_Hlk164787292\"><span>decide on the daily specials </span></a><a name=\"_Hlk164787305\"><span>for the restaurant. </span></a>",
+        "option_1": "<span> The chef, rather than the waitstaff,</span>",
+        "option_2": "<span> decide on the daily specials</span>",
+        "option_3": "<span> for the restaurant.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> When the subject is joined by ‘as well as’, ‘with’, ‘along with’, ‘together with’, ‘and not’, ‘in addition to’, ‘but’, ‘besides’, ‘except’, ‘rather than’, ‘accompanied by’, ‘like’, ‘unlike’, ‘no less than’, ‘nothing but’, the verb will agree with the first subject.</span><p><span>Here's the corrected sentence: </span><span style=\"text-decoration:underline\">\"The chef, rather than the waitstaff, decides on the daily specials for the restaurant.\"</span></p>"
+    },
+    {
+        "question": "<a name=\"_Hlk164786555\"><span>Billiards require both </span></a><span>skill </span><a name=\"_Hlk164786566\"><span>and precision to accurately</span></a><a name=\"_Hlk164786577\"><span>pocket the balls. </span></a>",
+        "option_1": "<span> Billiards require both skill</span>",
+        "option_2": "<span> and precision to accurately </span>",
+        "option_3": "<span> pocket the balls.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In this sentence, \"billiards\" is treated as a singular entity, similar to other uncountable nouns like \"soccer\" or \"chess.\" Therefore, the singular verb \"requires\" is used to agree with it.</span><p><span>Here's the <b>Solution:</b> </span><span style=\"text-decoration:underline\">\"Billiards requires both skill and precision to accurately pocket the balls.\"</span></p>"
+    },
+    {
+        "question": "<span> My father, doctor, and guide have come.</span>",
+        "option_1": "<span> guide has come </span>",
+        "option_2": "<span> guides have come</span>",
+        "option_3": "<span> guide have came</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In this sentence, “My father, doctor, and guide” is treated as singular. Therefore, “have” is replaced by “has”.</span><p><span>If two or more than two nouns or adjectives are joined by ‘and’ but only the</span><span>person or thing or idea is discussed, a</span><span>singular verb is used.</span></p>"
+    },
+    {
+        "question": "<span> One of the </span><span style=\"text-decoration:underline\">employees have presented</span><span> his proposal to the board of directors.</span>",
+        "option_1": "<span> Employees has presented </span>",
+        "option_2": "<span> Employees have presented</span>",
+        "option_3": "<span> Employee have presented</span>",
+        "option_4": "<span> No improvement </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> When ‘of’ is used after each, every, one, etc, the noun or pronoun that comes immediately after ‘of’ will be plural in form. However, the verb, pronoun, adjective, etc that comes in the latter part of the sentence will be singular in form. </span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“One of the employees has presented his proposal to the board of directors.” </span></p>"
+    },
+    {
+        "question": "<span> All the water in the </span><span style=\"text-decoration:underline\">bottles have evaporated</span><span>. </span>",
+        "option_1": "<span> bottle have evaporated</span>",
+        "option_2": "<span> bottle has evaporated</span>",
+        "option_3": "<span> bottle has evaporate</span>",
+        "option_4": "<span> No improvement </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> ‘All’ can be used in both countable and uncountable sense. The singular verb comes with an</span><span>uncountable noun and the</span><span>plural verb comes with a</span><span>countable noun. </span><p><span>The correct answer is: (b) bottle has evaporated</span></p><p><span>In the sentence \"All the water in the bottles have evaporated,\" the subject \"water\" is uncountable, and \"bottles\" is countable. Since \"water\" is uncountable, it should take a singular verb. Therefore, the singular form \"has evaporated\" is correct.</span></p><p><span>The corrected sentence is: </span><span style=\"text-decoration:underline\">\"All the water in the bottles has evaporated.\"</span></p>"
+    },
+    {
+        "question": "<span> Love and hate is powerful </span><a name=\"_Hlk164788104\"><span>emotions that shape </span></a><a name=\"_Hlk164788113\"><span>human behavior. </span></a>",
+        "option_1": "<span> Love and hate is powerful </span>",
+        "option_2": "<span> emotions that shape </span>",
+        "option_3": "<span> human behavior.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In this sentence, \"love\" and \"hate\" are two separate emotions, and they are both uncountable nouns. Since they represent two different subjects, a plural verb should be used. </span><p><span>Here's the corrected sentence: </span><span style=\"text-decoration:underline\">\"Love and hate are powerful emotions that shape human behavior.\"</span></p>"
+    },
+    {
+        "question": "<span> Twenty dollars are all it takes to buy a decent meal at that restaurant. </span>",
+        "option_1": "<span> it takes to buy a decent</span>",
+        "option_2": "<span> Twenty dollars are all</span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> meal at that restaurant.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> \"Twenty dollars\" is considered a singular amount of money because it represents a single sum, regardless of the number of individual dollars involved. Therefore, it is treated as a singular entity. This is a common usage when referring to specific amounts of money, time, distance, weight, or other measurements. So, using the singular verb \"is\" is appropriate because we're considering \"twenty dollars\" as a single unit, akin to saying \"a twenty-dollar bill\" rather than \"twenty individual dollars.\" </span><p><span>So, the correct sentence would be: </span><span style=\"text-decoration:underline\">“Twenty dollars is all it takes to buy a decent meal at that restaurant.”</span></p>"
+    },
+    {
+        "question": "<span> Many a traveler have marveled at the beauty of the sunset over the horizon.</span>",
+        "option_1": "<span> No error </span>",
+        "option_2": "<span> Many a traveler </span>",
+        "option_3": "<span> have marveled at the beauty </span>",
+        "option_4": "<span> of the sunset over the horizon.</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The error lies in subject-verb agreement. \"Many a\" is a singular expression, so it should be paired with the singular verb \"has\" instead of the plural verb \"have.\" </span><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"Many a traveler has marveled at the beauty of the sunset over the horizon.\" </span></p>"
+    },
+    {
+        "question": "<span> The number of houses on the street are decreasing due to redevelopment. </span>",
+        "option_1": "<span> house on the street is</span>",
+        "option_2": "<span> houses on the street is </span>",
+        "option_3": "<span> house on the are</span>",
+        "option_4": "<span> No improvement</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> “When ‘the number of’ denotes the number of plural countable noun. it will take singular verb.” </span><p><span>So, the correct sentence would be: </span><span style=\"text-decoration:underline\">The number of houses on the street is decreasing due to redevelopment. </span></p>"
+    },
+    {
+        "question": "<span> The forensic expert examined </span><span style=\"text-decoration:underline\">a strand of hairs</span><span> found at the crime scene. </span>",
+        "option_1": "<span> some pair of hair </span>",
+        "option_2": "<span> No improvement </span>",
+        "option_3": "<span> a piece of hair </span>",
+        "option_4": "<span> a strand of hair </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> hair has no plural form but when we need the singular/ plural form of hair. The singular/plural form is made by adding a strand of before hair. </span><p><span>So, the corrected sentence should be: </span><span style=\"text-decoration:underline\">\"The forensic expert examined a strand of hair found at the crime scene.\" </span></p>"
+    },
+    {
+        "question": "<p>Mathematics is a subject that require logical reasoning and problem-solving skills.</p>",
+        "option_1": "<p>and problem-solving skills</p>",
+        "option_2": "<p>require logical reasoning</p>",
+        "option_3": "<p>Mathematics is a subject that</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>News, innings, politics, summons, physics, economics, ethics, mathematics, mumps, measles, rickets, shingles, billiards, and athletics are certain nouns that are plural in form but singular in meaning. <b>Hence,</b> they will take singular verbs.</p> <p>Therefore, the corrected sentence should be: \"Mathematics is a subject that requires logical reasoning and problem-solving skills.\"</p>"
+    },
+    {
+        "question": "<span> More than one man were present there.</span>",
+        "option_1": "<span> more than</span>",
+        "option_2": "<span> one man were</span>",
+        "option_3": "<span> present there</span>",
+        "option_4": "<span> no error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> Each, Every, Everyone, Someone, Somebody, Nobody, None, One, Any, Many a, More than one are singular. <b>Hence,</b> they will take singular verbs, singular nouns and singular pronouns.</span><p><span>So the correct sentence: More than one man was present there.</span></p>"
+    },
+    {
+        "question": "<span> Apples and oranges is both fruits but have different Flavors.</span>",
+        "option_1": "<span> Apples and oranges</span>",
+        "option_2": "<span> is both fruits but </span>",
+        "option_3": "<span> have different Flavors.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> In this sentence, \"are\" is used because the subject \"apples and oranges\" is plural. </span><p><span>The correct form of the sentence would be: </span><span style=\"text-decoration:underline\">\"Apples and oranges are both fruits but have different Flavors.\"</span></p>"
+    },
+    {
+        "question": "<span> The professor, together with his research assistants, are conducting experiments in the laboratory. </span>",
+        "option_1": "<span> The professor, together with his</span>",
+        "option_2": "<span> research assistants, are conducting </span>",
+        "option_3": "<span> experiments in the laboratory.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> When the subject is joined by ‘as well as’, ‘with’, ‘along with’, ‘together with’, ‘and not’, ‘in addition to’, ‘but’, ‘besides’, ‘except’, ‘rather than’, ‘accompanied by’, ‘like’, ‘unlike’, ‘no less than’, ‘nothing but’, the verb will agree with the first subject.</span><p><span>Here's the corrected sentence: </span><span style=\"text-decoration:underline\">The professor, together with his research assistants, is conducting experiments in the laboratory.</span></p>"
+    },
+    {
+        "question": "<span> The captain and the first officer has prepared the flight </span><a name=\"_Hlk164787112\"><span>plan for the upcoming journey. </span></a>",
+        "option_1": "<span> The captain and the first officer</span>",
+        "option_2": "<span> has prepared the flight</span>",
+        "option_3": "<span> plan for the upcoming journey.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> In the provided sentence, there is a subject-verb agreement error. Since \"the captain\" and \"the first officer\" are two separate subjects joined by \"and,\" the verb should be plural. </span><p><span>Here's the corrected sentence: </span><span style=\"text-decoration:underline\">\"The captain and the first officer have prepared the flight plan for the upcoming journey.\"</span></p>"
+    },
+    {
+        "question": "<span> Not only the students but also the teacher were excited about the field trip. </span>",
+        "option_1": "<span> Not only the students but</span>",
+        "option_2": "<span> excited about the field trip.</span>",
+        "option_3": "<span> also the teacher were</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> In the provided sentence, there is a subject-verb agreement error. Since \"the teacher\" is the nearest subject to the verb, the verb should agree with it. </span><p><span>Here's the corrected sentence: </span><span style=\"text-decoration:underline\">\"Not only the students but also the teacher was excited about the field trip.\"</span></p>"
+    },
+    {
+        "question": "<span> The remains of the ancient city was uncovered by archaeologists. </span>",
+        "option_1": "<span> The remains of the</span>",
+        "option_2": "<span> No error</span>",
+        "option_3": "<span> ancient city was</span>",
+        "option_4": "<span> uncovered by archaeologists</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> In the original sentence \"The remains of the ancient city was uncovered by archaeologists,\" there is a subject-verb agreement error. \"Remains\" is a plural noun, so it should be paired with the plural verb \"were\" instead of the singular verb \"was.\" Therefore, the corrected sentence should be: </span><span style=\"text-decoration:underline\">\"The remains of the ancient city were uncovered by archaeologists.\"</span>"
+    },
+    {
+        "question": "<span> The newspaper headlines featured the latest news on the political situations. </span>",
+        "option_1": "<span> The newspaper headlines</span>",
+        "option_2": "<span> featured the latest news </span>",
+        "option_3": "<span> on the political situations</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The subject-verb agreement rule states that the verb must agree with its subject in number (singular or plural). In the original sentence \"The newspaper headlines featured the latest news on the political situations,\" the subject \"news\" is a singular noun, and therefore, it requires a singular verb.</span><p><span>The word \"situations\" is incorrect as it makes the subject \"political situations\" plural, which conflicts with the singular nature of \"news.\" Instead, the correct singular form should be used: \"political situation.\" </span></p><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“The newspaper headlines featured the latest news on the political situation.”</span></p>"
+    },
+    {
+        "question": "<span> In a relationship, one must </span><span style=\"text-decoration:underline\">fulfill their duty</span><span> to communicate and support one's partner. </span>",
+        "option_1": "<span> No improvement</span>",
+        "option_2": "<span> fulfill one's duty</span>",
+        "option_3": "<span> fulfill his duty</span>",
+        "option_4": "<span> fulfill her duty </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> When one comes as a subject, it takes a</span><span>singular verb and the</span><span>singular pronoun ‘one’, one’s, and ‘oneself’ instead of ‘he’, ‘him’, ‘his’, or ‘himself’</span><p><span>So, the correct sentence would be: </span><span style=\"text-decoration:underline\">“In a relationship, one must fulfill one’s duty to communicate and support one's partner.” </span></p>"
+    },
+    {
+        "question": "<span> A number of </span><span style=\"text-decoration:underline\">students has expressed</span><span> interest in joining the debate club.</span>",
+        "option_1": "<span> student have expressed</span>",
+        "option_2": "<span> students has express</span>",
+        "option_3": "<span> No improvement </span>",
+        "option_4": "<span> students have expressed</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> When ‘A number of’/ ‘a large number of’/ ‘a great number of’ is used with a</span><span>plural countable noun. <b>Hence,</b> they will take plural verbs. So, students have expressed is the correct answer.</span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">A number of students have expressed interest in joining the debate club.</span></p>"
+    },
+    {
+        "question": "<span> Sarita wants </span><span style=\"text-decoration:underline\">a few articles of jewelry</span><span> for her marriage.</span>",
+        "option_1": "<span> a few article of jewellery</span>",
+        "option_2": "<span> No improvement </span>",
+        "option_3": "<span> few article of jewelleries</span>",
+        "option_4": "<span> a few articles of jewelleries </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The original sentence \"Sarita wants a few articles of jewelry for her marriage\" is grammatically correct. \"a few Articles\" is added before jewelry (uncountable noun) to make it plural. Therefore, there is no need for improvement in the given sentence. </span>"
+    },
+    {
+        "question": "<p><strong>The jury has</strong> reached a unanimous decision.</p>",
+        "option_1": "<p>The jury have</p>",
+        "option_2": "<p>No improvement</p>",
+        "option_3": "<p>The juries have</p>",
+        "option_4": "<p>The jury has been</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The sentence <strong>\"The jury has reached a unanimous decision.\"</strong> is <strong>grammatically correct</strong> and does not contain any errors.</p> <p><strong>Explanation:</strong></p> <ol> <li><strong>Subject-Verb Agreement:</strong> <ul style=\"list-style-type:circle\"> <li><strong>\"Jury\"</strong> is a <strong>collective noun</strong>, and in this case, it is treated as a <strong>singular entity</strong> (acting as one unit).</li> <li>The singular verb <strong>\"has\"</strong> correctly matches the singular usage of \"jury.\"</li> </ul> </li> <li><strong>Correct Word Choice:</strong> <ul style=\"list-style-type:circle\"> <li><strong>\"Reached\"</strong> is the correct past participle of \"reach\" in the present perfect tense.</li> </ul> </li> </ol> <p><strong>\"Unanimous decision\"</strong> correctly conveys that all members of the jury agree.</p>"
+    },
+    {
+        "question": "<span> More than </span><span style=\"text-decoration:underline\">one students was</span><span> absent from class yesterday.</span>",
+        "option_1": "<span> one students were </span>",
+        "option_2": "<span> one student was</span>",
+        "option_3": "<span> one student were </span>",
+        "option_4": "<span> No improvement </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> When \"more than one\" is used, it should be followed by a singular noun, not a plural one. Therefore, \"students\" should be singular, which is \"student.\" Additionally, the verb should also be singular to agree with the singular subject, so \"was\" is correct.</span><p><span>The corrected sentence is: </span><span style=\"text-decoration:underline\">\"More than one student was absent from class yesterday.\"</span></p>"
+    }
+]
