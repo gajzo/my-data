@@ -1,0 +1,302 @@
+[
+    {
+        "question": "<span> If you will not pay the bill on time, you will incur late fees. </span>",
+        "option_1": "<span> If you will not pay </span>",
+        "option_2": "<span> the bill on time, </span>",
+        "option_3": "<span> you will incur late fees.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error is in option [a]. </span><p><span>The sentence contains an error related to the structure of conditional sentences. In English, it is not correct to use \"will\" in both parts of a conditional sentence. Instead, the correct structure is to use the simple present tense in the conditional clause (the \"if\" clause) and the future tense in the result clause.</span></p><p><span>So, the corrected sentence would be: \"If you do not pay the bill on time, you will incur late fees.\"</span></p>"
+    },
+    {
+        "question": "<span> I will come to the party, provided I will finish my work on time. </span>",
+        "option_1": "<span> I will come to the party, </span>",
+        "option_2": "<span> provided I will finish </span>",
+        "option_3": "<span> my work on time.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in option [b].</span><p><span>The sentence contains an error related to the structure of conditional sentences. The word \"provided\" is already indicative of a condition, so it is followed by the simple present tense in the conditional clause, not by \"will.\"</span></p><p><span>So, the corrected sentence would be: \"I will come to the party, provided I finish my work on time.\"</span></p>"
+    },
+    {
+        "question": "<span> If it will rain, we will cancel the picnic. </span>",
+        "option_1": "<span> If it will rain, </span>",
+        "option_2": "<span> we will cancel </span>",
+        "option_3": "<span> the picnic. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error is in option [a]. </span><p><span>The correct option is: [a] If it will rain,</span></p><p><span>The error lies in the use of \"will\" after \"if.\" In conditional sentences, the if-clause (conditional clause) typically uses the simple present tense to indicate a condition. </span></p><p><span>So, the correct form is: \"If it rains, we will cancel the picnic.\"</span></p>"
+    },
+    {
+        "question": "<span> I will call you as soon as I will arrive at the airport. </span>",
+        "option_1": "<span> I will call you as </span>",
+        "option_2": "<span> soon as I will </span>",
+        "option_3": "<span> arrive at the airport. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: [b] soon as I will</span><p><span>In English, the correct structure is to use the simple present tense after \"as soon as\" to indicate a future action. So, the correct form is: \"I will call you as soon as I arrive at the airport.\" </span></p>"
+    },
+    {
+        "question": "<span> No sooner had I left the house then it started raining. </span>",
+        "option_1": "<span> No sooner had </span>",
+        "option_2": "<span> I left the house </span>",
+        "option_3": "<span> then it started raining.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is: [c] then it started raining.</span><p><span>In English, the correct phrase is \"than it started raining,\" not \"then.\" \"No sooner...than\" is a structure used to indicate that one event happened immediately after another. </span></p><p><span>So, the corrected sentence would be: \"No sooner had I left the house than it started raining.\" </span></p>"
+    },
+    {
+        "question": "<span> Unless you studied harder, you won't pass the exam. </span>",
+        "option_1": "<span> Unless you studied </span>",
+        "option_2": "<span> harder, you won't </span>",
+        "option_3": "<span> pass the exam.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is: [a] Unless you studied</span><p><span>The sentence contains an error related to verb tense agreement. In English, in conditional sentences, the simple present tense is used in the conditional clause to indicate a general truth or possibility. </span></p><p><span>So, the corrected form would be: \"Unless you study harder, you won't pass the exam.\" </span></p>"
+    },
+    {
+        "question": "<span>We will wait here until the rain will stop. </span>",
+        "option_1": "<span> We will wait </span>",
+        "option_2": "<span> here until the </span>",
+        "option_3": "<span> rain will stop. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is: [c] rain will stop.</span><p><span>In English, after \"until,\" we typically use the simple present tense to refer to a future event. </span></p><p><span>So, the corrected sentence would be: \"We will wait here until the rain stops.\"</span></p>"
+    },
+    {
+        "question": "<span> When she finishes her dinner, she join us. </span>",
+        "option_1": "<span> When she finishes </span>",
+        "option_2": "<span> her dinner, </span>",
+        "option_3": "<span> she join us.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is: [c] she join us.</span><p><span>In English, when expressing future actions dependent on another action in the future, we use the simple future tense in the main clause. Therefore, the verb \"join\" should be in the simple future tense \"will join.\"</span></p><p><span>So, the corrected sentence is: \"When she finishes her dinner, she will join us.\" </span></p>"
+    },
+    {
+        "question": "<span> As soon as he hear the news, he will call you. </span>",
+        "option_1": "<span> As soon as he </span>",
+        "option_2": "<span> hear the news, </span>",
+        "option_3": "<span> he will call you. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: [b] hear the news,</span><p><span>The verb \"hear\" should be in the (s/es) form after \"as soon as\" in this conditional sentence. Therefore, the correct form is: \"As soon as he hears the news, he will call you.\"</span></p>"
+    },
+    {
+        "question": "<span> If the price of gas will increase, people will use public transportation more. </span>",
+        "option_1": "<span> If the price of gas will increase, </span>",
+        "option_2": "<span> people will use </span>",
+        "option_3": "<span> public transportation more. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is: [a] If the price of gas will increase,</span><p><span>When expressing a future action dependent on another future action in a conditional sentence, the \"if\" clause (the condition) should be in the simple present tense, not the future tense. </span></p><p><span>Therefore, the correct form is: \"If the price of gas increases, people will use public transportation more.\"</span></p>"
+    },
+    {
+        "question": "<span> I won't start the movie unless everyone is not here.</span>",
+        "option_1": "<span> I won't start the</span>",
+        "option_2": "<span> movie unless </span>",
+        "option_3": "<span> everyone is not here.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p><span>The correct option is: [c] everyone is not here.</span></p><p><span>The sentence contains a double negative (\"unless\" and \"not\"), which creates confusion. not is not used with 'until/unless. It is more clear and correct to use a single negative in this context. </span></p><p><span>Therefore, the correct form would be: \"I won't start the movie unless everyone is here.\"</span></p>"
+    },
+    {
+        "question": "<span> He will finish his homework when he will return from school.</span>",
+        "option_1": "<span> He will finish his homework</span>",
+        "option_2": "<span> when he will</span>",
+        "option_3": "<span> return from school.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: [b] when he will</span><p><span>In English, \"will/shall\" is not used with \"when\" in conditional sentences. </span></p><p><span>The correct form would be: \"He will finish his homework when he returns from school.\" </span></p>"
+    },
+    {
+        "question": "<span> If she will study hard, she understands </span><a name=\"_Hlk165901141\"><span>the material. </span></a>",
+        "option_1": "<span> If she will study </span>",
+        "option_2": "<span> hard, she understands </span>",
+        "option_3": "<span> the material.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is: [a] If she will study</span><p><span>In English, when the sentence is completely in the present tense, both the \"if clause\" and the \"main clause\" should be in the</span><span>simple present tense. </span></p><p><span>Therefore, the correct form is: \"If she studies hard, she understands the material.\" </span></p>"
+    },
+    {
+        "question": "<span> If she follows the recipe closely, the cake will turn out well. </span>",
+        "option_1": "<span> If she follows the </span>",
+        "option_2": "<span> recipe closely, the cake </span>",
+        "option_3": "<span> will turn out well</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> If the sentence intends to express a possibility or probability rather than a certainty, \"may\" or \"might\" would be more appropriate than \"will.\" </span><p><span>So, the corrected sentence would be: \"If she follows the recipe closely, the cake may turn out well.\"</span></p>"
+    },
+    {
+        "question": "<span> If you have permission from your parents, </span><a name=\"_Hlk165901932\"><span>you will attend the party.</span></a>",
+        "option_1": "<span> If you have permission</span>",
+        "option_2": "<span> from your parents, </span>",
+        "option_3": "<span> you will attend the party. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is: [c] you will attend the party.</span><p><span>In the given sentence, \"will\" implies certainty or inevitability, which may not be appropriate if the sentence is regarding permission. Instead, \"may\" would be more suitable to indicate permission or possibility. </span></p><p><span>Therefore, the corrected sentence would be: \"If you have permission from your parents, you may attend the party.\" </span></p>"
+    },
+    {
+        "question": "<span> If you want to have a good relationship, you may communicate effectively. </span>",
+        "option_1": "<span> If you want to have a </span>",
+        "option_2": "<span> good relationship, you </span>",
+        "option_3": "<span> may communicate effectively.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is: [c] may communicate effectively.</span><p><span>In the context of giving a suggestion, \"may\" implies permission rather than a strong recommendation or obligation. Therefore, \"must\" would be more appropriate in this sentence to convey the idea of a suggestion.</span></p><p><span>The corrected sentence would be: \"If you want to have a good relationship, you must communicate effectively.\"</span></p>"
+    },
+    {
+        "question": "<span> If you want to improve your English, you will practice speaking every day.</span>",
+        "option_1": "<span> If you want to improve </span>",
+        "option_2": "<span> your English, you will </span>",
+        "option_3": "<span> practice speaking every day. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: [b] your English, you will</span><p><span>In the context of a suggestion, \"will\" implies a future action that is more certain or inevitable, rather than a suggestion or recommendation. Therefore, \"should\" would be more appropriate in this sentence to convey the idea of a suggestion.</span></p><p><span>The corrected sentence would be: \"If you want to improve your English, you should practice speaking every day.\" </span></p>"
+    },
+    {
+        "question": "<span> If you're not too busy, will you help me with this project? </span>",
+        "option_1": "<span> If you're not too </span>",
+        "option_2": "<span> busy, will you help</span>",
+        "option_3": "<span> me with this project?</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: [b] busy, will you help</span><p><span>In the context of requests with respect, \"will\" implies a future action that is more certain or inevitable, rather than a polite request. Therefore, \"could\" or \"may\" would be more appropriate in this sentence to convey the idea of a request made with respect.</span></p><p><span>The corrected sentence would be: \"If you're not too busy, could you help me with this project?\" </span></p>"
+    },
+    {
+        "question": "<span> If it's not too much trouble, might I have a glass of water? </span>",
+        "option_1": "<span> If it's not too much </span>",
+        "option_2": "<span> trouble, might I have </span>",
+        "option_3": "<span> a glass of water?</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: [b] trouble, might I have</span><p><span>In the context of requests with respect, \"might\" is used to make polite requests. However, \"might\" is less commonly used in modern English for requests, and \"could\" or \"may\" would be more appropriate here.</span></p><p><span>The corrected sentence would be: \"If it's not too much trouble, may I have a glass of water?\"</span></p>"
+    },
+    {
+        "question": "<span> If you have read the book, you will understand the movie better.</span>",
+        "option_1": "<span> If you have read </span>",
+        "option_2": "<span> the book, you will </span>",
+        "option_3": "<span> understand the movie better. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct option is: [d] No error</span><p><span>The sentence is grammatically correct as it is. It follows the rule that in the \"if clause,\" Present Perfect Tense can be used to indicate an action that has been completed prior to another action in the future. Therefore, option [d] is correct.</span></p>"
+    },
+    {
+        "question": "<span> If he had listened to the instructions, he shouldn't have gotten lost. </span>",
+        "option_1": "<span> If he had listened to </span>",
+        "option_2": "<span> the instructions, he </span>",
+        "option_3": "<span> shouldn't have gotten lost.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is: [c] shouldn't have gotten lost. </span><p><span>If the</span><span>‘If clause’ is in the</span><span>past tense: “If + Simple Past, Subject + would + V1”</span></p><p><span>Therefore, the correct sentence should be: “If he had listened to the instructions, he wouldn't have gotten lost.” </span></p>"
+    },
+    {
+        "question": "<span> If we had known about the traffic, we should have taken a different route.</span>",
+        "option_1": "<span> If we had known about </span>",
+        "option_2": "<span> the traffic, we should </span>",
+        "option_3": "<span> have taken a different route </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The use of \"would\" instead of \"should\" in this context maintains grammatical consistency and clarity in expressing the hypothetical nature of the situation. It suggests the actions that would have been taken in the past had the conditions been met.</span><p><span>So, the corrected sentence would be: \"If we had known about the traffic, we would have taken a different route.\" </span></p>"
+    },
+    {
+        "question": "<span> If she had studied harder, she will have passed the exam. </span>",
+        "option_1": "<span> If she had studied </span>",
+        "option_2": "<span> harder, she will </span>",
+        "option_3": "<span> have passed the exam. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> when the \"if clause\" is in the past perfect tense (e.g., \"had studied\"), the result clause typically uses \"would have\" to indicate the hypothetical or unreal past situation. </span><p><span>Therefore, the corrected sentence is: \"If she had studied harder, she would have passed the exam.\" </span></p>"
+    },
+    {
+        "question": "<span> Had they attended the meeting, they would had learned about the changes. </span>",
+        "option_1": "<span> Had they attended the </span>",
+        "option_2": "<span> meeting, they would had </span>",
+        "option_3": "<span> learned about the changes. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: [b] meeting, they would have</span><p><span>In the given sentence, \"would had\" is incorrect. The correct form is \"would have\" to form the conditional perfect structure.</span></p><p><span>The corrected sentence would be: \"Had they attended the meeting, they would have learned about the changes.\" </span></p>"
+    },
+    {
+        "question": "<span> If I were the president, I will make education </span><a name=\"_Hlk165906698\"><span>free for everyone. </span></a>",
+        "option_1": "<span> If I were the president, </span>",
+        "option_2": "<span> I will make education </span>",
+        "option_3": "<span> free for everyone. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: [b] I will make education</span><p><span>In English, when expressing imaginary or hypothetical situations in the present or future, we use \"would\" instead of \"will\" to convey the conditional aspect. So, the correct form of the verb in the result clause should be \"would make\" instead of \"will make.\"</span></p><p><span>The corrected sentence would be: \"If I were the president, I would make education free for everyone.\"</span></p>"
+    },
+    {
+        "question": "<span> If I were the president, I might make education free for everyone. </span>",
+        "option_1": "<span> If I were the president, </span>",
+        "option_2": "<span> I might make education </span>",
+        "option_3": "<span> free for everyone.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is b.</span><p><span>In the sentence \"If I were the president, I might make education free for everyone,\" \"might\" expresses a possibility or uncertainty, but \"would\" would be more appropriate in this context to express a hypothetical action or decision.</span></p><p><span>The corrected sentence would be: \"If I were the president, I would make education free for everyone.\"</span></p>"
+    },
+    {
+        "question": "<p>He was acted as if he were the boss, giving orders to everyone.</p>",
+        "option_1": "<p>He was acted as if</p>",
+        "option_2": "<p>he were the boss, giving</p>",
+        "option_3": "<p>orders to everyone.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The correct option is: [a] He was acted as if</p> <p>\"was is not used with the following words since they usually denote imaginary position/action. these words are If, as though, in case, as if, would that, and I wish.\"</p> <p>The corrected sentence would be: \"He acted as if he were the boss, giving orders to everyone.\"</p>"
+    },
+    {
+        "question": "<span> Unless you don’t study regularly, you won't perform well in the exams. </span>",
+        "option_1": "<span> Unless you don’t study </span>",
+        "option_2": "<span> regularly, you won't </span>",
+        "option_3": "<span> perform well in the exams. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is: [a] Unless you don’t study</span><p><span>In the sentence, \"Unless you don’t study regularly, you won't perform well in the exams,\" the use of \"don’t\" is redundant. \"Don't\" is a contraction of \"do not,\" and using it alongside \"unless\" creates a double negative, which is grammatically incorrect.</span></p><p><span>The correct sentence should be: \"Unless you study regularly, you won't perform well in the exams.\" </span></p>"
+    },
+    {
+        "question": "<span> Provided you will finish your work on time, you can leave early.</span>",
+        "option_1": "<span> Provided you will finish </span>",
+        "option_2": "<span> your work on time, </span>",
+        "option_3": "<span> you can leave early.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is: [a] Provided you will finish</span><p><span>In the sentence, \"Provided you will finish your work on time, you can leave early,\" the use of \"will finish\" is not appropriate in the \"provided\" clause. \"Provided\" already indicates a condition, so it doesn't require the future tense \"will\" to express a future possibility.</span></p><p><span>The correct form would be: \"Provided you finish your work on time, you can leave early.\" </span></p>"
+    },
+    {
+        "question": "<p>Even if you will try your best, success is not guaranteed.</p>",
+        "option_1": "<p>Even if you will try</p>",
+        "option_2": "<p>your best, success</p>",
+        "option_3": "<p>is not guaranteed.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The correct option is: [a] Even if you will try</p> <p>In the sentence, \"Even if you will try your best, success is not guaranteed,\" using \"will try\" alongside \"even if\" creates an unnecessary redundancy. \"Even if\" already implies a hypothetical or uncertain condition, so it doesn't require the future tense \"will\" to express a future possibility.</p> <p>The corrected sentence would be: \"Even if you try your best, success is not guaranteed.\"</p>"
+    }
+]
