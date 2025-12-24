@@ -1,0 +1,412 @@
+[
+    {
+        "question": "<span>Which of the following statements is sufficient to conclude that two triangles are congruent?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> One side and one angle of both the triangles are equal. </span>",
+        "option_2": "<span style=\"color:#4224e9\"> Their bases and heights are equal. </span>",
+        "option_3": "<span style=\"color:#4224e9\"> Their areas and bases are equal. </span>",
+        "option_4": "<span style=\"color:#4224e9\"> Its two sides are equal and the perimeter is the same.</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> Option 4:</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>If two triangles have two equal sides and equal perimeter, it means that the third sides of both the triangles are equal.</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>So, by side-side-side congruence, the two triangles are congruent.</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<p>For triangles, which of the following statements are true?<br/><br/><br/> (b) All interior angles can't be equal. / सभी आंतरिक कोण बराबर नहीं हो सकते।<br/> (c) A triangle can have at most one obtuse angle. / एक त्रिभुज में अधिकतम एक अधिक कोण हो सकता है।<br/></p>",
+        "option_1": "<p>(a) and (b)</p>",
+        "option_2": "<p>(b), (c) and (d) </p>",
+        "option_3": "<p>(a), (b) and (d)</p>",
+        "option_4": "<p>(a) and (c)</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>​​​​​​</p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image003.png"
+    },
+    {
+        "question": "<span>In a rhombus PQRS, O is any interior point such that OP = OR. What is the degree measure of ∠SOQ?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 240°</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 180°</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 120°</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 200°</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image004.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image005.png"
+    },
+    {
+        "question": "<span>In a ∆PQR, PQ = PR and PT is perpendicular to QR. If PQ = 17 cm, PT = 15 cm, then what is the measure (in cm) of QR?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 32</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 16</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 8</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 24</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image006.png"
+    },
+    {
+        "question": "<span>In ΔPQR, if 4∠P = 5∠Q = 20∠R, then the value of ∠Q is:</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 90°</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 36°</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 45°</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 72°</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image007.png"
+    },
+    {
+        "question": "<span>In </span><span>DEF, DE = 12 cm, EF = 15 cm, and </span><span>DEF = 90</span><span>. </span><span>DEF is congruent to </span><span>XYZ. If YZ = 15 cm, then what is the length of XZ?</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image008.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image009.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image001.png",
+        "option_1": "<span style=\"color:#4224e9\"> 2</span><span style=\"color:#4224e9\"> cm</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image011.png",
+        "option_2": "<span style=\"color:#4224e9\"> 4</span><span style=\"color:#4224e9\"> cm</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image011.png",
+        "option_3": "<span style=\"color:#4224e9\"> 5</span><span style=\"color:#4224e9\"> cm</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image011.png",
+        "option_4": "<span style=\"color:#4224e9\"> 3</span><span style=\"color:#4224e9\"> cm</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image011.png",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image012.png"
+    },
+    {
+        "question": "<span>and </span><span> are respectively congruent. If AB = 8 = PQ, BC = 10 = QR and </span><span>B = 35</span><span>, then what is the value of </span><span>P + </span><span>C?</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image013.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image014.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image009.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image001.png",
+        "option_1": "<span style=\"color:#4224e9\"> 130˚</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 160˚</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 145˚</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 120˚</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image015.png"
+    },
+    {
+        "question": "<span>In </span><span>ABC, AB = 6 cm, BC = 9 cm and AC = 12 cm. If AD is the angle bisector of </span><span>BAC, where D is a point on BC, then DC (in cm) is equal to:</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image008.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image009.png",
+        "option_1": "<span style=\"color:#4224e9\"> 7</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 9</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 3</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 6</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image016.png"
+    },
+    {
+        "question": "<span>In ∆PQR, S and T are the midpoints of the sides PQ and PR, respectively. The length of the side QR is 12 cm. If ST is parallel to QR, then find the length (in cm) of ST.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 6</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 8</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 4</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 10</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image017.png"
+    },
+    {
+        "question": "<span>In a quadrilateral ABCD, AB = BC, AD = DC. ∠ABD = 68°, ∠ADB = (2y-7)°, ∠BDC = 33°, ∠DBC = (3x+2)°. Then the value of 2x+3y is:</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 108</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 104</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 144</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 118</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image018.png"
+    },
+    {
+        "question": "<span>In a ΔLMN, ∠L = 118° and LM = LN. Find ∠N.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 42°</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 65°</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 62°</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 31°</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image019.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image020.png"
+    },
+    {
+        "question": "<span>△ABC and △RPQ are congruent, then the side of △ABC that corresponds to PQ is:</span>",
+        "option_1": "<span style=\"color:#4224e9\"> AB</span>",
+        "option_2": "<span style=\"color:#4224e9\"> BC</span>",
+        "option_3": "<span style=\"color:#4224e9\"> CA</span>",
+        "option_4": "<span style=\"color:#4224e9\"> AR</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> As </span><span style=\"font-family:'Cambria Math'\">△</span><span>ABC </span><span style=\"font-family:'Cambria Math'\">△</span><span>RPQ</span><p><span>therefore,</span><span>AB = RP</span></p><p><span style=\"background-color:#00ff00\">BC= PQ</span></p><p><span>AC = RQ</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image021.png"
+    },
+    {
+        "question": "<span>The side BC of ∆ABC is produced to a point D. If AC = BC and ∠BAC = 70°, then find the value of</span><span>∠ACD − ∠ABC.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 70°</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 60°</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 75°</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 45°</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image022.png"
+    },
+    {
+        "question": "<span>If ∆PQR≅∆MON such that ∠PQR = 82°,∠QRP = 47°,∠RPQ = 51°,∠MON = (5y - 8)°,QR = 24 and ON = 3x + y,then find (x + y).</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 20</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 18</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 14</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 16</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image023.png"
+    },
+    {
+        "question": "<span>The perimeters of two similar triangles ΔRST and ΔABC are 26 cm and 39 cm, respectively. If AB = 24 cm, then RS is ___.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 18 cm</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 16 cm</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 24 cm</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 36 cm</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image024.png"
+    },
+    {
+        "question": "<span>WXYZ is a quadrilateral in which XQ and ZP are perpendicular to WY such that XQ = ZP. Diagonals ZX and WY intersect each other at point O. If OX = 12 cm, then find the value of ZX (in cm).</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 18</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 36</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 24</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 12</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image025.png"
+    },
+    {
+        "question": "<p>In a kite ABCD, longer diagonal BD is drawn. If ∠ABD = 54°and ∠ADB = 50°, then what is the measure (in degrees) of the ∠DCB?</p>",
+        "option_1": "<p><span style=\"color:#4224e9\">54</span></p>",
+        "option_2": "<p><span style=\"color:#4224e9\">100</span></p>",
+        "option_3": "<p><span style=\"color:#4224e9\">76</span></p>",
+        "option_4": "<p><span style=\"color:#4224e9\">108</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/paperimages/1754306338_1754306338802379_thump.png"
+    },
+    {
+        "question": "<span>In ΔPQR, if PT is the median, then which of the following is correct?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> PQ</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super;color:#4224e9\">2</span><span style=\"color:#4224e9\"> + PR</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super;color:#4224e9\">2</span><span style=\"color:#4224e9\"> = PT</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super;color:#4224e9\">2</span><span style=\"color:#4224e9\"> + QT</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super;color:#4224e9\">2</span>",
+        "option_2": "<span style=\"color:#4224e9\"> PQ</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super;color:#4224e9\">2</span><span style=\"color:#4224e9\"> + PR</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super;color:#4224e9\">2</span><span style=\"color:#4224e9\"> = PT</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super;color:#4224e9\">2</span><span style=\"color:#4224e9\"> + QR</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super;color:#4224e9\">2</span>",
+        "option_3": "<span style=\"color:#4224e9\"> PQ</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super;color:#4224e9\">2</span><span style=\"color:#4224e9\"> + PR</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super;color:#4224e9\">2</span><span style=\"color:#4224e9\"> = 2(PT</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super;color:#4224e9\">2</span><span style=\"color:#4224e9\"> + QT</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super;color:#4224e9\">2</span><span style=\"color:#4224e9\">)</span>",
+        "option_4": "<span style=\"color:#4224e9\"> PQ</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super;color:#4224e9\">2</span><span style=\"color:#4224e9\"> + PR</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super;color:#4224e9\">2</span><span style=\"color:#4224e9\"> = 2(PT</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super;color:#4224e9\">2</span><span style=\"color:#4224e9\"> - QT</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super;color:#4224e9\">2</span><span style=\"color:#4224e9\">)</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> From Stewart theorem:</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image027.png"
+    },
+    {
+        "question": "<span>If we extend a chord infinitely on both sides, then the chord becomes a _____________.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> secant line </span>",
+        "option_2": "<span style=\"color:#4224e9\"> tangent line</span>",
+        "option_3": "<span style=\"color:#4224e9\"> long</span>",
+        "option_4": "<span style=\"color:#4224e9\"> Diameter</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span style=\"font-family:'KOKILA';font-size:24px\">secant line</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>The side MN of a parallelogram MNOP is produced to Q such that MN = NQ. PQ intersects ON at R. The point R divides ON in the ratio:</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 1 : 1</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 1 : 2</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 2 : 1</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 3 : 1</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image028.png"
+    },
+    {
+        "question": "<span>In </span><span>ABC and </span><span>FEC, </span><span>BAD = 60</span><span>, </span><span>, and </span><span> Find the ration of </span><span> .</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image008.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image009.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image001.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image029.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image030.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image031.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image032.png",
+        "option_1": "<span style=\"color:#4224e9\"> 2 : 3</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 1 : 2</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 2 : 1</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 2 : 5</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image034.png"
+    },
+    {
+        "question": "<span>ΔEFG and ΔHIJ are similar. Also, ∠E = ∠H and ∠F = ∠I. If 3EF = HI and FG = 9 cm, then IJ is equal to ____.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 27 cm</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 3 cm</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 9 cm</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 18 cm</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image035.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image036.png"
+    },
+    {
+        "question": "<span>In a rhombus ABCD, O is any interior point such that OA = OC. What is five-ninths of the degree measure of ∠DOB?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 120°</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 90°</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 150°</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 100°</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image037.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image038.png"
+    },
+    {
+        "question": "<span>The radii of two circle are 5 cm and 10 cm and the distance between their centres is 17 cm. Find the length of the transverse common tangent.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 6cm</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 8 cm</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 7.5 cm</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 9 cm</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image039.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image040.png"
+    },
+    {
+        "question": "<span>By applying which of the following criteria can two triangles NOT be proved congruent?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> side-angle-side</span>",
+        "option_2": "<span style=\"color:#4224e9\"> angle-angle-angle</span>",
+        "option_3": "<span style=\"color:#4224e9\"> side-side-side</span>",
+        "option_4": "<span style=\"color:#4224e9\"> angle-side-angle</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> Criteria for congruence of two triangles</span><p><span>Side-angle-Side (SAS)</span></p><p><span>2. Side-Side-Side (SSS)</span></p><p><span>3. Angle-Side-Angle (ASA)</span></p><p><span>4. Angle-Angle-Side (AAS)</span></p><p><span>5. Right angle-Hypotenuse-Side (RHS)</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>In </span><span>ABC, DE </span><span> BC and 5 AE = 3EC. If AB = 6.4 units, then the value of DB (in units) is:</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image008.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image041.png",
+        "option_1": "<span style=\"color:#4224e9\"> 4</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 5</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 3.2</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 2.4</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image043.png"
+    },
+    {
+        "question": "<span>The side BC of ∆ABC is produced to a point D. If AC = BC and ∠BAC = 70°, then find the value of 2.5∠ACD − 1.5∠ABC.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 245°</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 225°</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 230°</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 235°</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image044.png"
+    },
+    {
+        "question": "<span>If two straight lines are coinciding with each other, then the number of points of intersection is/are:</span>",
+        "option_1": "<span style=\"color:#4224e9\"> No intersection points </span>",
+        "option_2": "<span style=\"color:#4224e9\"> Infinitely many intersection points </span>",
+        "option_3": "<span style=\"color:#4224e9\"> Unique intersection points </span>",
+        "option_4": "<span style=\"color:#4224e9\"> Finite number of intersection points</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> Infinitely many intersection points</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>If the ratio of the areas of two similar triangles is 25 : 144, the ratio of their corresponding sides is:</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 5 : 12</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 25 : 12</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 5 : 144</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 12 : 5</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image045.png"
+    },
+    {
+        "question": "<span>P and Q are two fixed points 10 cm apart, and R is a point on PQ such that PR = 6 cm. By what percentage is the length of QR decreased when the length of PR is increased by 5%?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 7.5%</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 8.5%</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 7%</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 8%</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image046.png"
+    },
+    {
+        "question": "<span>A right-angled isosceles triangle has an area of 50 square units. Its hypotenuse is (in units):</span>",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image047.png",
+        "option_2": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image048.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image049.png",
+        "option_4": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image050.png",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p><span>AB = BC</span></p><p><span>AC = </span><span>AB = 10</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image051.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image052.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image053.png"
+    },
+    {
+        "question": "<span>Find the area (in cm</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super\">2</span><span>) of the sector whose perimeter is </span><span> cm and central angle is </span><span>. (Use </span><span>).</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image054.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image055.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image056.png",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image059.png",
+        "option_2": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image060.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image061.png",
+        "option_4": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image062.png",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image063.png"
+    },
+    {
+        "question": "<span>In ∆ABC, two medians AD and BE intersect at G at right angles. If AD = 12 cm and BE = 9 cm, then the length of AB is equal to:</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 16 cm</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 14 cm</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 12 cm</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 10 cm</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image064.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image065.png"
+    },
+    {
+        "question": "<span>In a </span><span>ABC, right angles at B if tan C = </span><span>, then find </span><span> .</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image008.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image066.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image067.png",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image070.png",
+        "option_2": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image071.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image072.png",
+        "option_4": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image073.png",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image074.png"
+    },
+    {
+        "question": "<span>If A is an acute angle, which of the following is equal to </span><span> ?</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image075.png",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image077.png",
+        "option_2": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image078.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image079.png",
+        "option_4": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image080.png",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image081.png"
+    },
+    {
+        "question": "<span>If APQR </span><span> ∆ABC, AB = 6 cm, </span><span style=\"font-family:'Times New Roman'\">∠</span><span>B = 50° and </span><span style=\"font-family:'Times New Roman'\">∠</span><span>A = 70°, then which of the following is true?</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image021.png",
+        "option_1": "<span style=\"color:#4224e9\"> QP = 6 cm, </span><span style=\"color:#4224e9\">R = 60</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image082.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image083.png",
+        "option_2": "<span style=\"color:#4224e9\"> QR = 6 cm, </span><span style=\"color:#4224e9\">R = 60</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image082.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image083.png",
+        "option_3": "<span style=\"color:#4224e9\"> QR = 6 cm, </span><span style=\"color:#4224e9\">Q = 60</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image082.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image083.png",
+        "option_4": "<span style=\"color:#4224e9\"> QP = 6 cm, </span><span style=\"color:#4224e9\">P = 60</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image082.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image083.png",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image084.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image085.png"
+    },
+    {
+        "question": "<span>In ΔDEF, the bisector of ∠D intersects side EF at point N. If DE = 36 cm, DF = 40 cm and EF = 38 cm, then the length (in cm) of NF is ________.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 12</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 20</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 16</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 18</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p><span>According to internal angle bisector theorem = </span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image086.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image087.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image088.png"
+    },
+    {
+        "question": "<span>In a </span><span>ABC, if </span><span>, then the value of </span><span> is:</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image008.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image089.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image090.png",
+        "option_1": "<span style=\"color:#4224e9\"> 40</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image083.png",
+        "option_2": "<span style=\"color:#4224e9\"> 60</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image083.png",
+        "option_3": "<span style=\"color:#4224e9\"> 30</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image083.png",
+        "option_4": "<span style=\"color:#4224e9\"> 20</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image083.png",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> As, </span><p><span>We know,</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image089.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image093.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image094.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image095.png"
+    },
+    {
+        "question": "<span>If A is an acute angle and tanA + cotA = 2, find the value of 7tan</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super\">8</span><span>A – 6cot</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super\">8</span><span>A + 8sec</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super\">2</span><span>A.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 6</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 16</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 7</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 17</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image096.png"
+    },
+    {
+        "question": "<span>If the sum of two sides of an equilateral triangle is 16 cm, then find the third side.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 16 cm</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 4 cm</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 8 cm</span>",
+        "option_4": "<span style=\"color:#4224e9\"> cannot be determined</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> We know that in an equilateral triangle all sides are equal.</span><p><span>a + a = 16</span><span>=&gt; a = 8</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>The angles of triangle are such that one is average of other two, then the angles are:</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image097.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image098.png",
+        "option_1": "<span style=\"color:#4224e9\"> 2</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 1</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 3</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 4</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span>60</span><span> is the average of 90</span><span> &amp; 30</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt;line-height:115%;font-size:18pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image099.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331057163_image001.png"
+    }
+]
