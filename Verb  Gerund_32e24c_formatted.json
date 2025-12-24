@@ -1,0 +1,302 @@
+[
+    {
+        "question": "<span> He admitted lie about his whereabouts.</span>",
+        "option_1": "<span> He admitted</span>",
+        "option_2": "<span> lie about</span>",
+        "option_3": "<span> his whereabouts.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: (b) lie about</span><p><span>In the sentence \"He admitted lie about his whereabouts,\" the verb \"lie\" should be in the gerund form (-ing form) to follow the verb \"admitted\" correctly.</span></p><p><span>Therefore, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"He admitted lying about his whereabouts.\"</span></p>"
+    },
+    {
+        "question": "<span> I would appreciate your drive more cautiously on the road. </span>",
+        "option_1": "<span> I would appreciate </span>",
+        "option_2": "<span> your drive more </span>",
+        "option_3": "<span> cautiously on the road. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: (b) your drive more</span><p><span>In the sentence \"I would appreciate your drive more cautiously on the road,\" the verb \"drive\" should be in the gerund form (-ing form) to follow the phrase \"I would appreciate your\" correctly. </span></p><p><span>Therefore, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"I would appreciate your driving more cautiously on the road.\"</span></p>"
+    },
+    {
+        "question": "<p>She avoids to using social media to focus on her studies.</p>",
+        "option_1": "<p>She avoids to using</p>",
+        "option_2": "<p>social media to</p>",
+        "option_3": "<p>focus on her studies.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The correct option is: (a) She avoids to using</p> <p>In the sentence \"She avoids to using social media to focus on her studies,\" the verb \"using\" should be in the gerund form (-ing form) after the verb \"avoids.\"</p> <p>Therefore, the corrected sentence would be: \"She avoids using social media to focus on her studies.\"</p>"
+    },
+    {
+        "question": "<span> Over time, he became accustomed to drink coffee every morning. </span>",
+        "option_1": "<span> Over time, he became </span>",
+        "option_2": "<span> accustomed to drink </span>",
+        "option_3": "<span> coffee every morning.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error lies in the phrase \"accustomed to drink.\" This phrase uses the infinitive form of the verb \"drink\" instead of the gerund form \"drinking.\" When using the verb \"accustomed to,\" it is followed by the gerund form of the verb, not the infinitive. </span><p><span>Corrected sentence: </span><span style=\"text-decoration:underline\">\"Over time, he became accustomed to drinking coffee every morning.\" </span></p>"
+    },
+    {
+        "question": "<span> After living in the countryside for a while, he got used to hear the sounds of nature at night. </span>",
+        "option_1": "<span> After living in the countryside for </span>",
+        "option_2": "<span> a while, he got used to hear </span>",
+        "option_3": "<span> the sounds of nature at night.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error lies in the phrase \"got used to hear.\" Here, the verb \"hear\" is in its base form, which is incorrect. When using the construction \"got used to,\" the verb that follows should be in its gerund form, which is \"hearing.\"</span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">“After living in the countryside for a while, he got used to hearing the sounds of nature at night.”</span></p>"
+    },
+    {
+        "question": "<span> He can't help check his phone every few minutes for new messages. </span>",
+        "option_1": "<span> He can't help check his </span>",
+        "option_2": "<span> phone every few </span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> minutes for new messages.</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error is in part (a). The correct phrase should be \"He can't help checking\" instead of \"He can't help check.\" The verb \"help\" is followed by the gerund form of the verb, which is \"checking\" in this case. This is because \"checking\" acts as a noun, indicating the action that he cannot resist or prevent himself from doing. Therefore, \"He can't help checking\" is the grammatically correct form. </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"He can't help checking his phone every few minutes for new messages.\" </span></p>"
+    },
+    {
+        "question": "<span> Before making a decision, they considered move to Bangalore to experience the vibrant culture of the city. </span>",
+        "option_1": "<span> Before making a decision, they </span>",
+        "option_2": "<span> considered move to Bangalore to experience </span>",
+        "option_3": "<span> the vibrant culture of the city. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrase should be \"considered moving to Bangalore\" instead of \"considered move to Bangalore.\" The verb \"considered\" should be followed by the gerund form of the verb, which is \"moving\" in this case. This is because \"moving\" acts as a noun, indicating the action that they were considering. </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"Before making a decision, they considered moving to Bangalore to experience the vibrant culture of the city.\"</span></p>"
+    },
+    {
+        "question": "<span> Despite the deadline approaching, he delayed pay the taxes until the last possible moment.</span>",
+        "option_1": "<span> Despite the deadline approaching, </span>",
+        "option_2": "<span> he delayed pay the taxes </span>",
+        "option_3": "<span> until the last possible moment.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrase should be \"he delayed paying the taxes\" instead of \"he delayed pay the taxes.\" The verb \"delayed\" should be followed by the gerund form of the verb \"paying\" in this context. \"Paying\" acts as a noun, indicating the action that was delayed. </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"Despite the deadline approaching, he delayed paying the taxes until the last possible moment.\" </span></p>"
+    },
+    {
+        "question": "<span> She was shocked when he denied stealing her necklace, as she had trusted him completely. </span>",
+        "option_1": "<span> She was shocked when he denied </span>",
+        "option_2": "<span> stealing her necklace, as she</span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> had trusted him completely.</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> the correct option is: (c) No error</span><p><span>\"Stealing her necklace, as she\": This part of the sentence includes the gerund \"stealing,\" which functions as a noun and serves as the object of the verb \"denied.\" </span></p>"
+    },
+    {
+        "question": "<span> He dislikes to get up late because it makes him feel unproductive for the rest of the day. </span>",
+        "option_1": "<span> it makes him feel unproductive </span>",
+        "option_2": "<span> No error </span>",
+        "option_3": "<span> for the rest of the day.</span>",
+        "option_4": "<span> He dislikes to get up late because </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The error is in the phrase \"dislikes to get up late.\" The correct phrase should be \"dislikes getting up late.\" after verbs like \"like\" or \"dislike,\" we typically use the gerund form of the verb (the \"-ing\" form). So, it should be \"dislikes getting up late\" instead of \"dislikes to get up late.\" This is because the gerund form acts as a noun and is used after verbs of liking or disliking. </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"He dislikes getting up late because it makes him feel unproductive for the rest of the day.\"</span></p>"
+    },
+    {
+        "question": "<span> Anirudh enjoys to watch movies with subtitles to improve his language skills.</span>",
+        "option_1": "<span> Anirudh enjoys </span><a name=\"_Hlk165369373\"><span>to watch</span></a>",
+        "option_2": "<span> movies with subtitles to </span>",
+        "option_3": "<span> improve his language skills.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error is in part (a). The correct phrase should be \"Anirudh enjoys watching\" instead of \"Anirudh enjoys to watch.\" After verbs like \"enjoy,\" we typically use the gerund form of the verb (the \"-ing\" form). So, it should be \"enjoys watching\" instead of \"enjoys to watch.\" This is because the gerund form acts as a noun and is used after verbs of enjoy. </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"Anirudh enjoys watching movies with subtitles to improve his language skills.\"</span></p>"
+    },
+    {
+        "question": "<span> Instead of turning a blind eye, I feel like help all the needy people to contribute to a better society. </span>",
+        "option_1": "<span> Instead of turning a blind eye, I feel </span>",
+        "option_2": "<span> help all the needy people to contribute </span>",
+        "option_3": "<span> to a better society.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrase should be \"helping all the needy people\" instead of \"help all the needy people.\" After the phrase \"feel like,\" we typically use the gerund form of the verb (the \"-ing\" form). So, it should be \"helping\" instead of \"help\" to maintain grammatical consistency. This is because the gerund form acts as a noun and is used after verbs like \"feel like.\" </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"Instead of turning a blind eye, I feel like helping all the needy people to contribute to a better society.\"</span></p>"
+    },
+    {
+        "question": "<span> Before bedtime, he always finishes to say his prayers to express gratitude and seek guidance.</span>",
+        "option_1": "<span> Before bedtime, he always </span>",
+        "option_2": "<span> finishes to say his prayers to </span>",
+        "option_3": "<span> express gratitude and seek guidance.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrase should be \"finishes saying his prayers\" instead of \"finishes to say his prayers.\" After the verb \"finishes,\" we typically use the gerund form of the verb (the \"-ing\" form) rather than the infinitive form (\"to say\"). So, it should be \"finishes saying\" to maintain grammatical consistency. The gerund form acts as a noun and is used after verbs like \"finishes.\" </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"Before bedtime, he always finishes saying his prayers to express gratitude and seek guidance.\"</span></p>"
+    },
+    {
+        "question": "<span> Lalit remains optimistic as he imagines to become a rich man one day, trusting in his abilities. </span>",
+        "option_1": "<span> Lalit remains optimistic as he </span>",
+        "option_2": "<span> imagines to become a rich man </span>",
+        "option_3": "<span> one day, trusting in his abilities.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrase should be \"imagines becoming a rich man\" instead of \"imagines to become a rich man.\" After the verb \"imagines,\" we typically use the gerund form of the verb (the \"-ing\" form) rather than the infinitive form (\"to become\"). So, it should be \"imagines becoming\" to maintain grammatical consistency. The gerund form acts as a noun and is used after verbs like \"imagines.\" </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"Lalit remains optimistic as he imagines becoming a rich man one day, trusting in his abilities.\"</span></p>"
+    },
+    {
+        "question": "<span> Despite the long journey, we kept wait for him to return home safely. </span>",
+        "option_1": "<span> Despite the long journey </span>",
+        "option_2": "<span> we kept wait for him </span>",
+        "option_3": "<span> to return home safely.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrase should be \"we kept waiting for him\" instead of \"we kept wait for him.\" After the verb \"kept,\" we typically use the gerund form of the verb (the \"-ing\" form) rather than the base form (\"wait\"). So, it should be \"we kept waiting\" to maintain grammatical consistency. The gerund form acts as a noun and is used after verbs like \"kept.\"</span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"Despite the long journey, we kept waiting for him to return home safely.\"</span></p>"
+    },
+    {
+        "question": "<span> Despite the hectic schedule, I am looking forward to meet you </span><a name=\"_Hlk165372338\"><span>to discuss the project details.</span></a>",
+        "option_1": "<span> Despite the hectic schedule, I </span>",
+        "option_2": "<span> am looking forward to meet you </span>",
+        "option_3": "<span> to discuss the project details.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrase should be \"am looking forward to meeting you\" instead of \"am looking forward to meet you.\" After the phrase \"looking forward to,\" we typically use the gerund form of the verb (the \"-ing\" form) rather than the base form (\"meet\"). So, it should be \"meeting you\" to maintain grammatical consistency. The gerund form acts as a noun and is used after phrases like \"looking forward to.\" </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"Despite the hectic schedule, I am looking forward to meeting you to discuss the project details.\"</span></p>"
+    },
+    {
+        "question": "<a name=\"_Hlk165372745\"><span>He doesn't mind to get disturbed by his </span></a><span>children while he's working because he values spending time with them. </span>",
+        "option_1": "<span> He doesn't mind to get disturbed by his </span>",
+        "option_2": "<span> children while he's working because </span>",
+        "option_3": "<span> he values spending time with them. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error is in part (a). The correct phrase should be \"He doesn't mind getting disturbed\" instead of \"He doesn't mind to get disturbed.\" After the verb \"mind,\" we typically use the gerund form of the verb (the \"-ing\" form) rather than the infinitive form (\"to get disturbed\"). So, it should be \"getting disturbed\" to maintain grammatical consistency. The gerund form acts as a noun and is used after verbs like \"mind.\"</span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"He doesn't mind getting disturbed by his children while he's working because he values spending time with them.\"</span></p>"
+    },
+    {
+        "question": "<span> As an expatriate, I miss to go to Marina Beach and witnessing </span><a name=\"_Hlk165373363\"><span>its majestic beauty at sunset.</span></a>",
+        "option_1": "<span> Marina Beach and witnessing </span>",
+        "option_2": "<span> No error </span>",
+        "option_3": "<span> its majestic beauty at sunset.</span>",
+        "option_4": "<span> As an expatriate, I miss to go to </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> After the verb \"miss,\" we typically use the gerund form of the verb (the \"-ing\" form) rather than the infinitive form (\"to go\"). So, it should be \"going to\" to maintain grammatical consistency. </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"As an expatriate, I miss going to Marina Beach and witnessing its majestic beauty at sunset.\"</span></p>"
+    },
+    {
+        "question": "<a name=\"_Hlk165373900\"><span>Despite his initial plans, he</span></a><a name=\"_Hlk165373945\"><span>postponed return to the UAE to </span></a><span>spend more time with his family. </span>",
+        "option_1": "<span> Despite his initial plans, he </span>",
+        "option_2": "<span> postponed return to the UAE to</span>",
+        "option_3": "<span> spend more time with his family.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrase should be \"postponed returning to UAE\" instead of \"postponed return to UAE.\" </span><p><span>After the verb \"postponed,\" we typically use the gerund form of the verb (the \"-ing\" form) rather than the base form. So, it should be \"returning to\" to maintain grammatical consistency. The gerund form acts as a noun and is used after verbs like \"postponed.\" </span></p><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"Despite his initial plans, he postponed returning to the UAE to spend more time with his family.\" </span></p>"
+    },
+    {
+        "question": "<span> As a student, I practiced to write fast to complete exams within the allotted time. </span>",
+        "option_1": "<span> As a student, I practiced to write </span>",
+        "option_2": "<span> fast to complete exams </span>",
+        "option_3": "<span> within the allotted time. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error is in part (a). The correct phrase should be \"As a student, I practiced writing fast\" instead of \"As a student, I practiced to write fast.\" After the verb \"practiced,\" we typically use the gerund form of the verb (the \"-ing\" form) rather than the infinitive form (\"to write\"). So, it should be \"practiced writing\" to maintain grammatical consistency. The gerund form acts as a noun and is used after verbs like \"practiced.\" </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"As a student, I practiced writing fast to complete exams within the allotted time.\"</span></p>"
+    },
+    {
+        "question": "<span> For a quick workout, he recommends take stairs and not an elevator between meetings. </span>",
+        "option_1": "<span> For a quick workout, he recommends </span>",
+        "option_2": "<span> take stairs and not </span>",
+        "option_3": "<span> an elevator between meetings. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrase should be \"taking stairs\" instead of \"take stairs.\" After the verb \"recommends,\" we typically use the gerund form of the verb (the \"-ing\" form) rather than the base form. So, it should be \"taking stairs\" to maintain grammatical consistency. The gerund form acts as a noun and is used after verbs like \"recommends.\" </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"For a quick workout, he recommends taking stairs and not an elevator between meetings.\"</span></p>"
+    },
+    {
+        "question": "<span> After experiencing constant arguments, I regret to go on a trip with them. </span>",
+        "option_1": "<span> After experiencing constant </span>",
+        "option_2": "<span> arguments, I regret to go </span>",
+        "option_3": "<span> on a trip with them.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrase should be \"I regret going on a trip with them\" instead of \"I regret to go on a trip with them.\" After the verb \"regret,\" we typically use the gerund form of the verb (the \"-ing\" form) rather than the base form. So, it should be \"regret going\" to maintain grammatical consistency. The gerund form acts as a noun and is used after verbs like \"regret.\" </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"After experiencing constant arguments, I regret going on a trip with them.\"</span></p>"
+    },
+    {
+        "question": "<span> Despite my best efforts, I resent be ill sometimes, feeling powerless against sickness. </span>",
+        "option_1": "<span> Despite my best efforts, </span>",
+        "option_2": "<span> No error</span>",
+        "option_3": "<span> feeling powerless against sickness.</span>",
+        "option_4": "<span> I resent be ill sometimes, </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The error is in part (d). The correct phrase should be \"I resent being ill sometimes\" instead of \"I resent be ill sometimes.\" After the verb \"resent,\" we typically use the gerund form of the verb (the \"-ing\" form) rather than the base form. So, it should be \"resent being\" to maintain grammatical consistency. The gerund form acts as a noun and is used after verbs like \"resent.\" </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"Despite my best efforts, I resent being ill sometimes, feeling powerless against sickness.\"</span></p>"
+    },
+    {
+        "question": "<span> She respected his determination as he resisted to ask for help, even in times of need. </span>",
+        "option_1": "<span> She respected his determination </span>",
+        "option_2": "<span> as he resisted to ask for </span>",
+        "option_3": "<span> help, even in times of need.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrase should be \"as he resisted asking for\" instead of \"as he resisted to ask for.\" After the verb \"resisted,\" we typically use the gerund form of the verb (the \"-ing\" form) rather than the base form. So, it should be \"resisted asking\" to maintain grammatical consistency. The gerund form acts as a noun and is used after verbs like \"resisted.\" </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"She respected his determination as he resisted asking for help, even in times of need.\" </span></p>"
+    },
+    {
+        "question": "<span> Despite the uncertainty, I risked be all alone in the forest to find peace and clarity. </span>",
+        "option_1": "<span> Despite the uncertainty, I </span>",
+        "option_2": "<span> risked be all alone in the </span>",
+        "option_3": "<span> forest to find peace and clarity. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrase should be \"risked being all alone\" instead of \"risked be all alone.\" After the verb \"risked,\" we typically use the gerund form of the verb (the \"-ing\" form) rather than the base form. So, it should be \"risked being\" to maintain grammatical consistency. The gerund form acts as a noun and is used after verbs like \"risked.\" </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"Despite the uncertainty, I risked being all alone in the forest to find peace and clarity.\"</span></p>"
+    },
+    {
+        "question": "<span> I suggested staying in a resort instead of a hotel for a more luxurious experience. </span>",
+        "option_1": "<span> I suggested staying in a </span>",
+        "option_2": "<span> resort instead of a hotel for </span>",
+        "option_3": "<span> a more luxurious experience.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The sentence is correct as it is, so the answer is: (d) No error</span><p><span>After the verb \"suggest,\" we typically use the gerund form of the verb (the \"-ing\" form) rather than the base form.</span></p>"
+    },
+    {
+        "question": "<span> The company won't tolerate employees arrive late to work without a valid reason. </span>",
+        "option_1": "<span> The company won't tolerate</span>",
+        "option_2": "<span> work without a valid reason. </span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> employees arrive late to </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The error is in part (d). The correct phrase should be \"employees arriving late to\" instead of \"employees arrive late to.\" After the verb \"tolerate,\" we typically use the gerund form of the verb (the \"-ing\" form) rather than the base form. So, it should be \"employees arriving\" to maintain grammatical consistency. The gerund form acts as a noun and is used after verbs like \"tolerate.\" </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"The company won't tolerate employees arriving late to work without a valid reason.\" </span></p>"
+    },
+    {
+        "question": "<span> She understands the importance </span><a name=\"_Hlk165382448\"><span>of exercise regularly. </span></a>",
+        "option_1": "<span> She understands </span>",
+        "option_2": "<span> the importance </span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> of exercise regularly. </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The sentence is almost correct, but there is a slight error. It should be \"She understands the importance of exercising regularly.\" The correction involves adding the gerund form \"exercising\" after \"importance of.\" This maintains grammatical consistency as the verb \"understands\" is followed by a noun phrase (\"the importance of\"), and since \"exercise\" is used as a verb, it should be in its gerund form \"exercising.\" </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">“She understands the importance of exercising regularly.”</span></p>"
+    },
+    {
+        "question": "<span> They made a pact to quit complain and start appreciating the good things in life. </span>",
+        "option_1": "<span> No error </span>",
+        "option_2": "<span> the good things in life. </span>",
+        "option_3": "<span> complain and start appreciating </span>",
+        "option_4": "<span> They made a pact to quit </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The error is in part (c). The correct phrase should be \"to quit complaining\" instead of \"to quit complain.\" After the verb \"quit,\" we typically use the gerund form of the verb (the \"-ing\" form) rather than the base form. So, it should be \"quit complaining\" to maintain grammatical consistency. The gerund form acts as a noun and is used after verbs like \"quit.\" </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"They made a pact to quit complaining and start appreciating the good things in life.\"</span></p>"
+    },
+    {
+        "question": "<span> She can't stand to hear her neighbors play loud music late at night.</span>",
+        "option_1": "<span> loud music late at night.</span>",
+        "option_2": "<span> her neighbors play </span>",
+        "option_3": "<span> She can't stand to hear </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The error is in part (c). The correct phrase should be \"She can't stand hearing\" instead of \"She can't stand to hear.\" After the phrase \"can't stand,\" we typically use the gerund form of the verb (the \"-ing\" form) rather than the base form. So, it should be \"hearing\" to maintain grammatical consistency. The gerund form acts as a noun and is used after phrases like \"can't stand.\" </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"She can't stand hearing her neighbors play loud music late at night.\"</span></p>"
+    }
+]
