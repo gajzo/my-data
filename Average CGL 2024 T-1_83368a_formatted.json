@@ -1,0 +1,162 @@
+[
+    {
+        "question": "<span>The average score of a batsman in twenty matches is 15 and in twenty-five other matches is 24. Find the average score in all the forty-five matches.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 22</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 19.5</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 21</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 20</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> Total score in 20 matches = 20×15= 300</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>Total score in 25 matches = 25×24= 600</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>Total score in 45 matches = 600+300 = 900</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>Average = 900÷45 = 20</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>A class of 30 students appeared in a test. The average score of 12 students is 62, and that of the rest is 68. What is the average score of the class?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 63.6</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 66.6</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 65.6</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 64.6</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330397788_image001.png"
+    },
+    {
+        "question": "<span>A class of 30 students appeared in a test. The average score of 12 students is 62, and that of the rest is 60. What is the average score of the class?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 60.8</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 61.8</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 59.8</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 58.8</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330397788_image002.png"
+    },
+    {
+        "question": "<span>A class of 30 students appeared in a test. The average score of 12 students is 62, and that of the rest is 78. What is the average score of the class?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 69.6</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 72.6</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 70.6</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 71.6</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330397788_image003.png"
+    },
+    {
+        "question": "<span>In the 8th class, consisting of 30 students, a Mathematics test was taken. 10 students had an average score of 90. The other students had an average score of 75. What is the average score of the whole class?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 80</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 74</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 76</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 78</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330397788_image004.png"
+    },
+    {
+        "question": "<span>A class of 30 students appeared in a test. The average score of 12 students is 60, and that of the rest is 80. What is the average score of the class?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 73</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 70</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 71</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 72</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330397788_image005.png"
+    },
+    {
+        "question": "<span>In a class of 150 students (boys and girls only), the girls are 60. The average weight of boys is 52 kg and that of girls is 48 kg. What is the average weight (in kg) of the whole class?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 50.4</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 49.6</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 48.8</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 51.2</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330397788_image006.png"
+    },
+    {
+        "question": "<span>The average marks (out of 100) of boys and girls in an examination are 75 and 80, respectively. If the average marks of all the students in that examination are 78. Find the ratio of the number of boys to the number of girls.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 1 : 2</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 1 : 3</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 3 : 4</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 2 : 3</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p><span>2 : 3</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330397788_image007.png"
+    },
+    {
+        "question": "<span>The average temperature of a city for the first sixteen days of January is 22°C, and the average temperature for the last sixteen days of the same month is 26°C. If the average temperature for the entire month is 24°C, what is the temperature on the sixteenth day?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 25°C</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 23°C</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 24°C</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 22°C</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330397788_image008.png"
+    },
+    {
+        "question": "<span>A stock portfolio consists of four stocks. Stock A represents 20% of the portfolio and has a return of 6%. Stock B represents 30% of the portfolio and has a return of 8%. Stock C represents 20% of the portfolio and has a return of 4%. Stock D represents the remaining 30% of the portfolio and has a negative-return of 5%. What is the average return of the portfolio?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 2.6%</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 3.2%</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 3.4%</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 2.9%</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330397788_image009.png"
+    },
+    {
+        "question": "<span>A group of 30 students appeared in a test. The average score of 12 students is 62, and that of the rest is 62. What is the average score of the group?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 63</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 62</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 60</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 61</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330397788_image010.png"
+    },
+    {
+        "question": "<span>A class of 30 students appeared in a test. The average score of 12 students is 62, and that of the rest is 74. What is the average score of the class?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 67.2</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 69.2</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 68.2</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 70.2</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330397788_image011.png"
+    },
+    {
+        "question": "<span>The average of 12 numbers is 48. The average of the first 5 numbers is 45 and the average of next 4 numbers is 52. If the 10th number is 10 less than the 11th number and is 5 more than the 12th number, then the average of the 11th and 12th numbers is:</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 47.5</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 48.5</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 46.5</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 50.5</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330397788_image012.png"
+    },
+    {
+        "question": "<span>A class of 30 students appeared in a test. The average score of 12 students is 62, and that of the rest is 72. What is the average score of the class?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 68</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 66</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 69</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 67</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330397788_image013.png"
+    },
+    {
+        "question": "<span>A group of 30 students appeared in a test. The average score of 12 students is 62, and that of the rest is 76. What is the average score of the group?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 70.4</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 68.4</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 71.4</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 69.4</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330397788_image014.png"
+    },
+    {
+        "question": "<span>The average weight of 10 students is increased by half a kg when one of the students weighing 51 kg is replaced by a new student. Find the weight of the new student.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 66 kg</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 45 kg</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 56 kg</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 75 kg</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330397788_image015.png"
+    }
+]
