@@ -1,0 +1,272 @@
+[
+    {
+        "question": "<span> How dare to you speak to me like that! </span>",
+        "option_1": "<span> How dare </span>",
+        "option_2": "<span> to you speak </span>",
+        "option_3": "<span> to me like that! </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct expression is \"How dare you speak to me like that!\" without \"to\" after \"dare.\" When \"dare\" is used as a modal verb expressing challenge or courage, it is followed directly by the subject and the base form of the verb, without \"to.\" </span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“How dare you speak to me like that!”</span></p>"
+    },
+    {
+        "question": "<span> She uses to cook dinner for her family every night. </span>",
+        "option_1": "<span> She uses to cook </span>",
+        "option_2": "<span> dinner for her </span>",
+        "option_3": "<span> family every night </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"She cooks\" in the simple present tense accurately conveys the idea of a habitual action in the present. </span><p><span>Therefore, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"She cooks dinner for her family every night.\" </span></p>"
+    },
+    {
+        "question": "<span> She dared confront her fears and speak up in front of the audience. </span>",
+        "option_1": "<span> She dared confront her</span>",
+        "option_2": "<span> fears and speak up </span>",
+        "option_3": "<span> in front of the audience</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> When \"dare\" is used as a main verb followed by another verb, it typically takes \"to\" before the infinitive form of the verb. </span><p><span>Therefore, the corrected sentence should be: </span><span style=\"text-decoration:underline\">“She dared to confront her fears and speak up in front of the audience.”</span></p>"
+    },
+    {
+        "question": "<span> We ought to considering all the options before making a decision. </span>",
+        "option_1": "<span> We ought to considering </span>",
+        "option_2": "<span> all the options before </span>",
+        "option_3": "<span> making a decision. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In this sentence, the verb \"considering\" is used incorrectly after \"ought to.\" When \"ought to\" is used, it should be followed by the base form of the verb (infinitive) with \"to.\" Therefore, the correct form of the verb should be \"consider,\" not \"considering.\"</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"We ought to consider all the options before making a decision.\"</span></p>"
+    },
+    {
+        "question": "<span> I might travel to Europe next summer if I can save enough money. </span>",
+        "option_1": "<span> I might travel to </span>",
+        "option_2": "<span> Europe next summer if </span>",
+        "option_3": "<span> I can save enough money</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"might\" indicates a lower degree of possibility or uncertainty, \"may\" suggests a possibility that is neither particularly low nor particularly high. Since the sentence expresses a possibility that is not strongly affirmed, \"may\" would be more appropriate in this context.</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"I may travel to Europe next summer if I can save enough money.\"</span></p>"
+    },
+    {
+        "question": "<span> Let's take a break and have some refreshments, will we?</span>",
+        "option_1": "<span> Let's take a break </span>",
+        "option_2": "<span> and have some </span>",
+        "option_3": "<span> refreshments, will we? </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> In this sentence, the question tag \"will we\" is not appropriate. When forming a question tag for an imperative sentence beginning with \"let's\" or \"let us,\" the correct form is \"shall we,\"</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"Let's take a break and have some refreshments, shall we?\"</span></p>"
+    },
+    {
+        "question": "<span> Hitesh will rather study for the exam than go to the party.</span>",
+        "option_1": "<span> Hitesh will rather </span>",
+        "option_2": "<span> study for the exam </span>",
+        "option_3": "<span> than go to the party. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"will rather\" is not the appropriate construction when expressing preference or choice. Instead, \"would rather\" should be used to indicate preference. Therefore, \"will rather\" should be corrected to \"would rather.\"</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"Hitesh would rather study for the exam than go to the party.\"</span></p>"
+    },
+    {
+        "question": "<span> She ought to play the piano every day when she was younger. </span>",
+        "option_1": "<span> She ought to play the </span>",
+        "option_2": "<span> piano every day </span>",
+        "option_3": "<span> when she was younger.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"Used to\" is the correct construction for expressing past habitual actions or states. It indicates that something was done regularly or customarily in the past but is no longer done in the present. </span><p><span>The corrected sentence would be: “She used to play the piano every day when she was younger.”</span></p>"
+    },
+    {
+        "question": "<span> With a view to improve her health, she started jogging every morning. </span>",
+        "option_1": "<span> With a view to improve </span>",
+        "option_2": "<span> her health, she started </span>",
+        "option_3": "<span> jogging every morning. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error in the sentence lies in the phrase \"to improve.\" When using the phrase \"with a view to,\" the verb that follows should be in the \"-ing\" form, not the infinitive form. So, the correct option is: (a) With a view to improving </span><p><span>Therefore, the correct answer would be: “</span><span style=\"text-decoration:underline\">With a view to improving her health, she started jogging every morning.”</span></p>"
+    },
+    {
+        "question": "<span> The new software could process data much faster than the old one. </span>",
+        "option_1": "<span> The new software could </span>",
+        "option_2": "<span> process data much </span>",
+        "option_3": "<span> faster than the old one. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"Could\" implies past ability or possibility, while \"can\" indicates present ability or capability. Therefore, to express the idea of present power, ability, capability or capacity, \"can\" should replace \"could\" in the sentence.</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"The new software can process data much faster than the old one.\" </span></p>"
+    },
+    {
+        "question": "<p>You might experience some side effects from the medication.</p>",
+        "option_1": "<p>You might experience</p>",
+        "option_2": "<p>some side effects</p>",
+        "option_3": "<p>from the medication</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>\"May\" is often used to indicate possibility in a polite or less certain manner, while \"might\" tends to express a slightly lower degree of possibility. In contexts where a more polite or less assertive tone is desired, \"may\" would be more appropriate.</p> <p>The corrected sentence would be: \"You may experience some side effects from the medication.\"</p>"
+    },
+    {
+        "question": "<span> Might I use your phone to make a quick call? </span>",
+        "option_1": "<span> Might I use </span>",
+        "option_2": "<span> your phone to </span>",
+        "option_3": "<span> make a quick call? </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"May\" is commonly used to express respect or make a polite request in the interrogative form. </span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"May I use your phone to make a quick call?\"</span></p>"
+    },
+    {
+        "question": "<span> They realized that they will need to make some changes to the plan. </span>",
+        "option_1": "<span> They realized that they </span>",
+        "option_2": "<span> will need to make</span>",
+        "option_3": "<span> some changes to the plan </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> the past tense verb \"realized\" is used to introduce the sentence. According to the rule provided, if the sentence starts with the past, \"shall\" or \"will\" is not used. Therefore, \"will\" should be replaced with \"would\" to maintain grammatical consistency.</span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">\"They realized that they would need to make some changes to the plan.\" </span></p>"
+    },
+    {
+        "question": "<span> She would most likely be at the library, as </span><a name=\"_Hlk164352006\"><span>she usually is on Saturdays.</span></a>",
+        "option_1": "<span> She would most likely</span>",
+        "option_2": "<span> be at the library, as</span>",
+        "option_3": "<span> she usually is on Saturdays.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The sentence is grammatically correct as it is. \"Would\" is used to denote probability or likelihood in this sentence, which is appropriate in the context provided. The structure of the sentence follows standard English grammar rules.</span><p><span>So, there is no error in the sentence.</span></p>"
+    },
+    {
+        "question": "<span> You could go out with your friends after </span><a name=\"_Hlk164336222\"><span>you finish your homework. </span></a>",
+        "option_1": "<span> You could go out </span>",
+        "option_2": "<span> with your friends after </span>",
+        "option_3": "<span> you finish your homework.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In this sentence, \"could\" is used incorrectly to express permission. Since the sentence is granting permission for future action, \"could\" should be replaced with \"can.\" </span><p><span>Therefore, the correct form of the sentence should be: </span><span style=\"text-decoration:underline\">\"You can go out with your friends after you finish your homework.\" </span></p>"
+    },
+    {
+        "question": "<span> She writes detailed notes so that she might remember everything for the exam.</span>",
+        "option_1": "<span> She writes detailed notes </span>",
+        "option_2": "<span> so that she might remember </span>",
+        "option_3": "<span> everything for the exam </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span>In this sentence, the principal clause is in the present tense (\"She writes detailed notes\"), and the subordinate clause introduced by \"so that\" denotes a purpose. However, \"might\" is used to express a lower degree of possibility or a hypothetical outcome. For the intended meaning of expressing a purpose, \"may\" would be more appropriate.</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"She writes detailed notes so that she may remember everything for the exam.\"</span></p>"
+    },
+    {
+        "question": "<span> Before you will leave, don't forget to turn off the lights.</span>",
+        "option_1": "<span> Before you will leave </span>",
+        "option_2": "<span> don't forget to </span>",
+        "option_3": "<span> turn off the lights. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> According to the rule, simple future tense is not used immediately after words like \"before.\" Instead, simple present tense is used. Therefore, \"will\" should be removed from the sentence.</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"Before you leave, don't forget to turn off the lights.\"</span></p>"
+    },
+    {
+        "question": "<span> You would wear sunscreen to protect your skin from the sun.</span>",
+        "option_1": "<span> You would wear </span>",
+        "option_2": "<span> sunscreen to protect </span>",
+        "option_3": "<span> your skin from the sun </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In this sentence, \"would\" is used to express a habitual action or behavior rather than a conditional statement or suggestion. Here, \"should\" is used to offer advice or suggest a course of action. </span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"You should wear sunscreen to protect your skin from the sun.\"</span></p>"
+    },
+    {
+        "question": "<span> They used to protect the environment for future generations. </span>",
+        "option_1": "<span> They used to protect </span>",
+        "option_2": "<span> the environment for </span>",
+        "option_3": "<span> future generations. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The use of \"ought to\" would better convey the sense of moral obligation or duty in this sentence. Therefore, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"They ought to protect the environment for future generations.\" </span>"
+    },
+    {
+        "question": "<span> They could like to visit their grandparents during the holidays.</span>",
+        "option_1": "<span> They could like to visit </span>",
+        "option_2": "<span> their grandparents </span>",
+        "option_3": "<span> during the holidays. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In this sentence, \"could\" is used to denote possibility or ability, but when expressing a wish or desire, \"would\" is typically used instead of \"could.\" Therefore, the correct form should be \"They would like to visit.\"</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"They would like to visit their grandparents during the holidays.\"</span></p>"
+    },
+    {
+        "question": "<span> If I were a famous author, I should write novels that </span><a name=\"_Hlk164351062\"><span>inspire and entertain readers. </span></a>",
+        "option_1": "<span> If I were a famous author,</span>",
+        "option_2": "<span> I should write novels that</span>",
+        "option_3": "<span> inspire and entertain readers.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> In this sentence, the use of \"should\" is not appropriate in the principal clause of an imaginative sentence. When expressing hypothetical or imaginary situations in English, the modal verb \"would\" is typically used instead of \"should.\"</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"If I were a famous author, I would write novels that inspire and entertain readers.\"</span></p>"
+    },
+    {
+        "question": "<span> Will we go for a walk in the park this afternoon?</span>",
+        "option_1": "<span> Will we go for </span>",
+        "option_2": "<span> a walk in the </span>",
+        "option_3": "<span> park this afternoon?</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> According to traditional grammar rules, \"shall\" is used with the first-person pronouns \"I\" and \"we\" to form questions in future tense. However, in modern usage, \"will\" is commonly used in all persons for future tense questions.</span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">\"Shall we go for a walk in the park this afternoon?\"</span></p>"
+    },
+    {
+        "question": "<span> They can able to speak multiple languages fluently.</span>",
+        "option_1": "<span> They can able to </span>",
+        "option_2": "<span> speak multiple </span>",
+        "option_3": "<span> languages fluently. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span>In this sentence, \"can\" and \"able to\" are used together, which is incorrect. Both \"can\" and \"able to\" convey the idea of capacity or ability, so they should not be used together in the same sentence.</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"They are able to speak multiple languages fluently.\"</span></p>"
+    },
+    {
+        "question": "<span> The noise can be coming from the construction site next door. </span>",
+        "option_1": "<span> The noise can be coming </span>",
+        "option_2": "<span> from the construction </span>",
+        "option_3": "<span> site next door</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"can\" typically indicates present possibility rather than remote possibility. In this context, \"could\" would better convey the sense of remote possibility.</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"The noise could be coming from the construction site next door.\" </span></p>"
+    },
+    {
+        "question": "<span> She may possible have forgotten about our appointment.</span>",
+        "option_1": "<span> She may possible have </span>",
+        "option_2": "<span> forgotten about </span>",
+        "option_3": "<span> our appointment </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"May\" and \"possible\" are redundant when used together. \"May\" already indicates possibility, so \"possible\" is unnecessary. </span><p><span>Therefore, the correct form of the sentence would be: </span><span style=\"text-decoration:underline\">\"She may have forgotten about our appointment.\" </span></p>"
+    },
+    {
+        "question": "<span> You will regret your decision if you proceed. </span>",
+        "option_1": "<span> You will regret </span>",
+        "option_2": "<span> your decision </span>",
+        "option_3": "<span> if you proceed</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"shall\" is often used with the second person pronoun \"you\" to denote a command, threat, or prediction about a future outcome. Therefore, \"shall\" could be used in place of \"will\" in this context.</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"You shall regret your decision if you proceed.\"</span></p>"
+    },
+    {
+        "question": "<span> Students </span><span style=\"text-decoration:underline\">must</span><span> attend classes regularly to succeed academically. </span>",
+        "option_1": "<span> Could</span>",
+        "option_2": "<span> May </span>",
+        "option_3": "<span> Can</span>",
+        "option_4": "<span> No Improvement </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> \"must\" correctly indicates a requirement or necessity for students to attend classes regularly in order to succeed academically. Since the sentence is already expressing the intended meaning effectively, there is no need for improvement.</span><p><span>So, option (d) indicates that there is no need to change the sentence. </span></p>"
+    }
+]
