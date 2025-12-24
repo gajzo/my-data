@@ -1,0 +1,242 @@
+[
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is an Acrobat?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who draws cartoons</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who performs gymnastic feats</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who paints</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who sings</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Acrobat</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Acrobat = A performer skilled in gymnastics and agility.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">वह जो साहसी जिमनास्टिक करतब दिखाता है </span><span>/ </span><span style=\"font-family:'Times New Roman'\">एक मनोरंजनकर्ता जो कठिन शारीरिक करतब दिखाता है</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>Gr. akros = top + bat = to go</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is an Artist?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who composes music</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes books</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who creates art</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who studies history</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Artist</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Artist = One who creates or practices any form of art.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">वह जो किसी एक ललित कला का अभ्यास करता हो</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>Lat. ars = art</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is an Autobiographer?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes others’ lives</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes poems</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes his own life</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who draws cartoons</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Autobiographer</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Autobiographer = A person who writes the story of their own life.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">आत्मकथाकार</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>auto (self) + bios (life) + grapho (write)</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is a Biographer?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes others’ lives</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes novels</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes about animals</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes history</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Biographer</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Biographer = One who writes someone else's life story.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">जीवनियाँ लिखने वाला</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>bios (life) + grapho (write)</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is a Bohemian?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>A rebel artist</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>A war leader</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>A classical dancer</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>A traditional musician</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Bohemian</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Bohemian = An artist who lives unconventionally and freely.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">वह व्यक्ति जो सामाजिक जीवन के सामान्य नियमों का पालन नहीं करता </span><span>/ </span><span style=\"font-family:'Times New Roman'\">जीवन जीने की एक अपरंपरागत शैली जो </span><span>(</span><span style=\"font-family:'Times New Roman'\">किसी को</span><span>) </span><span style=\"font-family:'Times New Roman'\">लगातार प्रश्नों</span><span>, </span><span style=\"font-family:'Times New Roman'\">आलोचनाओं या सूचनाओं के प्रवाह के अधीन रखता है</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>From Bohemia; unconventional lifestyle</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is a Cartoonist?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who paints</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes plays</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who acts</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who draws cartoons</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Cartoonist</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Cartoonist = An artist who makes cartoons.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">कार्टून बनाने वाला</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>cartoon + ist</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is a Cinematographer?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who directs movies</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes scripts</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who handles camera work</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who edits films</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Cinematographer</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Cinematographer = Expert in film photography and camera handling.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">छायाचित्र निर्देशक</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>kinema (motion) + grapho (write)</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is a Composer?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes music</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes stories</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who paints</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who dances</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Composer</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Composer = A person who writes and arranges music.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">संगीतकार</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>componere (Latin: put together)</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is a Critic?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who praises blindly</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who evaluates works</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who destroys art</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who publishes journals</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Critic</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Critic = One who evaluates and reviews artistic or literary work.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">वह व्यक्ति जो किसी वस्तु या चीज़ को स्वीकार नहीं करता</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>Gr. kritikos = able to judge</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is a Dramatist?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes plays</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes poems</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who acts</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who studies drama</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Dramatist</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Dramatist = A person who writes dramas or plays.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">नाटककार</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>drama (play) + ist (one who does)</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is an Engraver?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who designs buildings</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who photographs</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who sculpts</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who engraves designs</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Engraver</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Engraver = One who carves or etches designs on hard surfaces.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">खुदाई कलाकार</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>grave (carve/inscribe)</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is an Essayist?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes poems</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes plays</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes short literary pieces</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes reviews</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Essayist</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Essayist = A writer of essays on various subjects.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">निबंधकार</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>essai (trial/attempt) + ist</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is a Florist?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who sells fruits</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who arranges flowers</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who grows vegetables</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who paints flowers</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Florist</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Florist = A person who sells and arranges flowers.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">वह व्यक्ति जो कटे हुए फूलों को बेचता और सजाता है</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>Lat. flor = flower + -ist</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is a Funambulist?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who walks on a rope</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes stories</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who performs with fire</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who trains animals</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Funambulist</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Funambulist = A tightrope walker.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">जो रस्सियों पर चलता है</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>Lat. funis = rope + ambulare = to walk</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is an Illustrator?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes music</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who publishes articles</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who sings poems</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who illustrates books</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Illustrator</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Illustrator = A person who draws or creates images for books, magazines, etc.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">चित्रकार</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>illustrate (Latin: to make bright or clear)</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is a Lyricist?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who composes tunes</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes poems</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes the words of songs</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who plays instruments</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Lyricist</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Lyricist = A person who writes the lyrics for songs.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">गीतकार</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>lyric (song words) + ist</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is a Novelist?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes poems</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes fiction books</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes essays</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who edits newspapers</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Novelist</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Novelist = A person who writes novels.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">उपन्यासकार</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>novel (a fictitious prose) + ist (one who does)</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is a Painter?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who paints pictures</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes songs</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who sculpts figures</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who takes photos</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Painter</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Painter = A person who paints works of art.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">चित्रकार</span><span>/</span><span style=\"font-family:'Times New Roman'\">रंगकार</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>paint (apply color)</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is a Playactor?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes plays</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who reviews plays</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who directs plays</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who performs in plays</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Playactor</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Playactor = A person who acts in a play or drama.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">रंगमंच अभिनेता</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>play + actor</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is a Playwright?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who acts in plays</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who paints stages</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes plays</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who builds theaters</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Playwright</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Playwright = A person who writes scripts for plays.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">नाटक लेखक</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>wright (craftsperson/maker)</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is a Poet?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes stories</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who sings songs</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes poems</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who acts in dramas</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Poet</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Poet = A person who writes poetry.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">कवि</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>poein (Greek: to make/create)</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is a Satirist?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who praises society</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who criticizes humorously</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who directs movies</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes tragedies</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Satirist</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Satirist = One who uses irony and wit to expose societal flaws.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">व्यंग्यकार</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>satira (Latin: a poetic form ridiculing vice)</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is a Screenwriter?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who writes film scripts</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who edits videos</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who directs plays</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who performs in films</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Screenwriter</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Screenwriter = A person who writes screenplays for films or TV.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">पटकथा लेखक</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>screen + writer</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Who is a Sculptor?</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who paints walls</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who decorates houses</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who carves wood</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>One who models figures in stone/metal</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Sculptor</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span>Sculptor = An artist who creates sculptures.</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Hindi Meaning: </span><span style=\"font-family:'Times New Roman'\">मूर्तिकार</span></p><p style=\"margin-top:0pt;margin-bottom:6pt;font-size:11pt\"><span style=\"font-weight:bold\">Root Words: </span><span>sculpere (Latin: to carve)</span></p>"
+    }
+]
