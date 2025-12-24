@@ -1,0 +1,312 @@
+[
+    {
+        "question": "<span> In addition to study for her exams, she also works part-time.</span>",
+        "option_1": "<span> In addition to study for</span>",
+        "option_2": "<span> her exams, she</span>",
+        "option_3": "<span> also works part-time.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct sentence is: (a) In addition to study for. The correct form should be \"studying for.\" When using the phrase \"in addition to,\" it is followed by a gerund (the -ing form of a verb) to indicate an additional action or activity. In this case, the correct form is \"studying\" to match the gerund form.</span><p><span>The correct sentence should be: </span><span style=\"text-decoration:underline\">\"In addition to studying for her exams, she also works part-time.\"</span></p>"
+    },
+    {
+        "question": "<span> Typing an email, my computer suddenly froze.</span>",
+        "option_1": "<span> Typing an </span>",
+        "option_2": "<span> email, my computer </span>",
+        "option_3": "<span> suddenly froze.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> Add ‘while I was’ before ‘typing’ or ‘my computer’ will become the subject of the first part and the sentence will give a wrong meaning. </span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“While I was typing an email, my computer suddenly froze.”</span></p>"
+    },
+    {
+        "question": "<span> She admired the painting created by a talent artist.</span>",
+        "option_1": "<span> She admired the </span>",
+        "option_2": "<span> painting created </span>",
+        "option_3": "<span> by a talent artist.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> In the given sentence, the word \"talent\" is used as a noun, but it should be used as an adjective to describe the artist. Adjectives modify or describe nouns, while nouns typically name a person, place, thing, or idea. In this context, \"talented\" should be used instead of \"talent\" to describe the artist. </span><p><span>So, the corrected sentence reads: </span><span style=\"text-decoration:underline\">\"She admired the painting created by a talented artist.\"</span></p>"
+    },
+    {
+        "question": "<a name=\"_Hlk165132642\"><span>He ran </span></a><span>quick to catch the bus. </span>",
+        "option_1": "<span> He ran </span>",
+        "option_2": "<span> quick to </span>",
+        "option_3": "<span> catch the bus.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in option (b). \"Quick\" should be replaced with \"quickly\" to form the adverb of manner correctly.</span><p><span>The correct sentence should be: “</span><span style=\"text-decoration:underline\">He ran quickly to catch the bus.”</span></p>"
+    },
+    {
+        "question": "<span> The texture of the fabric feels softly against the skin.</span>",
+        "option_1": "<span> The texture of the </span>",
+        "option_2": "<span> fabric feels softly </span>",
+        "option_3": "<span> against the skin.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error lies in the adverb \"softly\" modifying the verb \"feels.\" However, in this context, we should use the adjective \"soft\" to describe the fabric itself, not how it feels. </span><p><span>Therefore, the corrected sentence should be: </span><span style=\"text-decoration:underline\">\"The texture of the soft fabric feels against the skin.\"</span></p>"
+    },
+    {
+        "question": "<span> She absented from the meeting to focus on her work. </span>",
+        "option_1": "<span> She absented from</span>",
+        "option_2": "<span> the meeting to </span>",
+        "option_3": "<span> focus on her work.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is: (a) She absented from</span><p><span>In this sentence, \"absented\" is used as a verb, and according to the rule following verbs will also take reflexive pronoun after them: (acquit, absent, avail, reconcile, amuse, resign, avenge, enjoy, exert, apply, adapt, adjust, pride). It should take a reflexive pronoun after it. Therefore, \"absented\" should be followed by a reflexive pronoun like \"herself.\" </span></p><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"She absented herself from the meeting to focus on her work.\" </span></p>"
+    },
+    {
+        "question": "<span> She kept herself promise to help him with the project.</span>",
+        "option_1": "<span> She kept herself promise </span>",
+        "option_2": "<span> to help him </span>",
+        "option_3": "<span> with the project. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is: (a) She kept herself promise</span><p><span>According to rule “keep, stop, turn, qualify, bathe, move, rest, hide\" these verbs that do not take reflexive pronoun.”</span></p><p><span>In this sentence, \"kept\" should not be followed by the reflexive pronoun \"herself\" when referring to keeping a promise. Therefore, \"herself\" should be removed to make the sentence grammatically correct.</span></p><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"She kept her promise to help him with the project.\"</span></p>"
+    },
+    {
+        "question": "<span> She congratulated him to his success. </span>",
+        "option_1": "<span> She congratulated </span>",
+        "option_2": "<span> him to </span>",
+        "option_3": "<span> his success.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: (b) him to</span><p><span>In this sentence, the verb \"congratulated\" should be followed by the preposition \"on,\" not \"to,\" when expressing congratulations for someone's success. Therefore, \"to\" should be replaced with \"on\" to make the sentence grammatically correct.</span></p><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"She congratulated him on his success.\"</span></p>"
+    },
+    {
+        "question": "<a name=\"_Hlk165291520\"><span>The children received toys to play with. </span></a>",
+        "option_1": "<span> The children </span>",
+        "option_2": "<span> received toys </span>",
+        "option_3": "<span> to play with.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct option is: (d) No error.</span><p><span>“If an infinitive qualifies a noun, the infinitive takes a suitable preposition after it.” </span></p>"
+    },
+    {
+        "question": "<span> Nothing has or will be more comforting than a warm hug from a loved one.</span>",
+        "option_1": "<span> Nothing has or will be</span>",
+        "option_2": "<span> more comforting than a </span>",
+        "option_3": "<span> warm hug from a loved one. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is: (a) Nothing has or will be</span><p><span>The sentence \"Nothing has or will be more comforting than a warm hug from a loved one\" is grammatically incorrect because it lacks parallelism. To correct it, we should ensure that both parts of the comparison (\"has\" and \"will be\") are expressed in the same structure.</span></p><p><span>The corrected sentence could be: </span><span style=\"text-decoration:underline\">\"Nothing has been or will be more comforting than a warm hug from a loved one.\"</span></p>"
+    },
+    {
+        "question": "<a name=\"_Hlk165297776\"><span>Aruna wished she </span></a><span>was taller so she could </span><a name=\"_Hlk165297795\"><span>reach the top shelf.</span></a>",
+        "option_1": "<span> Aruna wished she </span>",
+        "option_2": "<span> was taller so she could </span>",
+        "option_3": "<span> reach the top shelf.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: (b) was taller so she could</span><p><span>According to the rule, \"were\" is used for imaginary or hypothetical situations. Therefore, \"was\" should be replaced with \"were\" to make the sentence grammatically correct.</span></p><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"Aruna wished she were taller so she could reach the top shelf.\"</span></p>"
+    },
+    {
+        "question": "<span> May the team wins the championship.</span>",
+        "option_1": "<span> May the </span>",
+        "option_2": "<span> team wins </span>",
+        "option_3": "<span> the championship. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: (b) team wins</span><p><span>In optative sentences, which express wishes, hopes, or blessings, the verb should be in the plural form regardless of the singular subject. Therefore, \"wins\" should be changed to \"win\" to match the optative mood.</span></p><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"May the team win the championship.\" </span></p>"
+    },
+    {
+        "question": "<span> She apologized and reconciled with her friend after the argument. </span>",
+        "option_1": "<span> She apologized and </span>",
+        "option_2": "<span> reconciled with her</span>",
+        "option_3": "<span> friend after the argument.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is: She apologized and </span><p><span>if different verbs need different prepositions, use all the prepositions. Which is required in the given sentence.</span></p><p><span>\"To\" is added after \"apologized\" to maintain a</span><span>parallel structure with the preposition \"with\" after \"reconciled.\" This ensures that both verbs are followed by appropriate prepositions, adhering to the rule provided. </span></p><p><span>Therefore, the correct sentence is: </span><span style=\"text-decoration:underline\">“She apologized to and reconciled with her friend after the argument.\"</span></p>"
+    },
+    {
+        "question": "<a name=\"_Hlk165305712\"><span>As they have studied consistently,</span></a><span> they are confident to achieve </span><a name=\"_Hlk165305733\"><span>high scores in the examination. </span></a>",
+        "option_1": "<span> As they have studied consistently, </span>",
+        "option_2": "<span> high scores in the exam.</span>",
+        "option_3": "<span> they are confident to achieve</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is: (c) they are confident to achieve</span><p><span>In the sentence \"As they have studied consistently, they are confident to achieve high scores in the exam,\" the preposition \"to\" should be \"of\" to correctly follow the adjective \"confident.\" and V1 + ing (gerund) is used after all prepositions. </span></p><p><span>Therefore, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"As they have studied consistently, they are confident of achieving high scores in the examination.\"</span></p>"
+    },
+    {
+        "question": "<span> They succeeded in complete the project on time. </span>",
+        "option_1": "<span> They succeeded in </span>",
+        "option_2": "<span> complete the</span>",
+        "option_3": "<span> project on time.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: (b) complete the</span><p><span>In the sentence \"They succeeded in complete the project on time,\" the verb \"complete\" should be in the gerund form (-ing form) to follow the preposition \"in\" correctly. </span></p><p><span>Therefore, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"They succeeded in completing the project on time.\"</span></p>"
+    },
+    {
+        "question": "<span> They named their new puppy as Max. </span>",
+        "option_1": "<span> They named </span>",
+        "option_2": "<span> their new </span>",
+        "option_3": "<span> puppy as Max.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is: (c) puppy as Max.</span><p><span>In this sentence, the adverb \"as\" is used after the verb \"named.\" According to the rule adverb 'as' is not used with the following verbs: name, elect, think, consider, call, appoint, make, choose\", the adverb \"as\" should not be used with verbs like \"name.\" </span></p><p><span>Therefore, the sentence should be: </span><span style=\"text-decoration:underline\">\"They named their new puppy Max.\"</span></p>"
+    },
+    {
+        "question": "<span> She regards the new employee a valuable </span><a name=\"_Hlk165302280\"><span>addition to the team. </span></a>",
+        "option_1": "<span> She regards the new </span>",
+        "option_2": "<span> employee a valuable </span>",
+        "option_3": "<span> addition to the team.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: (b) employee a valuable</span><p><span>In the sentence \"She regards the new employee a valuable addition to the team,\" the adverb \"as\" is missing after the verb \"regards.\" According to the rule adverb 'as' can be used with the</span><span>following verbs: regard, describe, define, treat, view, know.\" the adverb \"as\" should be used with the verb \"regards.\" </span></p><p><span>Therefore, the sentence should be:</span><span style=\"text-decoration:underline\"> \"She regards the new employee as a valuable addition to the team.\"</span></p>"
+    },
+    {
+        "question": "<span> It's time you finish </span><a name=\"_Hlk165303681\"><span>your homework.</span></a>",
+        "option_1": "<span> It's time </span>",
+        "option_2": "<span> you finish </span>",
+        "option_3": "<span> your homework.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: (b) you finish</span><p><span>In the sentence \"It's time you finish your homework,\" the verb \"finish\" should be in the V2 form, which is \"finished,\" to match the structure required by the expression \"It's time.\" </span></p><p><span>Therefore, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"It's time you finished your homework.\"</span></p>"
+    },
+    {
+        "question": "<span> He used to play basketball every weekend when he was younger.</span>",
+        "option_1": "<span> He used to play basketball </span>",
+        "option_2": "<span> every weekend when </span>",
+        "option_3": "<span> he was younger.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct answer is: (d) No error. The sentence is grammatically correct as it is. \"He used to play basketball\" correctly uses the structure \"used to + base form of the verb\" to indicate a past habit or repeated action. </span>"
+    },
+    {
+        "question": "<span> The perfume smelled delightfully as she walked past the flower shop. </span>",
+        "option_1": "<span> The perfume smelled</span>",
+        "option_2": "<span> delightfully as she walked</span>",
+        "option_3": "<span> past the flower shop.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> In this sentence, \"delightfully\" is an adverb modifying the verb \"smelled.\" Adverbs describe how an action is performed. However, based on the rule, when verbs related to the senses (like \"smelled\") are used, they are usually followed by adjectives, not adverbs. So, the correct form would be to use the adjective \"delightful\" to describe the smell of the perfume.</span><p><span>Corrected sentence: </span><span style=\"text-decoration:underline\">“The perfume smelled delightful as she walked past the flower shop.”</span></p>"
+    },
+    {
+        "question": "<span> After years of stress, he resigned to a simpler way of life. </span>",
+        "option_1": "<span> After years of stress, </span>",
+        "option_2": "<span> he resigned to a </span>",
+        "option_3": "<span> simpler way of life.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: (b) he resigned to a</span><p><span>In this sentence, \"resigned\" is followed by the preposition \"to,\" but According to the rule, the following verbs will also take reflexive pronouns after them: (acquit, absent, avail, reconcile, amuse, resign, avenge, enjoy, exert, apply, adapt, adjust, pride), It should take a reflexive pronoun after it. Therefore, \"resigned\" should be followed by a reflexive pronoun like \"himself.\" </span></p><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"After years of stress, he resigned himself to a simpler way of life.\"</span></p>"
+    },
+    {
+        "question": "<span> He offered her a job to work.</span>",
+        "option_1": "<span> He offered </span>",
+        "option_2": "<span> her a </span>",
+        "option_3": "<span> job to work </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> In the sentence \"He offered her a job to work,\" the infinitive phrase \"to work\" qualifies the noun \"job.\" According to the rule provided, when an infinitive qualifies a noun, it should take a suitable preposition after it. In this case, the preposition \"at\" or \"in\" would be appropriate after the infinitive \"to work\" to indicate where the job is to be performed.</span><p><span>Therefore, to adhere to the rule, the corrected sentence could be: </span><span style=\"text-decoration:underline\">\"He offered her a job to work at.\"</span></p>"
+    },
+    {
+        "question": "<span> He is prone to making impulsive decisions without considering the consequences.</span>",
+        "option_1": "<span> He is prone to making </span>",
+        "option_2": "<span> impulsive decisions without </span>",
+        "option_3": "<span> considering the consequences.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct answer is: (d) No error. The sentence is grammatically correct as it is. “With the following verbs/ adjectives/ phrases ‘V1 + ing’ is used after ‘to’. Verb + used to, accustomed to, averse to, averse to, with a view to, addicted to, devoted to, in addition to, look forward to, object to, owing to, given to, taken to, prone to.”</span>"
+    },
+    {
+        "question": "<span> As she listened to the music, she grew nostalgically.</span>",
+        "option_1": "<span> As she listened </span>",
+        "option_2": "<span> to the music, </span>",
+        "option_3": "<span> she grew nostalgically. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is: (c) she grew nostalgically.</span><p><span>The adverb \"nostalgically\" should be replaced with the adjective \"nostalgic\" to properly qualify the verb \"grew\" according to the rule (“'be', 'become', 'turn', 'get', 'grow', 'keep', 'make', and 'prove' are qualified by an adjective and not by an adverb\").</span></p><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"As she listened to the music, she grew nostalgic.\"</span></p>"
+    },
+    {
+        "question": "<span> They reconciled themselves to the fact that they wouldn't </span><a name=\"_Hlk165284504\"><span>be able to attend the event. </span></a>",
+        "option_1": "<span> They reconciled themselves to </span>",
+        "option_2": "<span> the fact that they wouldn't </span>",
+        "option_3": "<span> be able to attend the event.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The sentence is correct as it is. There is no error.</span><p><span>According to the rule, the following verbs will also take reflexive pronouns after them: (acquit, absent, avail, reconcile, amuse, resign, avenge, enjoy, exert, apply, adapt, adjust, pride), It should take a reflexive pronoun after it.</span></p>"
+    },
+    {
+        "question": "<span> It's time he make a decision about his future. </span>",
+        "option_1": "<span> It's time he </span>",
+        "option_2": "<span> make a decision </span>",
+        "option_3": "<span> about his future. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: (b) make a decision</span><p><span>if it's high time/ it's time/ it's about time' is used in the</span><span>sentence, V2 comes in the sentence. In the sentence \"It's time he make a decision about his future,\" the verb \"make\" should be in the V2 form which is \"made,\".</span></p><p><span>Therefore, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"It's time he made a decision about his future.\"</span></p>"
+    },
+    {
+        "question": "<span> They became anxiously as the deadline approached.</span>",
+        "option_1": "<span> They became </span>",
+        "option_2": "<span> anxiously as the </span>",
+        "option_3": "<span> deadline approached. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p><span>The correct option is: (b) anxiously as the</span></p><p><span>The adverb \"anxiously\" should be replaced with the adjective \"anxious\" to properly qualify the verb \"became\" according to this rule (“'be', 'become', 'turn', 'get', 'grow', 'keep', 'make', and 'prove' are qualified by an adjective and not by an adverb\"). </span></p><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"They became anxious as the deadline approached.\"</span></p>"
+    },
+    {
+        "question": "<span> The weather turned coldy as the </span><a name=\"_Hlk165281821\"><span>evening progressed.</span></a>",
+        "option_1": "<span> The weather turned </span>",
+        "option_2": "<span> coldy as the</span>",
+        "option_3": "<span> evening progressed.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: (b) coldy as the</span><p><span>The adverb \"coldly\" should be replaced with the adjective \"cold\" to properly qualify the verb \"turned\" according to the rule you provided. “'be', 'become', 'turn', 'get', 'grow', 'keep', 'make', and 'prove' are qualified by an adjective and not by an adverb\" </span></p><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"The weather turned cold as the evening progressed.\"</span></p>"
+    },
+    {
+        "question": "<span> They bought a tent to camp. </span>",
+        "option_1": "<span> They bought </span>",
+        "option_2": "<span> a tent </span>",
+        "option_3": "<span> to camp </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> According to the rule that an infinitive qualifying a noun should take a suitable preposition, </span><p><span>Therefore, the correct sentence is: </span><span style=\"text-decoration:underline\">\"They bought a tent to camp in.\" </span></p>"
+    },
+    {
+        "question": "<span> The prosecution failed to prove its case, so the court acquitted itself the defendant.</span>",
+        "option_1": "<span> The prosecution failed to </span>",
+        "option_2": "<span> prove its case, so the </span>",
+        "option_3": "<span> court acquitted itself the defendant.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is: (c) court acquitted itself the defendant.</span><p><span>In this sentence, the phrase \"acquitted itself\" is incorrect. When \"acquit\" is used in the context of a court deciding that a person is not guilty, it does not take a reflexive pronoun after it. Therefore, \"itself\" should be removed to make the sentence grammatically correct. </span></p><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"The prosecution failed to prove its case, so the court acquitted the defendant.\"</span></p>"
+    },
+    {
+        "question": "<a name=\"_Hlk165287152\"><span>We enjoyed ourselves stay at the hotel. </span></a>",
+        "option_1": "<span> We enjoyed </span>",
+        "option_2": "<span> ourselves stay </span>",
+        "option_3": "<span> at the hotel. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: (b) ourselves stay</span><p><span>In this sentence, the phrase \"ourselves stay\" is incorrect. According to the rule If 'enjoy' is followed by an object, reflexive pronoun is not used, it should be \"our stay\" instead of \"ourselves stay.\" </span></p><p><span>Therefore, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"We enjoyed our stay at the hotel.\"</span></p>"
+    }
+]
