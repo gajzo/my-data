@@ -1,0 +1,382 @@
+[
+    {
+        "question": "<p>Ramesh says, “I work hard.”</p>",
+        "option_1": "<p>Ramesh says that he works hard.</p>",
+        "option_2": "<p>Ramesh said that he should works hard</p>",
+        "option_3": "<p>Ramesh said that he worked hard.</p>",
+        "option_4": "<p>Ramesh said that he work hard.</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The correct option is a: Ramesh says that he works hard.</p> <p>This option accurately reports Ramesh's statement in the indirect speech while maintaining the correct tense (\"works\" instead of \"work\") and the correct reporting verb (\"says\" changed to \"said\").</p>"
+    },
+    {
+        "question": "<span> Tarun says to me, “You work hard.”</span>",
+        "option_1": "<span> Tarun tells me that I work hard.</span>",
+        "option_2": "<span> Tarun told me that I work hard.</span>",
+        "option_3": "<span> Tarun tells me that I works hard.</span>",
+        "option_4": "<span> Tarun told me that I works hard.</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is: “Tarun tells me that I work hard.”</span><p><span>We use \"tells\" to indicate the reporting verb in the present tense and \"work\" to maintain the present tense verb in the reported clause because it's an ongoing action or a general truth. </span></p>"
+    },
+    {
+        "question": "<span> Tushar says to me, “She works hard.”</span>",
+        "option_1": "<span> Tushar told me that she work hard.</span>",
+        "option_2": "<span> Tushar tells me that she works hard. </span>",
+        "option_3": "<span> Tushar tells me that she work hard.</span>",
+        "option_4": "<span> Tushar told me that she works hard.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: “Tushar tells me that she works hard.”</span><p><span>In reported speech, when the reporting verb is in the present tense (like \"Tushar tells\"), we usually maintain the tense of the verb in the reported clause unless the reported speech is a general truth or a habitual action. Here, \"she works hard\" describes a habitual action, so we keep it in the simple present tense. Therefore, the correct form is \"Tushar tells me that she works hard.\" </span></p>"
+    },
+    {
+        "question": "<span> She said, \"I am going to the store.\" </span>",
+        "option_1": "<span> She said to that I was going to the store. </span>",
+        "option_2": "<span> She said that I was going to the store. </span>",
+        "option_3": "<span> She said to that she was going to the store.</span>",
+        "option_4": "<span> She said that she was going to the store.</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct option is d: She said that she was going to the store. </span><p><span>say/said remains unchanged in indirect speech.</span></p>"
+    },
+    {
+        "question": "<span> He said, \"I have finished my homework.\" </span>",
+        "option_1": "<span> He said that he had been finished his homework.</span>",
+        "option_2": "<span> He said to that he had finished his homework.</span>",
+        "option_3": "<span> He said that he had finished his homework. </span>",
+        "option_4": "<span> He said to that he had been finished his homework. </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is c: “He said that he had finished his homework.”</span><p><span>say/said remains unchanged in indirect speech. </span></p>"
+    },
+    {
+        "question": "<span> He said to me, \"Please pass the salt.\"</span>",
+        "option_1": "<span> He told me that pass the salt.</span>",
+        "option_2": "<span> He told me to pass the salt.</span>",
+        "option_3": "<span> He tell me that pass the salt.</span>",
+        "option_4": "<span> He tell me to pass the salt.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: He told me to pass the salt.</span><p><span><b>Explanation:</b> When reporting someone's speech from direct to indirect speech, the verb 'say to' changes into 'tell' and 'said to' changes into 'told' in indirect speech. Additionally, when the reported speech includes a request or command, it's usually changed to an infinitive with \"to\" in the indirect speech. Therefore, the correct form is \"He told me to pass the salt.\" </span></p>"
+    },
+    {
+        "question": "<span> She said to him, \"I love mountains.\" </span>",
+        "option_1": "<span> She told him that she loved mountains.</span>",
+        "option_2": "<span> She told him that she loves mountains.</span>",
+        "option_3": "<span> She tell him that she loved mountains.</span>",
+        "option_4": "<span> She tell him that she loves mountains. </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is a: She told him that she loved mountains.</span><p><span><b>Explanation:</b> In reported speech, when the reporting verb \"said to\" changes to \"told\" in indirect speech. Additionally, the tense of the verb \"love\" is shifted from present tense to past tense, so \"loved\" is used instead of \"loves\". </span></p><p><span>Therefore, the correct form is \"She told him that she loved mountains.\"</span></p>"
+    },
+    {
+        "question": "<span> She says, \"I am going to the store.\" </span>",
+        "option_1": "<span> She said that she is going to the store.</span>",
+        "option_2": "<span> She says the I am going to the store.</span>",
+        "option_3": "<span> She says that she is going to the store.</span>",
+        "option_4": "<span> She said that she is going to the store.</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is c: She says that she is going to the store.</span><p><span><b>Explanation:</b> When the reporting verb (\"says\") is in the present tense, there is no change in the tense of the reported speech. Therefore, \"I am going\" remains unchanged as \"she is going\" in the reported speech. </span></p><p><span>So, the correct form is \"She says that she is going to the store.\"</span></p>"
+    },
+    {
+        "question": "<span> He says, \"She is working hard.\" </span>",
+        "option_1": "<span> He says that she was working hard.</span>",
+        "option_2": "<span> He says that she is working hard.</span>",
+        "option_3": "<span> He tell that she is working hard. </span>",
+        "option_4": "<span> He tell that she was working hard. </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: He says that she is working hard.</span><p><span><b>Explanation:</b> When the reporting verb (\"says\") is in the present tense, there is no change in the tense of the reported speech. Therefore, \"She is working hard\" remains unchanged in the reported speech. So, the correct form is \"He says that she is working hard.\"</span></p>"
+    },
+    {
+        "question": "<span> He said, \"The sun rises in the east.\" </span>",
+        "option_1": "<span> He said that sun rises in the east.</span>",
+        "option_2": "<span> He said that the sun rises in the east.</span>",
+        "option_3": "<span> He said that the sun is rising in the east.</span>",
+        "option_4": "<span> He said that the sun raised in the east.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: He said that the sun rises in the east.</span><p><span><b>Explanation:</b> When the reporting verb (\"said\") is in the past tense, and the reported speech is a universal truth, like \"The sun rises in the east,\" there is no change in the tense of the reported speech. Therefore, the correct form is \"He said that the sun rises in the east.\"</span></p>"
+    },
+    {
+        "question": "<span> She told me, \"Practice makes perfect.\" </span>",
+        "option_1": "<span> She said to me that practice made perfect. </span>",
+        "option_2": "<span> She told me that practice made perfect. </span>",
+        "option_3": "<span> She told me that practice makes perfect. </span>",
+        "option_4": "<span> She said to me that practice makes perfect. </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is c: She told me that practice makes perfect. </span><p><span><b>Explanation:</b> When the reporting verb \"told\" is in the past tense and the reported speech is a phrase expressing a universal truth or a habitual fact, like \"Practice makes perfect,\" we don't need to change the tense of the reported speech. The present tense \"makes\" is used because it represents a timeless truth. Therefore, the correct form is \"She told me that practice makes perfect.\"</span></p>"
+    },
+    {
+        "question": "<span> She said, \"I was going to the party.\"</span>",
+        "option_1": "<span> She said that she has been going to the party. </span>",
+        "option_2": "<span> She said that she had been going to the party. </span>",
+        "option_3": "<span> She said that she had gone to the party. </span>",
+        "option_4": "<span> She said that she has gone to the party.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: She said that she had been going to the party.</span><p><span>In reported speech, when the reporting verb \"said\" is in the past tense, and the reported speech refers to an action that occurred before the time of speaking, we typically use the past perfect tense in the reported speech. \"I was going\" changes to \"she had been going\" to maintain the sequence of tenses. Therefore, the correct form is \"She said that she had been going to the party.\" </span></p>"
+    },
+    {
+        "question": "<span> He told us, \"She sang beautifully.\" </span>",
+        "option_1": "<span> He told us that she has sung beautifully. </span>",
+        "option_2": "<span>He told us that she had sand beautifully.</span>",
+        "option_3": "<span> He told us that she had sung beautifully. </span>",
+        "option_4": "<span> He told use that she had sang beautifully. </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is c: He told us that she had sung beautifully.</span><p><span><b>Explanation:</b> In reported speech, when the reporting verb \"told\" is in the past tense, and the reported speech refers to a completed action in the past, we typically use the past perfect tense in the reported speech. \"She sang\" changes to \"she had sung\" to maintain the sequence of tenses. Therefore, the correct form is \"He told us that she had sung beautifully.\" </span></p>"
+    },
+    {
+        "question": "<span> She said, \"I had finished my homework.\" </span>",
+        "option_1": "<span> She said that she had been finished her homework. </span>",
+        "option_2": "<span> She said that she had finished her homework. </span>",
+        "option_3": "<span> She said to that she had finished her homework. </span>",
+        "option_4": "<span> She said to that she had been finished her homework. </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: She said that she had finished her homework.</span><p><span><b>Explanation:</b> When converting the direct speech to indirect speech, the past perfect tense (\"had finished\") does not change. Therefore, the correct form is \"She said that she had finished her homework.\" </span></p>"
+    },
+    {
+        "question": "<span> He told us, \"They had arrived before we did.\" </span>",
+        "option_1": "<span> He told us they had been arriving before we did. </span>",
+        "option_2": "<span> He told us they had arrived before we did.</span>",
+        "option_3": "<span> He told us that they had arrived before we did. </span>",
+        "option_4": "<span> He told us that they had been arriving before we did. </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is c: He told us that they had arrived before we did.</span><p><span><b>Explanation:</b> In reported speech, the past perfect tense (\"had arrived\") remains unchanged. Therefore, the correct form is \"He told us that they had arrived before we did.\" </span></p>"
+    },
+    {
+        "question": "<span> She said, \"I can swim.\" </span>",
+        "option_1": "<span> She said that she could swim.</span>",
+        "option_2": "<span> She told that she could swim.</span>",
+        "option_3": "<span> She said that she can be swim.</span>",
+        "option_4": "<span> She told that she can be swim.</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is a: She said that she could swim.</span><p><span><b>Explanation:</b> When reporting speech, the modal verb \"can\" changes to its past tense form \"could\" in indirect speech. Therefore, the correct form is \"She said that she could swim.\"</span></p>"
+    },
+    {
+        "question": "<span> He said, \"I will help you.\"</span>",
+        "option_1": "<span> He said that he will helped me.</span>",
+        "option_2": "<span> He said that he would help me. </span>",
+        "option_3": "<span> He said that he should help me.</span>",
+        "option_4": "<span> He said that he could help me.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is a: He said that he would help me.</span><p><span><b>Explanation:</b> In reported speech, when the reporting verb is in the past tense and the original speech contains a future tense modal like \"will,\" it changes to \"would\" in the indirect speech. Therefore, the correct form is \"He said that he would help me.\"</span></p>"
+    },
+    {
+        "question": "<span> They said, \"We must leave now.\"</span>",
+        "option_1": "<span> They said that they would leave then.</span>",
+        "option_2": "<span> They said that they could leave then.</span>",
+        "option_3": "<span> They said that they might leave then.</span>",
+        "option_4": "<span> They said that they should leave then.</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct answer is d: They said that they should leave then.</span><p><span>In indirect speech, \"must\" is typically reported as \"should\" to convey a sense of necessity or obligation. Therefore, the indirect speech would be: \"They said that they should leave then.\"</span></p>"
+    },
+    {
+        "question": "<span> She said, \"I am going to the store tomorrow.\"</span>",
+        "option_1": "<span> She said that she was going to the store the upcoming day.</span>",
+        "option_2": "<span> She said that she was going to the store the next day.</span>",
+        "option_3": "<span> She said that she is going to the store tomorrow.</span>",
+        "option_4": "<span> She said that she is going to the store the next day.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: She said that she was going to the store the next day.</span><p><span><b>Explanation:</b> In reported speech, when the reporting verb is in the past tense and the reported speech refers to future time, \"tomorrow\" becomes \"the next day\" in indirect speech. Therefore, the correct form is \"She said that she was going to the store the next day.\"</span></p>"
+    },
+    {
+        "question": "<span> They said, \"We went to the beach yesterday.\" </span>",
+        "option_1": "<span> They said that they had been gone to the beach the day before. </span>",
+        "option_2": "<span> They said that they had gone to the beach the day before. </span>",
+        "option_3": "<span> They said that they has been gone to the beach the day before.</span>",
+        "option_4": "<span> They said that they had went to the beach the day before.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: They said that they had gone to the beach the day before.</span><p><span><b>Explanation:</b> In reported speech, when the reporting verb is in the past tense and the reported speech refers to an action that happened before the time of speaking, \"yesterday\" becomes \"the day before\" in indirect speech. Additionally, \"went\" changes to \"had gone\" to maintain the past perfect tense. Therefore, the correct form is \"They said that they had gone to the beach the day before.\"</span></p>"
+    },
+    {
+        "question": "<span> She asked, \"Are you coming to the party?\"</span>",
+        "option_1": "<span> She asked if you were coming to the party.</span>",
+        "option_2": "<span> She asked if I was coming to the party. </span>",
+        "option_3": "<span> She asked if I come to the party.</span>",
+        "option_4": "<span> She asked if you come to the party. </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> Option “b” is indeed the <b>correct answer:</b> She asked if I was coming to the party.</span><p><span>In reported speech, when reporting a question, the pronouns are generally changed according to the perspective of the reporting speaker. Since \"I\" refers to the person reporting the speech, the correct form is \"She asked if I was coming to the party.\"</span></p>"
+    },
+    {
+        "question": "<span> He said, \"Have you finished your homework?\"</span>",
+        "option_1": "<span> He asked if I had been finished my homework.</span>",
+        "option_2": "<span> He asked if I had finished my homework.</span>",
+        "option_3": "<span> He asked if you had finished my homework.</span>",
+        "option_4": "<span> He asked if you had been finished my homework.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: He asked if I had finished my homework.</span><p><span><b>Explanation:</b> In reported speech, when reporting a question, we typically use the conjunction \"if\" or \"whether\" and change the pronouns and verb tense according to the context. Since the speaker is asking about the listener's action (\"Have you finished your homework?\"), the correct form is \"He asked if I had finished my homework.\"</span></p>"
+    },
+    {
+        "question": "<span> They asked, \"Will it rain tomorrow?\" </span>",
+        "option_1": "<span> They asked if it could rain tomorrow.</span>",
+        "option_2": "<span> They asked if it would rain tomorrow. </span>",
+        "option_3": "<span> They asked if it will be rain tomorrow.</span>",
+        "option_4": "<span> They asked if it might rain tomorrow.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is d: They asked if it would rain tomorrow.</span><p><span><b>Explanation:</b> In reported speech, when reporting a question, we typically use the conjunction \"if\" or \"whether\" and change the verb tense according to the context. Since the original question is in the future tense (\"Will it rain tomorrow?\"), the correct form is \"They asked if it would rain tomorrow.\" </span></p>"
+    },
+    {
+        "question": "<span> He said to her, 'Madam, can I help you?</span>",
+        "option_1": "<span> He said her with respect if he could help her.</span>",
+        "option_2": "<span> He asked her respectfully if he would help her.</span>",
+        "option_3": "<span> He asked her respectfully if he could help her. </span>",
+        "option_4": "<span> He asked her respectfully if he might help her. </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is c: He asked her respectfully if he could help her.</span><p><span><b>Explanation:</b> In the indirect form, \"said to\" is replaced by \"asked\" to maintain a respectful tone. \"Can\" is changed to \"could\" for politeness, as it's a more courteous way to make an offer. Therefore, the correct form is \"He asked her respectfully if he could help her.\"</span></p>"
+    },
+    {
+        "question": "<span> He said to me, “Do you know them?\"</span>",
+        "option_1": "<span> He asked me if I knew they.</span>",
+        "option_2": "<span> He asked me if I knew them. </span>",
+        "option_3": "<span> He asked me if I was known them.</span>",
+        "option_4": "<span> He asked me if I know them.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: He asked me if I knew them.</span><p><span><b>Explanation:</b> In indirect speech, when reporting an interrogative sentence, we often use the conjunction \"if\" or \"whether\" and adjust the pronouns and verb tense accordingly. In this case, \"Do you know them?\" becomes \"He asked me if I knew them.\"</span></p>"
+    },
+    {
+        "question": "<span> She said to me, 'When will the train arrive? </span>",
+        "option_1": "<span> She asked me when the train could arrive.</span>",
+        "option_2": "<span> She asked me when the train would arrive. </span>",
+        "option_3": "<span> She asked me when the train should arrive. </span>",
+        "option_4": "<span> She asked me when the train might arrive. </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: She asked me when the train would arrive.</span><p><span><b>Explanation:</b> In indirect speech, when reporting a question, we often use the conjunction \"when\" to introduce the question. Additionally, we change the verb tense from the original direct question to match the context. Since the original question uses \"will,\" the correct form in reported speech is \"would\" to indicate future tense from the perspective of the past. </span></p>"
+    },
+    {
+        "question": "<span> He said to her, 'Don't touch that. </span>",
+        "option_1": "<span> He warned her not to touch that.</span>",
+        "option_2": "<span> He warned her don’t to touch that.</span>",
+        "option_3": "<span> He warned her didn’t touch that. </span>",
+        "option_4": "<span> He warned her not to touched that.</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is a: He warned her not to touch that.</span><p><span><b>Explanation:</b> In indirect speech, when reporting a direct command, we use the structure \"warned her not to\" to convey the prohibition. Option (a) accurately reflects this structure.</span></p>"
+    },
+    {
+        "question": "<span> She said to him, 'Stay away from here.” </span>",
+        "option_1": "<span> She instructed him to stayed away from here.</span>",
+        "option_2": "<a name=\"_Hlk166595840\"><span>She instructed him to stay away from there. </span></a>",
+        "option_3": "<span> She instructed him to stay away from here.</span>",
+        "option_4": "<span> She instructed him to stayed away from there.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is b: She instructed him to stay away from there. </span><p><span><b>Explanation:</b> In indirect speech, when reporting a direct command, the verb form remains unchanged. Therefore, \"Stay\" remains \"stay\" in the reported sentence. Additionally, \"here\" changes to \"there\" to reflect the shift in perspective. Thus, the correct form is \"She instructed him to stay away from there.\" </span></p>"
+    },
+    {
+        "question": "<span> \"They said to us, 'Do not enter this area.\"</span>",
+        "option_1": "<span> They prohibited us from entered that area.</span>",
+        "option_2": "<span> They prohibited us from entering into that area.</span>",
+        "option_3": "<span> They prohibited us from entering that area.</span>",
+        "option_4": "<span> They prohibited us from entered into that area.</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is c: They prohibited us from entering that area.</span><p><span><b>Explanation:</b> In indirect speech, when reporting a direct command, we use the appropriate verb form, in this case, \"entering,\" to maintain the meaning of the original sentence. Option (c) accurately reflects this structure.</span></p>"
+    },
+    {
+        "question": "<span> \"The teacher said to the students, 'Don't speak during the exam.\"</span>",
+        "option_1": "<span> The teacher advised the students not to speak during the exam.</span>",
+        "option_2": "<span> The teacher advised the students do not to speak during the exam.</span>",
+        "option_3": "<span> The teacher advised the students not to spoke during the exam.</span>",
+        "option_4": "<span> The teacher advised the students do not to spoke during the exam.</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is a: The teacher advised the students not to speak during the exam.</span><p><span><b>Explanation:</b> In indirect speech, when reporting a direct command, we use the appropriate verb form, in this case, \"not to speak,\" to maintain the meaning of the original sentence. Option (a) accurately reflects this structure.</span></p>"
+    },
+    {
+        "question": "<span> Everybody said, “How well he sings!”</span>",
+        "option_1": "<span> Everybody told us that he sings very well.</span>",
+        "option_2": "<span> Everybody exclaimed that he sings very well.</span>",
+        "option_3": "<span> Everybody exclaimed that he sang very well.</span>",
+        "option_4": "<span> Everybody told us that how he sang very well.</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is c: Everybody exclaimed that he sang very well.</span><p><span><b>Explanation:</b> In the indirect form, \"said\" changes to \"exclaimed\" to convey the sense of admiration expressed in the original sentence. Additionally, since the reporting verb is in the past tense (\"said\"), the verb tense in the reported speech also changes, so \"sings\" becomes \"sang.\"</span></p>"
+    },
+    {
+        "question": "<span> \"He said, 'May you have a prosperous journey.\"</span>",
+        "option_1": "<span> He wished that I should have a prosperous journey.</span>",
+        "option_2": "<span> He wished that I might have a prosperous journey.</span>",
+        "option_3": "<span> He wished that I could have a prosperous journey.</span>",
+        "option_4": "<span> He wished that I would have a prosperous journey.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: He wished that I might have a prosperous journey.</span><p><span><b>Explanation:</b> In indirect speech, when reporting a wish or prayer expressed in the subjunctive mood, the modal \"may\" typically changes to \"might\" to maintain the sense of possibility or uncertainty. Therefore, the correct form is \"He wished that I might have a prosperous journey.\"</span></p>"
+    },
+    {
+        "question": "<p>He said, “Long live the king”.</p>",
+        "option_1": "<p>He said that the king might live long.</p>",
+        "option_2": "<p>He prayed that the king might live long.</p>",
+        "option_3": "<p>He prayed that the king should live long.</p>",
+        "option_4": "<p>He prayed that the king could live long.</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The correct option is b: He prayed that the king might live long.</p> <p><b>Explanation:</b> When expressing a wish for someone's long life in indirect speech, the verb \"said\" changes to \"prayed\" to convey the sense of a prayer or wish. Additionally, the modal \"may\" changes to \"might\" to maintain the subjunctive mood. Therefore, the correct form is \"He prayed that the king might live long.\"</p>"
+    },
+    {
+        "question": "<span> He said, \"She used to live in London.\"</span>",
+        "option_1": "<span> He tell that she used to live in London.</span>",
+        "option_2": "<span> He mentioned that she used to live in London.</span>",
+        "option_3": "<span> He mentioned that she uses to live in London.</span>",
+        "option_4": "<span> He said that she uses to live in London.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: He mentioned that she used to live in London.</span><p><span><b>Explanation:</b> In indirect speech, the phrase \"used to\" remains unchanged. Therefore, the correct form is \"He mentioned that she used to live in London.\"</span></p>"
+    },
+    {
+        "question": "<span> She said to me, “While I was cooking, you were playing”.</span>",
+        "option_1": "<span> She told me that while she was cooking, I was playing.</span>",
+        "option_2": "<span> She told me that while she was cooking, you were playing.</span>",
+        "option_3": "<span> She told me that while she cooks, I was playing.</span>",
+        "option_4": "<span> She told me that while she cooked, I was playing. </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is a: She told me that while she was cooking, I was playing. </span><p><span>In this option, the pronouns are adjusted correctly to match the reported speech. \"She\" is changed to \"I\" and \"you\" is changed to \"I\" to maintain the perspective from the original sentence.</span></p>"
+    },
+    {
+        "question": "<span> She said, “When I met her, she was dancing”.</span>",
+        "option_1": "<span> She said that when she met, she had been dancing.</span>",
+        "option_2": "<span> She said that when she meet her, she was dancing.</span>",
+        "option_3": "<span> She said that when she met her, she was dancing.</span>",
+        "option_4": "<span> She said that when she meet, she had been dancing. </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is c: She said that when she met her, she was dancing.</span>"
+    },
+    {
+        "question": "<span> She said, “I prepared the soup and he fried the chips”.</span>",
+        "option_1": "<span> She said that she prepared the soup and he fried the chips.</span>",
+        "option_2": "<span> She said that she prepare the soup and he had fried the chips.</span>",
+        "option_3": "<span> She said that she prepared the soup and he had fried the chips.</span>",
+        "option_4": "<span> She said that she prepare the soup and he fried the chips.</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is a: She said that she prepared the soup and he fried the chips. </span><p><span>If two simultaneous actions are given in past indefinite tense, the tense does not change when the speech in changed from direct to indirect. </span></p>"
+    },
+    {
+        "question": "<span> \"He said, 'The Titanic sank in 1912.</span>",
+        "option_1": "<span> He said that the Titanic was sank in 1912.</span>",
+        "option_2": "<span> He said that the Titanic sank in 1912.</span>",
+        "option_3": "<span> He said that the Titanic sunk in 1912.</span>",
+        "option_4": "<span> He said that the Titanic was sunk in 1912.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is b: He said that the Titanic sank in 1912.</span><p><span>\"In case of historical event, the tense does not change.\" </span></p>"
+    }
+]
