@@ -1,0 +1,332 @@
+[
+    {
+        "question": "<span> A warrior is taught never to fight cowardly. </span>",
+        "option_1": "<span> A warrior is </span>",
+        "option_2": "<span> taught never to </span>",
+        "option_3": "<span> fight cowardly. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> In the given sentence ‘Cowardly’ is an adjective and ‘Fight’ is a verb and for a</span><span>verb we need an adverb to qualify it. So, ‘In a cowardly manner’ is the correct form.</span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“A warrior is taught never to fight in a cowardly manner.”</span></p>"
+    },
+    {
+        "question": "<span> The bird soared through the sky, feeling completely freely.</span>",
+        "option_1": "<span> The bird soared </span>",
+        "option_2": "<span> through the sky, </span>",
+        "option_3": "<span> feeling completely freely. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct answer is: (c) feeling completely freely.</span><p><span>The sentence contains an error in part (c). The adverb \"freely\" is redundant here because \"completely\" already conveys the idea of being unrestricted or uninhibited. </span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"The bird soared through the sky, feeling completely free.\" </span></p>"
+    },
+    {
+        "question": "<span> I occasionally have seen him at the gym in the mornings. </span>",
+        "option_1": "<span> I occasionally have seen </span>",
+        "option_2": "<span> him at the gym </span>",
+        "option_3": "<span> in the mornings.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The adverb \"occasionally\" should indeed come between the auxiliary verb \"have\" and the main verb \"seen\" according to the rule. </span><p><span>The correct answer would be: </span><span style=\"text-decoration:underline\">“I have occasionally seen him at the gym in the mornings.”</span></p>"
+    },
+    {
+        "question": "<span> The company made an outrightly decision to invest in new technology. </span>",
+        "option_1": "<span> The company made an </span>",
+        "option_2": "<span> outrightly decision to </span>",
+        "option_3": "<span> invest in new technology. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is: (b) outrightly decision to</span><p><span>The sentence contains an error in part (b). \"Outrightly\" is not the correct adverb form of \"outright.\" The correct adverb form is simply \"outright.\" </span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"The company made an outright decision to invest in new technology.\"</span></p>"
+    },
+    {
+        "question": "<span> Restaurant which serves the best pizza in town? </span>",
+        "option_1": "<span> Restaurant which </span>",
+        "option_2": "<span> serves the best </span>",
+        "option_3": "<span> pizza in town? </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The sentence \"Restaurant which serves the best pizza in town?\" is not correct needs a slight adjustment to adhere to the rule that interrogative adverbs are used at the beginning of a sentence. </span><p><span>The revised sentence would be: </span><span style=\"text-decoration:underline\">\"Which restaurant serves the best pizza in town?\"</span></p>"
+    },
+    {
+        "question": "<span> There isn't very hope of finding a solution to the problem anytime soon. </span>",
+        "option_1": "<span> the problem anytime soon. </span>",
+        "option_2": "<span> No error</span>",
+        "option_3": "<span> of finding a solution to </span>",
+        "option_4": "<span> There isn't very hope </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The sentence contains an error related to the use of \"very\" with \"hope.\" Instead of \"very,\" the correct adverb to use with \"hope\" in this context is \"much.\" So, the correct answer is: (d) There isn't very hope.</span><p><span>Therefore, the corrected sentence should be: </span><span style=\"text-decoration:underline\">\"There isn't much hope of finding a solution to the problem anytime soon.\"</span></p>"
+    },
+    {
+        "question": "<span> The weather was fairly more pleasant yesterday compared to today, as it was warmer and sunnier. </span>",
+        "option_1": "<span> The weather was fairly more </span>",
+        "option_2": "<span> pleasant yesterday compared to </span>",
+        "option_3": "<span> today, as it was warmer and sunnier.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> the correct answer is: (a) The weather was fairly more.</span><p><span>Rather, it is used with a</span><span>positive and a comparative degree. (Rather bad, rather difficult, rather worse, rather hotter.)</span></p><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“The weather was rather more pleasant yesterday compared to today, as it was warmer and sunnier.”</span></p>"
+    },
+    {
+        "question": "<span> The situation calls for nothing else than immediate action. </span>",
+        "option_1": "<span> The situation calls </span>",
+        "option_2": "<span> for nothing else </span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> than immediate action. </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The sentence has a mistake. The word \"else\" should be followed by \"but,\" not \"than.\" </span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"The situation calls for nothing else but immediate action.\"</span></p>"
+    },
+    {
+        "question": "<span> I rarely went to meet somebody. </span>",
+        "option_1": "<span> I rarely </span>",
+        "option_2": "<span> went to </span>",
+        "option_3": "<span> No error</span>",
+        "option_4": "<span> meet somebody. </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> use anybody in place of somebody.</span><p><span>Therefore, the correct answer would be: </span><span style=\"text-decoration:underline\">“I rarely went to meet anybody.”</span></p>"
+    },
+    {
+        "question": "<span> We'll bring sandwiches, and fruit as well for the picnic also. </span>",
+        "option_1": "<span> We'll bring sandwiches, </span>",
+        "option_2": "<span> and fruit as well </span>",
+        "option_3": "<span> for the picnic also. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The sentence has a redundancy issue. Both \"as well\" and \"also\" are used, which is unnecessary. To correct it, we should remove \"also\" because it is redundant with \"as well.\" </span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"We'll bring sandwiches, and fruit as well for the picnic.\" </span></p>"
+    },
+    {
+        "question": "<span> He's been reading a lot of mystery novels late, trying to solve the cases before the end of each book. </span>",
+        "option_1": "<span> He's been reading a lot of mystery </span>",
+        "option_2": "<span> novels late, trying to solve the </span>",
+        "option_3": "<span> cases before the end of each book. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is: (b) novels late, trying to solve the </span><p><span>The sentence contains an error in part (b). \"Late\" indicates lateness in time, but it's not the appropriate adverb in this context. The correct adverb to use here is \"lately,\" which means recently. </span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"He's been reading a lot of mystery novels lately, trying to solve the cases before the end of each book.\" </span></p>"
+    },
+    {
+        "question": "<span> Seldom he does forget his keys when leaving the house. </span>",
+        "option_1": "<span> No error </span>",
+        "option_2": "<span> leaving the house. </span>",
+        "option_3": "<span> his keys when </span>",
+        "option_4": "<span> Seldom he does forget </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> So, the correct answer is: (d) Seldom he does forget. </span><p><span>The sentence contains an error. When an adverb of time like \"seldom\" begins a sentence, subject-verb inversion is required. </span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"Seldom does he forget his keys when leaving the house.\"</span></p>"
+    },
+    {
+        "question": "<span> The presentation will be probably rescheduled due to technical issues.</span>",
+        "option_1": "<span> The presentation will </span>",
+        "option_2": "<span> be probably rescheduled </span>",
+        "option_3": "<span> due to technical issues.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The sentence contains an error. Adverbs of frequency or degree, such as \"probably,\" should come after forms of the verb \"to be.\" </span><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"The presentation will probably be rescheduled due to technical issues.\" </span></p>"
+    },
+    {
+        "question": "<span> When I read his biography, I hardly found something in his character that I could admire.</span>",
+        "option_1": "<span> When I read his biography </span>",
+        "option_2": "<span> No error</span>",
+        "option_3": "<span> in his character that I could admire</span>",
+        "option_4": "<span> I hardly found something</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> In this context, “hardly” will come with “anything”. </span><p><span>So, the correct sentence is When I read his biography, </span><span style=\"text-decoration:underline\">I hardly found anything </span><span>in his character that I could admire.</span></p>"
+    },
+    {
+        "question": "<span> The restaurant was fairly crowded, so they decided to eat elsewhere. </span>",
+        "option_1": "<span> The restaurant was fairly </span>",
+        "option_2": "<span> crowded, so they </span>",
+        "option_3": "<span> decided to eat elsewhere. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In this context, \"rather\" would better convey the idea that the restaurant was somewhat unexpectedly or surprisingly crowded. </span><p><span>Therefore, the corrected sentence should be: </span><span style=\"text-decoration:underline\">\"The restaurant was rather crowded, so they decided to eat elsewhere.\" </span></p>"
+    },
+    {
+        "question": "<span> The book was so informative, providing valuable insights into the topic. </span>",
+        "option_1": "<span> The book was so informative, </span>",
+        "option_2": "<span> providing valuable </span>",
+        "option_3": "<span> insights into the topic.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The word \"so\" is not suitable in this context because it suggests an extreme degree of informativeness beyond what is typical or expected. Instead, \"very\" should be used to simply indicate a high level of informativeness. Therefore, we cannot use ‘so’ in place of ‘very’. </span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">“The book was very informative, providing valuable insights into the topic.” </span></p>"
+    },
+    {
+        "question": "<span> She had no other plan but to adapt to the new circumstances. </span>",
+        "option_1": "<span> She had no other plan </span>",
+        "option_2": "<span> but to adapt to </span>",
+        "option_3": "<span> the new circumstances. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> This follows the rule that \"than\" is typically used after phrases like \"no other\" to indicate a comparison or choice between alternatives.</span><p><span>Therefore, the corrected version is: </span><span style=\"text-decoration:underline\">“She had no other plan than to adapt to the new circumstances.” </span></p>"
+    },
+    {
+        "question": "<span> We should have blankets enough to keep us warm during the winter. </span>",
+        "option_1": "<span> We should have</span>",
+        "option_2": "<span> blankets enough to keep </span>",
+        "option_3": "<span> us warm during the winter. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> \"Enough\" should come before the noun but follow an adjective. So, the corrected option is: (b) enough blankets to keep </span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"We should have enough blankets to keep us warm during the winter.\"</span></p>"
+    },
+    {
+        "question": "<span> Both of them refused to not attend the party without each other. </span>",
+        "option_1": "<span> Both of them refused </span>",
+        "option_2": "<span> to not attend the party </span>",
+        "option_3": "<span> without each other. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The sentence has a double negative (\"refused\" and \"not\"), which makes it contradictory. To correct it, we should remove ‘not’. </span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"Both of them refused to attend the party without each other.\"</span></p>"
+    },
+    {
+        "question": "<span> They chose her to represent as the team at the conference.</span>",
+        "option_1": "<span> They chose her to </span>",
+        "option_2": "<span> represent as the </span>",
+        "option_3": "<span> team at the conference. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The sentence has an error. The word \"as\" should be removed, as it is not needed in this context. </span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"They chose her to represent the team at the conference.\"</span></p>"
+    },
+    {
+        "question": "<p>His appearance slovenly was a stark contrast to his well-dressed colleagues.</p>",
+        "option_1": "<p>His appearance slovenly</p>",
+        "option_2": "<p>was a stark contrast to</p>",
+        "option_3": "<p>his well-dressed colleagues.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The word \"slovenly\" should not directly precede the noun \"appearance.\" Instead, it should function as an adjective describing the appearance.</p> <p>Here's the corrected version: \"His slovenly appearance was a stark contrast to his well-dressed colleagues.\"</p>"
+    },
+    {
+        "question": "<span> They hard had time to prepare for the exam due to their busy schedules.</span>",
+        "option_1": "<span> to their busy schedules.</span>",
+        "option_2": "<span> No error</span>",
+        "option_3": "<span> prepare for the exam due </span>",
+        "option_4": "<span> They hard had time to </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct answer is: (d) They hard had time to </span><p><span>The sentence contains an error in part (d). The correct word order should be \"hardly had\" instead of \"hard had\". Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"They hardly had time to prepare for the exam due to their busy schedules.\" </span></p>"
+    },
+    {
+        "question": "<span> He steadily, climbed the mountain, never faltering in his determination to reach the summit. </span>",
+        "option_1": "<span> He Steadily, climbed the mountain, </span>",
+        "option_2": "<span> never faltering in his </span>",
+        "option_3": "<span> determination to reach the summit. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) He Steadily, climbed the mountain, </span><p><span>The sentence contains an error. When emphasizing an adverb, it should be placed at the beginning of the sentence. </span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"Steadily, he climbed the mountain, never faltering in his determination to reach the summit.\" </span></p>"
+    },
+    {
+        "question": "<span> Never I have seen such a beautiful </span><a name=\"_Hlk163654954\"><span>sunset before. </span></a>",
+        "option_1": "<span> Never I have seen</span>",
+        "option_2": "<span> such a beautiful </span>",
+        "option_3": "<span> sunset before. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) Never I have seen </span><p><span>The sentence has an error related to subject-verb inversion. When starting a sentence with an adverb of time like \"never,\" subject-verb inversion is required. </span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"Never have I seen such a beautiful sunset before.\"</span></p>"
+    },
+    {
+        "question": "<span> The outright rejection of my plea disappointed me. </span>",
+        "option_1": "<span> The outright rejection</span>",
+        "option_2": "<span> of my plea</span>",
+        "option_3": "<span> disappointed me</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The sentence \"The outright rejection of my plea disappointed me\" is grammatically correct and clear. There are no errors in terms of grammar, punctuation, or word choice.</span>"
+    },
+    {
+        "question": "<span> The children are eager to watch the movie, and I also think it will be enjoyable. </span>",
+        "option_1": "<span> The children are eager </span>",
+        "option_2": "<span> to watch the movie, and I </span>",
+        "option_3": "<span> also think it will be enjoyable. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> ‘Too’ means ‘also’ but usually ‘too’ takes the place of ‘also’ when needed after some clause or subject. </span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">“The children are eager to watch the movie, and I too think it will be enjoyable.” </span></p>"
+    },
+    {
+        "question": "<p>We have no option other but to wait for the next train.</p>",
+        "option_1": "<p>We have no option</p>",
+        "option_2": "<p>other but to wait</p>",
+        "option_3": "<p>for the next train.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>In accordance with the rule, \"other\" should be followed by \"than,\" not \"but.\"</p> <p>Here's the corrected version: \"We have no option other than to wait for the next train.\"</p>"
+    },
+    {
+        "question": "<span> He forbids his children from not eating sweets before dinner. </span>",
+        "option_1": "<span> He forbids his children </span>",
+        "option_2": "<span> from not eating </span>",
+        "option_3": "<span> sweets before dinner. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p><span>The sentence has a double negative (\"forbids\" and \"not\"), which makes it contradictory. To correct it, we should remove ‘not’. </span></p><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"He forbids his children from eating sweets before dinner.\" </span></p>"
+    },
+    {
+        "question": "<span> They treat their employees valued members of the team.</span>",
+        "option_1": "<span> They treat their </span>",
+        "option_2": "<span> employees valued </span>",
+        "option_3": "<span> members of the team. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The sentence is almost correct, but it needs a preposition \"as\" before \"valued\" to indicate the manner in which their employees are treated. </span><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"They treat their employees as valued members of the team.\"</span></p><p><a name=\"_Hlk163829819\"></a></p>"
+    },
+    {
+        "question": "<p>There is little if nothing we can do to change the situation.</p>",
+        "option_1": "<p>There is little if nothing</p>",
+        "option_2": "<p>we can do</p>",
+        "option_3": "<p>to change the situation.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>‘Seldom or never’, ‘seldom if ever’, little or nothing’, and ‘little if anything’ is correct.</p> <p>Therefore, the correct answer would be: “There is little or nothing we can do to change the situation.”</p>"
+    },
+    {
+        "question": "<span> The view from the top of the mountain was very breathtaking to describe in words. </span>",
+        "option_1": "<span> The view from the top of the </span>",
+        "option_2": "<span> mountain was very breathtaking </span>",
+        "option_3": "<span> to describe in words. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The word \"very\" is not needed in this sentence because \"very\" is typically used to intensify adjectives, and \"breathtaking\" is already a strong adjective on its own. Instead, \"too\" can be used to convey that the view was so impressive that it was beyond the capability of words to describe it adequately. ‘Too….to’ can take pleasant adjectives too.</span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">“The view from the top of the mountain was too breathtaking to describe in words.”</span></p>"
+    },
+    {
+        "question": "<p>The room is enough spacious to accommodate all of our guests.</p>",
+        "option_1": "<p>The room is enough</p>",
+        "option_2": "<p>spacious to accommodate</p>",
+        "option_3": "<p>all of our guests.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>In this sentence, \"enough\" is used incorrectly. According to the rule provided, \"enough\" should precede the adjective it modifies when acting as an adverb. However, in this sentence, \"enough\" is placed after the adjective \"spacious,\" which is incorrect.</p> <p>Here's the corrected version: \"The room is spacious enough to accommodate all of our guests.\"</p>"
+    },
+    {
+        "question": "<span> Unless you don’t finish your homework, you can't go out to play. </span>",
+        "option_1": "<span> Unless you don’t </span>",
+        "option_2": "<span> finish your homework </span>",
+        "option_3": "<span> you can't go out to play. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p><span>The sentence has a double negative (\"unless\" and \"don't\"), which makes it contradictory and confusing. To correct it, we should remove “don’t”. </span></p><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"Unless you finish your homework, you can't go out to play.\" </span></p>"
+    }
+]
