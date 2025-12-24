@@ -1,0 +1,252 @@
+[
+    {
+        "question": "<span> We asked where find the nearest gas station.</span>",
+        "option_1": "<span> We asked </span>",
+        "option_2": "<span> where find the </span>",
+        "option_3": "<span> nearest gas station.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrase should be \"where to find\" instead of \"where find.\" After the verb \"asked,\" we typically use the infinitive form of the verb (the \"to + base form\") to express manner. So, it should be \"where to find\" to maintain grammatical consistency. The infinitive form is used after verbs like \"asked\" to express manner. </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"We asked where to find the nearest gas station.\"</span></p>"
+    },
+    {
+        "question": "<span> The teacher explained where submit the homework.</span>",
+        "option_1": "<span> The teacher </span>",
+        "option_2": "<span> explained where submit </span>",
+        "option_3": "<span> the homework.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrase should be \"explained where to submit\" instead of \"explained where submit.\" After the verb \"explained,\" we typically use the infinitive form of the verb (the \"to + base form\") to express manner. So, it should be \"where to submit\" to maintain grammatical consistency. The infinitive form is used after verbs like \"explained\" to express manner. </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"The teacher explained where to submit the homework.\"</span></p>"
+    },
+    {
+        "question": "<span> She discovered what do when stranded in the wilderness. </span>",
+        "option_1": "<span> She discovered what </span>",
+        "option_2": "<span> do when stranded </span>",
+        "option_3": "<span> in the wilderness.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrase should be \"what to do\" instead of \"what do.\"</span><p><span>After the verb \"discovered,\" we typically use the infinitive form of the verb (the \"to + base form\") to express manner. So, it should be \"what to do\" to maintain grammatical consistency. The infinitive form is used after verbs like \"discovered\" to express manner. </span></p><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"She discovered what to do when stranded in the wilderness.\"</span></p>"
+    },
+    {
+        "question": "<span> The coach taught where position the hands for a proper golf swing.</span>",
+        "option_1": "<span> The coach taught where</span>",
+        "option_2": "<span> position the hands </span>",
+        "option_3": "<span> for a proper golf swing.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrase should be \"where to position\" instead of \"where position.\" After the verb \"taught,\" we typically use the infinitive form of the verb (the \"to + base form\") to express manner. So, it should be \"where to position\" to maintain grammatical consistency. The infinitive form is used after verbs like \"taught\" to express manner. </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"The coach taught where to position the hands for a proper golf swing.\"</span></p>"
+    },
+    {
+        "question": "<span> They wonder where go for the </span><a name=\"_Hlk165389049\"><span>best hiking trails. </span></a>",
+        "option_1": "<span> They wonder </span>",
+        "option_2": "<span> No error </span>",
+        "option_3": "<span> where go for the </span>",
+        "option_4": "<span> best hiking trails.</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The error is in part (c). The correct phrase should be \"where to go\" instead of \"where go.\" After the verb \"wonder,\" we typically use the infinitive form of the verb (the \"to + base form\") to express manner. So, it should be \"where to go\" to maintain grammatical consistency. The infinitive form is used after verbs like \"wonder\" to express manner. </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"They wonder where to go for the best hiking trails.\" </span></p>"
+    },
+    {
+        "question": "<span> I have a comfortable chair to sit while reading. </span>",
+        "option_1": "<span> I have a comfortable </span>",
+        "option_2": "<span> chair to sit </span>",
+        "option_3": "<span> while reading</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrase should be \"chair to sit on\" instead of \"chair to sit.\" After the noun \"chair,\" we typically use a preposition such as \"on\" to complete the phrase and provide clarity about the action being performed. So, it should be a</span><span>\"chair to sit on\" to maintain grammatical consistency. </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"I have a comfortable chair to sit on while reading.\"</span></p>"
+    },
+    {
+        "question": "<span> They had sooner to finish the project than delay it any longer. </span>",
+        "option_1": "<span> They had sooner </span>",
+        "option_2": "<span> to finish the project </span>",
+        "option_3": "<span> than delay it any longer. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is: (b) to finish the project</span><p><span>After \"had sooner,\", “had better”, “had rather”, “would rather”, sooner than”, and “rather than”, we typically use the base form of the verb without \"to.\" This structure indicates a preference for one action over another. Therefore, \"to finish\" should be corrected to \"finish\" to adhere to this grammar rule. </span></p><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"They had sooner finish the project than delay it any longer.\"</span></p>"
+    },
+    {
+        "question": "<span> She would rather to stay home than go to the party. </span>",
+        "option_1": "<span> She would rather to </span>",
+        "option_2": "<span> stay home than </span>",
+        "option_3": "<span> go to the party. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> After \"had sooner,\", “had better”, “had rather”, “would rather”, sooner than”, and “rather than”, we typically use the base form of the verb without \"to.\" This structure indicates a preference for one action over another. So, the correct construction is \"would rather + base form of the verb.\" </span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“She would rather stay home than go to the party.” </span></p>"
+    },
+    {
+        "question": "<span> The teacher made the students to complete the assignment before leaving. </span>",
+        "option_1": "<span> The teacher made the </span>",
+        "option_2": "<span> students to complete the </span>",
+        "option_3": "<span> assignment before leaving. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). </span><p><span>The verb 'Watch', 'Bid', 'make', 'help', 'feel', 'see', and</span><span>'hear' is the verbs that typically take a direct infinitive without the \"to\" particle. So, the correct structure is \"make + object + base form of the verb.\"</span></p><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“The teacher made the students complete the assignment before leaving.”</span></p>"
+    },
+    {
+        "question": "<a name=\"_Hlk165538833\"><span>We watched the sun to set over the horizon. </span></a>",
+        "option_1": "<span> We watched the </span>",
+        "option_2": "<span> sun to set </span>",
+        "option_3": "<span> over the horizon. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrasing should be: (b) sun set </span><p><span>'Watch', 'Bid', 'make', 'help', 'feel', 'see', 'hear' is followed by the direct infinitive. So, we use \"set,\" not \"to set.\" So, the correct construction is \"watched + direct infinitive.\" </span></p><p><span>Therefore, the sentence would be: </span><span style=\"text-decoration:underline\">“We watched the sun set over the horizon.”</span></p>"
+    },
+    {
+        "question": "<span> The manager let the employees to leave work early on Friday. </span>",
+        "option_1": "<span> The manager let the </span>",
+        "option_2": "<span> No error </span>",
+        "option_3": "<span> employees to leave </span>",
+        "option_4": "<span> work early on Friday. </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The error is in part (c). The correct phrasing should be: (c) employees leave</span><p><span>In this context, \"let\" is followed by the direct infinitive \"leave,\" not \"to leave.\" So, the correct construction is \"let + direct infinitive.\" </span></p><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“The manager let the employees leave work early on Friday.”</span></p>"
+    },
+    {
+        "question": "<span> Why not to watch a movie tonight instead of going out? </span>",
+        "option_1": "<span> Why not to watch </span>",
+        "option_2": "<span> a movie tonight </span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> instead of going out? </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error is in part (a). The correct phrasing should be: (a) Why not watch</span><p><span>In this context, \"why not\" is followed directly by the base form of the verb, not the infinitive form with \"to.\" So, the correct construction is \"Why not + base form of the verb.\" </span></p><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“Why not watch a movie tonight instead of going out?”</span></p>"
+    },
+    {
+        "question": "<span> He appeared have finished his homework before dinner.</span>",
+        "option_1": "<span> He appeared have </span>",
+        "option_2": "<span> finished his homework </span>",
+        "option_3": "<span> before dinner. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error is in part (a). The correct phrasing should be: (a) He appeared to have</span><p><span>In this context, \"appear\" is followed by the perfect infinitive \"to have,\" indicating that the action expressed by the infinitive (\"finished his homework\") precedes the action of the finite verb (\"appeared\"). So, the correct construction is \"appear + to have + past participle.\" </span></p><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“He appeared to have finished his homework before dinner.” </span></p>"
+    },
+    {
+        "question": "<span> The CEO went on announce that there would be significant layoffs in the company.</span>",
+        "option_1": "<span> The CEO went on announce </span>",
+        "option_2": "<span> that there would be </span>",
+        "option_3": "<span> significant layoffs in the company. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error is in part (a). The correct phrasing should be: (a) The CEO went on to announce</span><p><span>In this context, \"go on\" is followed by the infinitive \"to announce,\" indicating a continuation of action. So, the correct construction is \"go on + to + base form of the verb.\"</span></p><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“The CEO went on to announce that there would be significant layoffs in the company.”</span></p>"
+    },
+    {
+        "question": "<span> Despite initial reassurances, the lawyer went to admit that the case was more complex than anticipated. </span>",
+        "option_1": "<span> Despite initial reassurances, the </span>",
+        "option_2": "<span> lawyer went to admit that the case </span>",
+        "option_3": "<span> was more complex than anticipated. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> the phrase \"went to admit\" is incorrect. The correct phrase should be \"went on to admit.\" </span><p><span>The expression \"went on to\" is used to indicate a continuation of an</span><span>action or to transition to another action or statement. In this sentence, it is used to show that the lawyer proceeded or continued to admit something after the initial reassurances. </span></p><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"Despite initial reassurances, the lawyer went on to admit that the case was more complex than anticipated.\"</span></p>"
+    },
+    {
+        "question": "<span> The company regrets inform its customers that there will be a delay in the delivery of orders. </span>",
+        "option_1": "<span> The company regrets inform </span>",
+        "option_2": "<span> its customers that there will </span>",
+        "option_3": "<span> be a delay in the delivery of orders. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error is in part (a). The correct phrasing should be: The company regrets to inform</span><p><span>In this context, \"regrets\" is followed by the infinitive \"to inform,\" indicating the action of conveying undesirable news. So, the correct construction is \"regrets + to + base form of the verb.\"</span></p><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“The company regrets to inform its customers that there will be a delay in the delivery of orders.” </span></p>"
+    },
+    {
+        "question": "<span> She advised him study harder for the exam. </span>",
+        "option_1": "<span> No error </span>",
+        "option_2": "<span> for the exam.</span>",
+        "option_3": "<span> study harder </span>",
+        "option_4": "<span> She advised him </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The error is in part (c). </span><p><span>In this sentence, \"advised\" is followed by the object pronoun \"him,\" so the correct structure is \"advised + object + infinitive.\" Therefore, the correct construction is \"advised him to study harder.\"</span></p><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“She advised him to study harder for the exam.” </span></p>"
+    },
+    {
+        "question": "<a name=\"_Hlk165543756\"><span>They allowed their </span></a><a name=\"_Hlk165543765\"><span>children playing in the </span></a><span>park until sunset. </span>",
+        "option_1": "<span> They allowed their</span>",
+        "option_2": "<span> children playing in the</span>",
+        "option_3": "<span> park until sunset.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrasing should be: (b) children to play in the</span><p><span>In this sentence, \"allowed\" is followed by the object \"their children,\" so the correct structure is \"allowed + object + infinitive.\" </span></p><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“They allowed their children to play in the park until sunset.”</span></p>"
+    },
+    {
+        "question": "<span> The teacher permitted the students leave early for their appointments. </span>",
+        "option_1": "<span> The teacher permitted the </span>",
+        "option_2": "<span> students leave early </span>",
+        "option_3": "<span> for their appointments. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrasing should be: (b) students to leave early</span><p><span>In this sentence, \"permitted\" is followed by the object \"the students,\" so the correct structure is \"permitted + object + infinitive.\" </span></p><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">\"The teacher permitted the students to leave early for their appointments.\" </span></p>"
+    },
+    {
+        "question": "<span> The manager forbade employees to use their personal devices during work hours. </span>",
+        "option_1": "<span> The manager forbade employees </span>",
+        "option_2": "<span> to use their personal </span>",
+        "option_3": "<span> devices during work hours.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> the sentence follows the pattern \"forbade + object + to + base form of the verb,\" which is the correct structure for sentences using \"forbid\" followed by an object and an infinitive. Therefore, there is no error in the sentence.</span>"
+    },
+    {
+        "question": "<span> The audience watched to the play unfold on stage. </span>",
+        "option_1": "<span> The audience </span>",
+        "option_2": "<span> watched to the play </span>",
+        "option_3": "<span> unfold on stage. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p><span>The error is in part (b). The correct phrasing should be: (b) watched the play </span></p><p><span>See, watch and hear if these verbs refer to 'complete events or actions' which are seen or heard from beginning to end, direct infinitive will follow.\" </span></p><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“The audience watched the play unfold on stage.”</span></p>"
+    },
+    {
+        "question": "<span> She tried to solving the challenging puzzle, but it was too difficult. </span>",
+        "option_1": "<span> the challenging puzzle, </span>",
+        "option_2": "<span> She tried to solving </span>",
+        "option_3": "<span> but it was too difficult. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrasing should be: (b) She tried to solve</span><p><span>In this context, \"tried\" is followed by the infinitive \"to solve,\" indicating an effort to do something difficult. The correct construction is \"tried + to + base form of the verb.\" </span></p><p><span>Therefore, the correct sentence is: </span><span style=\"text-decoration:underline\">\"She tried to solve the challenging puzzle, but it was too difficult.\"</span></p>"
+    },
+    {
+        "question": "<span> They mean save up enough money for a trip around the world. </span>",
+        "option_1": "<span> They mean save up </span>",
+        "option_2": "<span> enough money for a trip </span>",
+        "option_3": "<span> around the world.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error is in part (a). The correct phrasing should be: (a) They mean to save up</span><p><span>In this context, \"mean\" is used in the sense of intending to do something, so it should be followed by the infinitive \"to save up.\" The correct construction is \"mean + to + base form of the verb.\" </span></p><p><span>Therefore, the correct sentence is: </span><span style=\"text-decoration:underline\">\"They mean to save up enough money for a trip around the world.\" </span></p>"
+    },
+    {
+        "question": "<span> The students learned to solving complex mathematical </span><a name=\"_Hlk165545847\"><span>problems with ease. </span></a>",
+        "option_1": "<span> The students learned </span>",
+        "option_2": "<span> to solving complex mathematical </span>",
+        "option_3": "<span> problems with ease.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part (b). The correct phrasing should be: (b) to solve complex mathematical</span><p><span>In this context, \"learned\" is followed by the infinitive \"to solve,\" indicating the result of the study. The correct construction is \"learned + to + base form of the verb.\" </span></p><p><span>Therefore, the correct sentence is: </span><span style=\"text-decoration:underline\">\"The students learned to solve complex mathematical problems with ease.\"</span></p>"
+    },
+    {
+        "question": "<span> Shaifali was sorry for have missed your birthday party last week. </span>",
+        "option_1": "<span> No error </span>",
+        "option_2": "<span> party last week.</span>",
+        "option_3": "<span> missed your birthday </span>",
+        "option_4": "<span> Shaifali was sorry for have </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> When expressing regret for a past action, \"sorry to have + past participle\" is indeed the correct structure.</span><p><span>So, the correct version of the sentence would be: </span><span style=\"text-decoration:underline\">“Shaifali was sorry to have missed your birthday party last week.”</span></p>"
+    }
+]
