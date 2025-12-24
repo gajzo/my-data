@@ -1,0 +1,272 @@
+[
+    {
+        "question": "<span>Her cooking is as deliciously as it is nutritious. </span>",
+        "option_1": "<span> Her cooking is </span>",
+        "option_2": "<span> as deliciously as </span>",
+        "option_3": "<span> it is nutritious </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> A positive degree of adjective/adverb comes in between ‘as……as’ and ‘so……as’. </span><p><span>The correct sentence should be: </span><span style=\"text-decoration:underline\">Her cooking is as delicious as it is nutritious.</span></p>"
+    },
+    {
+        "question": "<p>This book is informative than entertaining.</p>",
+        "option_1": "<p>This book</p>",
+        "option_2": "<p>is informative</p>",
+        "option_3": "<p>than entertaining</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The sentence contains an error. According to the rule, when comparing two qualities of a noun or pronoun, \"more + positive degree\" should be used instead of a comparative degree. In this case, \"more informative\" should be used instead of \"informative.\"</p> <p>The corrected sentence would be: \"This book is more informative than entertaining.\"</p>"
+    },
+    {
+        "question": "<span> They prefer living in the countryside than living in the city.</span>",
+        "option_1": "<span> They prefer living </span>",
+        "option_2": "<span> in the countryside </span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> than living in the city </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The</span><span>‘Preferable’ Adjective is used in only a</span><span>comparative degree. ‘Preferable’ is followed by ‘to’ and not ‘than’ or ‘more’. Prefer’ (verb) is followed by ‘to’ and not ‘than’. Therefore, \"than living in the city\" should be corrected to \"to living in the city.\" </span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"They prefer living in the countryside to living in the city.\"</span></p>"
+    },
+    {
+        "question": "<span> The school organized a science fairs for the students. </span>",
+        "option_1": "<span> The school organized </span>",
+        "option_2": "<span> a science fairs </span>",
+        "option_3": "<span> for the students. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is (b) \"a science fairs.\" The error in the sentence lies in the incorrect pluralization of \"science fair.\" The correct form should be \"science fairs\" to match the singular \"a.\" </span><p><span>In the sentence \"The school organized a science fair for the students,\" the word \"science\" functions as an adjective modifying the noun \"fair.\" </span></p><p><span>When a noun like \"science\" is used to modify another noun (in this case, \"fair\"), it functions as an adjective, providing additional information about the type or nature of the noun it modifies. </span></p><p><span>the corrected sentence should be: </span><span style=\"text-decoration:underline\">\"The school organized a science fair for the students.\"</span></p>"
+    },
+    {
+        "question": "<p>He chose the less of two evils when making the decision.</p>",
+        "option_1": "<p>He chose the less</p>",
+        "option_2": "<p>of two evils when</p>",
+        "option_3": "<p>making the decision</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The correct option is (a) \"He chose the less.\" In this context, \"lesser\" is the correct term to indicate the option that is considered to be less undesirable out of two choices. Therefore, \"less\" should be replaced with \"lesser\" for grammatical correctness.</p> <p>The corrected sentence would be: \"He chose the lesser of two evils when making the decision.\"</p>"
+    },
+    {
+        "question": "<span> Arun is senior to and experienced than you. </span>",
+        "option_1": "<span> Arun is senior to </span>",
+        "option_2": "<span> and experienced </span>",
+        "option_3": "<span> than you. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: (b) and experienced.</span><p><span>In the original sentence, \"experienced than\" contains a mismatch in the preposition used with the adjective \"experienced.\" The correct form is \"more experienced than.\" </span></p><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"Arun is senior to and more experienced than you.\"</span></p>"
+    },
+    {
+        "question": "<span> This book is as information as it is engaging.</span>",
+        "option_1": "<span> This book is </span>",
+        "option_2": "<span> it is engaging </span>",
+        "option_3": "<span> as information as </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> A positive degree of adjective/adverb comes in between ‘as……as’ and ‘so……as’. </span><p><span>the correct choice is: (c) as information as </span></p><p><span>The correct sentence should be: </span><span style=\"text-decoration:underline\">“This book is as informative as it is engaging.”</span></p>"
+    },
+    {
+        "question": "<span> The new laptop is cheapest than the previous model. </span>",
+        "option_1": "<span> The new laptop </span>",
+        "option_2": "<span> is cheapest than </span>",
+        "option_3": "<span> the previous model </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The sentence contains an error. The correct comparative form of \"cheap\" is \"cheaper\" rather than \"cheapest\" in this context. </span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">“The new laptop is cheaper than the previous model.”</span></p>"
+    },
+    {
+        "question": "<span> This is most expensive car in the showroom. </span>",
+        "option_1": "<span> This is most </span>",
+        "option_2": "<span> expensive car </span>",
+        "option_3": "<span> in the showroom </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The sentence contains an error. The correct usage is to include \"the\" before the superlative adjective \"most.\"</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">“This is the most expensive car in the showroom.”</span></p>"
+    },
+    {
+        "question": "<span> The quality of service at the new restaurant is superior than the old one. </span>",
+        "option_1": "<span> The quality of service at </span>",
+        "option_2": "<span> the new restaurant is </span>",
+        "option_3": "<span> No error</span>",
+        "option_4": "<span> superior than the old one. </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The sentence contains an error. The adjective \"superior,\" which ends in \"ior,\" should be followed by \"to\" rather than \"than.\"</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"The quality of service at the new restaurant is superior to the old one.\" </span></p>"
+    },
+    {
+        "question": "<span> We enjoyed watching the sunset from the more western side of the island. </span>",
+        "option_1": "<span> We enjoyed watching the </span>",
+        "option_2": "<span> sunset from the more </span>",
+        "option_3": "<span> western side of the island </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> These adjectives Top, topmost, northern, northernmost, southern, southernmost, eastern, easternmost, western, westernmost, etc. are used in only positive and superlative degrees and not in comparative degrees. Therefore, \"more Western\" is incorrect.</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"We enjoyed watching the sunset from the western side of the island.\" </span></p>"
+    },
+    {
+        "question": "<span> The flowers in the garden looked vibrantly, brightening up the surroundings. </span>",
+        "option_1": "<span> The flowers in the </span>",
+        "option_2": "<span> No error</span>",
+        "option_3": "<span> garden looked vibrantly, </span>",
+        "option_4": "<span> brightening up the surroundings. </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> Generally, verbs are modified by adverbs. But verbs of sensation (seem, look, appear, feel, taste, sound, and smell) and ‘be’, ‘become’, ‘turn’, ‘get’, ‘grow’, ‘keep’, ‘make’, and ‘prove’ are followed by an adjective and not an adverb. </span><p><span>According to the given rule, the correct option is (c) \"garden looked vibrantly.\"</span></p><p><span>So, the error lies in using \"vibrantly\" as an adverb instead of using the adjective \"vibrant\" to modify the verb \"looked.\" </span></p><p><span>The corrected sentence should be: </span><span style=\"text-decoration:underline\">\"The flowers in the garden looked vibrant, brightening up the surroundings.\" </span></p>"
+    },
+    {
+        "question": "<span> The latest train leaves the station at midnight. </span>",
+        "option_1": "<span> No error </span>",
+        "option_2": "<span> at midnight. </span>",
+        "option_3": "<span> leaves the station </span>",
+        "option_4": "<span> The latest train </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span>The intended meaning is to refer to the final train leaving the station at midnight, so \"last\" would indeed be the appropriate word choice instead of \"latest.\" In this context, \"last\" implies the final train, rather than the most recent one.</span><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"The last train leaves the station at midnight.\" </span></p>"
+    },
+    {
+        "question": "<span> My Both hands were covered in paint after the art class. </span>",
+        "option_1": "<span> No error </span>",
+        "option_2": "<span> My Both hands were </span>",
+        "option_3": "<span> after the art class </span>",
+        "option_4": "<span> covered in paint </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is (b) \"My Both hands were.\" </span><p><span>In English, the word \"both\" comes before the possessive form. Therefore, \"My\" should come after \"Both\" </span></p><p><span>The corrected sentence should be: </span><span style=\"text-decoration:underline\">\"Both my hands were covered in paint after the art class.\"</span></p>"
+    },
+    {
+        "question": "<p>The big, old, round, brown, Italian, wooden dining table was passed down through generations.</p>",
+        "option_1": "<p>The big, old, round, brown,</p>",
+        "option_2": "<p>Italian, wooden dining table</p>",
+        "option_3": "<p>was passed down through generations.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p><!--StartFragment --><span style=\"font-size:16px\">The sentence <strong>\"The big, old, round, brown, Italian, wooden dining table was passed down through generations.\"</strong> is grammaticaly correct <strong>order of adjectives</strong>.</span></p> <p><!--EndFragment --></p>"
+    },
+    {
+        "question": "<span> He is faster than his brother, but she is the most fastest runner in the team. </span>",
+        "option_1": "<span> He is faster than his </span>",
+        "option_2": "<span> brother, but she is the </span>",
+        "option_3": "<span> most fastest runner in the team. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> In the original sentence, \"most fastest\" contains two superlative degrees used together, which violates the rule. The correct form is simply \"fastest,\" which is already a superlative degree. So, The correct option is: (c) most fastest runner in the team.</span><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"He is faster than his brother, but she is the fastest runner in the team.\"</span></p>"
+    },
+    {
+        "question": "<span> She is most dedicated employee of all the employees in the company. </span>",
+        "option_1": "<span> employee of all the </span>",
+        "option_2": "<span> employees in the company</span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> She is most dedicated </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> If one is chosen out of ‘more than two’ or ‘all’, the</span><span>superlative degree is used preceded by ‘the’ and followed by ‘of’. So, the correct choice is: (d) She is most dedicated.</span><p><span>The corrected sentence would be:</span><span style=\"text-decoration:underline\"> \"She is the most dedicated employee of all the employees in the company.\"</span></p>"
+    },
+    {
+        "question": "<span> The deadline for submission is prior than the meeting.</span>",
+        "option_1": "<span> The deadline for </span>",
+        "option_2": "<span> submission is </span>",
+        "option_3": "<span> prior than the meeting</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span>The sentence contains an error. Adjectives that end in 'ior' such as 'prior' should be followed by 'to' rather than 'than.'</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"The deadline for submission is prior to the meeting.\" </span></p>"
+    },
+    {
+        "question": "<span> The shape of the table is circular, making it more perfect for our needs.</span>",
+        "option_1": "<span> The shape of the table </span>",
+        "option_2": "<span> is circular, making it </span>",
+        "option_3": "<span> No error</span>",
+        "option_4": "<span> more perfect for our needs. </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The sentence contains an error. Adjectives like ‘interior’, ‘exterior’, ‘ulterior’, ‘major’, ‘minor’, ‘empty’, ‘excellent’, ‘circular’, ‘extreme’, ‘chief’, ‘entire’, ‘complete’, ‘perfect’, ‘final’, ‘last’, ‘unique’, ‘universal’, ‘round’, ‘square’, ‘triangular’, ‘eternal’, ‘everlasting’, ‘ideal’, ‘absolute’, ‘impossible’ and ‘supreme’, ‘free’, and ‘vacant’ are not used in comparative degree or superlative degree. Therefore, \"more perfect\" is incorrect. </span><p><span>The corrected sentence would be: “</span><span style=\"text-decoration:underline\">The shape of the table is circular, making it perfect for our needs.”</span></p>"
+    },
+    {
+        "question": "<p>This is the bigger and the most expensive house in the neighborhood.</p>",
+        "option_1": "<p>This is the bigger and</p>",
+        "option_2": "<p>the most expensive house</p>",
+        "option_3": "<p>in the neighborhood.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>When two adjectives are used for a single noun or pronoun and if both adjectives are connected by a conjunction, both the adjectives must be in same degree. The correct option is (a) \"This is the bigger and\" The correct option is (a) \"This is the biggest.\"</p> <p>The corrected sentence should be: <u>\"This is the biggest and the most expensive house in the neighborhood.\"</u></p>"
+    },
+    {
+        "question": "<span> The cake tastes sweetly and moistly, just like homemade. </span>",
+        "option_1": "<span> The cake tastes </span>",
+        "option_2": "<span> No error</span>",
+        "option_3": "<span> just like homemade. </span>",
+        "option_4": "<span> sweetly and moistly, </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct option is (d) \"sweetly and moistly.\"</span><p><span>So, the error lies in using \"sweetly\" and \"moistly\" as adverbs instead of using the adjectives \"sweet\" and \"moist\" to modify the verb \"tastes.\" </span></p><p><span>The correct sentence should be: </span><span style=\"text-decoration:underline\">\"The cake tastes sweet and moist, just like homemade.\"</span></p>"
+    },
+    {
+        "question": "<span> The children played in the three-acres field behind the house. </span>",
+        "option_1": "<span> The children played </span>",
+        "option_2": "<span> in the three-acres</span>",
+        "option_3": "<span> field behind the house </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> Many nouns are a part of compound adjectives or hyphenated. They never come in plural form. </span><p><span>The correct option is (b) \"in the three-acres.\" So, the error lies in using \"three-acres\" instead of \"three-acre\" to match the singular noun \"field.\" Additionally, \"three-acre\" should be hyphenated when used as a compound adjective.</span></p><p><span>The corrected sentence should be: </span><span style=\"text-decoration:underline\">\"The children played in the three-acre field behind the house.\"</span></p>"
+    },
+    {
+        "question": "<p>Ramesh wanted to go farther into the forest to explore its depths.</p>",
+        "option_1": "<p>Ramesh wanted to go</p>",
+        "option_2": "<p>farther into the forest</p>",
+        "option_3": "<p>to explore its depths.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>The sentence <strong>\"Ramesh wanted to go farther into the forest to explore its depths.\"</strong> is <strong>grammatically correct</strong>, but let's refine the usage of <strong>\"farther\"</strong> vs. <strong>\"further.\"</strong></p> <p><strong>Explanation:</strong></p> <ul> <li><strong>\"Farther\"</strong> is used for <strong>physical distance</strong> (e.g., \"He walked farther down the road\").</li> <li><strong>\"Further\"</strong> is used for <strong>figurative or abstract distance</strong> (e.g., \"Let's discuss this further\").</li> </ul> <p>Since <strong>\"into the forest\"</strong> refers to <strong>physical distance</strong>, <strong>\"farther\"</strong> is correctly used here.</p>"
+    },
+    {
+        "question": "<span> The nearest episode of the TV series airs tomorrow night. </span>",
+        "option_1": "<span> The nearest episode </span>",
+        "option_2": "<span> of the TV series </span>",
+        "option_3": "<span> airs tomorrow night. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The intention is to convey that the upcoming episode of the TV series will be the next one in sequence rather than the one that is physically closest, then \"next\" would indeed be the appropriate word choice.</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"The next episode of the TV series airs tomorrow night.\" </span></p>"
+    },
+    {
+        "question": "<p>This painting is as beautiful as, if not more then, the one in the museum.</p>",
+        "option_1": "<p>This painting is as beautiful as</p>",
+        "option_2": "<p>if not more then,</p>",
+        "option_3": "<p>the one in the museum.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The correct option is: (b) if not more then</p> <p>The phrase \"if not more than\" is used to introduce a possibility that the quality being compared might exceed the quality of the standard being used. In this case, it suggests that the painting being discussed may be even more beautiful than the one in the museum.</p> <p>So, the corrected sentence would be: \"This painting is as beautiful as, if not more than, the one in the museum.\"</p>"
+    },
+    {
+        "question": "<span> That was the most worst movie I've ever seen, but this one is the best. </span>",
+        "option_1": "<span> That was the most worst </span>",
+        "option_2": "<span> movie I've ever seen, </span>",
+        "option_3": "<span> but this one is the best. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In the original sentence, \"most worst\" contains two superlative degrees used together, which violates the rule. The correct form is simply \"worst,\" which is already a superlative degree. So, the correct option is: (a) That was the most worst</span><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"That was the worst movie I've ever seen, but this one is the best.\" </span></p>"
+    },
+    {
+        "question": "<p>He is the older of the two brothers, born a year before his sibling.</p>",
+        "option_1": "<p>He is the older of the</p>",
+        "option_2": "<p>a year before his sibling</p>",
+        "option_3": "<p>two brothers, born</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>When referring to a relative's age, especially within a set of siblings, \"elder\" is the appropriate term rather than \"older.\"</p> <p>So, the corrected sentence would be: \"He is the elder of the two brothers, born a year before his sibling.\"</p>"
+    }
+]
