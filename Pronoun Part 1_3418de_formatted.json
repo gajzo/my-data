@@ -1,0 +1,382 @@
+[
+    {
+        "question": "<span> They often find themselves questioning whether they truly understand we and our perspectives on various matters. </span>",
+        "option_1": "<span> They often find themselves questioning </span>",
+        "option_2": "<span> whether they truly understand </span>",
+        "option_3": "<span> we and our perspectives on various matters. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The verb is preceded by a</span><span>nominative form of a</span><span>pronoun and followed by the objective case. The correct pronoun should be \"us\" instead of \"we\" in this sentence to indicate the objective case. </span><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"They often find themselves questioning whether they truly understand us and our perspectives on various matters.\"</span></p>"
+    },
+    {
+        "question": "<p>You, they, and we need to focus on completing the project.</p>",
+        "option_1": "<p>You, they, and we</p>",
+        "option_2": "<p>need to focus on</p>",
+        "option_3": "<p>completing the project</p>",
+        "option_4": "<p>No error.</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<h3>📘 <strong>Rule: Use of 123 Formula in Pronoun Order</strong></h3> <p><strong>English:</strong><br/> When a sentence includes pronouns of <strong>all three persons</strong> (first, second, and third) in <strong>plural form</strong>, we follow the <strong>123 formula</strong>—that is:<br/> <strong>1st Person → 2nd Person → 3rd Person</strong><br/> ✅ Example: <em>We, you and they need to focus on completing the project.</em></p> <p><strong>Hindi:</strong><br/> जब वाक्य में <strong>तीनों व्यक्तियों के बहुवचन सर्वनाम</strong> (प्रथम, द्वितीय और तृतीय पुरुष) एक साथ प्रयोग होते हैं, तो हम <strong>123 सूत्र</strong> का पालन करते हैं:<br/> <strong>प्रथम पुरुष → द्वितीय पुरुष → तृतीय पुरुष</strong><br/> ✅ उदाहरण: <em>We, you and they need to focus on completing the project.</em></p> <p><!--EndFragment --></p>"
+    },
+    {
+        "question": "<span> Teammates who support each other like they often achieve great success. </span>",
+        "option_1": "<span> Teammates who support </span>",
+        "option_2": "<span> each other like they </span>",
+        "option_3": "<span> often achieve great success </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<a name=\"_Hlk163122628\"><span>Objective case comes after ‘let’, ‘like’, ‘between…..and’, ‘but’, ‘expect’, and ‘all prepositions’. </span></a><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“Teammates who support each other like them often achieve great success.” </span></p>"
+    },
+    {
+        "question": "<a name=\"_Hlk163126410\"><span>His speed during the drill impressed everyone, proving that he was as fast as me. </span></a>",
+        "option_1": "<span> His speed during the </span>",
+        "option_2": "<span> drill impressed everyone </span>",
+        "option_3": "<span> proving that he was as fast as me. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> If there is a comparison between two nominative cases, the pronoun of the nominative case is used after as/than. </span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“His speed during the drill impressed everyone, proving that he was as fast as I.”</span></p>"
+    },
+    {
+        "question": "<span> Let me make it clear that it is me who am to blame for the oversight.</span>",
+        "option_1": "<span> Let me make it clear that </span>",
+        "option_2": "<span> it is me who am to </span>",
+        "option_3": "<span> blame for the oversight. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> If a sentence starts with ‘It’ followed by any form of ‘be’ the pronoun that follows ‘be’ must be in ‘nominative case’. </span><p><span>Therefore, the correct answer would be: </span><span style=\"text-decoration:underline\">“Let me make it clear that it is I who am to blame for the oversight.” </span></p>"
+    },
+    {
+        "question": "<span> The bees buzzed around the hive as it collected nectar from the flowers. </span>",
+        "option_1": "<span> The bees buzzed around </span>",
+        "option_2": "<span> the hive as it collected </span>",
+        "option_3": "<span> Nectar from the flowers </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> ‘It’ is used for non-living things, animals, infants, and insects. ‘They’ is the plural form of ‘it’. \"Bees\" is a plural noun, so the pronoun should also be plural. Therefore, the correct form is \"they\" instead of \"it\". </span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"The bees buzzed around the hive as they collected nectar from the flowers.\"</span></p>"
+    },
+    {
+        "question": "<span> This is advisable to consult a financial advisor before making investment decisions. </span>",
+        "option_1": "<span> This is advisable to consult </span>",
+        "option_2": "<span> a financial advisor before </span>",
+        "option_3": "<span> making investment decisions. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> It is used in place of the</span><span>Infinitive clause and Gerund.</span><p><span>The correct form would be: </span><span style=\"text-decoration:underline\">\"It is advisable to consult a financial advisor before making investment decisions.\" </span></p>"
+    },
+    {
+        "question": "<p>The sun rose over the horizon, casting his warm light across the landscape.</p>",
+        "option_1": "<p>The sun rose over the</p>",
+        "option_2": "<p>horizon, casting his</p>",
+        "option_3": "<p>warm light across the landscape</p>",
+        "option_4": "<p>No improvement</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The sentence provided is grammatically incorrect because it uses \"his\" to refer to the sun, which is not appropriate. The sun is typically considered gender-neutral. The correct possessive pronoun to use would be \"its.\"</p> <p>Therefore, the corrected sentence would be: \"The sun rose over the horizon, casting its warm light across the landscape.\"</p> <p>The <strong>sun</strong> is typically treated as a <strong>common gender</strong> noun in modern English, meaning it is neutral and not inherently associated with masculine or feminine characteristics. However, in certain contexts, it may be personified with a <strong>masculine gender</strong> or remain neutral. Here's when each is applied:</p> <h3><strong>Sun as Masculine Gender:</strong></h3> <ul> <li><strong>Mythology and Literature:</strong> In many mythological or poetic traditions, the sun is personified as male. For example: <ul> <li>In <strong>Greek mythology</strong>, the sun god is Helios (a male deity).</li> <li>In <strong>Roman mythology</strong>, Sol is also masculine.</li> </ul> </li> <li><strong>Artistic or Literary Personification:</strong> When writers or poets refer to the sun in a romantic or dramatic sense, they might assign it masculine traits: <ul> <li>Example: \"The sun climbed proudly into the sky.\"</li> </ul> </li> </ul> <h3>2. <strong>Sun as Common Gender:</strong></h3> <ul> <li><strong>Scientific or General Use:</strong> In non-literary, neutral contexts, the sun is considered a common gender noun. <ul> <li>Example: \"The sun is the center of our solar system.\"</li> </ul> </li> <li><strong>Everyday Language:</strong> When describing natural phenomena or scientific facts, the sun is not personified and thus has no gender.</li> </ul> <h3>Conclusion:</h3> <ul> <li>Use <strong>masculine gender</strong> when drawing from mythological, cultural, or literary traditions that assign the sun a male identity.</li> <li>Use <strong>common gender</strong> in neutral, non-personified contexts such as scientific discussions or ordinary speech.</li> </ul>"
+    },
+    {
+        "question": "<p>Theirs house is located on the corner of the street.</p>",
+        "option_1": "<p>located on the</p>",
+        "option_2": "<p>Theirs house is</p>",
+        "option_3": "<p>No error</p>",
+        "option_4": "<p>corner of the street.</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The sentence provided is incorrect. The correct possessive adjective to use is \"their\" instead of \"theirs\" before the noun \"house.\"</p> <p>So, the correct sentence would be: \"Their house is located on the corner of the street.\"</p>"
+    },
+    {
+        "question": "<span> Please bring your homework, and I'll bring my. </span>",
+        "option_1": "<span> your homework, </span>",
+        "option_2": "<span> and I'll bring my</span>",
+        "option_3": "<span> No error</span>",
+        "option_4": "<span> Please bring </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The sentence has an error. The correct form should be: and I'll bring mine. A possessive pronoun can be used as the object of a verb.</span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">“Please bring your homework, and I'll bring mine.” </span></p>"
+    },
+    {
+        "question": "<span> He relied on his instincts rather than her. </span>",
+        "option_1": "<span> He relied on </span>",
+        "option_2": "<span> his instincts </span>",
+        "option_3": "<span> No error</span>",
+        "option_4": "<span> rather than her </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct choice is: (d) rather than hers. A possessive pronoun can be used as the object of a preposition. </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">“He relied on his instincts rather than hers.”</span></p>"
+    },
+    {
+        "question": "<p>Their Favor is always appreciated by us.</p>",
+        "option_1": "<p>is always</p>",
+        "option_2": "<p>Their Favor</p>",
+        "option_3": "<p>No error</p>",
+        "option_4": "<p>appreciated by us</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>\"Favour from them\" - This phrase uses the possessive adjective \"their\" to indicate that the favor belongs to \"them.\" It specifies whose favor is being discussed, emphasizing that it is the favor from them that is significant.</p> <p>So, the corrected sentence is: “Favor from them is always appreciated by us.”</p>"
+    },
+    {
+        "question": "<span> She was thrilled with her wins the first prize in the art contest. </span>",
+        "option_1": "<span> She was thrilled with </span>",
+        "option_2": "<span> her wins the first </span>",
+        "option_3": "<span> prize in the art contest </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is: (b) her wins the first. </span><p><span>Gerund is used After the</span><span>Possessive Adjective. In these cases, we never use the</span><span>Possessive Pronoun or Objective case of Pronoun. In accordance with the rule provided, the possessive adjective \"her\" is correctly used before the gerund \"winning.\" </span></p><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"She was thrilled with her winning the first prize in the art contest.\"</span></p>"
+    },
+    {
+        "question": "<a name=\"_Hlk163119429\"><span>He, I, and you failed to communicate effectively. </span></a>",
+        "option_1": "<span> He, I, and you </span>",
+        "option_2": "<span> failed to</span>",
+        "option_3": "<span> communicate effectively</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> If all three persons or two out of three persons come in a single sentence and something wrong is talked about or some mistake done by the persons has been accepted, the order is 123. According to rule 123, 1</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:super\">st</span><span> person should come first then 2</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:super\">nd</span><span> person, and then 3</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:super\">rd</span><span> person. I, you, and he are in</span><span>the correct order. </span><p><span>Therefore, the correct answer would be: </span><span style=\"text-decoration:underline\">“I, you and he failed to communicate effectively.” </span></p>"
+    },
+    {
+        "question": "<span> Suneeta's dedication to training ensures that she always runs faster than him.</span>",
+        "option_1": "<span> Suneeta's dedication to training </span>",
+        "option_2": "<span> ensures that she </span>",
+        "option_3": "<span> always runs faster than him. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> If there is a comparison between two nominative cases, the pronoun of the nominative case is used after as/than. Change him into he.</span><p><span>Therefore, the correct answer would be: </span><span style=\"text-decoration:underline\">“Suneeta's dedication to training ensures that she always runs faster than he.”</span></p>"
+    },
+    {
+        "question": "<p><a name=\"_Hlk163123720\">When you look at his, you can see the determination in her eyes. </a></p>",
+        "option_1": "<p>When you look at his</p>",
+        "option_2": "<p>you can see the</p>",
+        "option_3": "<p>determination in her eyes</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>Objective case comes after ‘let’, ‘like’, ‘between…..and’, ‘but’, ‘expect’, and ‘all prepositions’. So, ‘her’ should be come.</p> <p>Therefore, the correct sentence would be: “When you look at her, you can see the determination in her eyes.”</p>"
+    },
+    {
+        "question": "<span style=\"text-decoration:underline\">This is they who deserve</span><span> recognition for their tireless efforts in preserving the environment.</span>",
+        "option_1": "<span> its they who deserve </span>",
+        "option_2": "<span> It is they who deserve</span>",
+        "option_3": "<span> It is they who deserves</span>",
+        "option_4": "<span> No improvement</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option to improve the sentence is: (b) It is they who deserve. </span><p><span>It is used in a sentence as a subject to emphasize the Noun or the Pronoun. </span></p><p><span>Therefore, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"It is they who deserve recognition for their tireless efforts in preserving the environment.\" </span></p>"
+    },
+    {
+        "question": "<p>Hers is a story of triumph over adversity.</p>",
+        "option_1": "<p>No error</p>",
+        "option_2": "<p>Hers is a story</p>",
+        "option_3": "<p>of triumph</p>",
+        "option_4": "<p>over adversity</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>No error.</p> <p>A possessive pronoun can be used in any sentence as the subject of the verb. Therefore, the given sentences is correct.</p> <p><!--StartFragment --></p> <ul> <li> <ul> <li><strong>\"Hers\"</strong> – a possessive pronoun used as the subject.</li> <li><strong>\"is\"</strong> – linking verb.</li> <li><strong>\"a story of triumph over adversity\"</strong> – predicate noun phrase describing what \"hers\" refers to.</li> </ul> <!--EndFragment --><!--StartFragment -->​​​​<!--EndFragment --></li> </ul>"
+    },
+    {
+        "question": "<span> They enjoyed at the beach, playing volleyball and swimming. </span>",
+        "option_1": "<span> They enjoyed at</span>",
+        "option_2": "<span> the beach, playing</span>",
+        "option_3": "<span> volleyball and swimming</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) They enjoyed at</span><p><span>After acquit, avail, reconcile, amuse, resign, avenge, exert, apply, adapt, adjust, pride, absent, and enjoy we use Reflexive Pronouns. In accordance with the rule provided, after the verb \"enjoy,\" we should use the reflexive pronoun \"themselves\" to indicate that the enjoyment was self-directed. </span></p><p><span>The corrected sentence is: </span><span style=\"text-decoration:underline\">\"They enjoyed themselves at the beach, playing volleyball and swimming.\" </span></p>"
+    },
+    {
+        "question": "<span> She stops herself her car at the intersection and looks both ways before proceeding.</span>",
+        "option_1": "<span> She stops herself her car </span>",
+        "option_2": "<span> at the intersection and looks </span>",
+        "option_3": "<span> both ways before proceeding </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) She stops herself her car.</span><p><span>Keep, stop, turn, qualify, bathe, move, rest, and hide do not take a reflexive pronoun after them. In accordance with the rule provided verbs like \"stop\" do not take reflexive pronouns after them. Therefore, \"herself\" should be omitted from the sentence. </span></p><p><span>The corrected sentence is: </span><span style=\"text-decoration:underline\">\"She stops her car at the intersection and looks both ways before proceeding.\" </span></p>"
+    },
+    {
+        "question": "<span> They exerted to complete the project before the deadline. </span>",
+        "option_1": "<span> They exerted to </span>",
+        "option_2": "<span> complete the project </span>",
+        "option_3": "<span> before the deadline </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) They exerted to</span><p><span>After acquit, avail, reconcile, amuse, resign, avenge, exert, apply, adapt, adjust, pride, absent, and enjoy we use Reflexive Pronouns. In accordance with the rule provided, after the verb \"exert,\" we should use the reflexive pronoun \"themselves\" to indicate that the action of exertion is directed inwardly. </span></p><p><span>The corrected sentence is: </span><span style=\"text-decoration:underline\">\"They exerted themselves to complete the project before the deadline.\"</span></p>"
+    },
+    {
+        "question": "<span> She moved herself the furniture to rearrange the room. </span>",
+        "option_1": "<span> She moved herself </span>",
+        "option_2": "<span> the furniture to </span>",
+        "option_3": "<span> rearrange the room. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) She moved herself.</span><p><span>Keep, stop, turn, qualify, bathe, move, rest, and hide do not take a reflexive pronoun after them. In accordance with the rule provided, verbs like \"move\" do not take reflexive pronouns after them. Therefore, \"herself\" should be omitted from the sentence. </span></p><p><span>The corrected sentence is: </span><span style=\"text-decoration:underline\">\"She moved the furniture to rearrange the room.\"</span></p>"
+    },
+    {
+        "question": "<p><a name=\"_Hlk163222679\">Either of the apartments </a><a name=\"_Hlk163222689\">in this building </a>is available for rent.</p>",
+        "option_1": "<p>Either of the apartments</p>",
+        "option_2": "<p>in this building</p>",
+        "option_3": "<p>is available for rent.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>Either denotes a choice between the two. ‘Any’ and ‘one’ are used for many persons or things.</p> <p>The revised sentence should be: \"One of the apartments in this building is available for rent.\"</p>"
+    },
+    {
+        "question": "<a name=\"_Hlk163223731\"><span>None of the two brothers </span></a><span>wanted to take responsibility for the broken vase.</span>",
+        "option_1": "<span> None of the two brothers</span>",
+        "option_2": "<span> wanted to take responsibility</span>",
+        "option_3": "<span> for the broken vase. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) None of the two brothers</span><p><span>Neither means ‘none out of two things/persons’. Where ‘None’ means ‘none out of more than two persons/things’. In accordance with the rule provided, \"neither\" is used when referring to two options or persons. Therefore, \"none\" should be replaced with \"neither\" in the sentence. </span></p><p><span>The corrected sentence is: </span><span style=\"text-decoration:underline\">\"Neither of the two brothers wanted to take responsibility for the broken vase.\"</span></p>"
+    },
+    {
+        "question": "<span> The members of the team congratulated each other on their victory. </span>",
+        "option_1": "<span> The members of the team </span>",
+        "option_2": "<span> congratulated each other </span>",
+        "option_3": "<span> on their victory </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> ‘Each other’ denoted a</span><span>mutual relationship between two people/things and ‘one another’ denoted a</span><span>mutual relationship between more than two things/persons. </span><p><span>Here's the corrected sentence: </span><span style=\"text-decoration:underline\">“The members of the team congratulated one another on their victory.”</span></p>"
+    },
+    {
+        "question": "<span> When in doubt, one should remind themself of one's strengths and capabilities. </span>",
+        "option_1": "<span> When in doubt, one should </span>",
+        "option_2": "<span> remind themself of </span>",
+        "option_3": "<span> one's strengths and capabilities</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> When ‘one’ is used as the subject, nominative case ‘one’ and objective pronoun ‘oneself’ is used. The use of \"themself\" in option (b) is incorrect. When \"one\" is used as the subject, the reflexive pronoun \"oneself\" should be used instead of \"themself\" to maintain grammatical consistency.</span><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"When in doubt, one should remind oneself of one's strengths and capabilities.\" </span></p>"
+    },
+    {
+        "question": "<span> Each of the </span><span style=\"text-decoration:underline\">students has their</span><span> own desk in the classroom.</span>",
+        "option_1": "<span> students has his </span>",
+        "option_2": "<span> student has their</span>",
+        "option_3": "<span> student has his</span>",
+        "option_4": "<span> No improvement </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> If the sentence starts with each of/either of/neither of, each, either, neither, ‘the’ is used before the plural noun/ plural pronoun but a</span><span>singular adjective singular verb, and singular pronoun are used in the latter part of the sentence. </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"Each of the students has his own desk in the classroom.\"</span></p>"
+    },
+    {
+        "question": "<p>Neither of the students have completed his assignment yet.</p>",
+        "option_1": "<p>Neither of the students</p>",
+        "option_2": "<p>have completed</p>",
+        "option_3": "<p>his assignment yet</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>Singular Noun/Pronoun is used after each of/either of/ neither of. So, the corrected sentence would be: \"Neither of the students has completed his assignment yet.\"</p>"
+    },
+    {
+        "question": "<span> Whose colour should we paint the walls, blue or green?</span>",
+        "option_1": "<span> we paint the walls </span>",
+        "option_2": "<span> Whose color should </span>",
+        "option_3": "<span> blue or green</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> When a choice is to be made between two or more, which is used. So, the correct option would be: (b) Whose color should.</span><p><span>The correct sentence should be: </span><span style=\"text-decoration:underline\">\"Which color should we paint the walls, blue or green?\"</span></p>"
+    },
+    {
+        "question": "<span> With who were you discussing the project? </span>",
+        "option_1": "<span> you discussing </span>",
+        "option_2": "<span> No error</span>",
+        "option_3": "<span> With who were </span>",
+        "option_4": "<span> the project</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> After the</span><span>preposition Whom is used but not who. So, the correct option is: (c) With who were.</span><p><span>The correct form should be </span><span style=\"text-decoration:underline\">\"With whom were you discussing the project?\" </span></p>"
+    },
+    {
+        "question": "<span> All whom wish to volunteer for the program can sign up at the front desk.</span>",
+        "option_1": "<span> No error</span>",
+        "option_2": "<span> up at the front desk</span>",
+        "option_3": "<span> for the program can sign</span>",
+        "option_4": "<span> All whom wish to volunteer </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> If ‘All’ denotes people and is used as a subject, ‘who’ or ‘that’ is used and not ‘whom/which’. So, the correct option is: (d) All whom wish to volunteer.</span><p><span>Here's the corrected sentence: </span><span style=\"text-decoration:underline\">\"All who wish to volunteer for the program can sign up at the front desk.\"</span></p>"
+    },
+    {
+        "question": "<span> She is the most talented musician which I have ever heard perform. </span>",
+        "option_1": "<span> She is the most talented </span>",
+        "option_2": "<span> musician which I have </span>",
+        "option_3": "<span> ever heard perform. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> ‘That’ is used after a superlative degree. So, the correct option would be (b) musician that I have.</span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"She is the most talented musician that I have ever heard perform.\" </span></p>"
+    },
+    {
+        "question": "<p>The author and her book which inspired generations of readers are considered classics.</p>",
+        "option_1": "<p>readers are considered classics</p>",
+        "option_2": "<p>The author and her book</p>",
+        "option_3": "<p>No error</p>",
+        "option_4": "<p>which inspired generations of</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>Relative Pronoun ‘That’ is used If two antecedents are joined by ‘and’ one being a human and the other being a non-living/animal. So, the correct option would be (d) which inspired generations of.</p> <p>Here's the corrected version: \"The author and her book that inspired generations of readers are considered classics.\"</p>"
+    },
+    {
+        "question": "<span> This dress is beautiful, but that ones is too expensive for my budget. </span>",
+        "option_1": "<span> This dress is beautiful </span>",
+        "option_2": "<span> but that ones is too </span>",
+        "option_3": "<span> expensive for my budget </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> ‘One’ is used to avoid the repetition of a singular countable noun. ‘Ones’ is used to avoid the repetition of Plural countable nouns. We do not use one’s in place of ones. So, the correct option would be: (b) but that one is too.</span><p><span>The correct sentence would be: </span><span style=\"text-decoration:underline\">\"This dress is beautiful, but that one is too expensive for my budget.\"</span></p>"
+    },
+    {
+        "question": "<span> These is the car I've been saving up to buy. </span>",
+        "option_1": "<span> These is the </span>",
+        "option_2": "<span> car I've been </span>",
+        "option_3": "<span> saving up to buy </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> ‘This’ is used for a singular object/person that is placed closer. ‘This’ is singular’. ‘These’ is plural. These is used for more than one object/person that are placed after. </span><p><span>The correct sentence should be: </span><span style=\"text-decoration:underline\">\"This is the car I've been saving up to buy.\"</span></p>"
+    },
+    {
+        "question": "<p>The fast foods of Delhi are tastier than that of Mumbai.</p>",
+        "option_1": "<p>The fast foods of</p>",
+        "option_2": "<p>Delhi are tastier than</p>",
+        "option_3": "<p>No error</p>",
+        "option_4": "<p>that of Mumbai</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>The singular noun ‘That’ is used to avoid repetition. In the case of a plural noun ‘Those’ is used.</p> <p>So, the corrected sentence would be: “The fast foods of Delhi are tastier than those of Mumbai.”</p>"
+    },
+    {
+        "question": "<span> Can you tell me whom idea it was to rearrange the office layout, and have they considered the feedback from other employees? </span>",
+        "option_1": "<span> No error</span>",
+        "option_2": "<span> the feedback from other employees? </span>",
+        "option_3": "<span> the office layout, and have they considered </span>",
+        "option_4": "<span> Can you tell me whom idea it was to rearrange </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> ‘Who’ is used for the subject, ‘Whom’ is used for the object, and ‘Whose’ is used to find out the owner. So, the correct option would be: (d) Can you tell me whom idea it was to rearrange. </span><p><span>The correct sentence would be: </span><span style=\"text-decoration:underline\">\"Can you tell me whose idea it was to rearrange the office layout, and have they considered the feedback from other employees?\"</span></p>"
+    },
+    {
+        "question": "<span> Who did you meet at the conference last month, and did you have a chance to discuss potential collaborations with them? </span>",
+        "option_1": "<span> Who did you meet at the conference last </span>",
+        "option_2": "<span> month, and did you have a chance to </span>",
+        "option_3": "<span> discuss potential collaborations with them?</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> ‘Who’ is used for the subject, ‘Whom’ is used for the object, and ‘Whose’ is used to find out the owner. So, the correct option would be: (a) Who did you meet at the conference last.</span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"Whom did you meet at the conference last month, and did you have a chance to discuss potential collaborations with them?\"</span></p>"
+    }
+]
