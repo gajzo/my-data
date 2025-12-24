@@ -1,0 +1,362 @@
+[
+    {
+        "question": "<span> Neither the school provides adequate resources nor supports extracurricular activities.</span>",
+        "option_1": "<span> Neither the school provides </span>",
+        "option_2": "<span> adequate resources nor </span>",
+        "option_3": "<span> supports extracurricular activities </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> When using \"neither...nor,\" the subject should come before \"neither,\" and the verb should follow \"neither.\" Then, the structure \"nor\" is used to introduce the second alternative.</span><p><span>In the sentence, \"Neither\" is incorrectly followed by \"the school provides.\" Instead, it should be structured as follows: Subject (\"the school\") + \"neither\" + Verb (\"provides\") + First alternative + \"nor\" + Second alternative.</span></p><p><span>So, the corrected sentence is: \"</span><span style=\"text-decoration:underline\">The school neither provides adequate resources nor supports extracurricular activities.\"</span></p>"
+    },
+    {
+        "question": "<span style=\"font-family:'Segoe UI';color:#0d0d0d;background-color:#ffffff\"> The dog was too excited to sit still for even a moment. </span>",
+        "option_1": "<span style=\"font-family:'Segoe UI';color:#0d0d0d;background-color:#ffffff\"> The dog was too </span>",
+        "option_2": "<span style=\"font-family:'Segoe UI';color:#0d0d0d;background-color:#ffffff\"> excited to sit still </span>",
+        "option_3": "<span style=\"font-family:'Segoe UI';color:#0d0d0d;background-color:#ffffff\"> for even a moment </span>",
+        "option_4": "<span style=\"font-family:'Segoe UI';color:#0d0d0d;background-color:#ffffff\"> No error </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span style=\"font-family:'Segoe UI';color:#0d0d0d;background-color:#ffffff\"> The correct answer is (d) No error.</span><p><span style=\"font-family:'Segoe UI';color:#0d0d0d;background-color:#ffffff\">The sentence </span><span style=\"font-family:'Segoe UI';text-decoration:underline;color:#0d0d0d;background-color:#ffffff\">\"The dog was too excited to sit still for even a moment\"</span><span style=\"font-family:'Segoe UI';color:#0d0d0d;background-color:#ffffff\"> is grammatically correct and structurally sound. It effectively uses the \"too...to\" construction to convey that the dog's excitement prevented it from sitting still. </span></p>"
+    },
+    {
+        "question": "<span> She neither has the time nor the inclination to attend the event. </span>",
+        "option_1": "<span> She neither has the </span>",
+        "option_2": "<span> time nor the inclination </span>",
+        "option_3": "<span> to attend the event</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In this corrected version, the helping verb \"has\" is placed before \"neither,\" maintaining proper grammar. So, the error is in part (a) \"She neither has the,\" and the corrected version is: \"She has neither the.\" </span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">\"She has neither the time nor the inclination to attend the event.\"</span></p>"
+    },
+    {
+        "question": "<span> If they offer you the job, consider it carefully. </span>",
+        "option_1": "<span> If they offer </span>",
+        "option_2": "<span> you the job, </span>",
+        "option_3": "<span> consider it carefully. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The sentence is correct as it is. It follows the rule that \"If/when\" is not followed by \"then.\" Therefore, the correct answer is (d) No error. </span>"
+    },
+    {
+        "question": "<span> Hardly had he begun his speech than the fire alarm went off.</span>",
+        "option_1": "<span> Hardly had he begun </span>",
+        "option_2": "<span> his speech than the </span>",
+        "option_3": "<span> fire alarm went off. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error lies in part (b), where \"than\" should be replaced with \"when\" to maintain the correct structure following \"Hardly.\"</span><p><span>Therefore, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"Hardly had he begun his speech when the fire alarm went off.\"</span></p>"
+    },
+    {
+        "question": "<span> No sooner had they sat down to eat than the doorbell rang. </span>",
+        "option_1": "<span> No sooner had </span>",
+        "option_2": "<span> they sat down to eat </span>",
+        "option_3": "<span> than the doorbell rang</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The sentence is correct as it is. It follows the structure of \"No sooner...than,\" indicating that one event quickly followed another. Therefore, the correct answer is (d) No error.</span>"
+    },
+    {
+        "question": "<span> Till he pays the rent, he can't move into the apartment.</span>",
+        "option_1": "<span> Till he pays the rent</span>",
+        "option_2": "<span> he can't move </span>",
+        "option_3": "<span> into the apartment. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> option a is the correct answer as \"we do not begin a sentence with till\"</span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“Until he pays the rent, he can't move into the apartment.”</span></p>"
+    },
+    {
+        "question": "<span> She didn't seem doubtful whether she should accept the job offer. </span>",
+        "option_1": "<span> She didn't seem </span>",
+        "option_2": "<span> doubtful whether she </span>",
+        "option_3": "<span> should accept the job offer. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> “In affirmative sentences 'doubt' and 'doubtful' are followed by 'if/whether'. In negative or interrogative sentences 'doubt' and 'doubtful' are followed by 'that'.\" </span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“She didn't seem doubtful that she should accept the job offer.”</span></p>"
+    },
+    {
+        "question": "<span> The coffee is not as hotter as I expected.</span>",
+        "option_1": "<span> The coffee is </span>",
+        "option_2": "<span> not as hotter </span>",
+        "option_3": "<span> as I expected </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> with ‘As….as’ and ‘So….as’ only the positive degrees of adverbs and adjectives can be used. </span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“The coffee is not as hot as I expected.” </span></p>"
+    },
+    {
+        "question": "<span> He is not only </span><span style=\"text-decoration:underline\">wealthy but also poor.</span>",
+        "option_1": "<span> wealthy but also humble</span>",
+        "option_2": "<span> wealthy but also irritating</span>",
+        "option_3": "<span> wealthy but also arrogant </span>",
+        "option_4": "<span> No improvement </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In option (a) \"wealthy but also humble\", both adjectives (\"wealthy\" and \"humble\") are desirable, which aligns with the rule. Therefore, </span><span style=\"text-decoration:underline\">\"He is not only wealthy but also humble</span><span>\" is a grammatically correct sentence according to the rule provided. </span>"
+    },
+    {
+        "question": "<span> He studies not only hard but also participates actively in class. </span>",
+        "option_1": "<span> He studies not only </span>",
+        "option_2": "<span> hard but also participates </span>",
+        "option_3": "<span> actively in class. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The placement of \"not only\" in the sentence is incorrect. \"Not only\" should be placed before the auxiliary verb \"studies\" to maintain proper parallel structure with \"but also.\" </span><p><span>Here's the corrected sentence: </span><span style=\"text-decoration:underline\">\"He not only studies hard but also participates actively in class.\" </span></p>"
+    },
+    {
+        "question": "<span style=\"font-family:'Segoe UI';color:#0d0d0d;background-color:#ffffff\"> The teacher spoke so quickly for the students to understand. </span>",
+        "option_1": "<span style=\"font-family:'Segoe UI';color:#0d0d0d;background-color:#ffffff\"> The teacher spoke </span>",
+        "option_2": "<span style=\"font-family:'Segoe UI';color:#0d0d0d;background-color:#ffffff\"> so quickly for the </span>",
+        "option_3": "<span style=\"font-family:'Segoe UI';color:#0d0d0d;background-color:#ffffff\"> students to understand </span>",
+        "option_4": "<span style=\"font-family:'Segoe UI';color:#0d0d0d;background-color:#ffffff\"> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span style=\"font-family:'Segoe UI';color:#0d0d0d;background-color:#ffffff\"> \"Too quickly\" is used to indicate an excessive speed of speech that hinders the students' understanding. The word \"too\" expresses that the speed of the teacher's speech exceeds what is suitable or manageable for the students. </span><p><span>Let's correct the sentence: </span><span style=\"text-decoration:underline\">\"The teacher spoke too quickly for the students to understand.\"</span></p>"
+    },
+    {
+        "question": "<p>I will call you as soon as I will reach home.</p>",
+        "option_1": "<p>I will call you</p>",
+        "option_2": "<p>as soon as I</p>",
+        "option_3": "<p>will reach home.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>The error is in part (c).</p> <p>If two actions take place one after the other in the future and if the second action depends on the first, the first action will be in simple present tense and the second action will be in simple future tense.</p> <p>Therefore, the correct answer would be: <u>I will call you as soon as I reach home.</u></p>"
+    },
+    {
+        "question": "<span> No sooner she had left the house than it started raining.</span>",
+        "option_1": "<span> No sooner she had </span>",
+        "option_2": "<span> left the house than </span>",
+        "option_3": "<span> it started raining. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> When a sentence starts with ‘No sooner’, ‘Hardly’, ‘Scarcely’, ‘Not only’, ‘Neither’ etc., the sentence formation following these conjunctions will be in the</span><span>inverted form (helping verb + sub + main verb) but this doesn’t mean the sentence is interrogative.</span><p><span>Therefore, the corrected sentence is:</span><span style=\"text-decoration:underline\"> \"No sooner had she left the house than it started raining.\"</span></p>"
+    },
+    {
+        "question": "<span> Hardly they had begun the experiment when they realized they had forgotten a crucial component. </span>",
+        "option_1": "<span> Hardly they had begun the experiment </span>",
+        "option_2": "<span> when they realized they had </span>",
+        "option_3": "<span> forgotten a crucial component. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> When a sentence starts with ‘No sooner’, ‘Hardly’, ‘Scarcely’, ‘Not only’, ‘Neither’ etc., the sentence formation following these conjunctions will be in the</span><span>inverted form (helping verb + sub + main verb) but this doesn’t mean the sentence is interrogative.</span><p><span>Therefore, the corrected sentence is: </span><span style=\"text-decoration:underline\">“Hardly had they begun the experiment when they realized they had forgotten a crucial component.”</span></p>"
+    },
+    {
+        "question": "<span> We won't start the meeting unless everyone arrives. </span>",
+        "option_1": "<span> We won't start </span>",
+        "option_2": "<span> the meeting unless </span>",
+        "option_3": "<span> everyone arrives. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error in the original sentence lies in the use of \"unless\" instead of \"until.\" \"Until\" is used to indicate that the action of starting the meeting will happen after the condition of everyone arriving is met. Therefore, the correct answer is (b) \"the meeting until.\"</span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“We won't start the meeting until everyone arrives.”</span></p>"
+    },
+    {
+        "question": "<span> Unless he doesn’t studies harder, he won't pass the exam. </span>",
+        "option_1": "<span> Unless he doesn’t </span>",
+        "option_2": "<span> studies harder, he </span>",
+        "option_3": "<span> won't pass the exam. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error in the original sentence lies in the use of \"doesn't\" after \"unless.\" \"Unless\" already implies a negative condition, so adding \"doesn't\" creates a double negative. Therefore, \"doesn't\" should be removed to follow the rule correctly.</span><p><span>The corrected sentence is: </span><span style=\"text-decoration:underline\">\"Unless he studies harder, he won't pass the exam.\" </span></p>"
+    },
+    {
+        "question": "<span> The new phone is so expensive as the previous model. </span>",
+        "option_1": "<span> The new phone is </span>",
+        "option_2": "<span> so expensive as the </span>",
+        "option_3": "<span> previous model.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error in the sentence is the use of \"so...as\" for comparison. \"So...as\" is typically used in negative sentences. </span><p><span>The correct phrase for this sentence should be </span><span style=\"text-decoration:underline\">\"The new phone is as expensive as the previous model.\" </span></p>"
+    },
+    {
+        "question": "<a name=\"_Hlk164282544\"><span>She seemed doubtful that she should accept the job offer.</span></a>",
+        "option_1": "<span> She seemed doubtful </span>",
+        "option_2": "<span> that she should </span>",
+        "option_3": "<span> accept the job offer. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> “In affirmative sentences 'doubt' and 'doubtful' are followed by 'if/whether'. In negative or interrogative sentences 'doubt' and 'doubtful' are followed by 'that'.\" </span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“She seemed doubtful whether she should accept the job offer.”</span></p>"
+    },
+    {
+        "question": "<span> The professor, as well as his assistants, are conducting the experiment.</span>",
+        "option_1": "<span> The professor, as well as </span>",
+        "option_2": "<span> his assistants, are </span>",
+        "option_3": "<span> conducting the experiment. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The subject of the sentence is \"The professor, as well as his assistants.\" When we have a compound subject joined by \"as well as,\" \"along with,\" or similar phrases, the verb should agree with the first subject mentioned.</span><p><span>So, in this case, \"The professor\" is the first subject mentioned in the compound subject. Therefore, the verb should agree with \"The professor.\" Since \"The professor\" is singular, the correct verb form should be \"is,\" not \"are.\"</span></p><p><span>The correct sentence should be: </span><span style=\"text-decoration:underline\">\"The professor, as well as his assistants, is conducting the experiment.\" </span></p>"
+    },
+    {
+        "question": "<span> Whether it rains if not, we will still have the picnic. </span>",
+        "option_1": "<span> Whether it rains </span>",
+        "option_2": "<span> if not, we will </span>",
+        "option_3": "<span> still have the picnic.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> when conjunction are in pairs, the pair must be correct. “otherwise...or else, so....that, so....as, whether....or etc. </span><p><span style=\"font-family:'Segoe UI';color:#0d0d0d;background-color:#ffffff\">Here's the corrected version: </span><span style=\"font-family:'Segoe UI';text-decoration:underline;color:#0d0d0d;background-color:#ffffff\">\"Whether it rains or not, we will still have the picnic.\"</span></p>"
+    },
+    {
+        "question": "<span> The project deadline is either next week nor the week after. </span>",
+        "option_1": "<span> The project deadline </span>",
+        "option_2": "<span> is either next week </span>",
+        "option_3": "<span> nor the week after </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The error lies in part (c), where \"nor\" should be replaced with \"or\" to make the sentence grammatically correct. </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"The project deadline is either next week or the week after.\" </span></p>"
+    },
+    {
+        "question": "<span> As she was feeling unwell, therefore she decided to stay home. </span>",
+        "option_1": "<span> As she was feeling </span>",
+        "option_2": "<span> unwell, therefore she </span>",
+        "option_3": "<span> decided to stay home </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error in the original sentence lies in the use of \"therefore\" after \"As.\" \"Therefore\" is redundant in this context because \"As\" already implies a causal relationship. Therefore, the correct answer is (b) \"unwell, therefore she.\" The corrected version removes the unnecessary \"therefore\" to adhere to the rule. </span><p><span>The correct sentence would be: </span><span style=\"text-decoration:underline\">\"As she was feeling unwell, she decided to stay home.\" </span></p>"
+    },
+    {
+        "question": "<span> No sooner did he finish his meal when he started feeling sick. </span>",
+        "option_1": "<span> No sooner did he </span>",
+        "option_2": "<span> finish his meal when </span>",
+        "option_3": "<span> he started feeling sick. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error lies in part (b), where \"when\" should be replaced with \"than\" to maintain the correct structure following \"No sooner.\"</span><p><span>Therefore, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"No sooner did he finish his meal than he started feeling sick.\"</span></p>"
+    },
+    {
+        "question": "<span> I won't leave the house until it stops raining. </span>",
+        "option_1": "<span> I won't leave </span>",
+        "option_2": "<span> the house until </span>",
+        "option_3": "<span> it stops raining </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error in the original sentence lies in the use of \"until\" instead of \"unless.\" \"Unless\" is used to introduce a condition that must be met for an action to occur. Therefore, the correct answer is (b) \"the house unless.\" </span><p><span>The correct sentence would be: </span><span style=\"text-decoration:underline\">\"I won't leave the house unless it stops raining.\"</span></p>"
+    },
+    {
+        "question": "<span> This painting is the same that the one in the museum. </span>",
+        "option_1": "<span> This painting is </span>",
+        "option_2": "<span> the same that the </span>",
+        "option_3": "<span> one in the museum. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> the ‘same’ is followed by 'as' if there is no verb after 'as'. </span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“This painting is the same as the one in the museum.”</span></p>"
+    },
+    {
+        "question": "<span> Scarcely had they arrived at the party than the music stopped abruptly. </span>",
+        "option_1": "<span> Scarcely had they arrived</span>",
+        "option_2": "<span> at the party than the </span>",
+        "option_3": "<span> music stopped abruptly. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error lies in part (b), where \"than\" should be replaced with \"when\" to maintain the correct structure following \"Scarcely.\"</span><p><span>Therefore, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"Scarcely had they arrived at the party when the music stopped abruptly.\" </span></p>"
+    },
+    {
+        "question": "<span> He always locks the door before leaving the house, lest thieves would break in. </span>",
+        "option_1": "<span> He always locks the door </span>",
+        "option_2": "<span> before leaving the house, </span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> lest thieves would break in. </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The error in the original sentence lies in part (d): \"lest thieves would break in.\" The correct construction after \"lest\" is \"should,\" not \"would.\" \"Should\" is used to indicate a potential event that one wants to prevent from happening. Therefore, the correct answer is (d) \"lest thieves should break in.\" </span><p><span>The correct sentence should be: </span><span style=\"text-decoration:underline\">\"He always locks the door before leaving the house, lest thieves should break in.\"</span></p>"
+    },
+    {
+        "question": "<span> They won't leave for vacation until they don’t receive confirmation of their reservations. </span>",
+        "option_1": "<span> They won't leave for vacation </span>",
+        "option_2": "<span> until they don’t receive </span>",
+        "option_3": "<span> confirmation of their reservations. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error in the original sentence lies in the use of \"don't\" after \"until.\" \"Until\" already implies a condition that hasn't happened yet, so adding \"don't\" creates a double negative and makes the sentence illogical. Therefore, \"don't\" should be removed to follow the rule correctly. </span><p><span>The correct sentence would be: </span><span style=\"text-decoration:underline\">\"They won't leave for vacation until they receive confirmation of their reservations.\" </span></p>"
+    },
+    {
+        "question": "<span> This is the same book as I was reading yesterday.</span>",
+        "option_1": "<span> This is the same </span>",
+        "option_2": "<span> book as I was </span>",
+        "option_3": "<span> reading yesterday. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The same' is followed by 'that' if a verb comes after 'the same'. </span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“This is the same book that I was reading yesterday.”</span></p>"
+    },
+    {
+        "question": "<span> She is both intelligent as well as hardworking.</span>",
+        "option_1": "<span> She is</span>",
+        "option_2": "<span> both intelligent </span>",
+        "option_3": "<span> as well as hardworking </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct answer is (c) \"as well as hardworking.\" The correct pair should be “Both….and.”</span><p><span>The correct sentence should be: </span><span style=\"text-decoration:underline\">\"She is both intelligent and hardworking.\"</span></p>"
+    },
+    {
+        "question": "<span> The house was so spacious than it could accommodate a large family. </span>",
+        "option_1": "<span> The house was so </span>",
+        "option_2": "<span> spacious than it could </span>",
+        "option_3": "<span> accommodate a large family. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error lies in part (b): \"spacious than it could.\" The correct phrase should use \"that\" instead of \"than,\" as in \"so...that.\"</span><p><span>Therefore, the corrected version is: </span><span style=\"text-decoration:underline\">\"The house was so spacious that it could accommodate a large family.\" </span></p>"
+    },
+    {
+        "question": "<p>We leave for the airport as soon as everyone is ready.</p>",
+        "option_1": "<p>We leave for the</p>",
+        "option_2": "<p>airport as soon as</p>",
+        "option_3": "<p>everyone is ready.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>If two actions take place one after the other in the future and if the second action depends on the first, the first action will be in simple present tense and the second action will be in simple future tense.</p> <p>Therefore, the correct sentence would be: “We will leave for the airport as soon as everyone is ready.”</p>"
+    },
+    {
+        "question": "<span> Since they have a long drive ahead, so they left early in the morning. </span>",
+        "option_1": "<span> Since they have a long </span>",
+        "option_2": "<span> drive ahead, so they </span>",
+        "option_3": "<span> left early in the morning. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error in the original sentence lies in the use of \"so\" after \"Since.\" \"So\" is redundant in this context because \"Since\" already implies a causal relationship. Therefore, the correct answer is (b) \"drive ahead, so they.\" The corrected version removes the unnecessary \"so\" to adhere to the rule. </span><p><span>The correct sentence would be: </span><span style=\"text-decoration:underline\">\"Since they have a long drive ahead, they left early in the morning.\"</span></p>"
+    },
+    {
+        "question": "<span> When the sun sets, then the sky turns orange and pink. </span>",
+        "option_1": "<span> When the sun sets, </span>",
+        "option_2": "<span> then the sky turns </span>",
+        "option_3": "<span> orange and pink. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error in the original sentence lies in the use of \"then\" after \"When.\" \"Then\" is redundant in this context because \"When\" already indicates a sequence of events. Therefore, the correct answer is (b) \"then the sky turns.\" The corrected version removes the unnecessary \"then\" to adhere to the rule. </span><p><span>The correct sentence is: </span><span style=\"text-decoration:underline\">\"When the sun sets, the sky turns orange and pink.\" </span></p>"
+    },
+    {
+        "question": "<span> He is so intelligent when he can solve complex problems easily.</span>",
+        "option_1": "<span> He is so intelligent </span>",
+        "option_2": "<span> when he can solve </span>",
+        "option_3": "<span> complex problems easily. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> when conjunction are in pairs, the pair must be correct. “otherwise...or else, so....that, so....as, whether....or etc..</span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"He is so intelligent that he can solve complex problems easily.\" </span></p>"
+    }
+]
