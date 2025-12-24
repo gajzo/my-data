@@ -1,0 +1,302 @@
+[
+    {
+        "question": "<span> She is eating breakfast at 8 AM every morning. </span>",
+        "option_1": "<span> She is eating </span>",
+        "option_2": "<span> breakfast at 8 AM </span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> every morning</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The phrase \"She is eating\" is in the present continuous tense, which suggests an action that is happening at the moment of speaking. However, the sentence discusses a habitual action that occurs regularly every morning. The correct tense to express this habitual action is the present simple tense. </span><p><span>So, the correct form should be: </span><span style=\"text-decoration:underline\">\"She eats breakfast at 8 AM every morning.\" </span></p>"
+    },
+    {
+        "question": "<p><a name=\"_Hlk181872750\"> I will meet with my advisor tomorrow to discuss my project. </a></p>",
+        "option_1": "<p>I will meet with my</p>",
+        "option_2": "<p>advisor tomorrow to</p>",
+        "option_3": "<p>discuss my project.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>The correct option is: [d] No error</p> <p>The sentence \"I will meet with my advisor tomorrow to discuss my project\" is grammatically correct. It uses the simple present tense (\"meet\") to express a planned action of the near future. The phrase \"tomorrow\" indicates the timing of the planned action.</p>"
+    },
+    {
+        "question": "<span> Did the students not submitted their projects before the deadline?</span>",
+        "option_1": "<span> Did the students not </span>",
+        "option_2": "<span> submitted their projects </span>",
+        "option_3": "<span> before the deadline?</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: [b] submitted their projects</span><p><span>The error in the sentence is the incorrect form of the verb \"submitted.\" In questions formed with \"Did + subject + not + V1 + Object,\" the main verb should be in its base form, not the past tense form. </span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"Did the students not submit their projects before the deadline?\" </span></p>"
+    },
+    {
+        "question": "<span> Will they visited their grandparents this weekend? </span>",
+        "option_1": "<span> Will they visited </span>",
+        "option_2": "<span> their grandparents </span>",
+        "option_3": "<span> this weekend?</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is: [a] Will they visited</span><p><span>The error in the sentence lies in the verb form. When forming questions with \"Shall/will + subject + V1 + Object,\" the main verb (\"visited\" in this case) should be in the base form (V1), not the past tense form. </span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"Will they visit their grandparents this weekend?\"</span></p>"
+    },
+    {
+        "question": "<span> He is checking his emails first thing in the morning as part of his daily routine. </span>",
+        "option_1": "<span> No error </span>",
+        "option_2": "<span> as part of his daily routine</span>",
+        "option_3": "<span> first thing in the morning </span>",
+        "option_4": "<span> He is checking his emails </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The simple present tense is appropriate here because the action of checking emails is a routine or habitual action that occurs regularly, hence it is expressed in the simple present tense.</span><p><span>Therefore, the correct sentence should be: “He checks his emails first thing in the morning as part of his daily routine.”</span></p>"
+    },
+    {
+        "question": "<span> We will celebrating Ankita’s birthday at the beach next weekend.</span>",
+        "option_1": "<span> We will celebrating </span>",
+        "option_2": "<span> Ankita’s birthday at </span>",
+        "option_3": "<span> the beach next weekend.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) We will celebrating</span><p><span>The error lies in the structure of the verb phrase \"We will celebrating.\" In the</span><span>future continuous tense, the correct form should be \"will be\" followed by the base form of the verb and the present participle (\"-ing\" form). Therefore, the correct form should be \"We will be celebrating.\"</span></p><p><span>The corrected sentence would be: \"We will be celebrating Ankita’s birthday at the beach next weekend.\" </span></p>"
+    },
+    {
+        "question": "<span> The committee is comprising representatives from various departments.</span>",
+        "option_1": "<span> The committee is comprising </span>",
+        "option_2": "<span> representatives from </span>",
+        "option_3": "<span> various departments.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) The committee is comprising</span><p><span>The error lies in the verb \"is comprising.\" According to the rule, these (own, have, belong, comprise, possess, contain, consist) do not take the \"-ing\" form. Therefore, the correct form should be \"The committee comprises.\"</span></p><p><span>The corrected sentence would be: \"The committee comprises representatives from various departments.\"</span></p>"
+    },
+    {
+        "question": "<span> They enjoy hike in the mountains during the fall.</span>",
+        "option_1": "<span> They enjoy hike </span>",
+        "option_2": "<span> in the mountains </span>",
+        "option_3": "<span> during the fall.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) They enjoy hike </span><p><span>The error lies in the phrase \"They enjoy hike.\" In this context, \"hike\" should be in the gerund form because it follows the verb \"enjoy.\" When a verb follows another verb and functions as its object, it should be in the gerund form (\"-ing\" form).</span></p><p><span>The corrected sentence would be: \"They enjoy hiking in the mountains during the fall.\"</span></p>"
+    },
+    {
+        "question": "<span> I have already send the email, you should receive it shortly. </span>",
+        "option_1": "<span> I have already send </span>",
+        "option_2": "<span> the email, you </span>",
+        "option_3": "<span> should receive it shortly</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) I have already send</span><p><span>The error lies in the phrase \"I have already send.\" In the present perfect tense, the verb \"send\" should be in the past participle form, which is \"sent\" in this case. </span></p><p><span>Therefore, the correct sentence should be \"I have already sent the email, you should receive it shortly.\" </span></p>"
+    },
+    {
+        "question": "<p>They have a difficult time adjusting to the new school.</p>",
+        "option_1": "<p>No error</p>",
+        "option_2": "<p>the new school.</p>",
+        "option_3": "<p>time adjusting to</p>",
+        "option_4": "<p>They have a difficult</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>The error identified in option (d) is the absence of the verb \"had\" after \"have,\" resulting in an incomplete construction. In a sentence, any form of 'have' can be followed by 'had' (here 'had' will be the main verb). this is because, in perfect tense, such combinations are used.</p> <p>Therefore, the corrected sentence would be: \"They have had a difficult time adjusting to the new school.\"</p>"
+    },
+    {
+        "question": "<p>They have known each other they were kids.</p>",
+        "option_1": "<p>They have known</p>",
+        "option_2": "<p>each other they</p>",
+        "option_3": "<p>were kids.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The error actually lies in the absence of the word \"since\" before \"they were kids,\" which is necessary to convey the duration of time during which they have known each other.</p> <p>The corrected sentence would be: \"They have known each other since they were kids.\"</p>"
+    },
+    {
+        "question": "<p>When Amit had reached his office, he found that the news about him had preceded him.</p>",
+        "option_1": "<p>When Amit had reached his</p>",
+        "option_2": "<p>office, he found that the news</p>",
+        "option_3": "<p>about him had preceded him.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The correct answer is a.</p> <p>Here ‘Precede’ means ‘to come before’. The first action is ‘the coming of the news’ which must be in Past Perfect Tense and the Second action is ‘Amit going to the office’ which must be in Simple Past Tense.</p> <p>Therefore, the correct sentence should be: When Amit reached his office, he found that the news about him had preceded him.</p>"
+    },
+    {
+        "question": "<p>She will have been working at the company for twenty years by the time she retires.</p>",
+        "option_1": "<p>She will have been working</p>",
+        "option_2": "<p>at the company for twenty</p>",
+        "option_3": "<p>years by the time she retires.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>The sentence is grammatically correct as it is. So the correct option is: [d] No error</p> <p><strong>Correct Format Rule:</strong><br/> ✅ <strong>Future Perfect + \"by the time\" + Present Simple (Indefinite)</strong><br/> <strong>Sentence Analysis:</strong><br/> ✅ <strong>\"She will have been working at the company for twenty years by the time she retires.\"</strong></p> <ul> <li><strong>\"She will have been working\"</strong> → <strong>Future Perfect Continuous</strong></li> <li><strong>\"By the time\"</strong> → Correct usage</li> <li><strong>\"She retires\"</strong> → <strong>Present Simple (Indefinite)</strong></li> </ul> <p><strong>Conclusion:</strong><br/> It correctly uses <strong>Future Perfect Continuous</strong> before \"by the time\" and <strong>Present Simple</strong> after it.<br/> <strong>More Examples:</strong><br/> ✅ <strong>I will have finished my homework by the time my mom arrives.</strong><br/> ✅ <strong>They will have completed the project by the time the manager checks it.</strong><br/> ✅ <strong>She will have learned French by the time she moves to Paris.</strong></p>"
+    },
+    {
+        "question": "<span> She has been cooking dinner since the past hour.</span>",
+        "option_1": "<span> She has been </span>",
+        "option_2": "<span> cooking dinner </span>",
+        "option_3": "<span> since the past hour.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The error is in option (c).</span><p><span>The sentence has an error. The phrase \"since the past hour\" is not idiomatic. The correct phrase should be \"for the past hour\" to indicate a duration of time.</span></p><p><span>So, the corrected sentence would be: \"She has been cooking dinner for the past hour.\"</span></p>"
+    },
+    {
+        "question": "<p>They moved to the countryside, since they have <a name=\"_Hlk165885544\">enjoyed a quieter lifestyle. </a></p>",
+        "option_1": "<p>They moved to the countryside,</p>",
+        "option_2": "<p>since they have</p>",
+        "option_3": "<p>enjoyed a quieter lifestyle.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The sentence \"They moved to the countryside, since they have enjoyed a quieter lifestyle.\" is grammatically incorrect. When \"since\" is used at the beginning of a sentence to indicate time, it usually requires a past simple tense verb.</p> <p>A corrected version could be: \"Since They moved to the countryside, they have enjoyed a quieter lifestyle.\"</p>"
+    },
+    {
+        "question": "<span> We have had enough time to completed the assignment. </span>",
+        "option_1": "<span> We have had enough </span>",
+        "option_2": "<span> time to completed </span>",
+        "option_3": "<span> the assignment.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is: (b) time to completed </span><p><span>The correction replaces the incorrect form \"completed\" with the correct base form \"complete.\" This ensures that the verb form aligns with the structure required after the phrase \"time to,\" which typically requires an infinitive verb form. </span></p><p><span>“In a sentence, any form of 'have' can be followed by 'had' (here 'had' will be the main verb). this is because in perfect tense, such combinations are used.”</span></p><p><span>Therefore, the correct sentence should be: “We have had enough time to complete the assignment.” </span></p>"
+    },
+    {
+        "question": "<p>We have visited the museum earlier this morning.</p>",
+        "option_1": "<p>We have visited</p>",
+        "option_2": "<p>the museum earlier</p>",
+        "option_3": "<p>this morning.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The correct answer is: a</p> <p>The error lies in the verb tense. Since the specific time \"earlier this morning\" is mentioned, the simple past tense \"visited\" should be used instead of the present perfect tense \"have visited.\"</p> <p><!--StartFragment --></p> <ul> <li> <ul> <li>Use <strong>simple past</strong> with <strong>specific, finished time expressions</strong> (e.g., \"yesterday,\" \"last week,\" \"earlier this morning\").</li> <li>Use <strong>present perfect</strong> with <strong>unspecified or ongoing time frames</strong> (e.g., \"today,\" \"this week,\" \"recently\").</li> </ul> <!--EndFragment --><!--StartFragment -->​​​​​</li> <li>The corrected sentence would be: \"We visited the museum earlier this morning.\"</li> </ul>"
+    },
+    {
+        "question": "<span> They are fond of play chess in their free time. </span>",
+        "option_1": "<span> They are fond </span>",
+        "option_2": "<span> of play chess in </span>",
+        "option_3": "<span> their free time.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p><span>The correct answer is: b </span></p><p><span>The error lies in the phrase \"of play chess in.\" In this context, the verb \"play\" should be in the \"-ing\" form because it follows the preposition \"of.\" When a verb follows a preposition, it typically takes the \"-ing\" form.</span></p><p><span>The corrected phrase would be: \"They are fond of playing chess in their free time.\"</span></p>"
+    },
+    {
+        "question": "<span> We have a meeting at 3 PM, but we having lunch together before that.</span>",
+        "option_1": "<span> We have a meeting at </span>",
+        "option_2": "<span> 3 PM, but we having lunch </span>",
+        "option_3": "<span> together before that.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is: 3 PM, but we having lunch. </span><p><span>If 'have' denotes 'possession', it is not used in 'ing' form but if 'have' denotes 'to have fun or to eat', 'have' can be used 'ing' form. </span></p><p><span>The correct form of the sentence would be: \"We have a meeting at 3 PM, but we are having lunch together before that.\" </span></p>"
+    },
+    {
+        "question": "<span> He is recognizing his old friend from across the street.</span>",
+        "option_1": "<span> his old friend from </span>",
+        "option_2": "<span> He is recognizing</span>",
+        "option_3": "<span> across the street.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is: b </span><p><span>The error lies in the verb \"recognizing.\" According to the rule these verbs (See, taste, smell, hear, prefer, please, notice, recognize) do not take 'ing' form. Therefore, the correct form should be \"He recognizes.\" </span></p><p><span>The corrected sentence would be: \"He recognizes his old friend from across the street.\"</span></p>"
+    },
+    {
+        "question": "<span> They were walked in the park when they </span><a name=\"_Hlk165712746\"><span>saw a shooting star. </span></a>",
+        "option_1": "<span> saw a shooting star.</span>",
+        "option_2": "<span> the park when they</span>",
+        "option_3": "<span> They were walked in</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct answer is: (c) They were walked in</span><p><span>The error lies in the phrase \"They were walked in.\" The correct form should be \"They were walking,\" using the past continuous tense to indicate an action that was in continuation in the past. </span></p><p><span>Therefore, the corrected sentence would be: \"They were walking in the park when they saw a shooting star.\" </span></p>"
+    },
+    {
+        "question": "<p>The computer downloads updates in the background.</p>",
+        "option_1": "<p>No error</p>",
+        "option_2": "<p>the background.</p>",
+        "option_3": "<p>updates in</p>",
+        "option_4": "<p>The computer downloads</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>This sentence is <strong>grammatically correct</strong>.</p> <ul> <li> <p><strong>Subject:</strong> The computer</p> </li> <li> <p><strong>Verb:</strong> downloads (simple present tense, correct for habitual action)</p> </li> <li> <p><strong>Object:</strong> updates</p> </li> <li> <p><strong>Prepositional phrase:</strong> in the background</p> </li> </ul> <p>✅ <strong>No error</strong> in structure or usage.</p> <p>This sentence is <strong>grammatically correct</strong>.</p> <ul> <li> <p><strong>Subject:</strong> The computer</p> </li> <li> <p><strong>Verb:</strong> downloads (simple present tense, correct for habitual action)</p> </li> <li> <p><strong>Object:</strong> updates</p> </li> <li> <p><strong>Prepositional phrase:</strong> in the background</p> </li> </ul> <p>✅ <strong>No error</strong> in structure or usage.</p>"
+    },
+    {
+        "question": "<span> It's time to started working on your project. </span>",
+        "option_1": "<span> It's time to </span>",
+        "option_2": "<span> started working </span>",
+        "option_3": "<span> on your project. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: [b] started working</span><p><span>The error in the sentence lies in the verb form. When \"It's time\" is followed by \"to\" and a verb, the verb should be in the base form (V1), not in the past tense form. </span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"It's time to start working on your project.\"</span></p>"
+    },
+    {
+        "question": "<span> She did not finished her homework before the deadline.</span>",
+        "option_1": "<span> She did not finished </span>",
+        "option_2": "<span> her homework </span>",
+        "option_3": "<span> before the deadline.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is: [a] She did not finished</span><p><span>The error in the sentence lies in the incorrect verb form. In the simple past tense, the verb \"finish\" should be in its base form, not its past participle form. </span></p><p><span>Therefore, the correct phrase should be </span><span style=\"text-decoration:underline\">\"She did not finish her homework before the deadline.\" </span></p>"
+    },
+    {
+        "question": "<p>Sometimes, she is singing in the shower.</p>",
+        "option_1": "<p>Sometimes, she</p>",
+        "option_2": "<p>is singing in</p>",
+        "option_3": "<p>No error</p>",
+        "option_4": "<p>the shower</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The correct option is: [b] is singing in</p> <p><!--StartFragment --></p> <ul> <li> <ul> <li><strong>\"is singing\"</strong> is in the <strong>present continuous tense</strong>, which is used for actions happening <strong>right now</strong> or around the current moment.</li> <li><strong>\"Sometimes\"</strong> implies a <strong>habitual or repeated action</strong>, which should be expressed using the <strong>simple present tense</strong>.</li> </ul> <!--EndFragment --><!--StartFragment -->​​</li> <li>To correct the sentence, we should use the simple present tense instead of the present continuous tense.</li> </ul> <p>The corrected sentence would be: \"Sometimes, she sings in the shower.\"</p>"
+    },
+    {
+        "question": "<a name=\"_Hlk165653139\"><span>She is giving a </span></a><span>presentation at the </span><a name=\"_Hlk165653207\"><span>conference tomorrow. </span></a>",
+        "option_1": "<span> She is giving a </span>",
+        "option_2": "<span> presentation at the </span>",
+        "option_3": "<span> conference tomorrow. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct option is: [d] No error</span><p><span>The sentence \"She is giving a presentation at the conference tomorrow.\" is grammatically correct. It follows the rule that for events that will take place in the near future, the present continuous tense is used. </span></p>"
+    },
+    {
+        "question": "<p>He is hearing the birds chirping outside his window.</p>",
+        "option_1": "<p>He is hearing</p>",
+        "option_2": "<p>the birds chirping</p>",
+        "option_3": "<p>outside his window.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The correct answer is: a</p> <p>The error lies in the verb \"hearing.\" According to the rule these verbs (See, taste, smell, hear, prefer, please, notice, recognize) do not take 'ing' form. Therefore, the correct form should be \"He hears.\"</p> <p>The corrected sentence would be: \"He hears the birds chirping outside his window.\"</p>"
+    },
+    {
+        "question": "<span> They have moved into their new house last year. </span>",
+        "option_1": "<span> They have moved </span>",
+        "option_2": "<span> into their new </span>",
+        "option_3": "<span> house last year. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) They have moved</span><p><span>The error lies in the phrase \"They have moved.\" When past time is specified, as in \"last year,\" the simple past tense should be used instead of the present perfect tense. Therefore, the correct form should be \"They moved.\"</span></p><p><span>The corrected sentence would be: \"They moved into their new house last year.\" </span></p>"
+    },
+    {
+        "question": "<span> Tina had seen Abhishek before he had stopped his car.</span>",
+        "option_1": "<span> Tina had seen </span>",
+        "option_2": "<span> Abhishek before he </span>",
+        "option_3": "<span> had stopped his car.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct answer is option c. The past perfect tense \"had stopped\" implies that the action of stopping the car occurred before another past action, which is Tina seeing Abhishek. </span><p><span>So, the corrected sentence would be: “Tina had seen Abhishek before he stopped his car.”</span></p>"
+    },
+    {
+        "question": "<span> They have been playing football in the park for morning.</span>",
+        "option_1": "<span> They have been </span>",
+        "option_2": "<span> playing football in </span>",
+        "option_3": "<span> the park for morning. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The error is in option (c).</span><p><span>The sentence has an error. \"For morning\" should be replaced with \"since morning\" to correctly indicate the duration of time.</span></p><p><span>So, the corrected sentence would be: \"They have been playing football in the park since morning.\"</span></p>"
+    }
+]
