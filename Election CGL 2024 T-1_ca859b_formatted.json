@@ -1,0 +1,102 @@
+[
+    {
+        "question": "<span style=\"line-height:115%;font-size:11pt\">In an election between two candidates, y% of the voters did not vote. 10% of the votes cast were declared invalid, while all the valid votes were cast in favour of either of the two candidates. The candidate who got 59.375% of the valid votes cast was declared elected by 2484 votes. If the number of people eligible to vote in that election was 16,000, what is the value of y?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 7.5</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 7.2</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 8.4</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 8</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span>375% = 19/32</span><span>other got = 13/32</span><span>difference = 6/32 = 3/16</span><p><span>ATQ, </span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330243648_image001.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330243648_image002.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330243648_image003.png"
+    },
+    {
+        "question": "<span> In a constituency, 45% of the total number of voters are males and the rest are females. If 60% of the males are illiterate and 60% of the females are literate, then by what per cent is the number of illiterate females more than that of literate males? (Rounded off to 2 decimal places)</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 19.11%</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 27.23%</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 30.24%</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 22.22%</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330243648_image004.png"
+    },
+    {
+        "question": "<span> In an election between Sunita and Mamata, 85% of voters cast their votes but 2% of votes were invalid. If Sunita got 64,974 votes which is 78% of valid votes, then the total number of voters enrolled in the election was:</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 1,65,000</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 1,00,000</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 1,80,000</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 1,25,000</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330243648_image005.png"
+    },
+    {
+        "question": "<span> In an election between two candidates P and Q, P got 78% of the total valid votes. If the total votes of the electorate were 75,60,000, then what was the number of valid votes that Q got if 10% of the voters did not cast their vote and 15% of the votes polled were declared invalid?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 1,41,732</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 1,47,312</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 1,41,372</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 12,72,348</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330243648_image006.png"
+    },
+    {
+        "question": "<span> In an election between R and S, R gets 110% of the votes of S and beats S by 770 votes. If there were no invalid votes, then the total number of votes polled is:</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 16170</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 17610</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 16710</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 17160</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330243648_image007.png"
+    },
+    {
+        "question": "<span> Two candidates contested in an election. 80% of the voters cast their votes, out of which 5% of the polled votes were invalid. The winning candidate got 70% of valid votes and won by a majority of 36,480 votes. Find the total number of voters.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 1,20,000</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 1,18,000</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 1,15,000</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 1,25,000</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330243648_image008.png"
+    },
+    {
+        "question": "<span> In an election between two candidates, the one who gets 88% of the votes is elected by a majority of 684 votes. What is the total number of votes polled?</span><span>(all polled votes are valid)</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 850</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 800</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 750</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 900</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330243648_image009.png"
+    },
+    {
+        "question": "<p>Three candidates X, Y and Z participated in an election. X got 30% more votes than Y, whereas Z got 25% more votes than Y. X also overtook Z by 5000 votes. If 71% of the voters voted and no invalid votes were cast, then what was the total number of voters in the voting list?</p>",
+        "option_1": "<p><span style=\"color:#4224e9\">5,00,000</span></p>",
+        "option_2": "<p><span style=\"color:#4224e9\">4,50,000</span></p>",
+        "option_3": "<p><span style=\"color:#4224e9\">3,55,000</span></p>",
+        "option_4": "<p><span style=\"color:#4224e9\">4,05,000</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330243648_image010.png"
+    },
+    {
+        "question": "<span> In an election between two candidates, P received 42% of the valid votes and Q won by 45,360 votes. 20% people did not cast their vote. If 10% of the votes cast were found invalid, what is the total number of votes registered in the poll booth?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 3,93,750</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 3,59,000</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 3,93,600</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 3,53,790</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330243648_image011.png"
+    },
+    {
+        "question": "<span> In an election between two candidates, 80% of the voters cast their votes, out of which 4% votes were declared invalid. A candidate got 15,360 votes which were 80% of the valid votes. Find the total number of votes.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 23,000</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 20,000</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 18,000</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 25,000</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330243648_image012.png"
+    }
+]
