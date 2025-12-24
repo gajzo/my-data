@@ -1,0 +1,152 @@
+[
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">Which one set of letters when sequentially placed at the gaps in the given letter series shall complete it?</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">c_dde_ccd_eec_ddee</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">dced</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cedc</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">ecdc</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cddc</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The correct set of letters is cedc.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">c</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">dde</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">e</span><span style=\"font-family:'Cambria Math'\">/ccd</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">d</span><span style=\"font-family:'Cambria Math'\">ee/c</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">ddee</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">Which one set of letters when sequentially placed at the gaps in the given letter series shall complete it?</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">_cd_db_bcb_d_db</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bcdcc</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cccdd</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bccdd</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cbbcb</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The correct set of letters is bcdcc.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-weight:bold;font-family:'Cambria Math'\">b</span><span style=\"font-family:'Cambria Math'\">cd/</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">db/</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">d</span><span style=\"font-family:'Cambria Math'\">bc/b</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">d/</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">db</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The letters are changing their place in a cyclic order.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">Which one set of letters when sequentially placed at the gaps in the given letter series shall complete it?</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">c_bd_dd_dc_bc_bd</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">debcb</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">ccbbd</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bcccd</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bbccb</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The correct set of letters is bbccb.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">c</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">b</span><span style=\"font-family:'Cambria Math'\">bd/</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">b</span><span style=\"font-family:'Cambria Math'\">dd</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c/</span><span style=\"font-family:'Cambria Math'\">dc</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">b/c</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">b</span><span style=\"font-family:'Cambria Math'\">bd</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-weight:bold;font-family:'Cambria Math'\">Logic of the letter series: </span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The letter which comes twice in the initial set of letters comes at the starting of the next set of letters and the last letter of the sets of letters get repeated twice in the next letter series. Also, the first letter of set of letters becomes last letter of the next set of letters.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">Which one set of letters when sequentially placed at the gaps in the given letter series shall complete it?</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">ccd_cc_ddd_ccc_dddc</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cddc</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">dccd</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cccd</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cdce</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The correct set of letters is dccd.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">ccd</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">d/</span><span style=\"font-family:'Cambria Math'\">cc</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">ddd/</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">ccc</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">d</span><span style=\"font-family:'Cambria Math'\">ddd/c</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">Thus, letters are repeated twice, then thrice then four times and so on.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">Which one set of letters when sequentially placed at the gaps in the given letter series shall complete it?</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">c_ddbddb_cb_ccd_cd_b </span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cbbcd</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">abaaa</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">acbca</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bacab</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The correct set of letters is cbbcd.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">c</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">ddb/ddb</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">b</span><span style=\"font-family:'Cambria Math'\">c/b</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">b</span><span style=\"font-family:'Cambria Math'\">ccd/</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">cd</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">d</span><span style=\"font-family:'Cambria Math'\">b.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">Select the option that represents the letters that when placed from left to right in the blanks below will complete the given letter series.</span><br/><span style=\"font-family:'Cambria Math'\">D F _ I J O D _ H I J O _ F H I J O D F _ I J O D _</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">FHDHF</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">HFDHF</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">HFFDH</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">HFHDF</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The correct answer is: b</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">DF</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">H</span><span style=\"font-family:'Cambria Math'\">IJO/D</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">F</span><span style=\"font-family:'Cambria Math'\">HIJO/</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">D</span><span style=\"font-family:'Cambria Math'\">FHIJO/DF</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">H</span><span style=\"font-family:'Cambria Math'\">IJO/D</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">F</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The correct combination to fill in the blanks is HFDHF.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">Which one set of letters when sequentially placed at the gaps in the given letter series shall complete it?</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">_b_c_bcbb_cbc_bcc</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bbbcc</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bcbcc</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cbcbc</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cbccb</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The correct set of letters to fill the blanks is cbccb.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">b</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">b/</span><span style=\"font-family:'Cambria Math'\">c</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">b/cbb/</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">cb/c</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">b</span><span style=\"font-family:'Cambria Math'\">b/cc</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The pattern cbb and ccb is repeated.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">Which one set of letters when sequentially placed at the gaps in the given letter series shall complete it?</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cdec_deccd_ec_dde_c</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">eecc</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">ddbb</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cdce</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cddc</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The correct set of letters to fill in the blanks is cdce.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cde/c</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">de/ccd</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">d</span><span style=\"font-family:'Cambria Math'\">e/c</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">dde</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">e/</span><span style=\"font-family:'Cambria Math'\">c</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:'Cambria Math'\">Which one set of letters when sequentially placed at the gaps in the given letter series shall complete it?</span></p> <p><span style=\"font-family:'Cambria Math'\">b_dbdcd_cbdb_ _c</span></p>",
+        "option_1": "<p><span style=\"font-family:'Cambria Math'\">cbcb</span></p>",
+        "option_2": "<p><span style=\"font-family:'Cambria Math'\">cbcd</span></p>",
+        "option_3": "<p><span style=\"font-family:'Cambria Math'\">bcbd</span></p>",
+        "option_4": "<p><span style=\"font-family:'Cambria Math'\">dbdc</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p><span style=\"font-family:'Cambria Math'\">The correct set of letters to fill in the blanks is cbcd.</span></p> <p><span style=\"font-family:'Cambria Math'\">b</span><strong>c</strong><span style=\"font-family:'Cambria Math'\">dbd/cd</span><strong>b</strong><span style=\"font-family:'Cambria Math'\">cb/db</span><strong>cd</strong><span style=\"font-family:'Cambria Math'\">c</span></p> <p><span style=\"font-family:'Cambria Math'\">The series consists of three sequences. The first three letters of each sequence are in a cyclic order and the last two letters of each sequence are the same as the first and third letters of the sequence.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">Which one set of letters when sequentially placed at the gaps in the given letter series shall complete it?</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bd_dbc_cbdb_bcb_bdbd</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bbdc</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bfcf</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cadb</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">decb</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The correct set of letters to fill the blanks is bbdc.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bdbd/bcbc/bdbd/bcbc/bdbd</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">Which one set of letters when sequentially placed at the gaps in the given letter series shall complete it?</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">_cd_db_bcb_d_db</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bcdcc</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cccfd</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">dbcda </span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">ccdfc</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The correct set of letters to fill in the blanks is bcdcc.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-weight:bold;font-family:'Cambria Math'\">b</span><span style=\"font-family:'Cambria Math'\">cd/</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">db/</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">d</span><span style=\"font-family:'Cambria Math'\">bc/b</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">d/</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">db</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The letters change places in a cyclic order.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">Which one set of letters when sequentially placed at the gaps in the given letter series shall complete it?</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bc_bb_ccc_bbb_cccb</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bcdc</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cbbc</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">abcb</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cdbb</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The correct set of letters to fill the blanks is cbbc.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bc</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c/</span><span style=\"font-family:'Cambria Math'\">bbbccc/</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">b</span><span style=\"font-family:'Cambria Math'\">bbb</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">ccc/b</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">Which one set of letters when sequentially placed at the gaps in the given letter series shall complete it?</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bbbaa_zz_bb_aaazz_b</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">zdad</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">azbz</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">azaz</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">zbaz</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The correct set of letters to fill in the blanks is azbz.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bbb/aaa/zzz/bbb/aaa/zzz/b</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">Which one set of letters when sequentially placed at the gaps in the given letter series shall complete it?</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">_cdd_bd_bbcc_bc_dd</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bcddc</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bdcdb</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cbdbc</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">cdcda</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The correct set of letters to fill in the blanks is cbdbc.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">cdd</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">b</span><span style=\"font-family:'Cambria Math'\">b/d</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">d</span><span style=\"font-family:'Cambria Math'\">bbcc/</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">b</span><span style=\"font-family:'Cambria Math'\">bc</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c</span><span style=\"font-family:'Cambria Math'\">dd</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The letter pairs are in cyclic order.</span></p>"
+    },
+    {
+        "question": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">Which one set of letters when sequentially placed at the gaps in the given letter series shall complete it?</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">b_ce_eb_ecd_c_ ed</span></p>",
+        "option_1": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">bbcde</span></p>",
+        "option_2": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">dcddb</span></p>",
+        "option_3": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">dbcec</span></p>",
+        "option_4": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">ddcbb</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">The correct set of letters to fill the blanks is ddcbb.</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\">b</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">d</span><span style=\"font-family:'Cambria Math'\">ce/</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">d</span><span style=\"font-family:'Cambria Math'\">eb</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">c/</span><span style=\"font-family:'Cambria Math'\">ecd</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">b/</span><span style=\"font-family:'Cambria Math'\">c</span><span style=\"font-weight:bold;font-family:'Cambria Math'\">b</span><span style=\"font-family:'Cambria Math'\">ed</span></p><p style=\"margin-top:0pt;margin-bottom:0pt;font-size:12pt\"><span style=\"font-family:'Cambria Math'\"><b>Logic:</b> Each group consists of letters of the previous group in the order – second, fourth, first, third. </span></p>"
+    }
+]
