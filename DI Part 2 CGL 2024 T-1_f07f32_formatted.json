@@ -1,0 +1,482 @@
+[
+    {
+        "question": "<span> There is constant growth rate (in %) every year in the production of a company as seen the given table.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>Find the value of ‘X’ from the data given in the table.</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image001.png",
+        "option_1": "<span style=\"color:#c00000\"> 12000</span>",
+        "option_2": "<span style=\"color:#c00000\"> 12600</span>",
+        "option_3": "<span style=\"color:#c00000\"> 12960</span>",
+        "option_4": "<span style=\"color:#c00000\"> 11880</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image002.png"
+    },
+    {
+        "question": "<span> Study the given table and answer the question that follows.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>The table represents the number of scooters (in thousands) manufactured by four companies A, B, C and D from the period 2012 to 2015.</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>The average number of scooters produced by company D is what per cent (rounded off to 2 decimal places) more than the combined average number of scooters produced by the three companies A, B, and C?</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image003.png",
+        "option_1": "<span style=\"color:#c00000\"> 52.75%</span>",
+        "option_2": "<span style=\"color:#c00000\"> 27.25%</span>",
+        "option_3": "<span style=\"color:#c00000\"> 44.66%</span>",
+        "option_4": "<span style=\"color:#c00000\"> 35.35%</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image004.png"
+    },
+    {
+        "question": "<span> The table given below shows the marks obtained by four students in 4 different subjects. Maximum marks for each subject is 175.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What is the aggregate percentage of marks obtained by Gunja in all the four subjects?</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image005.png",
+        "option_1": "<span style=\"color:#c00000\"> 71</span>",
+        "option_2": "<span style=\"color:#c00000\"> 58</span>",
+        "option_3": "<span style=\"color:#c00000\"> 61</span>",
+        "option_4": "<span style=\"color:#c00000\"> 67</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image006.png"
+    },
+    {
+        "question": "<span> The marks of 6 students are given. All the marks are out of 100.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>Find the percentage scored by C.</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image007.png",
+        "option_1": "<span style=\"color:#c00000\"> 75%</span>",
+        "option_2": "<span style=\"color:#c00000\"> 70%</span>",
+        "option_3": "<span style=\"color:#c00000\"> 68%</span>",
+        "option_4": "<span style=\"color:#c00000\"> 65%</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image008.png"
+    },
+    {
+        "question": "<span> The following table shows the sales durings two seasons of a company. Study the table and answer the question that follows.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What is the percentage share of sales during months of June and July to the total sales?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image009.png",
+        "option_1": "<span style=\"color:#c00000\"> 30%</span>",
+        "option_2": "<span style=\"color:#c00000\"> 33%</span>",
+        "option_3": "<span style=\"color:#c00000\"> 28%</span>",
+        "option_4": "<span style=\"color:#c00000\"> 24%</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image010.png"
+    },
+    {
+        "question": "<span> The given table shows the number of candidates appeared in an interview for different posts (A, B, C, D, E and F).</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What is the average number of candidates appearing for the posts C, D, E and F?</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image011.png",
+        "option_1": "<span style=\"color:#c00000\"> 7225</span>",
+        "option_2": "<span style=\"color:#c00000\"> 7500</span>",
+        "option_3": "<span style=\"color:#c00000\"> 8000</span>",
+        "option_4": "<span style=\"color:#c00000\"> 7600</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> Total number of candidates appearing for the posts C, D, E, F = 8600+9900+5300+5100 = 28900</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>Total posts = 4</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>Average = 28900÷4</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>= 7225</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span> The given table shows the expenditure in (in crores ₹) of three companies A, B and C and the percentage profit of these companies in different years. Given that:</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>Income = Expenditure + Expenditure </span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What is the income (in crore ₹) of Company C in the year 2003?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image012.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image013.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image014.png",
+        "option_1": "<span style=\"color:#c00000\"> 75.7</span>",
+        "option_2": "<span style=\"color:#c00000\"> 69.8</span>",
+        "option_3": "<span style=\"color:#c00000\"> 77.5</span>",
+        "option_4": "<span style=\"color:#c00000\"> 105</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image015.png"
+    },
+    {
+        "question": "<span> Study the given table and answer the question that follows. The given table shows the number of candidates who appeared (both male and female) in a Public Examination and the percentage of those who qualified in the examination from two states X and Z. Few values are missing in the table (indicated by ------). You will be required to fill them up according to the question.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>The number of appeared candidates from State Z increased by 100% from 2008 to 2009. If the total number of qualified candidates from State Z in 2008 and 2009 together is 552, what is the number of appeared candidates from State Z in 2009?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image016.png",
+        "option_1": "<span style=\"color:#c00000\"> 480</span>",
+        "option_2": "<span style=\"color:#c00000\"> 600</span>",
+        "option_3": "<span style=\"color:#c00000\"> 240</span>",
+        "option_4": "<span style=\"color:#c00000\"> 360</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image017.png"
+    },
+    {
+        "question": "<span> Study the given table and answer the question that follows.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>The following table shows the production of printers by four plants of a company over the five years. </span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What is the difference between the average production of plant 1 and plant 2 during five years?</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image018.png",
+        "option_1": "<span style=\"color:#c00000\"> 3840</span>",
+        "option_2": "<span style=\"color:#c00000\"> 1600</span>",
+        "option_3": "<span style=\"color:#c00000\"> 1400</span>",
+        "option_4": "<span style=\"color:#c00000\"> 3000</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image019.png"
+    },
+    {
+        "question": "<span> Study the given bar-graph and answer the question that follows.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What is the ratio of the number of engineers of countries with an above average to the number of engineers of countries with a below average?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image020.png",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image021.png",
+        "option_2": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image022.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image023.png",
+        "option_4": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image024.png",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> Average becomes 58 of all countries and 3 countries are more than average and 3 are less than average so 3:3 = 1:1</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span> Study the below table and answer the questin that follows.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>If 300 calories are burned by jogging 6 km, then how many calories were burnt in the given week?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image025.png",
+        "option_1": "<span style=\"color:#c00000\"> 2000</span>",
+        "option_2": "<span style=\"color:#c00000\"> 1800</span>",
+        "option_3": "<span style=\"color:#c00000\"> 1600</span>",
+        "option_4": "<span style=\"color:#c00000\"> 2200</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image026.png"
+    },
+    {
+        "question": "<span> The following table represents the total number of students in different classes and the respective number of students who are vegetarian, in a school Study the table carefully and answer the quetin that follows. </span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What is the percentage of non-vegetarian students in class XII?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image027.png",
+        "option_1": "<span style=\"color:#c00000\"> 40%</span>",
+        "option_2": "<span style=\"color:#c00000\"> 35%</span>",
+        "option_3": "<span style=\"color:#c00000\"> 25%</span>",
+        "option_4": "<span style=\"color:#c00000\"> 30%</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image028.png"
+    },
+    {
+        "question": "<span>The following table shows the number of students admitted in to a university for higher education from 2010 to 2013.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What is the average number of students admitted in to the university from 2010 to 2013?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image029.png",
+        "option_1": "<span style=\"color:#c00000\"> 510</span>",
+        "option_2": "<span style=\"color:#c00000\"> 499</span>",
+        "option_3": "<span style=\"color:#c00000\"> 495</span>",
+        "option_4": "<span style=\"color:#c00000\"> 522</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image030.png"
+    },
+    {
+        "question": "<span> The monthly production of electric bulbs by a company during the second half of the year 2021 is shown by the following bar graph. Study the bar graph carefully and answer the question given below.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What is the percentage decrement in the production of electric bulbs in October as compared to the production in July? (Correct up to two decimal places.)</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image031.png",
+        "option_1": "<span style=\"color:#c00000\"> 32.28%</span>",
+        "option_2": "<span style=\"color:#c00000\"> 29.82%</span>",
+        "option_3": "<span style=\"color:#c00000\"> 31.82%</span>",
+        "option_4": "<span style=\"color:#c00000\"> 30.28%</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image032.png"
+    },
+    {
+        "question": "<span> The sale of two kinds of bicycles B1 and B2 (in lakhs) manufactured by a company over a period of three years are shown in the table below.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>From 2001 to 2003, the total sale of bicycles B1 is what percent of the total sale of bicycles B2?</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image033.jpeg",
+        "option_1": "<span style=\"color:#c00000\"> 68.2%</span>",
+        "option_2": "<span style=\"color:#c00000\"> 56.7%</span>",
+        "option_3": "<span style=\"color:#c00000\"> 62.5%</span>",
+        "option_4": "<span style=\"color:#c00000\"> 70.6%</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image034.png"
+    },
+    {
+        "question": "<span> The given table shows the percentage of students passing out of college M over five years.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What is the percentage increase in the number of students passing out of college M in the year 2022 as compared to the previous year?</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image035.png",
+        "option_1": "<span style=\"color:#c00000\"> 10%</span>",
+        "option_2": "<span style=\"color:#c00000\"> 20%</span>",
+        "option_3": "<span style=\"color:#c00000\"> 25%</span>",
+        "option_4": "<span style=\"color:#c00000\"> 15%</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image036.png"
+    },
+    {
+        "question": "<span> The given table shows the expenditure (in crore ₹) of three companies A, B and C and the percentage profit of these companies in different years. Given that:</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>Income = Expenditure + Expenditure </span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What is the difference (in crore ₹) between the profits of Company A and Company B in the year 2005?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image037.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image038.png",
+        "option_1": "<span style=\"color:#c00000\"> 7.2</span>",
+        "option_2": "<span style=\"color:#c00000\"> 10.4</span>",
+        "option_3": "<span style=\"color:#c00000\"> 8.3</span>",
+        "option_4": "<span style=\"color:#c00000\"> 12.5</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image039.png"
+    },
+    {
+        "question": "<span> Study the given table and answer the question that follows. </span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>The total money spent in advertisement (in ₹) and total number of advertisement in different newspapers given by a company for five years (2018 to 2022) is given in the below table.</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What is the ratio of the money spent on each of the advertisements taken one from each of NY times, The Telegraph and Others for the year 2021 to that of the money spent on each of the advertisements taken one from each of NY times, The Telegraph and Others for the year 2018?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image040.png",
+        "option_1": "<span style=\"color:#c00000\"> 79 : 80</span>",
+        "option_2": "<span style=\"color:#c00000\"> 80 : 79</span>",
+        "option_3": "<span style=\"color:#c00000\"> 80 : 71</span>",
+        "option_4": "<span style=\"color:#c00000\"> 71 : 80</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image041.png"
+    },
+    {
+        "question": "<span> The table shows the sales (in units) of a company for different cities in the months of June and July, 2022. Study the table and answer the question that follows.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What is the difference between Delhi’s sales foe the month of June and Chennai’s sales for the month of July?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image042.png",
+        "option_1": "<span style=\"color:#c00000\"> 30</span>",
+        "option_2": "<span style=\"color:#c00000\"> 155</span>",
+        "option_3": "<span style=\"color:#c00000\"> 80</span>",
+        "option_4": "<span style=\"color:#c00000\"> 5</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> 252-247=5</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span> The following table gives zone wise survey report of the people of a country who take tea. Study the table and answer the question.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>The ratio of the total number of people surveyed who take tea more than 3 times a day to the number of people who do not take tea at all is</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image043.png",
+        "option_1": "<span style=\"color:#c00000\"> 8 : 103</span>",
+        "option_2": "<span style=\"color:#c00000\"> 101 : 5</span>",
+        "option_3": "<span style=\"color:#c00000\"> 103 : 8</span>",
+        "option_4": "<span style=\"color:#c00000\"> 5 : 107</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image044.png"
+    },
+    {
+        "question": "<span> Refer the below table and answer the question that follows.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>Jewellery was what percentage of the total exports? (Rounded to two decimal places)</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image045.png",
+        "option_1": "<span style=\"color:#c00000\"> 15.63%</span>",
+        "option_2": "<span style=\"color:#c00000\"> 14.34%</span>",
+        "option_3": "<span style=\"color:#c00000\"> 15.78%</span>",
+        "option_4": "<span style=\"color:#c00000\"> 14.63%</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image046.png"
+    },
+    {
+        "question": "<span> Study the given pie chart carefully and answer the question that follows.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>The given pie chart depicts the expenditure incurred towards different hobby classes of an institute.</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>If the total expenditure is ₹10,70,000, then find the central angle of the sector representing ‘drawing’.</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image047.png",
+        "option_1": "<span style=\"color:#c00000\"> 90°</span>",
+        "option_2": "<span style=\"color:#c00000\"> 68.4°</span>",
+        "option_3": "<span style=\"color:#c00000\"> 70°</span>",
+        "option_4": "<span style=\"color:#c00000\"> 19°</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image048.png"
+    },
+    {
+        "question": "<span> The number of students in a class who have answered correctly, incorrectly, or not attempted each question in an examination is shown in the table below. The marks for each question are also listed. There is no negative or partial marking. </span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>Find the average of the marks obtained by the class in the examination. </span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image049.png",
+        "option_1": "<span style=\"color:#c00000\"> 6.25</span>",
+        "option_2": "<span style=\"color:#c00000\"> 5.75</span>",
+        "option_3": "<span style=\"color:#c00000\"> 6.75</span>",
+        "option_4": "<span style=\"color:#c00000\"> 5.25</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image050.png"
+    },
+    {
+        "question": "<span> The following table shows the number of pages printed by 3 printers (P, Q and R) for 3 days.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What is the ratio of the total number of pages printed by printer P over the course of three days to the total number of pages printed by printer Q during the same three days?</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image051.png",
+        "option_1": "<span style=\"color:#c00000\"> 9 : 10</span>",
+        "option_2": "<span style=\"color:#c00000\"> 11 : 10</span>",
+        "option_3": "<span style=\"color:#c00000\"> 10 : 11</span>",
+        "option_4": "<span style=\"color:#c00000\"> 10 : 9</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image052.png"
+    },
+    {
+        "question": "<span> Studyt the given table and answer the question that follows.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>The given table shows the production of three types of cars (A, B and C) manufactured (in thousands) by an automobile company over the years. </span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>The total number of A-type cars produced by the company from 2015 to 2017 is what percentage (rounded off to the nearest integer) is more or less than the total number of C-type cars produced by the company from 2016 to 2018?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image053.png",
+        "option_1": "<span style=\"color:#c00000\"> 24% </span><span style=\"font-family:'Times New Roman';color:#c00000\">more</span>",
+        "option_2": "<span style=\"color:#c00000\"> 21% </span><span style=\"font-family:'Times New Roman';color:#c00000\">more</span>",
+        "option_3": "<span style=\"color:#c00000\"> 24% less</span>",
+        "option_4": "<span style=\"color:#c00000\"> 21% less</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image054.png"
+    },
+    {
+        "question": "<span> Consider the following table for total exports of goods of 5 companies over 5 years (in lakhs).</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>If the ratio of exports to the imports of companies S and U in the year 2015 is 3 : 2 and 1 : 2, respectively, then, the total imports (in ₹ lakhs) of companies S and U together in the year 2015 is:</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image055.jpeg",
+        "option_1": "<span style=\"color:#c00000\"> 157</span>",
+        "option_2": "<span style=\"color:#c00000\"> 174</span>",
+        "option_3": "<span style=\"color:#c00000\"> 187</span>",
+        "option_4": "<span style=\"color:#c00000\"> 121</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image056.png"
+    },
+    {
+        "question": "<span> Study the given table and answer the question that follows. </span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>The given table shows the number of students enrolled in different academic faculties of an institution during 2016-2019.</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>From 2016 to 2019, what is the difference between the total number of students enrolled in science and that of students enrolled in humanities?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image057.png",
+        "option_1": "<span style=\"color:#c00000\"> 804</span>",
+        "option_2": "<span style=\"color:#c00000\"> 870</span>",
+        "option_3": "<span style=\"color:#c00000\"> 930</span>",
+        "option_4": "<span style=\"color:#c00000\"> 912</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image058.png"
+    },
+    {
+        "question": "<span> Study the given table answer the question that follows.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>The following table shows the income of a person (in thousand rupees) per annum over the given years.</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What is the average income from school as a salary per year earned by the person over the given years?</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image059.png",
+        "option_1": "<span style=\"color:#c00000\"> ₹1,48,000</span>",
+        "option_2": "<span style=\"color:#c00000\"> ₹1,64,000</span>",
+        "option_3": "<span style=\"color:#c00000\"> ₹1,58,000</span>",
+        "option_4": "<span style=\"color:#c00000\"> ₹1,74,000</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image060.png"
+    },
+    {
+        "question": "<span> The given table shows the number of clerical and officer cadre employees recruited by four different banks A, B, C and D from 2011 to 2014.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>Computer the ratio of the number of officer cadre employees of bank A to the number of officer cadre employees of bank C.</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image061.png",
+        "option_1": "<span style=\"color:#c00000\"> 6 : 5</span>",
+        "option_2": "<span style=\"color:#c00000\"> 7 : 8</span>",
+        "option_3": "<span style=\"color:#c00000\"> 5 : 6</span>",
+        "option_4": "<span style=\"color:#c00000\"> 8 : 7</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image062.png"
+    },
+    {
+        "question": "<span> The number of pages printed by two printers P1 and P2 over three days are given in the following table. Study the table carefully and answer the question given below.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What is the difference between the total number of pages printed by the two printers during these three days?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image063.png",
+        "option_1": "<span style=\"color:#c00000\"> 170</span>",
+        "option_2": "<span style=\"color:#c00000\"> 185</span>",
+        "option_3": "<span style=\"color:#c00000\"> 180</span>",
+        "option_4": "<span style=\"color:#c00000\"> 175</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image064.png"
+    },
+    {
+        "question": "<span> Study the given bar-graph and answer the question that follows.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>The bar-graph shows the sales of books (in thousands) from six branches (B1, B2, B3, B4, B5 and B6) of a publishing company during two consecutive years 2000 and 2001.</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What percentage of the average sales of branches B1, B2 and B3 in 2001 is the average sales of branches B1, B3 and B6 in 2000?</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image065.jpeg",
+        "option_1": "<span style=\"color:#c00000\"> 80.25%</span>",
+        "option_2": "<span style=\"color:#c00000\"> 65.25%</span>",
+        "option_3": "<span style=\"color:#c00000\"> 87.5%</span>",
+        "option_4": "<span style=\"color:#c00000\"> 78.5%</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image066.png"
+    },
+    {
+        "question": "<span> The sales of two kinds of biceycles B1 and B2 (in lakhs) manufactured by a company over a period of three years are shown in the tablw below. </span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>From 2004 to 2006, what is the ration of the total sales of bicycles B1 to the total sales of bicycles B2?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image067.png",
+        "option_1": "<span style=\"color:#c00000\"> 40 : 27</span>",
+        "option_2": "<span style=\"color:#c00000\"> 27 : 40</span>",
+        "option_3": "<span style=\"color:#c00000\"> 9 : 10</span>",
+        "option_4": "<span style=\"color:#c00000\"> 10 : 9</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image068.png"
+    },
+    {
+        "question": "<span> The below table shows the number of 1 litre bottles of soft drink produced by three companies during 2016-2020. Study the given information carefully and answer the question that follows.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What is the difference in average production of A and C during 2016-2018 (in lakhs)?</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image069.png",
+        "option_1": "<span style=\"color:#c00000\"> 14,000</span>",
+        "option_2": "<span style=\"color:#c00000\"> 13,000</span>",
+        "option_3": "<span style=\"color:#c00000\"> 9500</span>",
+        "option_4": "<span style=\"color:#c00000\"> 7800</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image070.png"
+    },
+    {
+        "question": "<span> Study the given table and answer the question that follows.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>The following table shows the percentage distribution of students in four different schools during the years 2021-22.</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>If there was a total number of 16,000 and 18,000 students during the years 2021 and 2022 respectively, then the difference in number of students in school 4</span><span>in 2022 with respect to 2021 is:</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image071.png",
+        "option_1": "<span style=\"color:#c00000\"> 280</span>",
+        "option_2": "<span style=\"color:#c00000\"> 380</span>",
+        "option_3": "<span style=\"color:#c00000\"> 240</span>",
+        "option_4": "<span style=\"color:#c00000\"> 180</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image072.png"
+    },
+    {
+        "question": "<span> Study the below table and answer the question that follows.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>For which of the following pairs of years are the total exports from three companies together, equal?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image073.png",
+        "option_1": "<span style=\"color:#c00000\"> 2020 </span><span style=\"color:#c00000\">2021</span>",
+        "option_2": "<span style=\"color:#c00000\"> 2018 </span><span style=\"color:#c00000\">2020</span>",
+        "option_3": "<span style=\"color:#c00000\"> 2017 </span><span style=\"color:#c00000\">2018</span>",
+        "option_4": "<span style=\"color:#c00000\"> 2018 </span><span style=\"color:#c00000\">2019</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> 2018 and 2020 have same total equal to 9000.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span> The table given below shows the distributin of employees in four different companies in 2022.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>Find the total number of male employees working in company D in 2022.</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image074.png",
+        "option_1": "<span style=\"color:#c00000\"> 6750</span>",
+        "option_2": "<span style=\"color:#c00000\"> 6000</span>",
+        "option_3": "<span style=\"color:#c00000\"> 6500</span>",
+        "option_4": "<span style=\"color:#c00000\"> 6250</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image075.png"
+    },
+    {
+        "question": "<span> The number of applicants appeared and qualified in a 4-wheeler driving licence test during the last four months of 2022 from a city are listed in the following table. Study the table carefully and answer the question that follows.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What is the Percentage of disqualified applicants for the driving licence test in September?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image076.png",
+        "option_1": "<span style=\"color:#c00000\"> 52%</span>",
+        "option_2": "<span style=\"color:#c00000\"> 54%</span>",
+        "option_3": "<span style=\"color:#c00000\"> 48%</span>",
+        "option_4": "<span style=\"color:#c00000\"> 50%</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image077.png"
+    },
+    {
+        "question": "<span> The given table shows the expenditure of a company (in lakh rupees) per annum over the years.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>The total expenditure on all these categories in 2006 is what percentage (rounded off to two places of decimals) of the total expenditure in 2009?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image078.png",
+        "option_1": "<span style=\"color:#c00000\"> 66.09%</span>",
+        "option_2": "<span style=\"color:#c00000\"> 76.09%</span>",
+        "option_3": "<span style=\"color:#c00000\"> 76.07%</span>",
+        "option_4": "<span style=\"color:#c00000\"> 66.07%</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image079.png"
+    },
+    {
+        "question": "<span> The following table shows the production (in units) and sales, of different items of a steel company. Study the table and answer the question that follows.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>In which item is there the least number of unsold items?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image080.png",
+        "option_1": "<span style=\"font-family:'Times New Roman';color:#c00000\">Pipe</span>",
+        "option_2": "<span style=\"font-family:'Times New Roman';color:#c00000\">Plate</span>",
+        "option_3": "<span style=\"font-family:'Times New Roman';color:#c00000\">Spoon</span>",
+        "option_4": "<span style=\"font-family:'Times New Roman';color:#c00000\">Holder</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> Out of all 5, only holder has least number of items unsold by 39.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span> The pie chart given below shows the expenditure (in percentage) of Aditya. The monthly income of Aditya is₹54,000.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>How much does he spend (in₹) on Food?</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image081.jpeg",
+        "option_1": "<span style=\"color:#c00000\"> 13,420</span>",
+        "option_2": "<span style=\"color:#c00000\"> 12,420</span>",
+        "option_3": "<span style=\"color:#c00000\"> 12,240</span>",
+        "option_4": "<span style=\"color:#c00000\"> 11,240</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> Expenses on food = </span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image082.png"
+    },
+    {
+        "question": "<span> The pie chart given below shows the number of hours spent by a student for different activities on a working day.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>The percentage of hours spent at school in a day is _____.</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image083.png",
+        "option_1": "<span style=\"color:#c00000\"> 25%</span>",
+        "option_2": "<span style=\"color:#c00000\"> 30%</span>",
+        "option_3": "<span style=\"color:#c00000\"> 40%</span>",
+        "option_4": "<span style=\"color:#c00000\"> 35%</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image084.png"
+    },
+    {
+        "question": "<span> The following pie chart shows the distribution of the percentage of students in various courses at the university. The total number of students (boys and girls only) in the university is 7000.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>In B.Com, there are 60% girls and in B.Sc. C.Sci, there are 40% boys. The total number of girls who took admission in B.Sc C.Sci and B.Com courses is what percentage of the total students admitted to the university?</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image085.png",
+        "option_1": "<span style=\"color:#c00000\"> 23%</span>",
+        "option_2": "<span style=\"color:#c00000\"> 29%</span>",
+        "option_3": "<span style=\"color:#c00000\"> 25%</span>",
+        "option_4": "<span style=\"color:#c00000\"> 27%</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image086.png"
+    },
+    {
+        "question": "<span> Study the given pie chart carefully and answer the question that follows. </span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>The given pie chart shows the number of successful start-up in different sctors in a particular year.</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>If the total number of successful start-ups is 2910, then find the number of start-ups in the ecudcation and agriculture sectors. (Negletct the decimal part.)</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image087.png",
+        "option_1": "<span style=\"color:#c00000\"> 1047</span>",
+        "option_2": "<span style=\"color:#c00000\"> 1048</span>",
+        "option_3": "<span style=\"color:#c00000\"> 1074</span>",
+        "option_4": "<span style=\"color:#c00000\"> 698</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image088.png"
+    },
+    {
+        "question": "<span> The following pie chart shows the study time of different subjects of a student in a day. Study the pie chart and answer the question.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>If the student studied English for 3 hours, then he studied Mathematics for:</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image089.jpeg",
+        "option_1": "<span style=\"color:#c00000\"> 2 </span><span style=\"font-family:'Times New Roman';color:#c00000\">hours</span>",
+        "option_2": "<span style=\"color:#c00000\"> 7 </span><span style=\"font-family:'Times New Roman';color:#c00000\">hours</span>",
+        "option_3": "<span style=\"color:#c00000\"> 1 </span><span style=\"font-family:'Times New Roman';color:#c00000\">hour</span>",
+        "option_4": "<span style=\"color:#c00000\"> 5 </span><span style=\"font-family:'Times New Roman';color:#c00000\">hours</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> 15% = 3 hours</span><p><span>35%= </span><span> = 7 hours</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image090.png"
+    },
+    {
+        "question": "<span> The given pie chart shows the expenditure by a state government on various sports during a particular year. </span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>If the total maount spent on tennis and football is ₹1,45,000, then the total amount (in ₹) spent on all the given sports is: </span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image091.png",
+        "option_1": "<span style=\"color:#c00000\"> 4,10,000</span>",
+        "option_2": "<span style=\"color:#c00000\"> 5,00,000</span>",
+        "option_3": "<span style=\"color:#c00000\"> 4,50,000</span>",
+        "option_4": "<span style=\"color:#c00000\"> 3,10,000</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image092.png"
+    },
+    {
+        "question": "<span> The pie chart below shows the per cent sale of different fruits in a day for a shop.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>If the total number of fruits sold by a fruit seller in a day is 1200, what is the combined central angle in the pie chart for oranges and apples?</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image093.png",
+        "option_1": "<span style=\"color:#c00000\"> 180°</span>",
+        "option_2": "<span style=\"color:#c00000\"> 90°</span>",
+        "option_3": "<span style=\"color:#c00000\"> 160°</span>",
+        "option_4": "<span style=\"color:#c00000\"> 220°</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> Combined central angle for oranges and apples = 30% + 20% = 50%</span><p><span>100% = 360°</span></p><p><span>50% = 180°</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span> The given pie chart shows the annual agricultural production (in tonnes) in a region. The total production is 8600 tonnes.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>What is the annual production of rice in the region?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image094.png",
+        "option_1": "<span style=\"color:#c00000\"> 5012 </span><span>tonnes</span>",
+        "option_2": "<span style=\"color:#c00000\"> 2150 </span><span>tonnes</span>",
+        "option_3": "<span style=\"color:#c00000\"> 1052 </span><span>tonnes</span>",
+        "option_4": "<span style=\"color:#c00000\"> 2051 </span><span>tonnes</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> Annual production of rice in the region = </span><span> tonnes</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image095.png"
+    },
+    {
+        "question": "<span> The following pie chart below shows the expenditure in book publishing by a phublisher under various heads.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>Given that marked price of a book is ₹270, what is the cost of paper to publish a single copy of the book if the marked price of a book is 20% more than its cost price?</span></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image096.png",
+        "option_1": "<span style=\"color:#c00000\"> ₹62.15</span>",
+        "option_2": "<span style=\"color:#c00000\"> ₹58.45</span>",
+        "option_3": "<span style=\"color:#c00000\"> ₹68.75</span>",
+        "option_4": "<span style=\"color:#c00000\"> ₹56.25</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750331665871_image097.png"
+    }
+]
