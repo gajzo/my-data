@@ -1,0 +1,342 @@
+[
+    {
+        "question": "<span> In the kitchen, Mary and her grandmother bakes delicious cookies, filling the house with a warm, comforting aroma. </span>",
+        "option_1": "<span> In the kitchen, Mary and her grandmother </span>",
+        "option_2": "<span> bakes delicious cookies, filling the </span>",
+        "option_3": "<span> house with a warm, comforting aroma.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct form of the verb should be \"bake\" instead of \"bakes\" because \"Mary\" and \"her grandmother\" are two individuals, requiring a plural verb. </span><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"In the kitchen, Mary and her grandmother bake delicious cookies, filling the house with a warm, comforting aroma.\"</span></p>"
+    },
+    {
+        "question": "<span> My father, unlike my uncles, are very strict when it comes to enforcing rules at home. </span>",
+        "option_1": "<span> My father, unlike my uncles, are </span>",
+        "option_2": "<span> very strict when it comes </span>",
+        "option_3": "<span> to enforcing rules at home.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> When the subject is joined by ‘as well as’, ‘with’, ‘along with’, ‘together with’, ‘and not’, ‘in addition to’, ‘but’, ‘besides’, ‘except’, ‘rather than’, ‘accompanied by’, ‘like’, ‘unlike’, ‘no less than’, ‘nothing but’, the verb will agree with the first subject. </span><p><span>Here's the corrected sentence: </span><span style=\"text-decoration:underline\">\"My father, unlike my uncles, is very strict when it comes to enforcing rules at home.\"</span></p>"
+    },
+    {
+        "question": "<span> The book or the magazines provides useful information for your research.</span>",
+        "option_1": "<span> The book or the magazines</span>",
+        "option_2": "<span> provides useful information</span>",
+        "option_3": "<span> for your research.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> In the given sentence, \"or\" is used to join two subjects, \"the book\" and \"the magazines.\" When using \"or,\" the verb should agree with the nearer subject. Since \"the magazines\" is closer to the verb.</span><p><span>The correct form should be: </span><span style=\"text-decoration:underline\">\"The book or the magazines provide useful information for your research.\"</span></p>"
+    },
+    {
+        "question": "<span> The request from the residents for better infrastructure have been acknowledged by the local authorities. </span>",
+        "option_1": "<span> The request from the residents for </span>",
+        "option_2": "<span> better infrastructure have been </span>",
+        "option_3": "<span> acknowledged by the local authorities.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> In this sentence, \"request\" is the main subject, so the verb \"has\" should agree with it. </span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"The request from the residents for better infrastructure has been acknowledged by the local authorities.\" </span></p>"
+    },
+    {
+        "question": "<span> Any person who arrive late will be asked to wait outside. </span>",
+        "option_1": "<span> Any person who </span>",
+        "option_2": "<span> arrive late will be</span>",
+        "option_3": "<span> asked to wait outside.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error lies in subject-verb agreement. The subject \"Any person\" is singular, so the verb \"arrive\" should be in its singular form \"arrives\" to match. </span><p><span>Therefore, the corrected sentence should be:</span><span style=\"text-decoration:underline\"> \"Any person who arrives late will be asked to wait outside.\"</span></p>"
+    },
+    {
+        "question": "<p>The musicians each practice <u>their instruments</u> diligently before the concert.</p>",
+        "option_1": "<p>No Improvement</p>",
+        "option_2": "<p>his instrument</p>",
+        "option_3": "<p>their instrument</p>",
+        "option_4": "<p>his instruments</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>“When each is used after plural noun or plural pronoun, plural verb is used.” So, there is no need to improve.</p>"
+    },
+    {
+        "question": "<span> A great number of cars was parked outside the stadium during the game. </span>",
+        "option_1": "<span> A great number of cars</span>",
+        "option_2": "<span> was parked outside</span>",
+        "option_3": "<span> the stadium during the game</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> When ‘A number of’/ ‘a large number of’/ ‘a great number of’ is used with a</span><span>plural countable noun. <b>Hence,</b> they will take plural verbs. So, were will be come in place of was.</span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“A great number of cars were parked outside the stadium during the game.” </span></p>"
+    },
+    {
+        "question": "<span> The scenery in the national park </span><a name=\"_Hlk162875894\"><span>were so stunning that it felt </span></a><span>like stepping into a painting. </span>",
+        "option_1": "<span> The scenery in the national park </span>",
+        "option_2": "<span> No error </span>",
+        "option_3": "<span> were so stunning that it felt </span>",
+        "option_4": "<span> like stepping into a painting</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The error in the original sentence lies in subject-verb agreement. \"Scenery\" is an uncountable noun and thus should take a singular verb. Therefore, \"were\" should be replaced with \"was\" to match the singular subject \"scenery.\" </span><p><span>The corrected sentence is: </span><span style=\"text-decoration:underline\">\"The scenery in the national park was so stunning that it felt like stepping into a painting.\"</span></p>"
+    },
+    {
+        "question": "<p>She used tong to pick up the hot coals from the fire.</p>",
+        "option_1": "<p>She used tong</p>",
+        "option_2": "<p>to pick up the hot</p>",
+        "option_3": "<p>coals from the fire</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>Some nouns exist in plural forms only. Therefore, ‘s’ cannot be removed from such nouns to make them singular. They take plural verbs with them. These nouns are Scissors, tongs, trousers, pliers, pincers, bellows, pants, pajamas, shorts, spectacles, goggles, binoculars, sunglasses, gallows, fangs, alms, amends, archives, arrears, auspices, congratulations, embers, fireworks, lodgings, outskirts, particulars, proceeds, regards, riches, remains, savings, shambles, surroundings, tidings, troops, thanks, valuables, wages, belongings, braces, etc.</p> <p>The original sentence \"She used tongs to pick up the hot coals from the fire\" is grammatically correct.</p>"
+    },
+    {
+        "question": "<span> One-fourth of the journey have been completed. </span>",
+        "option_1": "<span> One-fourth of</span>",
+        "option_2": "<span> the journey</span>",
+        "option_3": "<span> No error</span>",
+        "option_4": "<span> have been completed</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> In the sentence \"One-fourth of the journey have been completed,\" there is a subject-verb agreement error. The phrase \"One-fourth of\" is followed by a singular noun \"the journey,\" indicating a singular portion of the journey. However, the verb \"have\" is plural, which does not agree with the singular subject.</span><p><span>The corrected sentence should use the singular verb \"has\" to agree with the singular subject \"one-fourth\": </span><span style=\"text-decoration:underline\">\"One-fourth of the journey has been completed.\" </span></p>"
+    },
+    {
+        "question": "<span> The cat and the dog playfully chases each other around the yard, bringing joy to everyone who watches them. </span>",
+        "option_1": "<span> No error </span>",
+        "option_2": "<span> joy to everyone who watches them.</span>",
+        "option_3": "<span> each other around the yard, bringing</span>",
+        "option_4": "<span> The cat and the dog playfully chases </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct form of the verb should be \"chase\" instead of \"chases\" because \"the cat\" and \"the dog\" are two individuals, requiring a plural verb. </span><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"The cat and the dog playfully chase each other around the yard, bringing joy to everyone who watches them.\" </span></p>"
+    },
+    {
+        "question": "<a name=\"_Hlk164787853\"><span>John, in addition to his</span></a><span> colleagues, are contributing to the project's success.</span>",
+        "option_1": "<span> John, in addition to his </span>",
+        "option_2": "<span> colleagues, are contributing </span>",
+        "option_3": "<span> to the project's success.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> When the subject is joined by ‘as well as’, ‘with’, ‘along with’, ‘together with’, ‘and not’, ‘in addition to’, ‘but’, ‘besides’, ‘except’, ‘rather than’, ‘accompanied by’, ‘like’, ‘unlike’, ‘no less than’, ‘nothing but’, the verb will agree with the first subject. </span><p><span>Here's the corrected sentence: </span><span style=\"text-decoration:underline\">\"John, in addition to his colleagues, is contributing to the project's success.\" </span></p>"
+    },
+    {
+        "question": "<span> Both of them will not join us in the meeting, so it will be a smaller group than expected.</span>",
+        "option_1": "<span> in the meeting, so it will be a</span>",
+        "option_2": "<span> smaller group than expected.</span>",
+        "option_3": "<span> No error</span>",
+        "option_4": "<span> Both of them will not join us</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> \"Both\" is used to refer to two items or individuals in the affirmative sense, while \"neither of\" is used when none of the two items or individuals are involved in the action described. </span><p><span>Here's the corrected sentence: </span><span style=\"text-decoration:underline\">\"Neither of them will join us in the meeting, so it will be a smaller group than expected.\"</span></p>"
+    },
+    {
+        "question": "<span> The swarm of bees are buzzing around the hive. </span>",
+        "option_1": "<span> The swarm of bees</span>",
+        "option_2": "<span> are buzzing</span>",
+        "option_3": "<span> around the hive.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> In this sentence, \"swarm\" is a collective noun representing a group of bees, so it should take a singular verb. </span><p><span>The correct version would be: </span><span style=\"text-decoration:underline\">\"The swarm of bees is buzzing around the hive.\"</span></p>"
+    },
+    {
+        "question": "<a name=\"_Hlk162864499\"><span>Three thousand rupees has been </span></a><span>spent on buying different textbooks for the new semester. </span>",
+        "option_1": "<span> Three thousand rupees has been</span>",
+        "option_2": "<span> spent on buying different</span>",
+        "option_3": "<span> No error</span>",
+        "option_4": "<span> textbooks for the new semester. </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> option (a) is considered the correct answer, it suggests that \"has been\" should be replaced with \"have been\" to match the plural form of the subject \"rupees.\"</span><p><span>So, the correct sentence would be: </span><span style=\"text-decoration:underline\">\"Three thousand rupees have been spent on buying different textbooks for the new semester.\"</span></p>"
+    },
+    {
+        "question": "<span> Each of the paintings in the art gallery were created by a different artist. </span>",
+        "option_1": "<span> were created by</span>",
+        "option_2": "<span> Each of the paintings</span>",
+        "option_3": "<span> in the art gallery</span>",
+        "option_4": "<span> a different artist.</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> When ‘of’ is used after each, every, one, etc, the noun or pronoun that comes immediately after ‘of’ will be plural in form. However, the verb, pronoun, adjective, etc that comes in the latter part of the sentence will be singular in form.</span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“Each of the paintings in the art gallery was created by a different artist.”</span></p>"
+    },
+    {
+        "question": "<span> Tina received a beautiful gift set of stationeries for her birthday.</span>",
+        "option_1": "<span> Tina received a </span>",
+        "option_2": "<span> beautiful gift</span>",
+        "option_3": "<span> set of stationeries</span>",
+        "option_4": "<span> for her birthday</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> Furniture, advice, work, evidence, equipment, news, information, baggage, luggage, percentage, poetry, knowledge, dirt, dust, traffic, electricity, music, breakage, stationery, scenery, confectionary, pottery, bakery, crockery, behavior, hair, business, mischief, bread, wastage, money, jewelry, word (when used in sense of Message and Promise) Fuel and Cost are uncountable nouns and they will take singular verb. These nouns will not take the</span><span>article ‘A/An’, ‘many’, ‘few’, ‘number of’, and ‘plural form’.</span><p><span>The corrected sentence is: </span><span style=\"text-decoration:underline\">\"Tina received a beautiful gift set of stationery for her birthday.\"</span></p>"
+    },
+    {
+        "question": "<p>The cattle grazes peacefully in the pasture.</p>",
+        "option_1": "<p>No error</p>",
+        "option_2": "<p>The cattle</p>",
+        "option_3": "<p>grazes peacefully</p>",
+        "option_4": "<p>in the pasture</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>Cattle, cavalry, infantry, poultry, peasantry, children, gentry, police, and people are certain nouns that are singular in form but plural in meaning. They take plural verbs. And ‘s’ is never used with these nouns.</p> <p>Therefore, the corrected sentence should be: \"The cattle graze peacefully in the pasture.\"</p>"
+    },
+    {
+        "question": "<span> Two-thirds of the cookies was chocolate chip, while the rest were oatmeal. </span>",
+        "option_1": "<span> two-thirds of the cookies</span>",
+        "option_2": "<span> was chocolate chip</span>",
+        "option_3": "<span> while the rest were oatmeal</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error in the sentence lies in the helping verb \"was,\" which should be \"were\" to agree with the plural subject \"two-thirds of cookies.\"</span><p><span>The correct form of the verb to use with a plural subject is \"were.\" Therefore, the phrase should be \"were chocolate chip\" instead of \"was chocolate chip.\"</span></p><p><span>The corrected sentence is: </span><span style=\"text-decoration:underline\">\"Two-thirds of the cookies were chocolate chip, while the rest were oatmeal.\"</span></p>"
+    },
+    {
+        "question": "<p><a name=\"_Hlk164788194\">Peanut butter and jelly </a>are my favorite <a name=\"_Hlk164788216\">sandwich filling.</a></p>",
+        "option_1": "<p>Peanut butter and jelly</p>",
+        "option_2": "<p>are my favorite</p>",
+        "option_3": "<p>sandwich filling.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>In the provided sentence, \"peanut butter and jelly\" is regarded as a singular combination, representing a unified sandwich filling. Consequently, a singular verb is appropriate.</p> <p>Your sentence is correct as it is: \"Peanut butter and jelly is my favorite sandwich filling.\"</p>"
+    },
+    {
+        "question": "<span> Along the northern frontier of India is seen the beautiful and mighty Himalayas.</span>",
+        "option_1": "<span> Along the northern frontier</span>",
+        "option_2": "<span> of India is seen </span>",
+        "option_3": "<span> the beautiful and mighty Himalayas</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> Change ‘is’ into ‘are’. Here ‘is seen’ is used for ‘the Himalayas’ and not ‘India’. Hence ‘are seen’ must be used.</span><p><span>So the correct sentence: Along the northern frontier of India are seen the beautiful and mighty Himalayas.</span></p>"
+    },
+    {
+        "question": "<span> Either the rain or the wind are causing the trees to sway so fiercely.</span>",
+        "option_1": "<span> Either the rain or the wind</span>",
+        "option_2": "<span> are causing the trees</span>",
+        "option_3": "<span> to sway so fiercely.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> In the given sentence, \"either...or\" is used to join two subjects, \"the rain\" and \"the wind.\" When using \"either...or,\" the verb should agree with the nearer subject. Since \"the wind\" is closer to the verb.</span><p><span>The correct form should be: </span><span style=\"text-decoration:underline\">\"Either the rain or the wind is causing the trees to sway so fiercely.\"</span></p>"
+    },
+    {
+        "question": "<span> The study of politics encompass various fields, including political science and international relations. </span>",
+        "option_1": "<span> The study of politics encompass various </span>",
+        "option_2": "<span> fields, including political science </span>",
+        "option_3": "<span> and international relations.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In the provided sentence, there is a subject-verb agreement error. Since \"the study of politics\" is a singular subject, the verb \"encompass\" should also be singular. </span><p><span>Here's the corrected sentence: </span><span style=\"text-decoration:underline\">\"The study of politics encompasses various fields, including political science and international relations.\"</span></p>"
+    },
+    {
+        "question": "<p>Four student received awards for their outstanding achievements in academics.</p>",
+        "option_1": "<p>No error</p>",
+        "option_2": "<p>Four student received</p>",
+        "option_3": "<p>awards for their outstanding</p>",
+        "option_4": "<p>achievements in academics.</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>In this sentence, the subject \"Four student\" should be corrected to \"Four students\" to match the plural form of the noun \"students.\"</p> <p>So, the correct sentence would be: \"Four students received awards for their outstanding achievements in academics.\"</p>"
+    },
+    {
+        "question": "<span> My friend, Teacher, and blogger are going to the Maldives for the trip.</span>",
+        "option_1": "<span> blogger are going </span>",
+        "option_2": "<span> My friend, Teacher and </span>",
+        "option_3": "<span> to the</span><span>Maldives for the trip.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In this sentence, \"my friend,\" \"teacher,\" and \"blogger\" are all listed as separate roles or identities associated with a single individual. Therefore, they collectively refer to one person, and a singular verb should be used. </span><p><span>Here's the corrected sentence: </span><span style=\"text-decoration:underline\">\"My friend, teacher, and blogger is going to the Maldives for the trip.\"</span></p>"
+    },
+    {
+        "question": "<span> Neither the teacher nor the students was prepared for the surprise quiz. </span>",
+        "option_1": "<span> Neither the teacher nor</span>",
+        "option_2": "<span> the students was prepared </span>",
+        "option_3": "<span> for the surprise quiz.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> In the provided sentence, there is a subject-verb agreement error. Since \"the teacher\" and \"the students\" are two separate subjects joined by \"neither nor,\" the verb should agree with the closer subject, which is \"students.\" Therefore, the verb should be plural. </span><p><span>Here's the corrected sentence: </span><span style=\"text-decoration:underline\">\"Neither the teacher nor the students were prepared for the surprise quiz.\"</span></p>"
+    },
+    {
+        "question": "<p>Alex is one of the most innovative entrepreneurs that has ever started a business in this industry.</p>",
+        "option_1": "<p>Alex is one of the most innovative</p>",
+        "option_2": "<p>started a business in this industry</p>",
+        "option_3": "<p>No error</p>",
+        "option_4": "<p>entrepreneurs that has ever</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>The error lies in subject-verb agreement. Since \"entrepreneurs\" is a plural noun, the verb should be plural as well. Therefore, \"have ever\" should be used instead of \"has ever\" to agree with the plural subject \"entrepreneurs.\"</p> <p>So, the corrected sentence would be: \"Alex is one of the most innovative entrepreneurs that have ever started a business in this industry.\"</p>"
+    },
+    {
+        "question": "<span> I wish I were more organized so I could keep track of my schedule better. </span>",
+        "option_1": "<span> track of my schedule better </span>",
+        "option_2": "<span> organized so I could keep</span>",
+        "option_3": "<span> no error</span>",
+        "option_4": "<span> I wish I were more</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> “When we talk about imaginary things, it starts with as if, if, as though, suppose, I wish, in case, would that, etc. these kinds of sentences ‘were’ is used as the verb irrespective of the number of the subject.” So, there is no error in the given sentence.</span>"
+    },
+    {
+        "question": "<span> The counsel advise the client on legal matters. </span>",
+        "option_1": "<span> The counsel</span>",
+        "option_2": "<span> legal matters</span>",
+        "option_3": "<span> client on</span>",
+        "option_4": "<span> advise the</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> In the sentence \"The counsel advise the client on legal matters,\" there is a subject-verb agreement error. The word \"counsel\" can be both singular and plural, but in this sentence, it is being used in its singular form. Therefore, the verb should be singular as well. The correct form of the verb should be \"advises\" to agree with the singular subject \"counsel.\"</span><p><span>The corrected sentence is: </span><span style=\"text-decoration:underline\">\"The counsel advises the client on legal matters.\" </span></p>"
+    },
+    {
+        "question": "<span style=\"text-decoration:underline\">many men has</span><span> participated in the protest.</span>",
+        "option_1": "<span> Many the men have</span>",
+        "option_2": "<span> Many men have</span>",
+        "option_3": "<span> Many man has</span>",
+        "option_4": "<span> Many a man have</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error in the original sentence is with the verb \"has\" which should be \"have\" to agree with the plural subject \"many men.\" </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"Many men have participated in the protest.\"</span></p>"
+    },
+    {
+        "question": "<span> The website </span><span style=\"text-decoration:underline\">provides detailed informations</span><span> about upcoming events. </span>",
+        "option_1": "<span> provide detailed informations </span>",
+        "option_2": "<span> provides detailed information</span>",
+        "option_3": "<span> provides detail information</span>",
+        "option_4": "<span> No improvement </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The word \"informations\" in the original sentence is incorrect. \"Information\" is an uncountable noun, and it does not typically take a plural form. Therefore, the correct form is \"information.\" </span><p><span>The corrected sentence should be: </span><span style=\"text-decoration:underline\">\"The website provides detailed information about upcoming events.” </span></p>"
+    },
+    {
+        "question": "<span> After failing to pay the fine, she </span><span style=\"text-decoration:underline\">received two summons</span><span> to attend a hearing at the magistrate's court. </span>",
+        "option_1": "<span> receive two summons</span>",
+        "option_2": "<span> received two summonses</span>",
+        "option_3": "<span> No improvement </span>",
+        "option_4": "<span> receive two summons</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> \"Summons\" is a countable noun, and since there are two of them, it should be in its plural form \"summonses.\" </span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“After failing to pay the fine, she received two summonses to attend a hearing at the magistrate's court.”</span></p>"
+    },
+    {
+        "question": "<p>The <a name=\"_Hlk162882802\">deers is grazing </a>peacefully in the meadow.</p>",
+        "option_1": "<p>deer are grazing</p>",
+        "option_2": "<p>deer is grazing</p>",
+        "option_3": "<p>deers are grazing</p>",
+        "option_4": "<p>No improvement</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>In the original sentence \"The deers is grazing peacefully in the meadow,\" there is a subject-verb agreement error. The word \"deers\" is incorrect; the correct plural form of \"deer\" is simply \"deer\" (without an \"s\"). Since \"deer\" is a plural noun, the correct verb form to use is the plural \"are.\"</p> <p><strong>Example: </strong></p> <ul> <li style=\"text-align: left;\">A Deer is grazing.</li> <li style=\"text-align: left;\">The Deer are grazing.</li> </ul> <p>Therefore, the corrected sentence is: \"The deer are grazing peacefully in the meadow.\"</p> <p>Deer, sheep, series, species, fish, crew, team, jury, aircraft, and counsel are certain nouns that are used in both singular and plural forms. If they are used in the singular sense, they take a singular verb and if they are used in a plural sense, they take a plural verb.</p>"
+    },
+    {
+        "question": "<span> More </span><span style=\"text-decoration:underline\">teachers than one was</span><span> not present at the faculty meeting. </span>",
+        "option_1": "<span> teachers than one were</span>",
+        "option_2": "<span> teacher than one were</span>",
+        "option_3": "<span> teacher than one was </span>",
+        "option_4": "<span> No improvement </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In this sentence, the subject \"more teachers than one\" suggests a plural context, indicating that there are multiple teachers involved. Therefore, the verb should agree with the plural subject. The correct plural form of the verb \"was\" should be \"were\" to match the plural subject \"teachers.\"</span><p><span>The correct sentence should be: </span><span style=\"text-decoration:underline\">\"More teachers than one were not present at the faculty meeting.\"</span></p>"
+    }
+]
