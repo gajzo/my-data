@@ -1,0 +1,432 @@
+[
+    {
+        "question": "<span> A sense of camaraderie developed between the soldiers during their time in the trenches. </span>",
+        "option_1": "<span> A sense of camaraderie developed </span>",
+        "option_2": "<span> between the soldiers during </span>",
+        "option_3": "<span> their time in the trenches. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part b</span><p><span>Among is used instead of between. Among is used in reference to the association with or in a</span><span>company of more than two. Between is used in reference to the association of two.</span></p><p><span>Therefore, the corrected sentence would be, A sense of camaraderie developed among the soldiers during their time in the trenches. </span></p>"
+    },
+    {
+        "question": "<span> An alliance was formed among the </span><a name=\"_Hlk165976562\"><span>four neighboring countries to address </span></a><a name=\"_Hlk165976572\"><span>regional security concerns. </span></a>",
+        "option_1": "<span> An alliance was formed among the</span>",
+        "option_2": "<span> four neighboring countries to address</span>",
+        "option_3": "<span> address regional security concerns</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error is in part a.</span><p><span>the sentence specifies a definite number of countries (four neighboring countries), \"between\" would indeed be more appropriate to indicate the relationship or interaction among these specific entities.</span></p><p><span>So, the corrected sentence would be: \"An alliance was formed between the four neighboring countries to address regional security concerns.\" </span></p>"
+    },
+    {
+        "question": "<span> The conversation turned heated between them and we.</span>",
+        "option_1": "<span> The conversation </span>",
+        "option_2": "<span> turned heated </span>",
+        "option_3": "<span> between them and we</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The objective case pronouns should be used after the preposition \"between.\"</span><p><span>The objective case pronoun for the subjective case \"we\" is \"us.\" Therefore, \"we\" should be replaced with \"us\" to maintain grammatical correctness.</span></p><p><span>The corrected sentence is: \"The conversation turned heated between them and us.\"</span></p>"
+    },
+    {
+        "question": "<span> Beside the main course, the restaurant also offers </span><a name=\"_Hlk165981764\"><span>a variety of appetizers</span></a><span>.</span>",
+        "option_1": "<span> Beside the main course,</span>",
+        "option_2": "<span> the restaurant also offers</span>",
+        "option_3": "<span> a variety of appetizers</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> the error is in part a.</span><p><span>if the intention is to convey \"in addition to\" or \"apart from,\" then \"besides\" would be appropriate. \"beside\" is used to indicate physical proximity</span></p><p><span>So, the sentence could be revised as: \"Besides the main course, the restaurant also offers a variety of appetizers.\" </span></p>"
+    },
+    {
+        "question": "<span> Because of the traffic jam therefore, they arrived at the airport later than expected. </span>",
+        "option_1": "<span> Because of the traffic jam </span>",
+        "option_2": "<span> therefore, they arrived at </span>",
+        "option_3": "<span> the airport later than expected</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error in the sentence is in part b, \"therefore, they arrived at.\"</span><p><span>\"Because of\" and \"therefore\" serve similar functions in a sentence, both indicating causation or a result. Using them together can create redundancy.</span></p><p><span>So, the corrected sentence would be: \"Because of the traffic jam, they arrived at the airport later than expected.\" </span></p>"
+    },
+    {
+        "question": "<span> The store is located just through the river from our neighborhood. </span>",
+        "option_1": "<span> The store is located just </span>",
+        "option_2": "<span> through the river </span>",
+        "option_3": "<span> from our neighborhood</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error in the sentence is in part b, \"through the river.\"</span><p><span>The correct preposition to use when indicating the location of something in relation to a river is \"across,\" not \"through.\" \"Through\" implies movement within an enclosed space, while \"across\" indicates movement over a surface or from one side to the other.</span></p><p><span>The corrected sentence would be: \"The store is located just across the river from our neighborhood.\" </span></p>"
+    },
+    {
+        "question": "<span> The cat pounced on the mouse with lightning speed. </span>",
+        "option_1": "<span> The cat pounced on </span>",
+        "option_2": "<span> the mouse with </span>",
+        "option_3": "<span> lightning speed. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error in the sentence is in part a.</span><p><span>on is used for 'placed in contact' and upon is used for</span><span>'in motion' </span></p><p><span>Therefore, the corrected answer would be: The cat pounced upon the mouse with lightning speed. </span></p>"
+    },
+    {
+        "question": "<span> The children played hide-and-seek over the shade of the tree. </span>",
+        "option_1": "<span> The children played </span>",
+        "option_2": "<span> hide-and-seek over </span>",
+        "option_3": "<span> the shade of the tree </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The preposition \"over\" suggests a position above something, which doesn't fit the context of playing hide-and-seek. The correct preposition to indicate being located beneath the shade of the tree is \"under.\"</span><p><span>So, the corrected sentence would be: \"The children played hide-and-seek under the shade of the tree.\"</span></p>"
+    },
+    {
+        "question": "<span> Please ensure that you finish your work in time to avoid any delays. </span>",
+        "option_1": "<span> Please ensure that you </span>",
+        "option_2": "<span> finish your work in time </span>",
+        "option_3": "<span> to avoid any delays </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The use of \"in time\" in this sentence implies completing the work within a specified period to prevent delays. However, \"on time\" would be more appropriate here, as it refers to completing the work punctually, without being late.</span><p><span>So, the corrected sentence would be: \"Please ensure that you finish your work on time to avoid any delays.\"</span></p>"
+    },
+    {
+        "question": "<span> They celebrated their anniversary by a romantic dinner. </span>",
+        "option_1": "<span> They celebrated their </span>",
+        "option_2": "<span> anniversary by </span>",
+        "option_3": "<span> a romantic dinner</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> the preposition \"with\" is more appropriate than \"by\" to indicate the means or method by which they celebrated their anniversary.</span><p><span>So, the corrected sentence would be: \"They celebrated their anniversary with a romantic dinner.\"</span></p>"
+    },
+    {
+        "question": "<span> The party will be held in my house this Saturday. </span>",
+        "option_1": "<span> The party will </span>",
+        "option_2": "<span> be held in my </span>",
+        "option_3": "<span> house this Saturday </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part b.</span><p><span>When referring to the location of an event, \"at\" is more commonly used than \"in.\" So, the corrected sentence would be: \"The party will be held at my house this Saturday.\"</span></p>"
+    },
+    {
+        "question": "<span> He fixed the broken chair in using wood glue.</span>",
+        "option_1": "<span> He fixed the </span>",
+        "option_2": "<span> broken chair in </span>",
+        "option_3": "<span> using wood glue </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part b.</span><p><span>The preposition \"in\" is incorrect here. Instead, the preposition \"by\" should be used to indicate the means or method by which he fixed the chair.</span></p><p><span>So, the corrected sentence would be: \"He fixed the broken chair by using wood glue.\" </span></p>"
+    },
+    {
+        "question": "<span> On 2022, many significant events reshaped the course of history. </span>",
+        "option_1": "<span> On 2022, many significant </span>",
+        "option_2": "<span> events reshaped </span>",
+        "option_3": "<span> the course of history</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: a </span><p><span>The preposition \"on\" is not appropriate to use with the year \"2022\". Instead, we should use \"in\" to indicate the time frame. </span></p><p><span>So, the corrected sentence would be: \"In 2022, many significant events reshaped the course of history.\"</span></p>"
+    },
+    {
+        "question": "<span> In daybreak, the birds chirp their melodious tunes, welcoming the sun's first rays peeking over the horizon.</span>",
+        "option_1": "<span> In daybreak, the birds chirp their melodious </span>",
+        "option_2": "<span> tunes, welcoming the sun's first </span>",
+        "option_3": "<span> rays peeking over the horizon. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: a In daybreak, the birds chirp their melodious</span><p><span>The preposition \"in\" is not appropriate to use with \"daybreak\". Instead, we should use \"at\" to indicate a specific time. </span></p><p><span>So, the corrected sentence would be: \"At daybreak, the birds chirp their melodious tunes, welcoming the sun's first rays peeking over the horizon.\" </span></p>"
+    },
+    {
+        "question": "<span> On tomorrow morning, I'll be catching an early flight to attend the conference. </span>",
+        "option_1": "<span> On tomorrow morning, I'll </span>",
+        "option_2": "<span> catching an early flight </span>",
+        "option_3": "<span> to attend the conference </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: a </span><p><span>When using time expressions like Today, tomorrow, yesterday, the following day, the next day, yesterday evening, yesterday afternoon, last night, this morning, this afternoon, tonight, tomorrow morning, and</span><span>tomorrow evening do not take prepositions before them. </span></p><p><span>So, the corrected sentence would be: \"Tomorrow morning, I'll be catching an early flight to attend the conference.\" </span></p>"
+    },
+    {
+        "question": "<span> We enjoyed a picnic in </span><a name=\"_Hlk166153787\"><span>the park until the </span></a><span>warm summer afternoon.</span>",
+        "option_1": "<span> We enjoyed a picnic in</span>",
+        "option_2": "<span> No error</span>",
+        "option_3": "<span> warm summer afternoon</span>",
+        "option_4": "<span> the park until the</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct answer is: d</span><p><span>The sentence \"We enjoyed a picnic in the park until the warm summer afternoon\" seems to mix up the use of \"until\" and \"during.\" If you want to express that the picnic took place throughout the duration of the warm summer afternoon, you would use \"during\" instead of \"until.\" </span></p><p><span>Here's the corrected sentence: \"We enjoyed a picnic in the park during the warm summer afternoon.\"</span></p>"
+    },
+    {
+        "question": "<span> His attitude to the project has changed since he learned more about it. </span>",
+        "option_1": "<span> His attitude to the project </span>",
+        "option_2": "<span> has changed since he </span>",
+        "option_3": "<span> learned more about it </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: a </span><p><span>In this context, \"to\" should be replaced with \"towards\" to indicate the direction or orientation of his attitude in relation to the project. </span></p><p><span>So, the corrected sentence would be: \"His attitude towards the project has changed since he learned more about it.\"</span></p>"
+    },
+    {
+        "question": "<span> He leaned towards the wall, feeling the coolness of the marble.</span>",
+        "option_1": "<span> He leaned towards the </span>",
+        "option_2": "<span> wall, feeling the </span>",
+        "option_3": "<span> coolness of the marble</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span>The correct answer is a.</span><p><span>If you want to convey that he felt the coolness of the marble as he was in contact with it, \"against\" would be more suitable. Here's the corrected sentence: \"He leaned against the wall, feeling the coolness of the marble.\" </span></p>"
+    },
+    {
+        "question": "<span> The hike will take around an hour to reach the summit. </span>",
+        "option_1": "<span> The hike will take </span>",
+        "option_2": "<span> around an hour </span>",
+        "option_3": "<span> to reach the summit</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is b.</span><p><span>While both \"about\" and \"around\" can be used to indicate approximation, \"about\" is more commonly used in this context. So, the corrected sentence would be: \"The hike will take about an hour to reach the summit.\"</span></p>"
+    },
+    {
+        "question": "<span> The invention for the printing press is of German origin.</span>",
+        "option_1": "<span> The invention for</span>",
+        "option_2": "<span> the printing press </span>",
+        "option_3": "<span> is of German origin </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: a “The invention for”</span><p><span>In this context, \"for\" is not the appropriate preposition to convey the intended meaning of origin. The correct preposition to use in this context is \"of.\" </span></p><p><span>So, the corrected sentence would be: \"The invention of the printing press is of German origin.\" </span></p>"
+    },
+    {
+        "question": "<span> We played soccer against they.</span>",
+        "option_1": "<span> We played </span>",
+        "option_2": "<span> soccer </span>",
+        "option_3": "<span> against they</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> the error is in part c, \"against they.\" It should be \"against them\" to maintain the objective case after the preposition \"against.\" </span><p><span>The correct sentence should be: \"We played soccer against them.\"</span></p>"
+    },
+    {
+        "question": "<span> She reached to home before it started raining.</span>",
+        "option_1": "<span> She reached to </span>",
+        "option_2": "<span> home before </span>",
+        "option_3": "<span> it started raining</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is a.</span><p><a name=\"_Hlk166232708\"><span>The sentence contains an error. According to the rule no preposition is used before \"home\" when certain verbs like \"Bring, go, come, arrive, reach, get\" are used. </span></a></p><p><span>Therefore, the correct sentence would be: \"She reached home before it started raining.\" </span></p>"
+    },
+    {
+        "question": "<span> She warned to him </span><a name=\"_Hlk166234922\"><span>to watch out </span></a><span>for slippery roads.</span>",
+        "option_1": "<span> No error</span>",
+        "option_2": "<span> She warned to him</span>",
+        "option_3": "<span> to watch out</span>",
+        "option_4": "<span> for slippery roads</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is b.</span><p><span>The sentence contains an error. To' should not be used with the following verbs when followed by an object. Such verbs are - advise, tell, ask, beg, command, encourage, request, inform, thank, welcome, warn, forbid, order, remind, congratulate, compliment. </span></p><p><span>Therefore, the corrected sentence would be: \"She warned him to watch out for slippery roads.\"</span></p>"
+    },
+    {
+        "question": "<a name=\"_Hlk166238637\"><span>The thieves </span></a><a name=\"_Hlk166238644\"><span>robbed the bank </span></a><span>millions of dollars.</span>",
+        "option_1": "<span> The thieves</span>",
+        "option_2": "<span> robbed the bank</span>",
+        "option_3": "<span> millions of dollars</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is b.</span><p><span>compensate, explain, fine, propose, recommend, rob, suggest take preposition according to the object of the sentence. </span></p><p><span>Therefore, the corrected sentence would be: \"The thieves robbed the bank of millions of dollars.\" </span></p>"
+    },
+    {
+        "question": "<span> The success of the business was owing the hard work of its employees. </span>",
+        "option_1": "<span> The success of the business </span>",
+        "option_2": "<span> was owing the hard </span>",
+        "option_3": "<span> work of its employees</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is b.</span><p><span>The sentence contains an error. The preposition \"to\" is missing after \"owing,\" which should connect it to the phrase \"the hard work of its employees.\" </span></p><p><span>Therefore, the corrected sentence would be: \"The success of the business was owing to the hard work of its employees.\"</span></p>"
+    },
+    {
+        "question": "<span> The company implemented new safety measures to the sake </span><a name=\"_Hlk166254320\"><span>of employee well-being</span></a><span>.</span>",
+        "option_1": "<span> The company implemented new</span>",
+        "option_2": "<span> safety measures to the sake</span>",
+        "option_3": "<span> of employee well-being</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part b. It should be \"for the sake of\" instead of \"to the sake\" to convey the idea of doing something for the benefit or advantage of someone or something. </span><p><span>So, the corrected sentence would be: \"The company implemented new safety measures for the sake of employee well-being.\"</span></p>"
+    },
+    {
+        "question": "<span> The exhibition will run between September 10</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:super\">th</span><span> to November 30th. </span>",
+        "option_1": "<span> The exhibition will </span>",
+        "option_2": "<span> run between September </span>",
+        "option_3": "<span> 10th to November 30th. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct phrasing of the sentence should use \"and\" after \"September 10th\" to maintain consistency with the rule. </span><p><span>So, the corrected sentence would be: \"The exhibition will run between September 10th and November 30th.\" </span></p>"
+    },
+    {
+        "question": "<span> The students studied diligently amidst the distractions of social media and other temptations. </span>",
+        "option_1": "<span> The students studied diligently </span>",
+        "option_2": "<span> amidst the distractions of social </span>",
+        "option_3": "<span> media and other temptations. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> the correct answer is b.</span><p><span>Amid is used before a</span><span>consonant sound, while amidst is used before a</span><span>vowel sound.</span></p><p><span>Therefore, the corrected answer would be: The students studied diligently amid the distractions of social media and other temptations. </span></p>"
+    },
+    {
+        "question": "<span> As I was cleaning out my closet, I came across with a box of my childhood toys. </span>",
+        "option_1": "<span> As I was cleaning out my </span>",
+        "option_2": "<span> closet, I came across with a </span>",
+        "option_3": "<span> box of my childhood toys</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error in the sentence is in part b, \"came across with a. \"The correct phrase is simply \"came across,\" without the preposition \"with.\"</span><p><span>So, the corrected sentence would be: \"As I was cleaning out my closet, I came across a box of my childhood toys.\" </span></p>"
+    },
+    {
+        "question": "<span> She put her hand in the cookie jar and grabbed a cookie. </span>",
+        "option_1": "<span> She put her hand in </span>",
+        "option_2": "<span> the cookie jar and </span>",
+        "option_3": "<span> grabbed a cookie</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error is in part a.</span><p><span>The word \"into\" suggests movement from the outside to the inside of something, which is more appropriate in this context since she is reaching into the cookie jar to grab a cookie.</span></p><p><span>So, the corrected sentence using \"into\" would be: \"She put her hand into the cookie jar and grabbed a cookie.\"</span></p>"
+    },
+    {
+        "question": "<span> She stood before the mirror, admiring her reflection. </span>",
+        "option_1": "<span> She stood before </span>",
+        "option_2": "<span> the mirror, admiring </span>",
+        "option_3": "<span> her reflection </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error is in part a</span><p><span>Here, ‘in front of’ should be come in place of ‘before’. The meaning of ‘In front of’ is ‘directly before or ahead of’</span></p><p><span>Therefore, the corrected answer would be: ‘She stood in front of the mirror, admiring her reflection.’</span></p>"
+    },
+    {
+        "question": "<span> In January 1st, people around the world celebrate the start of a new year with fireworks and festivities. </span>",
+        "option_1": "<span> No error</span>",
+        "option_2": "<span> with fireworks and festivities.</span>",
+        "option_3": "<span> celebrate the start of a new year </span>",
+        "option_4": "<span> In January 1st, people around the world </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct answer is: d In January 1st, people around the world</span><p><span>The preposition \"In\" is not appropriate to use with the date \"January 1st\". Instead, we should use \"On\" to indicate a specific date. </span></p><p><span>So, the corrected sentence would be: \"On January 1st, people around the world celebrate the start of a new year with fireworks and festivities.\" </span></p>"
+    },
+    {
+        "question": "<span> In the evenings of May 2</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:super\">nd</span><span> the city skyline lights up with a beautiful array of colors.</span>",
+        "option_1": "<span> In the evenings of May, the 2</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:super\">nd </span>",
+        "option_2": "<span> the city skyline lights up with </span>",
+        "option_3": "<span> a beautiful array of colors</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: a </span><p><span>The preposition \"In\" is not appropriate to use with \"the 2nd\" in this context. Instead, when referring to a specific date, we typically use \"On\". </span></p><p><span>So, the corrected sentence would be: \"On the evenings of May 2nd, the city skyline lights up with a beautiful array of colors.\" </span></p>"
+    },
+    {
+        "question": "<span> She climbed up to the stairs to reach the top floor.</span>",
+        "option_1": "<span> No error</span>",
+        "option_2": "<span> She climbed up to</span>",
+        "option_3": "<span> the stairs to reach</span>",
+        "option_4": "<span> the top floor</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is: She climbed up to </span><p><span>\"up\" and \"up to\" have different meanings. \"Up\" typically denotes movement in an upward direction, while \"up to\" denotes reaching a limit or extent. If you're referring to climbing stairs to reach a higher level, \"up\" is more appropriate. </span></p><p><span>If you intend to express climbing the stairs to reach the top floor, \"up\" is the correct choice: \"She climbed up the stairs to reach the top floor.\"</span></p>"
+    },
+    {
+        "question": "<span> The airplane flew over the clouds, offering stunning views.</span>",
+        "option_1": "<span> The airplane flew </span>",
+        "option_2": "<span> over the clouds, </span>",
+        "option_3": "<span> offering stunning views </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is b</span><p><span>\"Above\" suggests a position directly overhead, while \"over\" implies movement across or beyond something. Since the sentence emphasizes the position of the airplane in relation to the clouds, \"above\" would indeed be a more precise choice. </span></p><p><span>Here's the corrected sentence: \"The airplane flew above the clouds, offering stunning views.\"</span></p>"
+    },
+    {
+        "question": "<span> They are taken to hike in the mountains every summer.</span>",
+        "option_1": "<span> They are taken </span>",
+        "option_2": "<span> to hike in the </span>",
+        "option_3": "<span> mountains every summer </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is b.</span><p><span>When these phrases “be used to, accustomed to, averse to, with a view to, addicted to, devoted to, in addition to, look forward to, object to, owing to, given to, taken to, prone to\" followed by an activity, it should be followed by the \"-ing\" form of the verb. </span></p><p><span>Therefore, the corrected sentence would be: \"They are taken to hiking in the mountains every summer.\"</span></p>"
+    },
+    {
+        "question": "<span> The company provided the employees training resources.</span>",
+        "option_1": "<span> The company </span>",
+        "option_2": "<span> provided the employees </span>",
+        "option_3": "<span> training resources </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is b.</span><p><span>Object of the verbs (direct object/indirect object) in the following cases, decides the preposition that follows the verb. such verbs are - furnish, Entrust, Present, Provide, Supply etc.</span></p><p><span>Therefore, the corrected sentence would be: \"The company provided the employees with training resources.\"</span></p>"
+    },
+    {
+        "question": "<span> The event unfolded agreeably for our expectations, with no major disruptions. </span>",
+        "option_1": "<span> The event unfolded agreeably </span>",
+        "option_2": "<span> for our expectations, </span>",
+        "option_3": "<span> with no major disruptions </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in part b. It should be \"to our expectations\" instead of \"for our expectations\" to indicate that the event unfolded in accordance with what was expected. </span><p><span>So, the corrected sentence would be: \"The event unfolded agreeably to our expectations, with no major disruptions.\"</span></p>"
+    },
+    {
+        "question": "<span> They decided to move the party indoors on account of the rain. </span>",
+        "option_1": "<span> They decided to move </span>",
+        "option_2": "<span> the party indoors </span>",
+        "option_3": "<span> on account of the rain </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> There's no error in this sentence. It's grammatically correct as it is: \"They decided to move the party indoors on account of the rain.\"</span>"
+    },
+    {
+        "question": "<span> I have been living here for 2010, and I've grown quite attached to the neighborhood. </span>",
+        "option_1": "<span> I have been living here for 2010, </span>",
+        "option_2": "<span> and I've grown quite </span>",
+        "option_3": "<span> attached to the neighborhood. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error in the sentence is in part a </span><p><span>\"Since\" is used to refer to a specific point in time when an action started. \"For\" is used to indicate the duration of time that an action has been happening. So, it should be \"I have been living here since 2010\"</span></p><p><span>Therefore, the corrected answer would be: \"I have been living here since 2010, and I've grown quite attached to the neighborhood.\" </span></p>"
+    },
+    {
+        "question": "<span> The invitation to the event was extended to me by the organizer across a mutual friend. </span>",
+        "option_1": "<span> The invitation to the event was </span>",
+        "option_2": "<span> extended to me by the </span>",
+        "option_3": "<span> organizer across a mutual friend</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The error in the sentence is in part c, \"organizer across a mutual friend.\"</span><p><span>The preposition \"across\" is not appropriate in this context. \"Through\" would be the correct preposition to use when indicating that the invitation was conveyed via a mutual friend.</span></p><p><span>So, the corrected sentence would be: \"The invitation to the event was extended to me by the organizer through a mutual friend.\" </span></p>"
+    },
+    {
+        "question": "<span> I installed a wall-mounted TV on my bed for convenient viewing. </span>",
+        "option_1": "<span> I installed a wall-mounted </span>",
+        "option_2": "<span> TV on my bed </span>",
+        "option_3": "<span> for convenient viewing</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> the error is in part b.</span><p><span>‘Over’ is used to cover the whole surface no matter whether there is physical contact or not.</span></p><p><span>Therefore, the corrected answer would be: I installed a wall-mounted TV over my bed for convenient viewing.</span></p>"
+    },
+    {
+        "question": "<span> He walked in the restaurant and looked for a table. </span>",
+        "option_1": "<span> No error </span>",
+        "option_2": "<span> looked for a table </span>",
+        "option_3": "<span> restaurant and </span>",
+        "option_4": "<span> He walked in the </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The error is in part d.</span><p><span>Using \"into\" instead of \"in\" clarifies the action of entering the restaurant. \"Into\" indicates movement from outside to inside, which better conveys the idea that the subject is physically entering the restaurant. </span></p><p><span>So, the corrected sentence with \"into\" is: \"He walked into the restaurant and looked for a table.\"</span></p>"
+    }
+]
