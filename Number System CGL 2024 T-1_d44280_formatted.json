@@ -1,0 +1,562 @@
+[
+    {
+        "question": "<span>If 7845K854 is divisible by 11, then what is the value of K?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 7</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 9</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 6</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 8</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image001.png"
+    },
+    {
+        "question": "<span>Which of the following is the largest 5-digit number divisible by 47?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 10000</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 99969</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 99999</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 98888</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> As, 47 is a prime number so we cannot check the given options through factors of 47.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>Which digits should come in the place of * and #, respectively, if the 7-digit number 62684*# is divisible by both 8 and 5?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 5 </span><span style=\"color:#4224e9;font-family:'Mangal'\">and </span><span style=\"color:#4224e9\">0</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 2 </span><span style=\"color:#4224e9;font-family:'Mangal'\">and </span><span style=\"color:#4224e9\">0</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 4 </span><span style=\"color:#4224e9;font-family:'Mangal'\">and </span><span style=\"color:#4224e9\">0</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 0 </span><span style=\"color:#4224e9;font-family:'Mangal'\">and </span><span style=\"color:#4224e9\">5</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image002.png"
+    },
+    {
+        "question": "<span>Which of the following numbers is divisible by both 2 and 5?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 37254</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 37915</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 20792</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 63840</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The number which is divisible by 2 and 5 will also be divisible by 10.</span><p><span>Only option 4 is divisible by 10.</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>Replace * by the smallest digit so that 723*56* is divisible by 6.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 4</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 2</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 3</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 1</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image003.png"
+    },
+    {
+        "question": "<span>Which digits should come in place *</span><span>and</span><span>$,respectively, if the number 72864*$ is divisible by both 8 and 5?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 4 </span><span style=\"color:#4224e9\">0</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 4 </span><span style=\"color:#4224e9\">5</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 2 </span><span style=\"color:#4224e9\">5</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 2 </span><span style=\"color:#4224e9\">0</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image004.png"
+    },
+    {
+        "question": "<span>Which of following numbers is NOT divisible by 11?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 128041</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 80124</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 109153</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 5445</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> To be divisible by 11 difference of sum of alternate digits should be divisible by 11.</span><p><span>Option 1: </span></p><p><span>(1 + 8 + 4 ) – (2 + 0 + 1)</span></p><p><span>13 – 3 = 10 not divisible by 11</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>Which of the following numbers is divisible by 2, 5, 10 and 11?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 1234560</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 589270</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 830942</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 203467</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> Option 3 and Option 4 are not divisible by 10.</span><p><span>Option 2:</span></p><p><span>(5 + 9 + 7) – (8 + 2 + 0) = 21 – 10 = 11 </span></p><p><span>So option 2 will be the answer</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>Find the smallest value that must be assigned to number ‘a’ in order for 91876a2 to be divisible by 8.</span>",
+        "option_1": "<span style=\"color:#4224e9\">1</span>",
+        "option_2": "<span style=\"color:#4224e9\">2</span>",
+        "option_3": "<span style=\"color:#4224e9\">0</span>",
+        "option_4": "<span style=\"color:#4224e9\">3</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image005.png"
+    },
+    {
+        "question": "<span>Which digits should come in the place of x and y, respectively, if the number 62684xy is divisible by both 8 and 5?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 4 </span><span style=\"color:#4224e9\">0</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 2 </span><span style=\"color:#4224e9\">0</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 0 </span><span style=\"color:#4224e9\">5</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 5 </span><span style=\"color:#4224e9\">0</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image006.png"
+    },
+    {
+        "question": "<span>Find the least value of k for which a 7-digit number 249k876 is divisible by 6.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 1</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 7</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 5</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 0</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image007.png"
+    },
+    {
+        "question": "<span>Find the least value of x for which 57x716 is divisible by 9.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 1</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 8</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 9</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 0</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image008.png"
+    },
+    {
+        "question": "<span>If P is a digit such that 6954P is divisible by 11, then P equals:</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 6</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 7</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 8</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 2</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image009.png"
+    },
+    {
+        "question": "<span>If the 9-digit number 5x79856y6 is divisible by 36, then what is the negative value of </span><span> for the largest possible value of y, given x and y are natural number?</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image010.png",
+        "option_1": "<span style=\"color:#4224e9\"> −5</span>",
+        "option_2": "<span style=\"color:#4224e9\"> −2</span>",
+        "option_3": "<span style=\"color:#4224e9\"> −4</span>",
+        "option_4": "<span style=\"color:#4224e9\"> −7</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image012.png"
+    },
+    {
+        "question": "<span>What number should be subtracted from </span><span> to make the number divisible by (x + 2)?</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image013.png",
+        "option_1": "<span style=\"color:#4224e9\"> 3</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 9</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 5</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 7</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image015.png"
+    },
+    {
+        "question": "<span>From the given numbers A, B, C and D, which number is NOT divisible by 11?</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>A = 712712</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>B = 177210</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>C = 64614</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>D = 756148</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span style=\"color:#800000\">A = 712712</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span style=\"color:#800000\">B = 177210</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span style=\"color:#800000\">C = 64614</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span style=\"color:#800000\">D = 756148</span></p>",
+        "option_1": "<span style=\"color:#4224e9\"> B</span>",
+        "option_2": "<span style=\"color:#4224e9\"> D</span>",
+        "option_3": "<span style=\"color:#4224e9\"> C</span>",
+        "option_4": "<span style=\"color:#4224e9\"> A</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> Divisibility rule of 11: The difference between the</span><span>sum of digits</span><span>at an odd position and the sum of digits at an even position in a number is 0 or 11.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>D= 756148</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>= (7+6+4) - (5+1+8)</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>= 17-14</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>= 3</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>3 is not divisible by 11 so the number is also not divisible by 11.</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>Which of the following numbers is NOT divisible by 8?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 7344</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 4608</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 5544</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 7497</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> Divisibility of 8: A number is divisible by 8 if the last three digits of the number form a number that is divisible by 8.</span><ol type=\"1\"><li><span style=\"font-weight:bold\">7497</span><ul><li><span style=\"line-height:115%;font-family:Calibri;font-size:11pt\">Last three digits: 497</span></li><li><span style=\"line-height:115%;font-family:Calibri;font-size:11pt\">497 ÷ 8 = 62.125 (not an integer, so not divisible by 8)</span></li></ul></li><li><span style=\"font-weight:bold\">7344</span><ul><li><span style=\"line-height:115%;font-family:Calibri;font-size:11pt\">Last three digits: 344</span></li><li><span style=\"line-height:115%;font-family:Calibri;font-size:11pt\">344 ÷ 8 = 43 (an integer, so divisible by 8)</span></li></ul></li><li><span style=\"font-weight:bold\">4608</span><ul><li><span style=\"line-height:115%;font-family:Calibri;font-size:11pt\">Last three digits: 608</span></li><li><span style=\"line-height:115%;font-family:Calibri;font-size:11pt\">608 ÷ 8 = 76 (an integer, so divisible by 8)</span></li></ul></li><li><span style=\"font-weight:bold\">5544</span><ul><li><span style=\"line-height:115%;font-family:Calibri;font-size:11pt\">Last three digits: 544</span></li><li><span style=\"line-height:115%;font-family:Calibri;font-size:11pt\">544 ÷ 8 = 68 (an integer, so divisible by 8)</span></li></ul></li></ol><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>For what least value of n, 22n+2n is completely divided by 6, where n is an integer?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 3</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 0</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 1</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 2</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> Put n=1</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>The least number which must be subtracted from 7278745 so as to obtain a sum that is divisible by 11 is:</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 1</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 2</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 5</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 3</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image016.png"
+    },
+    {
+        "question": "<span>The number 4,29,714 is divisible by:</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 4 </span><span style=\"color:#4224e9;font-family:'Mangal'\">and </span><span style=\"color:#4224e9\">6</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 3 </span><span style=\"color:#4224e9;font-family:'Mangal'\">and </span><span style=\"color:#4224e9\">5</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 6 </span><span style=\"color:#4224e9;font-family:'Mangal'\">and </span><span style=\"color:#4224e9\">5</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 3 </span><span style=\"color:#4224e9;font-family:'Mangal'\">and </span><span style=\"color:#4224e9\">6</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image017.png"
+    },
+    {
+        "question": "<span>Find the greatest value of ‘k’ in a 6-digit number 6745k2 such that the number is divisible by 3.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 9</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 6</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 8</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 7</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image018.png"
+    },
+    {
+        "question": "<span>If 436P5 is divisible by 3, then the largest value of P is:</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 9</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 6</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 12</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 8</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image019.png"
+    },
+    {
+        "question": "<span>If m is even, then (8m – 1) is divisible by:</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 8</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 63</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 65</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 42</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image020.png"
+    },
+    {
+        "question": "<span>Which of the following numbers is divisible by 6?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 438750</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 128530</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 12581</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 62233</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> When a number is divisible by 2 and 3 then it is also divisible by 6. Hence 438750 is divisible by 6.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>The five-digit number 45yz0 is divisible by 40. What is the maximum possible value of (y + z)?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 18</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 17</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 16</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 15</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> For 40 divisibility it must be divisible by 5 and 8. Maximum possible value of y and z is 8+8=16.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>7</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super\">15</span><span> + 7</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super\">16</span><span> + 7</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super\">17</span><span> is divisible by which of the following given numbers?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 5</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 3</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 2</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 4</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image021.png"
+    },
+    {
+        "question": "<span>Which of the following can be the value of ‘k’ so that the number 217924k is divisible by 6?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 0</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 4</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 2</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 6</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> To be divisible by 6 number should be divisible by 2 and 3.</span><p><span>so, the value of k should be even and sum of digits of the given number is divisible by 3</span></p><p><span>2 + 1 + 7 + 9 + 2 + 4 + k = 25 + k </span></p><p><span>So the value of k = 2 because 25 + 2 = 27 is divisible by 3.</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>Without doing the actual division, find the remainder when 28735429 is divided by 9.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 9</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 2</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 4</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 8</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> Sum of digits is remainder when a number is divided by 9</span><p><span>Remainder = 2 + 8 + 7 + 3 + 5 + 4 + 2 + 9 = 40 </span></p><p><span>= 4 + 0 = 4</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>If x varies inversely as y and x = 2 when y = 6, then the value of y when x = 3 is:</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 2</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 3</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 4</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 6</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span style=\"line-height:115%;font-size:14pt\">………(1)x = 2 when y = 6,</span><p><span style=\"line-height:115%;font-size:14pt\">2(6) = k</span></p><p><span style=\"line-height:115%;font-size:14pt\">k = 12</span></p><p><span style=\"line-height:115%;font-size:16pt\">Put in (1)</span></p><p><span style=\"line-height:115%;font-size:14pt\">when x = 3</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image022.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image023.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image024.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image025.png"
+    },
+    {
+        "question": "<span>If x,y and z are positive numbers and </span><span>, then the least value of </span><span> is:</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image026.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image027.png",
+        "option_1": "<span style=\"color:#4224e9\"> 9</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 7</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 11</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 5</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image029.png"
+    },
+    {
+        "question": "<span>If the sum of three numbers is 18 and the sum of their squares is 36, then find the difference between the sum of their cubes and three times of their product.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 1449</span>",
+        "option_2": "<span style=\"color:#4224e9\"> −1944</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 4149</span>",
+        "option_4": "<span style=\"color:#4224e9\"> −1494</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image030.png"
+    },
+    {
+        "question": "<span>The average of the squares of the first 45 natural numbers is</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 698.67</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 699.67</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 697.67</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 696.67</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image031.png"
+    },
+    {
+        "question": "<span>Find the smallest number to be added to 999, so that 99 divides the sum exactly.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 0</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 9</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 99</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 90</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image032.png"
+    },
+    {
+        "question": "<span>Find the quotient, when the mean proportional of 7</span><span> and 245 is divided by an even prime number. </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image033.png",
+        "option_1": "<span style=\"color:#4224e9\"> 36</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 21</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 42</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 49</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> Mean proportional = </span><p><span>even prime number = 2</span></p><p><span>Quotient = </span><span> = 21</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image035.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image036.png"
+    },
+    {
+        "question": "<span>Find the average of the prime numbers lying between 50 and 76.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 60</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 62</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 66</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 64</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> Prime numbers between 50 and 76 = 53, 59, 61, 67, 71, 73</span><p><span>Average = </span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image037.png"
+    },
+    {
+        "question": "<span>The average of the squares of the first 46 natural numbers is.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 727.5</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 730.5</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 728.5</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 729.5</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image038.png"
+    },
+    {
+        "question": "<span>The average of the squares of the first 47 natural numbers is</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 759</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 762</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 761</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 760</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image039.png"
+    },
+    {
+        "question": "<span>For what value of k, the system of equations 4x + 12y + 36 =</span><span>0 and 5x + ky + 45 =</span><span>0 has an infinite number of solutions?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 15</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 20</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 22</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 25</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image040.png"
+    },
+    {
+        "question": "<p>A number r when divided by 8 leaves remainder 3. What will be the remainder when (r2+6r+7) is divided by 8?</p>",
+        "option_1": "<p><span style=\"color:#4224e9\">3</span></p>",
+        "option_2": "<p><span style=\"color:#4224e9\">1</span></p>",
+        "option_3": "<p><span style=\"color:#4224e9\">2</span></p>",
+        "option_4": "<p><span style=\"color:#4224e9\">4</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image041.png"
+    },
+    {
+        "question": "<p>The sum of five consecutive numbers is 80. Find the largest number.</p>",
+        "option_1": "<p><span style=\"color:#4224e9\">18</span></p>",
+        "option_2": "<p><span style=\"color:#4224e9\">14</span></p>",
+        "option_3": "<p><span style=\"color:#4224e9\">19</span></p>",
+        "option_4": "<p><span style=\"color:#4224e9\">15</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The five numbers are: 14, 15, 16, 17, 18</p> <p><strong>The largest number is: 18</strong></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image042.png"
+    },
+    {
+        "question": "<span>The mean proportional of 4a</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super\">2</span><span> and x is </span><span> , where a is a positive number, then the value of x is ___________ .</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image043.png",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image045.png",
+        "option_2": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image046.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image047.png",
+        "option_4": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image048.png",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image049.png"
+    },
+    {
+        "question": "<span>Find the average of first 125 natural numbers.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 63.5</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 62.5</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 63</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 62</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image050.png"
+    },
+    {
+        "question": "<span>On dividing a number by 55, we get 28 as the remainder. On dividing the same number by 11, what is the remainder?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 5</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 8</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 6</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 7</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image051.png"
+    },
+    {
+        "question": "<span>Which composite number can divide the sum of the first 12 natural numbers?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 12</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 8</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 4</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 6</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image052.png"
+    },
+    {
+        "question": "<span>The average of the squares of the first 48 natural numbers is</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 793.17</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 791.17</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 792.17</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 794.17</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image053.png"
+    },
+    {
+        "question": "<span>A number whose fifth part increased by 5 is equal to its third part decreased by 7. Find half of the number.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 80</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 60</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 150</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 45</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image054.png"
+    },
+    {
+        "question": "<span>Find the remainder when 9</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super\">20</span><span> + 2 is divided by 4.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 3</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 1</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 0</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 2</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image055.png"
+    },
+    {
+        "question": "<span>Which of the following fractions is the largest?</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image056.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image057.png",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image058.png",
+        "option_2": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image059.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image060.png",
+        "option_4": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image061.png",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> By cross multiplication option b is the largest.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>Which of the following fractions is the largest? </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image062.png",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image064.png",
+        "option_2": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image065.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image066.png",
+        "option_4": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image067.png",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> By cross multiplication option c is the largest.</span>"
+    },
+    {
+        "question": "<span>The sum of two consecutive even numbers is 174. Find the smaller number.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 88</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 90</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 86</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 84</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image068.png"
+    },
+    {
+        "question": "<p>Find the remainder, if 19^200 is divided by 20.</p>",
+        "option_1": "<p><span style=\"color:#4224e9\">2</span></p>",
+        "option_2": "<p><span style=\"color:#4224e9\">3</span></p>",
+        "option_3": "<p><span style=\"color:#4224e9\">1</span></p>",
+        "option_4": "<p><span style=\"color:#4224e9\">−1</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image069.png"
+    },
+    {
+        "question": "<span>If (77</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super\">77</span><span>+77) is divided by 78, then the remainder will be:</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 78</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 76</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 77</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 1</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image070.png"
+    },
+    {
+        "question": "<span>When f(m) = m</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super\">5</span><span> + 5m</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super\">4</span><span> 3m + 7 is divided by (m </span><span>, then the remainder is ___________ .</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image071.png",
+        "option_1": "<span style=\"color:#4224e9\"> 0</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 7</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 5</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 113</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image073.png"
+    },
+    {
+        "question": "<span>Find the remainder: (17</span><span style=\"line-height:115%;font-size:7.33pt;vertical-align:super\">13</span><span> − 21) ÷ 18</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 17</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 21</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 14</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 15</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image074.png"
+    },
+    {
+        "question": "<span>If 321y72 is a multiple of 6, where y is a digit, what is the least value of y?</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 7</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 0</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 3</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 2</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image075.png"
+    },
+    {
+        "question": "<span>In a division problem, the divisor is 4 times the quotient and 2 times the remainder. If the remainder is 32, then find the dividend.</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 3240</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 1056</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 1065</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 1650</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330842219_image076.png"
+    }
+]
