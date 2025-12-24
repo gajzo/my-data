@@ -1,0 +1,382 @@
+[
+    {
+        "question": "<span> You, I, and he meet usually every Wednesday after our classes, in the cozy corner of the library. </span>",
+        "option_1": "<span> usually every Wednesday </span>",
+        "option_2": "<span> You, I, and he meet </span>",
+        "option_3": "<span> after our classes, in the </span>",
+        "option_4": "<span> cozy corner of the library.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> If all three persons or two out of three persons come in a single sentence, the order is 231. So, the correct order will be “You, he, and I.”</span><p><span>Therefore, the correct answer will be: </span><span style=\"text-decoration:underline\">“You, he and I meet usually every Wednesday after our classes, in the cozy corner of the library.” </span></p>"
+    },
+    {
+        "question": "<span> Let me clarify any doubts you may have about the project. </span>",
+        "option_1": "<span> Let me clarify </span>",
+        "option_2": "<span> any doubts you may </span>",
+        "option_3": "<span> have about the project. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> Objective case comes after ‘let’, ‘like’, ‘between…..and’, ‘but’, ‘expect’, and ‘all prepositions’. According to this rule, the given sentence is correct.</span>"
+    },
+    {
+        "question": "<span> She had no choice but to admit hers mistake. </span>",
+        "option_1": "<span> She had no </span>",
+        "option_2": "<span> choice but to </span>",
+        "option_3": "<span> No error</span>",
+        "option_4": "<span> admit hers mistake </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> Objective case comes after ‘let’, ‘like’, ‘between…..and’, ‘but’, ‘expect’, and ‘all prepositions’. So, ‘her’ should be come.</span><p><span>Therefore, the correct answer would be: </span><span style=\"text-decoration:underline\">“She had no choice but to admit her mistake.”</span></p>"
+    },
+    {
+        "question": "<p>The siblings hugged one another tightly after being apart for so long.</p>",
+        "option_1": "<p>The siblings hugged</p>",
+        "option_2": "<p>one another tightly after</p>",
+        "option_3": "<p>being apart for so long.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>‘Each other’ denoted a mutual relationship between two people/things and ‘one another’ denoted a mutual relationship between more than two things/persons.</p> <p>Here's the corrected sentence: “The siblings hugged each other tightly after being apart for so long.”</p>"
+    },
+    {
+        "question": "<span> This are the photographs from our vacation.</span>",
+        "option_1": "<span> This are the </span>",
+        "option_2": "<span> photographs from</span>",
+        "option_3": "<span> our vacation</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> ‘This’ is used for a singular object/person that is placed closer. ‘This’ is singular’. ‘These’ is plural. ‘These’ is used for more than one object/person that is placed after. </span><p><span>The correct sentence should be: </span><span style=\"text-decoration:underline\">\"These are the photographs from our vacation.\"</span></p>"
+    },
+    {
+        "question": "<span> Our friendship remains strong there is no problem between her and I.</span>",
+        "option_1": "<span> our friendship remains </span>",
+        "option_2": "<span> strong there is no </span>",
+        "option_3": "<span> problem between her and I</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> Objective case comes after ‘let’, ‘like’, ‘between…..and’, ‘but’, ‘expect’, and ‘all prepositions’. So, ‘her’ should be come here.</span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“Our friendship remains strong there is no problem between her and me.” </span></p>"
+    },
+    {
+        "question": "<span> The coffee was brewing in the kitchen. they filled </span><a name=\"_Hlk163128806\"><span>the room with a rich aroma. </span></a>",
+        "option_1": "<span> The coffee was brewing </span>",
+        "option_2": "<span> in the kitchen. they filled </span>",
+        "option_3": "<span> the room with a rich aroma.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error is in option (b) \"in the kitchen. they filled\". The subject \"they\" does not agree with the singular noun \"coffee.\" The corrected sentence would be: \"The coffee was brewing in the kitchen. It filled the room with a rich aroma.\" So, the correct answer is (b). </span><p><span>Therefore, the correct answer would be: </span><span style=\"text-decoration:underline\">“The coffee was brewing in the kitchen. it filled the room with a rich aroma.”</span></p>"
+    },
+    {
+        "question": "<a name=\"_Hlk163135166\"><span>The baby giggled as it played with its favorite toy. </span></a>",
+        "option_1": "<span> it played with</span>",
+        "option_2": "<span> No Error</span>",
+        "option_3": "<span> The baby giggled as </span>",
+        "option_4": "<span> its favorite toy.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> “It” is used for singular nouns/non-living things or an infant. So the sentence is correct.</span>"
+    },
+    {
+        "question": "<span> This is a windy day at the beach, perfect weather for flying kites. </span>",
+        "option_1": "<span> This is a windy day </span>",
+        "option_2": "<span> at the beach, perfect </span>",
+        "option_3": "<span> weather for flying kites.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"It\" is used to denote weather conditions or natural events.</span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“It is a windy day at the beach, perfect weather for flying kites.” </span></p>"
+    },
+    {
+        "question": "<span> They compared their results with our. </span>",
+        "option_1": "<span> They compared </span>",
+        "option_2": "<span> their results</span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> with our </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct choice is: (d) with ours. A possessive pronoun can be used as the object of a preposition. </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">“They compared their results with ours.”</span></p>"
+    },
+    {
+        "question": "<span> Ours office was closed for two days due to renovations. </span>",
+        "option_1": "<span> for two days </span>",
+        "option_2": "<span> No error </span>",
+        "option_3": "<span> Ours office was closed </span>",
+        "option_4": "<span> due to renovations </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> Possessive pronouns are not used before nouns. Therefore, the use of ours is not correct. ‘Ours’ should change into ‘our’</span><p><span>The correct sentence would be: </span><span style=\"text-decoration:underline\">\"Our office was closed for two days due to renovations.\"</span></p>"
+    },
+    {
+        "question": "<span> Her Separation was heart-wrenching for them.</span>",
+        "option_1": "<span> was heart-wrenching </span>",
+        "option_2": "<span> Her Separation </span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> for them.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> \"Separation from her\" - This phrase correctly uses the possessive adjective \"her\" to indicate that the separation belongs to \"her.\" It specifies whose separation is being discussed, emphasizing that it is the separation from her that is significant.</span><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">“Separation from her was heart-wrenching for them.”</span></p>"
+    },
+    {
+        "question": "<span> She asked for your opinion and valued it more than her. </span>",
+        "option_1": "<span> She asked for your </span>",
+        "option_2": "<span> opinion and valued </span>",
+        "option_3": "<span> it more than her</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The sentence has an error. The correct form should be: (c) it more than hers. A possessive pronoun can be used as the object of a verb. </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">“She asked for your opinion and valued it more than hers.” </span></p>"
+    },
+    {
+        "question": "<span> After the long hike, they rested themselves under the shade of a tree. </span>",
+        "option_1": "<span> After the long hike, they </span>",
+        "option_2": "<span> rested themselves under </span>",
+        "option_3": "<span> the shade of a tree. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is: (b) rested themselves under.</span><p><span>Keep, stop, turn, qualify, bathe, move, rest, and hide do not take a reflexive pronoun after them. In accordance with the rule provided, verbs like \"rest\" do not take reflexive pronouns after them. Therefore, \"themselves\" should be omitted from the sentence. </span></p><p><span>The corrected sentence is: </span><span style=\"text-decoration:underline\">\"After the long hike, they rested under the shade of a tree.\" </span></p>"
+    },
+    {
+        "question": "<p>Neither of the four restaurants in the area were open past midnight.</p>",
+        "option_1": "<p>Neither of the four restaurants</p>",
+        "option_2": "<p>in the area were</p>",
+        "option_3": "<p>open past midnight.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The correct answer is: (a) Neither of the four restaurants</p> <p>Neither means ‘none out of two things/persons’. Where ‘None’ means ‘none out of more than two persons/things’.</p> <p>The revised sentence should be: \"None of the four restaurants in the area were open past midnight.\"</p>"
+    },
+    {
+        "question": "<span> The culture of Japan is fascinating, especially when compared to China. </span>",
+        "option_1": "<span> The culture of Japan is </span>",
+        "option_2": "<span> fascinating, especially when </span>",
+        "option_3": "<span> No error</span>",
+        "option_4": "<span> compared to China </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> ‘That’ (is singular) is used for a distant thing/person. ‘Those’ (is plural) is used for more than one distant thing/person. </span><p><span>The correct answer would be: </span><span style=\"text-decoration:underline\">“The culture of Japan is fascinating, especially when compared to that of China.” </span></p>"
+    },
+    {
+        "question": "<span> These cookies are delicious, but those one are a bit too sweet for my taste. </span>",
+        "option_1": "<span> These cookies are delicious </span>",
+        "option_2": "<span> but those one are a </span>",
+        "option_3": "<span> bit too sweet for my taste </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> ‘One’ is used to avoid the repetition of a singular countable noun. ‘Ones’ is used to avoid the repetition of Plural countable nouns. We do not use one’s in place of ones. So, the correct option would be: (b) but those ones are a</span><p><span>The correct sentence would be: </span><span style=\"text-decoration:underline\">\"These cookies are delicious, but those ones are a bit too sweet for my taste.\" </span></p>"
+    },
+    {
+        "question": "<p>The car parked in it’s designated spot every day.</p>",
+        "option_1": "<p>The car parked</p>",
+        "option_2": "<p>in it’s designated</p>",
+        "option_3": "<p>spot every day</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The correct answer is: (b) in it’s designated. The possessive pronoun \"its\" does not require an apostrophe before 's'. \"It's\" is a contraction for \"it is\" or \"it has,\" not a possessive form.</p> <p>The corrected sentence is: \"The car parked in its designated spot every day.\"</p>"
+    },
+    {
+        "question": "<span> He was unsure about his taken on the new role in the company. </span>",
+        "option_1": "<span> He was unsure </span>",
+        "option_2": "<span> about his taken on </span>",
+        "option_3": "<span> the new role in the company.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is: (b) about his taken on. Gerund is used After the</span><span>Possessive Adjective. In these cases, we never use the</span><span>Possessive Pronoun or Objective case of Pronoun. In accordance with the rule provided, the possessive adjective \"his\" is correctly used before the gerund \"taking.\" </span><p><span>The corrected sentence is: </span><span style=\"text-decoration:underline\">\"He was unsure about his taking on the new role in the company.\" </span></p>"
+    },
+    {
+        "question": "<span> She applied diligently to her studies to achieve her goals. </span>",
+        "option_1": "<span> She applied diligently</span>",
+        "option_2": "<span> to her studies to </span>",
+        "option_3": "<span> achieve her goals. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: She applied diligently.</span><p><span>Gerund is used After the</span><span>Possessive Adjective. In these cases, we never use Possessive Pronoun or Objective case of Pronoun. In accordance with the rule provided, after the verb \"applied,\" we should use the reflexive pronoun \"herself\" to indicate that the action of applying is directed inwardly. </span></p><p><span>The corrected sentence is: </span><span style=\"text-decoration:underline\">\"She applied herself diligently to her studies to achieve her goals.\" </span></p>"
+    },
+    {
+        "question": "<span> Those is the restaurant we visited on our anniversary. </span>",
+        "option_1": "<span> Those is the restaurant </span>",
+        "option_2": "<span> we visited </span>",
+        "option_3": "<span> on our anniversary</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> ‘That’ (is singular) is used for a distant thing/person. ‘Those’ (is plural) is used for more than one distant thing/person. </span><span style=\"font-family:'Segoe UI';color:#0d0d0d;background-color:#ffffff\">So, </span><span>the correct option would be: (a) Those is the restaurant.</span><p><span>The correct sentence is: </span><span style=\"text-decoration:underline\">\"That is the restaurant we visited on our anniversary.\" </span></p>"
+    },
+    {
+        "question": "<span> One of these two restaurants would be a good choice for dinner tonight.</span>",
+        "option_1": "<span> One of these two restaurants </span>",
+        "option_2": "<span> would be a good </span>",
+        "option_3": "<span> choice for dinner tonight.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> Either denotes a</span><span>choice between two. ‘Any’ and ‘one’ is used for many persons or things.</span><p><span>The corrected sentence should be: </span><span style=\"text-decoration:underline\">\"Either of these two restaurants would be a good choice for dinner tonight.\"</span></p>"
+    },
+    {
+        "question": "<span> That are the lights twinkling in the night sky. </span>",
+        "option_1": "<span> That are the </span>",
+        "option_2": "<span> lights twinkling </span>",
+        "option_3": "<span> in the night sky</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> ‘That’ (is singular) is used for a distant thing/person. ‘Those’ (is plural) is used for more than one distant thing/person. </span><p><span>The correct sentence should be: </span><span style=\"text-decoration:underline\">\"Those are the lights twinkling in the night sky.\"</span></p>"
+    },
+    {
+        "question": "<span> The baby bathed itself in the tub with gentle soap. </span>",
+        "option_1": "<span> The baby bathed </span>",
+        "option_2": "<span> itself in the tub </span>",
+        "option_3": "<span> with gentle soap.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is: (b) itself in the tub. </span><p><span>Keep, stop, turn, qualify, bathe, move, rest, and hide do not take a reflexive pronoun after them. In accordance with the rule provided, verbs like \"bathe\" do not take reflexive pronouns after them. Therefore, \"itself\" should be omitted from the sentence. </span></p><p><span>The corrected sentence is: </span><span style=\"text-decoration:underline\">\"The baby bathed in the tub with gentle soap.\"</span></p>"
+    },
+    {
+        "question": "<span> All the technology which we use in our daily lives is advancing rapidly. </span>",
+        "option_1": "<span> we use in our daily </span>",
+        "option_2": "<span> lives is advancing rapidly </span>",
+        "option_3": "<span> All the technology which </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> If ‘all’ denotes non-living things, ‘that’ is used and not ‘who’ or ‘whom’. So, the correct option would be: (c) All the technology which</span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"All the technology that we use in our daily lives is advancing rapidly.\"</span></p>"
+    },
+    {
+        "question": "<span> Do you know whose is responsible for organizing the charity event next month, and can you tell me more about their plans? </span>",
+        "option_1": "<span> the charity event next month, and can </span>",
+        "option_2": "<span> No error </span>",
+        "option_3": "<span> Do you know whose is responsible for organizing </span>",
+        "option_4": "<span> you tell me more about their plans? </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> ‘Who’ is used for the subject, ‘Whom’ is used for the object, and ‘Whose’ is used to find out the owner. So, the correct sentence be ‘Do you know who is responsible for organizing the charity event next month, and can you tell me more about their plans?’ </span>"
+    },
+    {
+        "question": "<span> Whom did you go to the movies with?</span>",
+        "option_1": "<span> go to the</span>",
+        "option_2": "<span> Whom did you</span>",
+        "option_3": "<span> movies with</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> After the</span><span>preposition ‘Whom’ is used but not ‘who’ and if the</span><span>preposition is used at the end of the sentence, ‘who’ comes at the start of the sentence. So, the correct option would be: (b) Whom did you go to the movies with?</span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"Who did you go to the movies with?\"</span></p>"
+    },
+    {
+        "question": "<span> Each of the flower in the garden has bloomed beautifully. </span>",
+        "option_1": "<span> Each of the flower </span>",
+        "option_2": "<span> in the garden has </span>",
+        "option_3": "<span> bloomed beautifully </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> Plural Noun/Pronoun is used after each of/either of/ neither of. The correct form should be \"Each of the flowers,\" </span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"Each of the flowers in the garden has bloomed beautifully.\"</span></p>"
+    },
+    {
+        "question": "<span> I wonder why didn't he attend the meeting. </span>",
+        "option_1": "<span> I wonder why </span>",
+        "option_2": "<span> No error </span>",
+        "option_3": "<span> didn't he attend </span>",
+        "option_4": "<span> the meeting </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> If a ‘Wh’ family word is used to join two sentences, then it is used as a relative pronoun, an</span><span>assertive form of the</span><span>sentence follows the ‘Wh’ family word. The helping verb is used after the subject. So, the correct option would be: (c) didn't he attend.</span><p><span>The correct sentence structure should be </span><span style=\"text-decoration:underline\">\"I wonder why he didn't attend the meeting.\"</span></p>"
+    },
+    {
+        "question": "<span> They each has received a gift from their grandmother. </span>",
+        "option_1": "<span> They each has </span>",
+        "option_2": "<span> received a gift from </span>",
+        "option_3": "<span> their grandmother</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span>The correct verb form for \"they each\" should be \"have\" instead of \"has\" to agree with the plural subject \"they.\" According to the</span><span>rule When ‘each’ comes after the subject, the auxiliary verb/main verb will be used that agrees</span><span>with the subject. </span><p><span>So, the correct option is: (a) They each has.</span></p><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“They each have received a gift from their grandmother.”</span></p>"
+    },
+    {
+        "question": "<span> After the argument, they reconciled to their differences. </span>",
+        "option_1": "<span> After the argument, </span>",
+        "option_2": "<span> they reconciled </span>",
+        "option_3": "<span> to their differences. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is (b) they reconciled.</span><p><span>After acquit, avail, reconcile, amuse, resign, avenge, exert, apply, adapt, adjust, pride, absent, and enjoy we use Reflexive Pronoun. In accordance with the rule provided, after the verb \"reconcile,\" we should use the reflexive pronoun \"themselves\" to indicate that the action of reconciliation is directed inwardly. </span></p><p><span>The corrected sentence is: </span><span style=\"text-decoration:underline\">\"After the argument, they reconciled themselves to their differences.\"</span></p>"
+    },
+    {
+        "question": "<span> The car I bought last week is already showing signs of wear and tear. </span>",
+        "option_1": "<span> The car I bought last week </span>",
+        "option_2": "<span> is already showing </span>",
+        "option_3": "<span> signs of wear and tear.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> Relative pronouns (who/which/that) are used as a subject in subordinate clauses. So, the correct option would be (a) The car I bought last week.</span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"The car that I bought last week is already showing signs of wear and tear.\"</span></p>"
+    },
+    {
+        "question": "<span> The chef and his recipe who went viral on social media have become household favourites. </span>",
+        "option_1": "<span> The chef and his recipe who </span>",
+        "option_2": "<span> went viral on social media have </span>",
+        "option_3": "<span> become household favorites.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> Relative Pronoun ‘That’ is used If two antecedents are joined by ‘and’ one being a human and the other being a non-living/animal. So, the correct option would be: (a) The chef and his recipe who.</span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"The chef and his recipe that went viral on social media have become household favorites.\"</span></p>"
+    },
+    {
+        "question": "<span> The restaurant serves Italian cuisine is always crowded. </span>",
+        "option_1": "<span> The restaurant serves</span>",
+        "option_2": "<span> No error </span>",
+        "option_3": "<span> Italian cuisine is </span>",
+        "option_4": "<span> always crowded </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The main issue here is that the phrase \"serves Italian cuisine\" is not properly connected to the rest of the sentence. It's a relative clause (a subordinate clause that provides additional information about the restaurant), but it lacks a relative pronoun to introduce it.</span><p><span>A relative pronoun (such as \"that\" or \"which\") is necessary to connect the subordinate clause to the main clause and clarify the relationship between them.</span></p><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"The restaurant that serves Italian cuisine is always crowded.\"</span></p>"
+    },
+    {
+        "question": "<p>Everything that you need for the trip is in the suitcase.</p>",
+        "option_1": "<p>Everything that you</p>",
+        "option_2": "<p>need for the trip</p>",
+        "option_3": "<p>is in the suitcase.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>The sentence is grammatically correct as it is. Therefore, the correct option is (d) No error.</p> <p>Everything, nothing, the only, any, all, everyone, none, no, nobody, much, little, the same, the few, the little will take ‘that’ after these words.</p>"
+    },
+    {
+        "question": "<span> They are staying at the same hotel which we stayed in during our last vacation.</span>",
+        "option_1": "<span> They are staying at the </span>",
+        "option_2": "<span> No error</span>",
+        "option_3": "<span> in during our last vacation. </span>",
+        "option_4": "<span> same hotel which we stayed </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> When the</span><span>verb is mentioned, ‘the same + noun’ is followed by ‘that’. So, the correct option would be (d) the</span><span>same hotel which we stayed.</span><p><span>The correct sentence would be: </span><span style=\"text-decoration:underline\">\"They are staying at the same hotel that we stayed in during our last vacation.\"</span></p>"
+    },
+    {
+        "question": "<span> Everyone who attended the party had a great time. </span>",
+        "option_1": "<span> Everyone who attended </span>",
+        "option_2": "<span> the party had </span>",
+        "option_3": "<span> a great time </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> Everything, nothing, the only, any, all, everyone, none, no, nobody, much, little, the same, the few, the little will take ‘that’ after these words. </span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“Everyone that attended the party had a great time.”</span></p>"
+    },
+    {
+        "question": "<span> That is the book whose publication was delayed due to printing issues. </span>",
+        "option_1": "<span> That is the book </span>",
+        "option_2": "<span> whose publication was </span>",
+        "option_3": "<span> delayed due to printing issues</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> In the sentence, \"whose\" is used to indicate possession or ownership. However, according to the rule provided, for non-living things, \"whose\" is not typically used. Instead, \"of which\" or similar construction is used to indicate possession.</span><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"That is the book the publication of which was delayed due to printing issues.\" </span></p>"
+    }
+]
