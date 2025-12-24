@@ -1,0 +1,312 @@
+[
+    {
+        "question": "<p>They had been played tennis for two hours when it started raining.</p>",
+        "option_1": "<p>No error</p>",
+        "option_2": "<p>when it started raining.</p>",
+        "option_3": "<p>tennis for two hours</p>",
+        "option_4": "<p>They had been played</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>The sentence contains an error. The correct form should be \"They had been playing tennis for two hours\" instead of \"They had been played tennis for two hours.\"</p> <p><!--StartFragment --></p> <ul> <li> <ul> <li><strong>\"had been played\"</strong> is incorrect because it uses the <strong>passive voice</strong> form of the verb \"play.\"</li> <li>The correct structure for an ongoing action in the <strong>past perfect continuous tense</strong> is:</li> <li><strong>had been + present participle (verb+ing)</strong></li> </ul> <!--EndFragment --></li> </ul> <p>So, the corrected sentence is: “They had been playing tennis for two hours when it started raining.</p>"
+    },
+    {
+        "question": "<span> By the time he had finished reading the book, the library had closed for the day.</span>",
+        "option_1": "<span> By the time he had finished </span>",
+        "option_2": "<span> reading the book, the library </span>",
+        "option_3": "<span> had closed for the day.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is option a.</span><p><span>If two action take place in the past, one after the other, the 1</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:super\">st</span><span> action will be in Past Perfect Tense and the second action will be in Simple Past Tense.</span></p><p><span>Therefore, the correct answer should be: “By the time he finished reading the book, the library had closed for the day.”</span></p>"
+    },
+    {
+        "question": "<span> She hasn't decided on her major yet. </span>",
+        "option_1": "<span> She hasn't </span>",
+        "option_2": "<span> decided on </span>",
+        "option_3": "<span> her major yet.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct answer is: (d) No error </span><p><span>Usually, already, yet, so far, are used in perfect tense but ‘Yet’ is generally used in negative sentences of present perfect. Therefore, the given sentence is absolutely correct. </span></p>"
+    },
+    {
+        "question": "<span> We have watched a movie together last night. </span>",
+        "option_1": "<span> We have </span>",
+        "option_2": "<span> watched a movie </span>",
+        "option_3": "<span> together last night. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) We have</span><p><span>The error lies in the phrase \"We have.\" When past time is specified, as in \"last night,\" the simple past tense should be used instead of the present perfect tense. Therefore, the correct form should be \"We watched.\"</span></p><p><span>The corrected sentence would be: \"We watched a movie together last night.\" </span></p>"
+    },
+    {
+        "question": "<span> He has completing his assignment and submitted it to the professor. </span>",
+        "option_1": "<span> He has completing his </span>",
+        "option_2": "<span> assignment and submitted </span>",
+        "option_3": "<span> it to the professor. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: a</span><p><span>The error lies in the phrase \"He has completing his.\" In the present perfect tense, the verb \"complete\" should be in the past participle form, which is \"completed\" in this case. </span></p><p><span>The corrected sentence would be: \"He has completed his assignment and submitted it to the professor.\"</span></p>"
+    },
+    {
+        "question": "<span> She practiced dance for hours before the recital.</span>",
+        "option_1": "<span> She practiced dance </span>",
+        "option_2": "<span> for hours </span>",
+        "option_3": "<span> before the recital. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) She practiced dance</span><p><span>The error lies in the phrase \"practiced dance.\" In this context, \"dance\" should be in the gerund form because it follows the verb \"practiced.\" When a verb follows another verb and functions as its object, it should be in the gerund form (\"-ing\" form). </span></p><p><span>Therefore, the correct sentence should be \"She practiced dancing for hours before the recital.\" </span></p>"
+    },
+    {
+        "question": "<span> She is owning a beautiful house in the countryside. </span>",
+        "option_1": "<span> a beautiful house </span>",
+        "option_2": "<span> in the countryside. </span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> She is owning </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p><span>The correct answer is: (d) She is owning</span></p><p><span>The error lies in the verb \"is owning.\" According to the rule, own,\" \"have,\" \"belong,\" \"comprise,\" \"possess,\" \"contain,\" and \"consist\" are used without the \"-ing\" form. Therefore, the correct form should be \"She owns.\"</span></p><p><span>The corrected sentence would be: \"She owns a beautiful house in the countryside.\"</span></p>"
+    },
+    {
+        "question": "<span> If Mary was a doctor, she would treat patients with care.</span>",
+        "option_1": "<span> If Mary was a doctor, </span>",
+        "option_2": "<span> she would treat </span>",
+        "option_3": "<span> patients with care.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: a</span><p><span>The error lies in the use of \"was\" in the subordinate clause \"If Mary was a doctor.\" In imaginary situations, the past subjunctive form \"were\" is used, even if the subject is singular. Therefore, the correct form should be \"If Mary were a doctor.\"</span></p><p><span>The corrected sentence would be: \"If Mary were a doctor, she would treat patients with care.\"</span></p>"
+    },
+    {
+        "question": "<span> She attends yoga classes this month to improve her flexibility. </span>",
+        "option_1": "<span> classes this month to </span>",
+        "option_2": "<span> No error </span>",
+        "option_3": "<span> She attends yoga </span>",
+        "option_4": "<span> improve her flexibility. </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> Present continuous tense is appropriate because the action of attending yoga classes is temporary and ongoing during the specified period (\"this month\"). The present continuous tense indicates actions that are happening at the moment of speaking or around the present time. </span><p><span>Therefore, the correct sentence should be: She is attending yoga classes this month to improve her flexibility. </span></p>"
+    },
+    {
+        "question": "<p>She shall return the book to the library tomorrow.</p>",
+        "option_1": "<p>She shall return</p>",
+        "option_2": "<p>the book to the</p>",
+        "option_3": "<p>library tomorrow.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>The sentence \"She shall return the book to the library tomorrow\" is correct.</p> <p>It follows the rule \"Subject + shall/will + V1 + Object\". Shall is used with second person, third person, to denote command, promise, threat, determination, compulsion, and advice. Therefore the given sentence is correct.</p>"
+    },
+    {
+        "question": "<span> The students did submit their projects before the deadline?</span>",
+        "option_1": "<span> submit their projects </span>",
+        "option_2": "<span> The students did </span>",
+        "option_3": "<span> before the deadline? </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error in the sentence is the placement of the question mark. In English, when forming questions using the structure \"Did + subject + V1 + Object,\" the question mark should come at the end of the sentence after the object or the completion of the question. </span><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"Did the students submit their projects before the deadline?\" </span></p>"
+    },
+    {
+        "question": "<p>The Earth is revolving around the sun.</p>",
+        "option_1": "<p>The Earth</p>",
+        "option_2": "<p>is revolving</p>",
+        "option_3": "<p>around the sun.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>Using the simple present tense (\"revolves\") to describe a fact or a universal truth is more suitable in this case. Therefore, the correct option would be to replace the present continuous tense (\"is revolving\") with the simple present tense.</p> <p>The correct sentence should be: \"The Earth revolves around the sun.\"</p>"
+    },
+    {
+        "question": "<span> Sometimes, she is singing in the shower.</span>",
+        "option_1": "<span> Sometimes, she </span>",
+        "option_2": "<span> is singing in </span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> the shower</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: (b) is singing in</span><p><span>To correct the sentence, we should use the simple present tense instead of the present continuous tense. </span></p><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"Sometimes, she sings in the shower.\"</span></p>"
+    },
+    {
+        "question": "<span> What he does know about your hobbies and interests? </span>",
+        "option_1": "<span> No error </span>",
+        "option_2": "<span> and interests?</span>",
+        "option_3": "<span> about your hobbies </span>",
+        "option_4": "<span> What he does know </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct option is: (d) What he does know</span><p><span>The error lies in the word order of the original sentence. In English, when forming questions in the present tense with the verb \"to do,\" the auxiliary verb \"do\" (or \"does\" for third-person singular subjects) comes before the subject. </span></p><p><span>Therefore, the sentence would be: </span><span style=\"text-decoration:underline\">“What does he know about your hobbies and interests?”</span></p>"
+    },
+    {
+        "question": "<span> It's time he take responsibility for his actions.</span>",
+        "option_1": "<span> It's time he </span>",
+        "option_2": "<span> for his actions. </span>",
+        "option_3": "<span> take responsibility </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct option is: (c) take responsibility</span><p><span>\"It's time,\" \"It's high time,\" or \"It's about time,\" followed by a subject and then a verb, the verb should be in the second form (V2) rather than the base form (V1).</span></p><p><span>So, the correct sentence is: </span><span style=\"text-decoration:underline\">\"It's time he took responsibility for his actions.\"</span></p>"
+    },
+    {
+        "question": "<span> She talks on the phone with her friend right now. </span>",
+        "option_1": "<span> She talks on the </span>",
+        "option_2": "<span> phone with her </span>",
+        "option_3": "<span> friend right now. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct option is: (a) She talks on the</span><p><span>The error in the sentence lies in the verb form. When expressing an action that is happening at the time of speaking, we use the present continuous tense. </span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"She is talking on the phone with her friend right now.\"</span></p>"
+    },
+    {
+        "question": "<span> The team was practiced late into the night before the big game. </span>",
+        "option_1": "<span> The team was practiced </span>",
+        "option_2": "<span> late into the night </span>",
+        "option_3": "<span> before the big game. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) The team was practiced</span><p><span>The error lies in the phrase \"The team was practiced.\" The correct form should be \"The team was practicing,\" using the past continuous tense to indicate an action that was in continuation in the past. </span></p><p><span>Therefore, the corrected sentence would be: \"The team was practicing late into the night before the big game.\" </span></p>"
+    },
+    {
+        "question": "<p><a name=\"_Hlk165715134\">We will be watch the </a>sunset on the hilltop tomorrow evening.</p>",
+        "option_1": "<p>We will be watch the</p>",
+        "option_2": "<p>sunset on the hilltop</p>",
+        "option_3": "<p>tomorrow evening.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The correct answer is: (a) We will be watch</p> <p>The error lies in the structure of the verb phrase \"We will be watch.\" In future continuous tense, the correct form should be \"will be\" followed by the base form of the verb and the present participle (\"-ing\" form). Therefore, the correct form should be \"We will be watching.\"</p> <p>The corrected sentence would be: \"We will be watching the sunset on the hilltop tomorrow evening.\"</p>"
+    },
+    {
+        "question": "<p><a name=\"_Hlk165717730\">We have a reservation at the restaurant, and we having dinner there tonight.</a></p>",
+        "option_1": "<p>We have a reservation at the</p>",
+        "option_2": "<p>restaurant, and we</p>",
+        "option_3": "<p>having dinner there tonight.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>The correct answer is: (b) restaurant, and we</p> <p><!--StartFragment --></p> <p><strong>Error:</strong> “we having dinner” is incorrect because it’s missing the auxiliary verb “are” to form the present continuous tense.</p> <p><!--EndFragment --><!--StartFragment --></p> <p><!--EndFragment --></p> <p>The corrected sentence would be: \"We have a reservation at the restaurant, and we are having dinner there tonight.\"</p>"
+    },
+    {
+        "question": "<span> They are excited about travel to Europe next summer.</span>",
+        "option_1": "<span> They are excited</span>",
+        "option_2": "<span> about travel to</span>",
+        "option_3": "<span> Europe next summer.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is: (b) about travel to</span><p><span>The error lies in the phrase \"about travel to.\" In this context, the verb \"travel\" should be in the \"-ing\" form because it follows the preposition \"about.\" When a verb follows a preposition, it typically takes the \"-ing\" form.</span></p><p><span>Therefore, the correct sentence would be: \"They are excited about traveling to Europe next summer.\"</span></p>"
+    },
+    {
+        "question": "<span> She has recently graduating from university with honors. </span>",
+        "option_1": "<span> She has recently </span>",
+        "option_2": "<span> graduating from </span>",
+        "option_3": "<span> university with honours.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is: (b) graduating from</span><p><span>The error lies in the phrase \"graduating from.\" In this context, the verb \"graduating\" should be in the past participle form, which is \"graduated\" in this case. </span></p><p><span>Therefore, the correct form should be \"She has recently graduated from university with honors.\" </span></p>"
+    },
+    {
+        "question": "<span> He has had a lot of experienced in this field. </span>",
+        "option_1": "<span> He has had </span>",
+        "option_2": "<span> a lot of experienced </span>",
+        "option_3": "<span> in this field. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is: (b) a lot of experienced</span><p><span>It should be \"a lot of experience\" instead of \"a lot of experienced.\" </span></p><p><span>So, the corrected sentence would be: \"He has had a lot of experience in this field.\"</span></p>"
+    },
+    {
+        "question": "<span> She might have finished her homework before she went to bed. </span>",
+        "option_1": "<span> She might have </span>",
+        "option_2": "<span> finished her homework </span>",
+        "option_3": "<span> before she went to bed.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The sentence is correct as it is, with no error. </span>"
+    },
+    {
+        "question": "<span> She will have graduated from college by the time she will turn twenty-five. </span>",
+        "option_1": "<span> She will have graduated </span>",
+        "option_2": "<span> No error </span>",
+        "option_3": "<span> from college by the time </span>",
+        "option_4": "<span> she will turn twenty-five</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct answer is d</span><p><span>The tense used after \"by the time\" is usually the simple present tense. This is because the action following \"by the time\" is seen as completed relative to the specified future point. The tense used in the latter part of the sentence, after \"by the time,\" is typically the future perfect tense. This tense indicates that the action will be completed at some point in the future before the specified point in time.</span></p><p><span>Let's correct the sentence accordingly: \"She will have graduated from college by the time she turns twenty-five.\" </span></p>"
+    },
+    {
+        "question": "<span> We have already visited three countries this year. </span>",
+        "option_1": "<span> We have already </span>",
+        "option_2": "<span> visited three </span>",
+        "option_3": "<span> countries this year.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<a name=\"_Hlk165739149\"><span>The correct answer is: (d) No error </span></a><p><a name=\"_Hlk165739168\"><span>Usually, already, yet, so far, are used in perfect tense but ‘Yet’ is generally used in negative sentences of present perfect.</span></a></p>"
+    },
+    {
+        "question": "<span> They have already leave for the airport, they should be arriving soon.</span>",
+        "option_1": "<span> They have already leave </span>",
+        "option_2": "<span> for the airport, they </span>",
+        "option_3": "<span> should be arriving soon. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) They have already leave</span><p><span>The error lies in the phrase \"They have already leave.\" In the present perfect tense, the verb \"leave\" should be in the past participle form, which is \"left\" in this case. </span></p><p><span>The corrected sentence would be: \"They have already left for the airport; they should be arriving soon.\"</span></p>"
+    },
+    {
+        "question": "<span> They are looking forward to their vacation next month.</span>",
+        "option_1": "<span> They are looking </span>",
+        "option_2": "<span> forward to their </span>",
+        "option_3": "<span> vacation next month. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> In this sentence, \"looking forward to\" is an idiomatic expression used to indicate anticipation or excitement about something in the future. It's perfectly acceptable to use \"looking\" in the progressive form in this context. Therefore, there's no error in the sentence, and it follows the rule mentioned. </span>"
+    },
+    {
+        "question": "<p>If he was the president, he would make positive changes.</p>",
+        "option_1": "<p>If he was the president</p>",
+        "option_2": "<p>he would make</p>",
+        "option_3": "<p>positive changes.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The correct answer is: (a) If he was the president</p> <p>The error lies in the use of \"was\" in the subordinate clause \"If he was the president.\" In imaginary or hypothetical situations, the past subjunctive form \"were\" is used, even if the subject is singular. Therefore, the correct form should be \"If he were the president.\"</p> <p>The corrected sentence would be: \"If he were the president, he would make positive changes.\"</p>"
+    },
+    {
+        "question": "<span> During his childhood, he has lived in a small village near the mountains. </span>",
+        "option_1": "<span> During his childhood, </span>",
+        "option_2": "<span> he has lived in a small </span>",
+        "option_3": "<span> village near the mountains. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct option is: (b) he has lived in a small</span><p><span>The error in the sentence lies in the tense inconsistency. When past time is indicated (in this case, \"During his childhood\"), the sentence should be in the simple past tense. </span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"During his childhood, he lived in a small village near the mountains.\" </span></p>"
+    },
+    {
+        "question": "<span> We were visited </span><a name=\"_Hlk165648108\"><span>our grandparents </span></a><span>over the weekend. </span>",
+        "option_1": "<span> We were visited </span>",
+        "option_2": "<span> our grandparents</span>",
+        "option_3": "<span> over the weekend.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The given sentence \"We were visited our grandparents over the weekend\" should be in the simple past tense. </span><p><span>The correct form would be: </span><span style=\"text-decoration:underline\">\"We visited our grandparents over the weekend.\"</span></p>"
+    },
+    {
+        "question": "<span> They are playing cricket every Sunday. </span>",
+        "option_1": "<span> every Sunday</span>",
+        "option_2": "<span> No error </span>",
+        "option_3": "<span> cricket </span>",
+        "option_4": "<span> They are playing </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> use the simple present tense instead of the present continuous tense.</span><p><span>In this corrected sentence, the simple present tense (\"play\") is used to express habitual or repeated actions, which is more appropriate in this context. The adverbial phrase \"every Sunday\" still indicates the frequency of the action. </span></p><p><span>The correct form would be: </span><span style=\"text-decoration:underline\">\"They play cricket every Sunday.\"</span></p>"
+    }
+]
