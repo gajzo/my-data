@@ -1,0 +1,392 @@
+[
+    {
+        "question": "<span> They're building new house in the neighbourhood. </span>",
+        "option_1": "<span> They're building </span>",
+        "option_2": "<span> new house in </span>",
+        "option_3": "<span> the neighbourhood. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> An article needs a noun in the</span><span>absence of which, we cannot use any article. It comes before a noun. So, the error is in the phrase \"new house in.\" The correct usage requires the indefinite article \"a\" before \"new house\" to indicate that it is one unspecified house being built. </span><p><span>The correct sentence is: </span><span style=\"text-decoration:underline\">They're building a new house in the neighbourhood.</span></p>"
+    },
+    {
+        "question": "<span> He's wearing shirt and tie for the interview. </span>",
+        "option_1": "<span> He's wearing shirt </span>",
+        "option_2": "<span> and tie for </span>",
+        "option_3": "<span> the interview.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> A/An is used before indefinite singular countable nouns. So, the error is in the phrase \"He's wearing shirt.\" The correct usage requires the indefinite article \"a\" before \"shirt\".</span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">He's wearing a shirt and tie for the interview. </span></p>"
+    },
+    {
+        "question": "<span> An ewe grazed peacefully in the pasture with her lambs. </span>",
+        "option_1": "<span> An ewe grazed </span>",
+        "option_2": "<span> peacefully in the </span>",
+        "option_3": "<span> pasture with her lambs. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error is in (a) \"An ewe grazed.\" It should be \"A ewe grazed\" since \"ewe\" starts with a consonant sound. </span><p><span>Therefore, the correct sentence is: </span><span style=\"text-decoration:underline\">“A ewe grazed peacefully in the pasture with her lambs.”</span></p>"
+    },
+    {
+        "question": "<span> He couldn't sleep because of noise in the apartment above.</span>",
+        "option_1": "<span> He couldn't sleep </span>",
+        "option_2": "<span> because of noise in </span>",
+        "option_3": "<span> the apartment above. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> \"Noise\" is an uncountable noun, and when it's used in a general sense, it typically takes the definite article \"the\". </span><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">“He couldn't sleep because of the noise in the apartment above.” </span></p>"
+    },
+    {
+        "question": "<span> You can earn Rs. 100 an hour if you work at the factory.</span>",
+        "option_1": "<span> You can earn Rs. 100 </span>",
+        "option_2": "<span> an hour if you </span>",
+        "option_3": "<span> work at the factory.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The sentence \"You can earn Rs. 100 an hour if you work at the factory.\" follows the rule where \"an\" is used in place of \"per\" to denote a rate or frequency. </span>"
+    },
+    {
+        "question": "<span> Cooking is art form that allows for creativity and experimentation. </span>",
+        "option_1": "<span> Cooking is art form</span>",
+        "option_2": "<span> that allows for </span>",
+        "option_3": "<span> creativity and experimentation.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> the error is in the phrase \"Cooking is art form.\" The correct usage requires the indefinite article \"an\" before \"art form\" because \"art form\" is a noun phrase. Therefore, it should be \"Cooking is an art form that allows for creativity and experimentation.\" </span><p><span>The correct sentence should be: </span><span style=\"text-decoration:underline\">“Cooking is an art form that allows for creativity and experimentation.” </span></p>"
+    },
+    {
+        "question": "<p>It was rather surprise to see her at the event.</p>",
+        "option_1": "<p>It was rather surprise</p>",
+        "option_2": "<p>to see her</p>",
+        "option_3": "<p>at the event.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>If many/rather/quite/such takes a singular noun after them, 'A/An' is used before the noun.\" So, the error is in the phrase \"surprise to see.\" The correct usage requires the inclusion of the article \"a\" before \"surprise\" to indicate that it is an unspecified or singular noun.</p> <p>Therefore, it should be \"It was rather a surprise to see her at the event.\"</p>"
+    },
+    {
+        "question": "<span> He made foot when he stumbled on the uneven ground. </span>",
+        "option_1": "<span> He made foot </span>",
+        "option_2": "<span> when he stumbled </span>",
+        "option_3": "<span> on the uneven ground. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In a few phrases A/An are used. Some of these phrases are- In a fix, in a hurry, in a nutshell, make a noise, make a foot, keep a secret, as a rule, at a stone's throw, a short while ago, at a loss, take a fancy to, take an interest in, take a liking, a pity, tell a lie. </span><p><span>So, the error is in the phrase \"He made foot.\" The correct usage requires the inclusion of the indefinite article \"a\" before \"foot\" to indicate an unspecified or singular instance. </span></p><p><span>Therefore, it should be </span><span style=\"text-decoration:underline\">\"He made a foot when he stumbled on the uneven ground.\"</span></p>"
+    },
+    {
+        "question": "<span> She apologised for her mistake of sending the wrong email by a mistake. </span>",
+        "option_1": "<span> She apologised for her </span>",
+        "option_2": "<span> mistake of sending the </span>",
+        "option_3": "<span> wrong email by a mistake. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> In a few phrases A/An are not used. Some of these phrases are - To lose heart, to set foot, to give ear, at home, last but not least, to catch fire, in hand, set on fire, by car/bus, at last, by mistake, in danger, to take heart. </span><p><span>So, the error is in the phrase \"by a mistake.\" The phrase \"by mistake\" is an idiomatic expression meaning accidentally or unintentionally, and it doesn't require the indefinite article \"a\" before \"mistake\". </span></p><p><span>Therefore, it should be </span><span style=\"text-decoration:underline\">\"She apologized for her mistake of sending the wrong email by mistake.\" </span></p>"
+    },
+    {
+        "question": "<span> She received an advice from her mentor before the interview. </span>",
+        "option_1": "<span> She received an advice </span>",
+        "option_2": "<span> from her mentor </span>",
+        "option_3": "<span> before the interview. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> the error is in the phrase \"an advice.\" The word \"advice\" is an uncountable noun and doesn't require the indefinite article \"an\". We can use “advice”, “a piece of advice”, and “a bit of advice” to make the sentence correct.</span><p><span>Therefore, it should be </span><span style=\"text-decoration:underline\">\"She received advice from her mentor before the interview.\"</span></p>"
+    },
+    {
+        "question": "<span> What a sort of activities are available at the summer camp?</span>",
+        "option_1": "<span> What a sort of </span>",
+        "option_2": "<span> activities are available </span>",
+        "option_3": "<span> at the summer camp? </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> Articles are not used before the nouns, in sentences, starting with 'what kind of', 'What sort of', 'what type of', what variety of'. </span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“What sort of activities are available at the summer camp?”</span></p>"
+    },
+    {
+        "question": "<span> The car parked in front of house belongs to our neighbour. </span>",
+        "option_1": "<span> The car parked in </span>",
+        "option_2": "<span> front of house </span>",
+        "option_3": "<span> belongs to our neighbour. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> the error is in the phrase \"front of house.\" It should be \"front of the house\" because \"the house\" is a specific noun requiring the definite article \"the\" before it. </span><p><span>Therefore, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"The car parked in front of the house belongs to our neighbour.\" </span></p>"
+    },
+    {
+        "question": "<span> Mount Everest is the highest mountain in world. </span>",
+        "option_1": "<span> Mount Everest is </span>",
+        "option_2": "<span> the highest </span>",
+        "option_3": "<span> mountain in world. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct sentence is: (c) mountain in world.</span><p><span>So, the error is in the phrase \"mountain in world.\" The phrase should be \"mountain in the world\" because \"the world\" is a specific context and requires the definite article \"the\". </span></p><p><span>Therefore, it should be </span><span style=\"text-decoration:underline\">\"Mount Everest is the highest mountain in the world.\"</span></p>"
+    },
+    {
+        "question": "<span> Hitesh is a Elon Musk of our technology company.</span>",
+        "option_1": "<span> Hitesh is a Elon </span>",
+        "option_2": "<span> Musk of our </span>",
+        "option_3": "<span> technology company. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> the error is in the phrase \"Hitesh is a Elon.\" When comparing Hitesh to Elon Musk for a particular quality or role within the technology company, \"the\" should be used before \"Elon Musk\" to indicate that Hitesh is being compared to a specific person. </span><p><span>Therefore, it should be </span><span style=\"text-decoration:underline\">\"Hitesh is the Elon Musk of our technology company.\"</span></p>"
+    },
+    {
+        "question": "<span> He is the Steve Jobs of our startup, pioneering new products and services.</span>",
+        "option_1": "<span> He is the Steve Jobs of </span>",
+        "option_2": "<span> our startup, pioneering </span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> new products and services. </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The sentence is correct as it is. There is no error in the original sentence.</span><p><span>The sentence \"He is the Steve Jobs of our startup, pioneering new products and services.\" is correct. It follows the rule that \"the\" is used before a proper noun for comparative purposes. In this case, \"the Steve Jobs\" is used to compare the individual in question to Steve Jobs.</span></p>"
+    },
+    {
+        "question": "<p>Karnataka is known for its IT industry, with the Bangalore as its capital.</p>",
+        "option_1": "<p>Karnataka is known for</p>",
+        "option_2": "<p>its IT industry, with</p>",
+        "option_3": "<p>the Bangalore as its capital.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>‘The’ does not come with the names of states. So, the error is in the phrase \"with the Bangalore as its capital.\" It should be \"with Bangalore as its capital\"</p> <p>Therefore, the correct answer would be: “Karnataka is known for its IT industry, with Bangalore as its capital.”</p>"
+    },
+    {
+        "question": "<a name=\"_Hlk163922272\"><span>The Canada is known </span></a><a name=\"_Hlk163922299\"><span>for its vast wilderness </span></a><span>and natural beauty. </span>",
+        "option_1": "<span> The Canada is known </span>",
+        "option_2": "<span> for its vast wilderness </span>",
+        "option_3": "<span> and natural beauty.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct sentence is: (a) The Canada is known</span><p><span>So, the error is in the phrase \"The Canada is known.\" \"The\" should not be used before the names of countries.</span></p><p><span>Therefore, it should be </span><span style=\"text-decoration:underline\">\"Canada is known for its vast wilderness and natural beauty.\"</span></p>"
+    },
+    {
+        "question": "<p>This is a most beautiful flower in the garden.</p>",
+        "option_1": "<p>This is a most</p>",
+        "option_2": "<p>beautiful flower</p>",
+        "option_3": "<p>in the garden</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>In this sentence, \"This is a most beautiful flower in the garden,\" the superlative adjective \"most beautiful\" is correctly preceded by the indefinite article \"a\" to indicate one out of many flowers in the garden. Therefore, no correction is needed.</p> <p>Therefore, it should be “This is the most beautiful flower in the garden”.</p>"
+    },
+    {
+        "question": "<p>The Aravali, standing alone, offers panoramic views of the surrounding plains.</p>",
+        "option_1": "<p>The Aravali, standing alone,</p>",
+        "option_2": "<p>offers panoramic views</p>",
+        "option_3": "<p>of the surrounding plains.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The error in the sentence is with the article <strong>\"The Aravali\"</strong>.</p> <p><strong>Correction:</strong></p> <p>❌ <strong>The Aravali</strong> → ✅ <strong>Aravali</strong></p> <p><strong>Reason:</strong></p> <ul> <li>\"Aravali\" is a <strong>mountain range</strong>, and generally, mountain ranges <strong>do not take the definite article \"The\"</strong> unless they are plural (e.g., <em>The Himalayas</em>, <em>The Andes</em>).</li> <li>Correct usage: <strong>\"Aravali, standing alone, offers panoramic views of the surrounding plains.\"</strong></li> </ul> <p>However, if referring to a specific peak or part of the range, \"The Aravali Hills\" or \"The Aravali Range\" would be acceptable.</p> <p><strong>Rule for Using \"The\" with Mountains &amp; Mountain Ranges</strong><br/> The usage of <strong>\"The\"</strong> with mountains depends on whether we are referring to <strong>individual mountains</strong> or <strong>mountain ranges</strong>.<br/> </p> <p><strong>Individual Mountains (No \"The\")</strong><br/> When referring to a <strong>single mountain</strong>, we <strong>do not</strong> use \"The\".<br/> ✅ <strong>Correct:</strong><br/> Mount Everest<br/> Mount Fuji<br/> Kilimanjaro<br/> Kanchenjunga<br/> ❌ <strong>Incorrect:</strong><br/> ❌ <em>The Mount Everest</em><br/> ❌ <em>The Kilimanjaro</em><br/> <strong>2. Mountain Ranges (Use \"The\")</strong><br/> When referring to a <strong>range of mountains</strong>, we <strong>use \"The\"</strong> before the name.<br/> ✅ <strong>Correct:</strong><br/> <strong>The Himalayas</strong><br/> <strong>The Alps</strong><br/> <strong>The Andes</strong><br/> <strong>The Aravali Hills</strong><br/> ❌ <strong>Incorrect:</strong><br/> ❌ <em>Himalayas are beautiful.</em> (Should be <strong>The Himalayas</strong>)<br/> ❌ <em>Alps are in Europe.</em> (Should be <strong>The Alps</strong>)<br/> <strong>3. Exceptions</strong><br/> Some mountain names <strong>do not follow the standard rule</strong>:<br/> <strong>The Matterhorn</strong> (Even though it's a single peak, \"The\" is used)<br/> <strong>The Rockies</strong> (Short for \"The Rocky Mountains\")</p>"
+    },
+    {
+        "question": "<span> The Happiness comes from within and cannot be bought. </span>",
+        "option_1": "<span> The Happiness comes </span>",
+        "option_2": "<span> from within and </span>",
+        "option_3": "<span> cannot be bought</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is (a) \"The Happiness comes\". The error is in using the definite article \"the\" before \"Happiness\". According to the rule provided, no article is generally used with abstract nouns. They are uncountable nouns, so \"the\" should not be used before \"Happiness\". </span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"Happiness comes from within and cannot be bought.\" </span></p>"
+    },
+    {
+        "question": "<span> The English is spoken as a second language in many countries. </span>",
+        "option_1": "<span> The English is spoken </span>",
+        "option_2": "<span> No error </span>",
+        "option_3": "<span> as a second language </span>",
+        "option_4": "<span> in many countries </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error is in (a) \"The English is spoken.\" When referring to the English language in general, \"the\" should not precede it. </span><p><span>Therefore, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"English is spoken as a second language in many countries.\"</span></p>"
+    },
+    {
+        "question": "<a name=\"_Hlk164158648\"><span>Caspian Sea is the </span></a><span>largest enclosed inland </span><a name=\"_Hlk164158668\"><span>body of water on Earth. </span></a>",
+        "option_1": "<span> No error </span>",
+        "option_2": "<span> Caspian Sea is the </span>",
+        "option_3": "<span> largest enclosed inland</span>",
+        "option_4": "<span> body of water on Earth.</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> \"The\" should precede the name of the sea. </span><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"The Caspian Sea is the largest enclosed inland body of water on Earth.\" </span></p>"
+    },
+    {
+        "question": "<span> Indian Railways is one of the largest railway networks in the world. </span>",
+        "option_1": "<span> Indian Railways is one </span>",
+        "option_2": "<span> of the largest railway </span>",
+        "option_3": "<span> networks in the world.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"article 'the' should be used before the names of airways/Trains\" So, the error is in (a) \"Indian Railways is one,\" and the correct version would include \"the\" before \"Indian Railways.\" </span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"The Indian Railways is one of the largest railway networks in the world.\"</span></p>"
+    },
+    {
+        "question": "<span> The Eastern Europe has undergone significant political and social changes in recent decades. </span>",
+        "option_1": "<span> The Eastern Europe has undergone </span>",
+        "option_2": "<span> significant political and social </span>",
+        "option_3": "<span> changes in recent decades. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> Article does not come before Northern, Southern, Eastern, Western as they are adjectives and will not take any article unless followed by a suitable noun. So, the error is in (a) \"The Eastern Europe has undergone,\" and the correct version would remove \"the\" before \"Eastern Europe.\" </span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"Eastern Europe has undergone significant political and social changes in recent decades.\"</span></p>"
+    },
+    {
+        "question": "<span> The January is the first month of the year.</span>",
+        "option_1": "<span> The January </span>",
+        "option_2": "<span> is the first </span>",
+        "option_3": "<span> month of the year. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<a name=\"_Hlk164172093\"><span>\"Articles do not come with names of months, days, subjects, roads, meals, languages, hobbies, games, lakes and before noun complement.\" So, </span></a><span>The correct answer is (a) The January. The error is that \"the\" should not precede the name of the month \"January\" according to the rule. </span><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"January is the first month of the year.\"</span></p>"
+    },
+    {
+        "question": "<span> She found necklace she had lost under the bed. </span>",
+        "option_1": "<span> She found necklace </span>",
+        "option_2": "<span> she had lost </span>",
+        "option_3": "<span> under the bed. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is (a) \"She found necklace\". The error lies in omitting the article \"the\" before \"necklace\". According to the rule provided, when the object is known to both the speaker and the listener, the definite article \"the\" should be used. </span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"She found the necklace she had lost under the bed.”</span></p>"
+    },
+    {
+        "question": "<p>College across the street offers a variety of courses.</p>",
+        "option_1": "<p>College across</p>",
+        "option_2": "<p>the street offers</p>",
+        "option_3": "<p>a variety of courses.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The correct answer is (a) \"College across\". The error lies in using \"College\" without the article \"the\" before it. According to the rule provided, an article is used before school, college, temple, etc., when it denotes a place or a building.</p> <p>The corrected sentence would be: \"The college across the street offers a variety of courses.\"</p>"
+    },
+    {
+        "question": "<span> Measles outbreak can be prevented through vaccination. </span>",
+        "option_1": "<span> No error</span>",
+        "option_2": "<span> through vaccination</span>",
+        "option_3": "<span> be prevented</span>",
+        "option_4": "<span> Measles can </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> Article does not come before the name of any disease.\" But there are some exceptions: The Measles, The Rickets, The mumps, The plague, The Flu</span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“The Measles outbreak can be prevented through vaccination.”</span></p>"
+    },
+    {
+        "question": "<p>Andaman Islands are an Indian archipelago in the Bay of Bengal.</p>",
+        "option_1": "<p>Andaman Islands are</p>",
+        "option_2": "<p>an Indian archipelago</p>",
+        "option_3": "<p>in the Bay of Bengal.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The correct form would include the article \"the\" before the name of the group of islands.</p> <p>So, the corrected sentence would be: \"The Andaman Islands are a group of Indian archipelago in the Bay of Bengal.\"</p>"
+    },
+    {
+        "question": "<span> The Bay of Bengal is bordered by India, Bangladesh, and Myanmar. </span>",
+        "option_1": "<span> The Bay of Bengal is </span>",
+        "option_2": "<span> bordered by India </span>",
+        "option_3": "<span> Bangladesh, and Myanmar </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> Article 'The' is used before the names of bays. Therefore, there is no error in the given sentence.</span>"
+    },
+    {
+        "question": "<p>Guitar is one of the most popular musical instruments in the world.</p>",
+        "option_1": "<p>Guitar is one of the</p>",
+        "option_2": "<p>most popular musical</p>",
+        "option_3": "<p>instruments in the world.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The corrected sentence would be: \"The guitar is one of the most popular musical instruments in the world.\"</p> <p><strong>Rule for Using \"the\" with Musical Instruments:</strong></p> <p>We use <strong>\"the\" before musical instruments</strong> in both <strong>general</strong> and <strong>specific</strong> contexts when referring to <strong>playing</strong> or talking about the <strong>instrument as a category</strong>.</p> <p><strong>🔹 Case 1: Talking About Playing an Instrument (General Use)</strong></p> <p>We <strong>always</strong> use <strong>\"the\"</strong> when referring to <strong>playing</strong> a musical instrument.</p> <p><strong>Examples:</strong></p> <ul> <li>He plays <strong>the guitar</strong>.</li> <li>She is learning <strong>the piano</strong>.</li> <li>Do you play <strong>the violin</strong>?</li> </ul> <p>📝 <em>This is because we're referring to the instrument type in general, not a specific one.</em></p> <p><strong>🔹 Case 2: Talking About the Instrument Itself (General Statement)</strong></p> <p>Even in general informative statements (like your sentence), <strong>we still use \"the\"</strong> to refer to the instrument <strong>as a category</strong>.</p> <p><strong>Your sentence:</strong></p> <p>❌ \"Guitar is one of the most popular musical instruments in the world.\"<br/> ✅ <strong>\"The guitar</strong> is one of the most popular musical instruments in the world.\"</p> <p>Here, \"the guitar\" represents the <strong>entire category of guitars</strong>, not a specific one.</p> <p><strong>🔹 When \"the\" is NOT used:</strong></p> <p>We <strong>do not use \"the\"</strong> when:</p> <ul> <li>Talking about <strong>music in general</strong> (not an instrument).</li> <li>Talking <strong>without an article</strong> in lists:<br/> e.g., “He enjoys music like jazz, rock, and classical.”<br/> e.g., “Guitars and violins are popular instruments.” (here it’s <strong>plural</strong>)</li> </ul> <p><strong>✅ Final Tip:</strong></p> <ul> <li>Use <strong>\"the\"</strong> before <strong>singular names of musical instruments</strong>, especially when <strong>playing</strong> or referring to the <strong>instrument type</strong>.</li> <li>Don't use <strong>\"the\"</strong> before <strong>plural instruments</strong> or in <strong>non-specific general categories</strong>.</li> </ul>"
+    },
+    {
+        "question": "<span> Ankita reserved a table at the restaurant, but the space was too cramped for her liking.</span>",
+        "option_1": "<span> Ankita reserved a table at</span>",
+        "option_2": "<span> was too cramped for her liking.</span>",
+        "option_3": "<span> the restaurant, but the space </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The sentence is correct as it is. Each part contributes to conveying the intended meaning without any grammatical errors. Therefore, the correct answer is (d) No error. </span><p><span>Concept: \"Article 'The' comes before space only when it means 'room'.</span></p>"
+    },
+    {
+        "question": "<span> Pyramids of Giza are among the oldest and most recognizable monuments in the world.</span>",
+        "option_1": "<span> Pyramids of Giza are among</span>",
+        "option_2": "<span> the oldest and most recognizable </span>",
+        "option_3": "<span> monuments in the world. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"Article 'the' is used before the names of monuments.\" So, the error is in (a) \"Pyramids of Giza are among,\" and the correct version would include \"The\" before \"Pyramids of Giza.\" </span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"The Pyramids of Giza are among the oldest and most recognizable monuments in the world.\"</span></p>"
+    },
+    {
+        "question": "<span> North Atlantic Ocean experiences strong currents and weather patterns. </span>",
+        "option_1": "<span> experiences strong currents </span>",
+        "option_2": "<span> and weather patterns </span>",
+        "option_3": "<span> North Atlantic Ocean </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> Article 'the' is used before the name of oceans.</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"The North Atlantic Ocean experiences strong currents and weather patterns.\"</span></p>"
+    },
+    {
+        "question": "<span> Bhagavad Gita is a revered scripture in Hinduism, containing the teachings of Lord Krishna. </span>",
+        "option_1": "<span> Bhagavad Gita is a revered </span>",
+        "option_2": "<span> scripture in Hinduism, containing </span>",
+        "option_3": "<span> the teachings of Lord Krishna.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"Article 'the' is used before the names of holy books.\" So, the error is in (a) \"Bhagavad Gita is a revered,\" and the correct version would include \"The\" before \"Bhagavad Gita.\" </span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"The Bhagavad Gita is a revered scripture in Hinduism, containing the teachings of Lord Krishna.\"</span></p>"
+    },
+    {
+        "question": "<span> The Delhi Airport </span><a name=\"_Hlk164170529\"><span>is one of the busiest </span></a><span>airports in India.</span>",
+        "option_1": "<span> The Delhi Airport</span>",
+        "option_2": "<span> is one of the busiest</span>",
+        "option_3": "<span> airports in India.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> While \"Delhi Airport\" is the name of a specific place, it doesn't require the definite article \"the\" before it according to the rule provided. </span><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"Delhi Airport is one of the busiest airports in India.\"</span></p>"
+    },
+    {
+        "question": "<span> The Breakfast is the most important meal of the day.</span>",
+        "option_1": "<span> The Breakfast is </span>",
+        "option_2": "<span> the most important </span>",
+        "option_3": "<span> meal of the day.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"articles do not come with names of months, days, subjects, roads, meals, languages, hobbies, games, lakes and before noun complement.\" So, The correct answer is (a) \"The Breakfast is\". The error is in using \"the\" before \"Breakfast\". Articles are not used before meals according to the rule provided. </span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"Breakfast is the most important meal of the day.\"</span></p>"
+    },
+    {
+        "question": "<p>He believes in the Heaven as a place of eternal happiness.</p>",
+        "option_1": "<p>He believes in the</p>",
+        "option_2": "<p>Heaven as a place</p>",
+        "option_3": "<p>of eternal happiness.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>\"'The' is not used before 'Heaven', 'Hell', 'God', and 'Parliament'. The correct answer is (a) \"He believes in the\". The error lies in using \"the\" before \"Heaven\". According to the rule provided, \"the\" is not used before \"Heaven\".</span></span></p> <p><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>The corrected sentence would be: \"He believes in Heaven as a place of eternal happiness.\"<!--StartFragment --><!--StartFragment --></span></span></p> <p><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>📘 <strong>Explanation:</strong></span></span></p> <ul> <li><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'><strong>“Heaven”</strong> is a <strong>proper noun</strong> when referring to the spiritual or religious concept of paradise.</span></span></li> <li><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>Using <strong>“the Heaven”</strong> is incorrect unless you're referring to a specific heaven among many (which is rare and contextually different).</span></span></li> <li><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>In general usage, especially in religious or philosophical contexts, we say:</span></span></li> </ul> <ul> <li><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>“He believes in Heaven.”</span></span></li> <li><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>“She hopes to reach Heaven.”</span></span></li> <li><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>❌ Not: “He believes in <em>the</em> Heaven.”</span></span></li> </ul> <p><!--EndFragment --><!--StartFragment --></p> <p><!--EndFragment --></p> <p><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>✅ <strong>Why “the Parliament” is used:</strong></span></span></p> <p><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>We use <strong>“the”</strong> before <strong>Parliament</strong> not because it is a monument or historical building, but because it refers to a <strong>specific institution</strong>—the <strong>legislative body</strong> of a country.</span></span></p> <ul> <li><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'><strong>“The Parliament”</strong> refers to <strong>India’s central legislative authority</strong> (or any country’s official legislature).</span></span></li> <li><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>It’s a <strong>unique, specific entity</strong>, hence the definite article <strong>“the”</strong> is required.</span></span></li> </ul> <p><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>📘 <strong>Examples:</strong></span></span></p> <ul> <li><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>✅ He is a member of <strong>the Parliament</strong>.</span></span></li> <li><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>✅ The Prime Minister addressed <strong>the Parliament</strong> today.</span></span></li> </ul> <p><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>❌ <strong>Common Misconception:</strong></span></span></p> <p><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>Some learners think <strong>“the”</strong> is used because Parliament is a building or monument. That’s not accurate.</span></span></p> <ul> <li><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>If you’re talking about the <strong>building</strong> itself as a tourist spot, you might say:</span></span></li> </ul> <ul> <li><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>“We visited <strong>the Parliament House</strong> in New Delhi.”</span></span></li> <li><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>Here, <strong>“the”</strong> is used because it’s a <strong>specific building</strong>.</span></span></li> </ul> <p><span style=\"font-size:16px\"><span style='font-family:\"Cambria Math\"'>But in general usage, <strong>“Parliament”</strong> is treated as a <strong>governing body</strong>, not a monument.</span></span></p> <p><!--EndFragment --></p>"
+    },
+    {
+        "question": "<span> Patients go to the hospital to receive medical treatment and care. </span>",
+        "option_1": "<span> No error </span>",
+        "option_2": "<span> medical treatment and care </span>",
+        "option_3": "<span> hospital to receive </span>",
+        "option_4": "<span> Patients go to the </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> Option (d) \"Patients go to the\" is indeed incorrect. According to the rule provided, when referring to the primary purpose of places like hospitals, the article is not used. Therefore, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"Patients go to hospital to receive medical treatment and care.\"</span>"
+    }
+]
