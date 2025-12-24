@@ -1,0 +1,652 @@
+[
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which of the following is a straight-chain alkyl carboxylic acid with the chemical formula CH₃CH₂CH₂CO₂H?</span><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">SSC CGL 2024 T-1</span></p>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Methanoic acid</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Propionic acid</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Butyric acid</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Ethanoic acid</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">CH₃CH₂CH₂COOH = 4-carbon straight-chain carboxylic acid</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Common name: Butyric acid</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">IUPAC name: Butanoic acid</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> An organic reaction used to convert an aryl diazonium salt into an aryl halide using a copper(I) halide catalyst is called:</span><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">SSC CGL 2024 T-1</span></p>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Gattermann reaction</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Finkelstein reaction</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Balz-Schiemann reaction</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Sandmeyer reaction</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The Sandmeyer reaction uses Cu(I) halide to convert aryl diazonium salts into aryl halides</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Example: C₆H₅N₂⁺ + CuCl → C₆H₅Cl</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Name the straight chain alkane having chemical formula C₉H₂₀, which is used as a research chemical and in making biodegradable detergents.</span><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">SSC CGL 2024 T-1</span></p>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Nonadecane</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Dodecane</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Nonane</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Icosane</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Straight-chain alkane with formula CₙH₂ₙ₊₂</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">For C₉H₂₀, the name is Nonane</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Used in biodegradable detergent production</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Palladium on barium sulphate (Pd/BaSO₄) is also known as:</span><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">SSC CGL 2024 T-1</span></p>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> a Hillman reaction catalyst</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> a Cannizzaro reaction catalyst</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> the Rosenmund catalyst</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> an aldol reaction catalyst</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Rosenmund catalyst = Pd on BaSO₄</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Used in hydrogenation of acid chlorides to aldehydes</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which of the following is a saturated hydrocarbon?</span><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">SSC CGL 2024 T-1</span></p>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> C₆H₆</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> C₄H₈</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> C₂H₄</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> C₃H₈</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">C₃H₈ (Propane) is an alkane: all single bonds (saturated)</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Others are alkenes or aromatic (unsaturated)</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Grignard reagent is represented as:</span><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">SSC CGL 2024 T-1</span></p>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> CH₃-Ca-F</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> CH₃-Mg-Cl</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> H-Mg-H</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> CH₃-Be-F</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">General <b>formula:</b> R-Mg-X</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">CH₃-Mg-Cl is a Grignard reagent</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> When haloalkanes and aryl and vinyl halides react with magnesium metal they yield which reagent?</span><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">SSC CGL 2024 T-1</span></p>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Hinsberg reagent</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Fehling reagent</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Grignard reagent</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Tollens’ reagent</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Haloalkanes + Mg in dry ether → Grignard reagents (R-Mg-X)</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Important for C–C bond formation</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which unsaturated aliphatic hydrocarbon composed of 20 carbon atoms is used to make candles and paraffin wax with solar energy storage capacity?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Octane</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Elcosane</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Nonane</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Triaconatne</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The unsaturated aliphatic hydrocarbon composed of 20 carbon atoms used to make candles and paraffin wax with solar energy storage capacity is Eicosane (option b).</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Eicosane is an alkane with the formula C₂₀H₄₂.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Octane, nonane, and triacontane have different numbers of carbon atoms.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Eicosane is used in phase change materials for thermal energy storage.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It has a melting point suitable for candle making and paraffin wax applications.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It helps in storing and releasing solar energy efficiently.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which synthetic aromatic organic compound inhibits the chemical breakdown of food that occurs in the presence of oxygen, commonly used in foods such as crackers, microwave popcorn, butter and chicken nuggets?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Tertiary butyl hydroquinone</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Diethyltoluamide</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Sodium hypochlorite</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> 1, 4-dichlorobenzene</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The synthetic aromatic organic compound that inhibits the chemical breakdown of food in the presence of oxygen is Tertiary butyl hydroquinone (TBHQ).</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">TBHQ is commonly used as an antioxidant preservative in foods like crackers, microwave popcorn, butter, and chicken nuggets.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Diethyltoluamide is an insect repellent, sodium hypochlorite is a disinfectant, and 1,4-dichlorobenzene is used in mothballs.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">TBHQ helps extend the shelf life of food by preventing rancidity.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is approved for use in food products in regulated amounts.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Excessive consumption should be avoided due to potential health risks.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Tribromomethane is a synonym for which brominated organic solvent?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Bromoform</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Diborane</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Borazine</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Bromosuccinimide</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Tribromomethane is the synonym for Bromoform.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Bromoform has the chemical formula CHBr₃ and is a brominated organic solvent.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Diborane, borazine, and bromosuccinimide are different compounds unrelated to tribromomethane.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Bromoform is used as a solvent and in organic synthesis.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is a dense, colorless liquid with a characteristic smell.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is toxic and must be handled with care.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Methyl ethyl ketone is also known as:</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Methyl pentanone</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> 2-butanol</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> 2-butanone</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> propanone</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Methyl ethyl ketone is also known as 2-butanone.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is a ketone with the chemical formula CH₃COC₂H₅.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Methyl pentanone, 2-butanol, and propanone are different compounds.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">2-Butanone is commonly used as an industrial solvent.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is a colorless liquid with a sharp, sweet odor.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is used in processes like paint removal and manufacturing adhesives.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which of the following does NOT belong to the family of organic compounds?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Furan</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Decane</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Ammonia</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Nonane</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ammonia (NH₃) does NOT belong to the family of organic compounds.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Organic compounds primarily contain carbon atoms bonded to hydrogen and possibly other elements.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Furan, decane, and nonane are organic compounds containing carbon.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ammonia is an inorganic compound consisting of nitrogen and hydrogen.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Organic chemistry studies carbon-containing compounds.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ammonia is commonly used as a fertilizer and cleaning agent.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Furan is a heterocyclic compound, while decane and nonane are alkanes.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which compound structure includes a saturated short-chain fatty acid with 4-carbon molecules, commonly found in esterified form in animal fats and plant oils?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Propionic acid</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Butyric acid</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Succinic acid</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Lactic acid</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The compound that includes a saturated short-chain fatty acid with 4-carbon molecules, commonly found in esterified form in animal fats and plant oils, is Butyric acid.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Butyric acid has the chemical formula C₄H₈O₂.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Propionic acid has 3 carbons, succinic acid is a dicarboxylic acid, and lactic acid has 3 carbons with an -OH group.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Butyric acid contributes to the characteristic smell of butter.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is involved in various metabolic processes.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is present in milk fat and rancid butter.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> What is the IUPAC name of the organic compound depicted in the figure?</span><p style=\"margin-top:0pt;margin-bottom:8pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750223056805_image001.png",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> 1-Methyl-2-Propylcyclohexane</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> 1-Methyl-1-Propylcyclohexane</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> 1-Methyl-3-Propylcyclohexane</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> 1-Methyl-4-Propylcyclohexane</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The given structure is a cyclohexane ring with two substituents: a methyl group and a propyl group.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">According to IUPAC rules, the numbering should give the substituents the lowest possible numbers, and the substituent with alphabetical priority gets the lower number if there is a tie.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The methyl group is at position 1, and the propyl group is at position 2 on the cyclohexane ring.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Therefore, the correct IUPAC name is 1-Methyl-2-Propylcyclohexane.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Answer: (a) 1-Methyl-2-Propylcyclohexane</span></p><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The IUPAC nomenclature helps in uniquely identifying organic compounds.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Numbering the ring to minimize locants is essential.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Alphabetical order matters in assigning numbers to substituents if numbering ties occur.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> What is the chemical formula for the aldehyde group?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> –CH</span><span style=\"font-family:'Cambria Math'\">O</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750223056805_image002.png",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> -COOH</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> _OH </span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> _CHO</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The chemical formula for the aldehyde group is –CHO.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The aldehyde group consists of a carbon atom double-bonded to oxygen (carbonyl) and single-bonded to a hydrogen atom.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">–CH₂O is not the standard notation for an aldehyde group; –COOH is the carboxyl group; –OH is the hydroxyl group.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Aldehydes are important in organic chemistry and are reactive compounds.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The aldehyde group is typically found at the end of a carbon chain.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Common examples include formaldehyde (HCHO) and acetaldehyde (CH₃CHO).</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which of the following is a primary arylamine in which an amino functional group is substituted for one of the benzene hydrogens?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Pyridine</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Aniline</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Toludine</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Quinoline</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Aniline is a primary arylamine where an amino (-NH₂) functional group substitutes one of the hydrogen atoms on a benzene ring.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Pyridine and quinoline are heterocyclic aromatic compounds containing nitrogen atoms but are not primary arylamines.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Toluidine is a methyl-substituted aniline derivative.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Aniline is widely used in the manufacture of dyes, drugs, and plastics.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is a basic aromatic amine.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Understanding arylamines is important in organic synthesis and industrial chemistry.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which of the following is a white to yellowish solid with a weak aromatic odour purified by the process of sublimation?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Titanyl</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Orthovandate</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Anthracene</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Dysprosium</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The compound described as a white to yellowish solid with a weak aromatic odor, purified by sublimation, is Anthracene.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Anthracene is a polycyclic aromatic hydrocarbon used in dyes and organic semiconductors.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Titanyl, orthovandate, and dysprosium are different types of compounds/elements and do not fit this description.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Anthracene sublimates easily due to its molecular structure.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It has applications in the manufacture of dyes, pigments, and organic electronics.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Sublimation helps purify anthracene without melting it.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> What is the systematic name of a colourless gas with a faint, ethereal odour called acetylene, widely used for welding?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Ethyne</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Ethanoic anhydride</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Azoethane</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Ethyl acetate</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The systematic name of the colourless gas called acetylene, widely used for welding, is Ethyne.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ethyne has the chemical formula C₂H₂ and is an alkyne hydrocarbon.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ethanoic anhydride, azoethane, and ethyl acetate are different organic compounds.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Acetylene produces a very hot flame when burned with oxygen, ideal for welding.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is a highly flammable gas.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ethyne contains a triple bond between two carbon atoms.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Chaoite, Buckmisnterfullerene and Graphene are related to which element?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Arsenic</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Carbon</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Sulphur</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Bromine</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Chaoite, Buckminsterfullerene, and Graphene are all allotropes or forms related to the element Carbon.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">These are different structural forms of carbon with unique properties.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Arsenic, sulphur, and bromine are unrelated to these materials.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Graphene is a single layer of carbon atoms arranged in a hexagonal lattice.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Buckminsterfullerene (C₆₀) is a spherical molecule also known as a \"buckyball.\"</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Chaoite is a rare carbon allotrope found in meteorites.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which potassium acid salt is obtained as a by-product of alcohol manufacture during the fermentation process?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Potassium Citrate</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Potassium bitartrate</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Potassium nitrate</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Potassium hydrogen adipate</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The potassium acid salt obtained as a by-product during the fermentation process of alcohol manufacture is Potassium bitartrate.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Potassium bitartrate is also known as cream of tartar.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Potassium citrate, potassium nitrate, and potassium hydrogen adipate are not typically by-products of alcohol fermentation.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Potassium bitartrate precipitates out during the fermentation of grape juice in winemaking.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is used in baking and as a stabilizer in food.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">This compound is an acidic salt of tartaric acid.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Lactitol is derived through the hydrogenation of:</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Maltose</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Lactic Acid</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Lactose</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Glucose</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Lactitol is derived through the hydrogenation of Lactose.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Lactose is a disaccharide sugar found in milk, and hydrogenation converts it into the sugar alcohol lactitol.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Maltose, lactic acid, and glucose are different compounds and do not directly produce lactitol through hydrogenation.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Lactitol is used as a low-calorie sweetener and in pharmaceutical formulations.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It has a sweet taste but lower glycemic index than sugar.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Hydrogenation involves adding hydrogen to the sugar molecule.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which of the following is a straight-chain alkane containing 12 carbon atoms that are used as a major component in kerosene and some jet fuel research and also in the rubber and paper processing industry?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Undecane</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Eicosane</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Heptadecane</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Dodecane</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The straight-chain alkane containing 12 carbon atoms used as a major component in kerosene, some jet fuels, and in rubber and paper processing is Dodecane.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Dodecane has the chemical formula C₁₂H₂₆.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Undecane has 11 carbons, eicosane has 20 carbons, and heptadecane has 17 carbons.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Dodecane is used as a solvent and in fuel formulations.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It contributes to the energy content and combustion characteristics of fuels.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Industrial applications also include use in lubricants and manufacturing.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which organic chemical compound is reacted with nitrous acid at 273-278K to prepare benzenediazonium chloride?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Hydrazine</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Toluene</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Aniline</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Pyridine</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Aniline is the organic chemical compound that reacts with nitrous acid at 273-278 K to prepare benzenediazonium chloride.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The reaction is known as diazotization, where the amino group of aniline forms a diazonium salt.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Hydrazine, toluene, and pyridine do not form benzenediazonium chloride under these conditions.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Benzenediazonium chloride is an important intermediate in azo dye synthesis.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Diazotization requires acidic conditions and low temperature to stabilize the diazonium salt.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">This reaction is key in aromatic substitution reactions in organic chemistry.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> In which dialdehyde are two formyl groups attached to adjacent carbon centres on a benzene ring and from fluorescent conjugation products with primary amines?</span><p style=\"margin-top:0pt;margin-bottom:8pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750223056805_image003.png",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Phthalaldehyde</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Acetaldehyde</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Valeraldehyde </span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Isobutyradehyde</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The dialdehyde where two formyl groups are attached to adjacent carbon centers on a benzene ring and which forms fluorescent conjugation products with primary amines is Phthalaldehyde.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Phthalaldehyde has the chemical structure shown with two aldehyde (-CHO) groups ortho to each other on the benzene ring.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Acetaldehyde, valeraldehyde, and isobutyraldehyde do not have this structural arrangement.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Answer: (a) Phthalaldehyde</span></p><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Phthalaldehyde is widely used in biochemical assays and fluorescent labeling.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The conjugation with primary amines results in highly fluorescent products useful for detection.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is an important reagent in protein and amino acid analysis.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Heating ethanol with excess concentrated sulphuric</span><span style=\"font-family:'Cambria Math'\">acid produces:</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Ethane</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Ethyne</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Butane</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Ethene</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Heating ethanol with excess concentrated sulphuric acid produces Ethene.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The reaction is a dehydration reaction where ethanol loses water (H₂O) to form ethene (an alkene).</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ethane, ethyne, and butane are different hydrocarbons not formed in this reaction.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Concentrated sulfuric acid acts as a dehydrating agent in this process.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">This is an example of an elimination reaction (E1 mechanism).</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ethene is an important industrial chemical used in the production of plastics.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which of the following is a valid bond in Alkenes that connects carbon atoms?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Single Bond</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Double Bond</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Triple Bond</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Not connected</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The valid bond in alkenes that connects carbon atoms is a Double Bond.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Alkenes are hydrocarbons that contain at least one carbon-carbon double bond (C=C).</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Single bonds are found in alkanes, triple bonds in alkynes, and \"not connected\" is not applicable.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The double bond in alkenes gives them unique chemical properties like reactivity with addition reactions.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The presence of the double bond affects the geometry and shape of the molecule.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Examples of alkenes include ethene, propene, and butene.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which of the following compounds having the molecular formula C</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">2</span><span style=\"font-family:'Cambria Math'\">H is derived from the hydride of acetylene?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Ehynyl</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Propargyl</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Vinyl</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Allyl</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The compound having the molecular formula C₂H and derived from the hydride of acetylene is Ethynyl.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ethynyl is the radical formed by removing one hydrogen atom from acetylene (C₂H₂).</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Propargyl, vinyl, and allyl are different hydrocarbon radicals with different formulas and structures.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ethynyl group has a triple bond characteristic of alkynes.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is used in organic synthesis as a reactive intermediate.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Understanding these radicals is important in polymer chemistry and organic reactions.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Trichloromethane is better known as:</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Chloroform</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Butanes</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> LPG</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Laughing Gas</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Trichloromethane is better known as Chloroform.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It has the chemical formula CHCl₃ and is used as a solvent and formerly as an anesthetic.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Butanes are hydrocarbons, LPG is liquefied petroleum gas, and laughing gas is nitrous oxide (N₂O).</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Chloroform is a colorless, sweet-smelling organic compound.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It has various industrial and laboratory uses.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is no longer widely used as an anesthetic due to safety concerns.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> What is the product formed when CH</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">3</span><span style=\"font-family:'Cambria Math'\">CH</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">2</span><span style=\"font-family:'Cambria Math'\">OH reacts with O</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">2</span><span style=\"font-family:'Cambria Math'\">?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> H</span><span style=\"font-family:'Cambria Math'\">O + Heat</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750223056805_image002.png",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> CO</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">2</span><span style=\"font-family:'Cambria Math'\"> + H</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">2</span><span style=\"font-family:'Cambria Math'\">O + Heat and Light</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> CO</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">2</span><span style=\"font-family:'Cambria Math'\"> + H</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">2</span><span style=\"font-family:'Cambria Math'\">O + Light</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> CO2 + Heat and Light</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">When CH₃CH₂OH (ethanol) reacts with oxygen (O₂), it undergoes combustion to form carbon dioxide (CO₂), water (H₂O), heat, and light.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The balanced chemical equation for complete combustion of ethanol is:</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Therefore, the correct products are CO₂, H₂O, heat, and light.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Combustion is an exothermic reaction releasing energy.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ethanol is commonly used as a fuel due to its high energy content.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Incomplete combustion can produce carbon monoxide (CO).</span></li></ul><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750223056805_image004.png"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> ________ is a naturally occurring organic compound with the formula (C</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">6</span><span style=\"font-family:'Cambria Math'\">H</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">5</span><span style=\"font-family:'Cambria Math'\">)</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">2</span><span style=\"font-family:'Cambria Math'\">CO.</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Methcathinone</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Propiophenone</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Acetophenone</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Benzophenone</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The naturally occurring organic compound with the formula </span><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\"> is Benzophenone.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Benzophenone consists of two phenyl groups attached to a carbonyl group.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Methcathinone, propiophenone, and acetophenone have different structures and formulas.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Benzophenone is used in perfumes and as a UV blocker in sunscreens.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is a white crystalline solid with a characteristic odor.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It also serves as a precursor in organic synthesis.</span></li></ul><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750223056805_image005.png"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which element was arbitrarily assigned a value of 4.0 in the Halogens’ section in 1922 by Linus Pauling, an American scientist?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Fluorine</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Iodine</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Astatine</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Bromine</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The element arbitrarily assigned a value of 4.0 in the halogens’ section in 1922 by Linus Pauling is Fluorine.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Pauling assigned fluorine an electronegativity value of 4.0, making it the most electronegative element on his scale.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Iodine, astatine, and bromine have lower electronegativity values.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Electronegativity measures an atom's ability to attract electrons in a chemical bond.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Fluorine's high electronegativity influences its chemical behavior and reactivity.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Pauling’s scale is widely used to compare electronegativities of elements.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> 1,3-Dimethybenzene also known as:</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> BHC</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> m-Xylene</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Toluene</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Terelene</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">1,3-Dimethylbenzene is also known as m-Xylene (meta-xylene).</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is an aromatic hydrocarbon where two methyl groups are attached to the 1st and 3rd positions of the benzene ring.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">BHC (Benzene hexachloride), toluene, and terelene are different compounds.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">m-Xylene is used as a solvent and in the production of dyes and plastics.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is one of the three isomers of xylene, the others being o-xylene and p-xylene.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Its isomerism is based on the relative positions of the methyl groups on the benzene ring.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> A class of organic compounds that contain an oxygen between two alkyl groups is called:</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Alcohol</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Aldehyde</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Ketone</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Ether</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">A class of organic compounds that contains an oxygen atom between two alkyl groups is called an Ether.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The general formula for ethers is R–O–R', where R and R' are alkyl or aryl groups.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Alcohols have –OH group, aldehydes have –CHO group, and ketones have a carbonyl group (C=O) bonded to two carbon atoms.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ethers are commonly used as solvents and in organic synthesis.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">They have relatively low reactivity compared to alcohols and ketones.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Diethyl ether is a common example of an ether.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which of the following organic compounds is synonymous with olefiant gas which is used to make anaesthetics, refrigerants and other chemicals?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Ethylene</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> 1-Pentene</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Methane</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Butane</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The organic compound synonymous with olefiant gas, used to make anaesthetics, refrigerants, and other chemicals, is Ethylene.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ethylene (C₂H₄) is a simple alkene and is widely used in the chemical industry.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">1-Pentene, methane, and butane are different hydrocarbons not commonly referred to as olefiant gas.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Olefiant gas means \"oil-forming gas,\" a name given because ethylene reacts with chlorine to form an oily liquid.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ethylene is also important in the production of plastics like polyethylene.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It plays a role as a plant hormone regulating growth.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Dry ice, ammonium chloride, naphthalene balls and camphor, all these compounds are an example of:</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Sublimable substances</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Cooling agents</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Inflammable substances</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Solidifying agents</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Dry ice, ammonium chloride, naphthalene balls, and camphor are all examples of sublimable substances.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">These substances can transition directly from solid to gas without passing through the liquid phase (sublimation).</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">They are not primarily classified as cooling agents, inflammable substances, or solidifying agents.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Sublimation is used in purification processes and in air fresheners.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Dry ice (solid CO₂) sublimates at -78.5°C, producing cold carbon dioxide gas.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Naphthalene balls and camphor are commonly used as moth repellents due to their sublimation properties.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Pectin, which is responsible for the firmness and softness of fruits, is mainly composed of which acid unit?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Aspartic acid</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Galacturonic acid</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Lactic acid</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Glutamic acid</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Pectin, responsible for the firmness and softness of fruits, is mainly composed of Galacturonic acid units.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Galacturonic acid is a sugar acid derived from galactose and forms the backbone of pectin.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Aspartic acid, lactic acid, and glutamic acid are different types of acids not primarily involved in pectin structure.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Pectin is a polysaccharide found in the cell walls of plants.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It plays a crucial role in fruit ripening and gelling in jams and jellies.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The degree of esterification of galacturonic acid affects pectin’s properties.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> What is the colour of the flame when unsaturated hydrocarbons burn?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Blue</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Red</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Green</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Yellow</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">When unsaturated hydrocarbons burn, the flame is typically Yellow in color.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The yellow flame is due to the presence of incandescent soot particles formed during incomplete combustion.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Blue flames are seen in complete combustion of saturated hydrocarbons, while red and green flames are uncommon for hydrocarbons.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Yellow flames indicate incomplete combustion and production of carbon particles.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">This flame color is often seen in burning candles and oils.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Proper combustion conditions can produce a blue flame instead.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Butan-2-ol is a:</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Tertiary alcohol</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Ketone</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Primary alcohol</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Secondary alcohol</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Butan-2-ol is a Secondary alcohol.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">In butan-2-ol, the hydroxyl (-OH) group is attached to the second carbon atom, which is connected to two other carbon atoms, making it secondary.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Primary alcohol has –OH on a carbon attached to only one other carbon, tertiary alcohol has –OH on a carbon attached to three other carbons, and ketones have a carbonyl group (C=O).</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Secondary alcohols can be oxidized to ketones.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Butan-2-ol is commonly used as a solvent and in chemical synthesis.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Its molecular formula is C₄H₁₀O.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Choose the correct set of the names for the organic compounds in the given figure.</span><p style=\"margin-top:0pt;margin-bottom:8pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750223056805_image006.png",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> a: Furan, b: Toluene, c: Pyridine</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> a: Furan, b: Pyridine, c: Thiophene</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> a: Furan, b: Thiophene, c: Aniline</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> a: Anisole, b: Thiophene, c: Pyridine</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The compounds shown in the figure from left to right are:</span><ol type=\"1\"><li><span>Furan (five-membered ring with one oxygen)</span></li><li><span>Pyridine (six-membered ring with one nitrogen)</span></li><li><span>Thiophene (five-membered ring with one sulfur)</span></li></ol></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Therefore, the correct set of names is:</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">(b) a: Furan, b: Pyridine, c: Thiophene</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">These are heterocyclic aromatic compounds containing oxygen, nitrogen, and sulfur respectively.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">They have important roles in organic chemistry and pharmaceutical applications.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Each ring contains conjugated double bonds providing aromaticity.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> What is the strength of a hydrogen bond determined by?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Interaction between the lone-pair electrons of the electronegative atom of one molecule and the hydrogen atom of another molecule </span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Interaction between the lone-pair electrons of the electropositive atom of one molecule and the hydrogen </span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Interaction between the lone-pair electrons of the electronegative atom of one molecule and the oxygen atom of another molecule </span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Interaction between the lone-pair electrons of the polar molecule and the hydrogen atom of another molecule </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The strength of a hydrogen bond is determined by the interaction between the lone-pair electrons of the electronegative atom of one molecule and the hydrogen atom of another molecule.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">This interaction occurs when hydrogen is covalently bonded to a highly electronegative atom like oxygen, nitrogen, or fluorine.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Options b, c, and d do not accurately describe hydrogen bonding.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Hydrogen bonding is responsible for many unique properties of water and biological molecules.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is weaker than covalent bonds but stronger than van der Waals forces.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The strength depends on the electronegativity and the geometry of interacting atoms.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which among the following elements is used in moisturising creams and soaps because of its hygroscopic properties?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Galena</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Ethanol</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Freon</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Glycerol</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The element used in moisturizing creams and soaps because of its hygroscopic properties is Glycerol.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Glycerol (also called glycerin) attracts and retains moisture, making it an excellent humectant.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Galena is a mineral (lead sulfide), ethanol is an alcohol, and freon is a refrigerant gas.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Glycerol is widely used in cosmetics, pharmaceuticals, and food products.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Its hygroscopic nature helps keep skin hydrated.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is a colorless, odorless, and sweet-tasting liquid.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Identify a class of compounds that has functional group –OH.</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Alcohol</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Ethane</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Ketone</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Aldehyde</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The class of compounds that has the functional group –OH is Alcohols.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The –OH group is called a hydroxyl group and is characteristic of alcohols.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ethane is a hydrocarbon with only C-H bonds, ketones have a carbonyl group (C=O), and aldehydes have a carbonyl group at the end of the chain.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Alcohols are widely used as solvents, fuels, and in pharmaceuticals.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The presence of the –OH group makes alcohols polar and capable of hydrogen bonding.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Examples include methanol, ethanol, and propanol.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> In Organic chemistry, which of the following is an empirical rule used to predict the regioselectivity of electrophilic addition reactions of alkanes and alkynes?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Cornforth’s rules</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Bredt’s rule</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Markovnikov’s rule</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Baldwin’s rules</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The empirical rule used in organic chemistry to predict the regioselectivity of electrophilic addition reactions of alkenes and alkynes is Markovnikov’s rule.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">According to Markovnikov’s rule, the electrophile adds to the carbon with the greater number of hydrogen atoms.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Cornforth’s rules, Bredt’s rule, and Baldwin’s rules pertain to other aspects of organic chemistry and do not describe regioselectivity in addition reactions.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Markovnikov’s rule helps predict the major product in reactions like hydrohalogenation.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is based on the stability of carbocation intermediates formed during the reaction.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The rule is essential for understanding many addition reactions in organic synthesis.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> What is the suffix for –OH group according to IUPAC?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> -ols</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> -ene</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> -one</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> -anes</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">According to IUPAC nomenclature, the suffix for the –OH group (hydroxyl group) is -ol (plural: -ols).</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">This suffix is used to name alcohols.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The suffixes -ene, -one, and -ane are used for alkenes, ketones, and alkanes respectively.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">For example, ethanol, methanol, and propanol are alcohols named using the -ol suffix.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The position of the –OH group is indicated by a number if necessary.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Proper suffix usage is important for systematic naming in organic chemistry.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Name an alkylbenzene widely used as a chemical intermediate in the production of phenol.</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Cumene</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Furan</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Styrene</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Toluene</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The alkylbenzene widely used as a chemical intermediate in the production of phenol is Cumene.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Cumene (isopropylbenzene) undergoes oxidation to form cumene hydroperoxide, which is then cleaved to produce phenol and acetone.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Furan is a heterocyclic compound, styrene is a monomer for polystyrene, and toluene is used as a solvent and in other chemical processes but not primarily for phenol production.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The cumene process is the main industrial method for phenol production.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Phenol is an important chemical used in plastics, pharmaceuticals, and resins.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The process is efficient and widely adopted worldwide.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which of the following is a strong reducing agent used to reduce aldehydes, ketones, easters, carboxylic acid chlorides, carboxylic acids and even carboxylate salts to alcohols?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Titanium Hydride</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Lithium aluminium hydride</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Calcium hydride</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Biamuth Hydride</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The strong reducing agent used to reduce aldehydes, ketones, esters, carboxylic acid chlorides, carboxylic acids, and carboxylate salts to alcohols is Lithium aluminium hydride (LiAlH₄).</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">LiAlH₄ is a powerful hydride donor capable of reducing a wide range of carbonyl compounds.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Titanium hydride, calcium hydride, and bismuth hydride are not commonly used for such reductions.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Lithium aluminium hydride reacts violently with water and requires careful handling.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is widely used in organic synthesis to produce primary and secondary alcohols.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">NaBH₄ (sodium borohydride) is a milder reducing agent compared to LiAlH₄.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which organic compound has the structure R-COOH, with R referring to the alkyl, alkenyl, aryl, or other group?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Carboxylic acid</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Ester</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Ketone</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Aldehydes</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The organic compound with the structure R–COOH, where R refers to an alkyl, alkenyl, aryl, or other group, is a Carboxylic acid.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The –COOH group is called the carboxyl group, characteristic of carboxylic acids.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Esters have the structure R–COO–R', ketones have R–CO–R', and aldehydes have R–CHO.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Carboxylic acids are acidic due to the release of a proton (H⁺) from the –COOH group.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">They are commonly found in nature and used in many industrial applications.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Examples include acetic acid, formic acid, and benzoic acid.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Identify the correct statement with respect to unsaturated hydrocarbons.</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Compounds of carbon having single bond between their carbon atoms are called unsaturated compounds </span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Compounds of carbon having double bonds or triple bonds between their carbon atoms are called unsaturated compounds </span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Compounds of carbon having single bonds between their oxygen atoms are called unsaturated compounds </span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Compounds of carbon having double or triple bonds between their hydrogen atoms are called unsaturated compounds </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The correct statement with respect to unsaturated hydrocarbons is:</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">(b) Compounds of carbon having double bonds or triple bonds between their carbon atoms are called unsaturated compounds.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Unsaturated hydrocarbons contain one or more double (alkenes) or triple (alkynes) carbon-carbon bonds.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Option (a) describes saturated compounds, and options (c) and (d) are incorrect statements.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Unsaturated hydrocarbons are more reactive than saturated hydrocarbons due to the presence of multiple bonds.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">They undergo addition reactions typical of double and triple bonds.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Examples include ethene (C₂H₄) and ethyne (C₂H₂).</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which of the following is NOT an allotrope of carbon?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Trisulfur</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Diamond</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Lonsdaleite</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Graphite</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Trisulfur is NOT an allotrope of carbon.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Trisulfur (S₃) is an allotrope of sulfur, not carbon.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Diamond, lonsdaleite, and graphite are well-known allotropes of carbon.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Diamond is a crystalline allotrope with tetrahedral bonding.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Lonsdaleite is a hexagonal allotrope of carbon.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Graphite consists of layers of carbon atoms arranged in hexagonal lattices.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Compounds with exactly two double carbon – carbon bonds are known as _____.</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Terpenes</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Dienes</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Trialkyne</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Dialkyne</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Compounds with exactly two double carbon–carbon bonds are known as Dienes.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Dienes have two C=C double bonds in their molecular structure.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Terpenes are a different class of compounds, trialkyne and dialkyne contain triple bonds, not double bonds.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Dienes are important intermediates in organic synthesis.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">They undergo addition and polymerization reactions.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Examples include 1,3-butadiene and 1,4-pentadiene.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which of the following statements is NOT correct regarding hydrocarbons?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Saturated hydrocarbons are fairly unreactive and are inert in the presence of most reagents </span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Most carbon compounds also release a large amount of heat and light on burning </span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Carbon compounds cannot get oxidised on combustion </span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Unsaturated hydrocarbons add hydrogen in the presence of catalysts hydrogen in the presence of catalysts such as palladium or nickel to give saturated hydrocarbons </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The statement that is NOT correct regarding hydrocarbons is:</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">(c) Carbon compounds cannot get oxidised on combustion.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">In reality, carbon compounds do get oxidized during combustion, producing carbon dioxide and water.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Statements (a), (b), and (d) are correct about saturated hydrocarbons being less reactive, carbon compounds releasing heat and light on burning, and unsaturated hydrocarbons undergoing hydrogenation.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Combustion is an oxidation reaction where hydrocarbons react with oxygen.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Saturated hydrocarbons (alkanes) are less reactive due to single bonds.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Unsaturated hydrocarbons (alkenes, alkynes) can be hydrogenated to saturated forms.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Propane and butane are the main components of which of the following gases?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> LNG</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> LMG</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> CNG</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> LPG</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Propane and butane are the main components of LPG (Liquefied Petroleum Gas).</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">LPG is widely used as a cooking fuel and in heating applications.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">LNG (Liquefied Natural Gas) mainly contains methane, CNG (Compressed Natural Gas) is mainly methane under pressure, and LMG is not a standard gas acronym.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">LPG is stored under pressure in liquid form for easy transportation and use.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is clean-burning and convenient for domestic and industrial use.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Propane and butane have different boiling points, affecting the composition of LPG blends.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Isopentane, also called ________, is a branched-chain saturated hydrocarbon with the chemical formula C</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">5</span><span style=\"font-family:'Cambria Math'\">H</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">12</span><span style=\"font-family:'Cambria Math'\">.</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Dimenthylbutane </span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Isobutane</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> 2-methylbutane</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> butadiene</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Isopentane, also called 2-methylbutane, is a branched-chain saturated hydrocarbon with the chemical formula C₅H₁₂.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is an isomer of pentane with a methyl group attached to the second carbon atom.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Dimethylbutane, isobutane, and butadiene are different hydrocarbons.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Isopentane is used as a blowing agent and in the petroleum industry.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It has different physical properties compared to its isomers.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Understanding isomers is important in organic chemistry.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Find the correct chemical formula of nitromethane.</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> CH</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">3</span><span style=\"font-family:'Cambria Math'\">NO</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> CH</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">3</span><span style=\"font-family:'Cambria Math'\">NO</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">3</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> CH</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">4</span><span style=\"font-family:'Cambria Math'\">NO</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">3</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> CH</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">3</span><span style=\"font-family:'Cambria Math'\">NO</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">2</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The correct chemical formula of nitromethane is CH₃NO₂.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Nitromethane consists of a methyl group (CH₃) attached to a nitro group (NO₂).</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The other formulas correspond to different compounds.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Nitromethane is used as a solvent and as a fuel in drag racing.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is a polar molecule with explosive properties under certain conditions.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is important in organic synthesis and industrial applications.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Identify the structural formula for ethene.</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> H</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">2</span><span style=\"font-family:'Cambria Math'\">C = CH</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">3</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> HC = CH</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">3</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> H</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">3</span><span style=\"font-family:'Cambria Math'\">C = CH</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">3</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> H</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">2</span><span style=\"font-family:'Cambria Math'\">C = CH</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">2</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The correct structural formula for ethene is H₂C = CH₂.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ethene (C₂H₄) is an alkene with a double bond between two carbon atoms, each bonded to two hydrogen atoms.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The other options do not correctly represent ethene's structure.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ethene is the simplest alkene and an important industrial chemical.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is used in the production of plastics such as polyethylene.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The double bond gives ethene its characteristic reactivity.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Identify the method that is NOT used to purify organic compounds.</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Sublimation</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Crystallisation</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Distillation</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Sedimentation</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The method that is NOT used to purify organic compounds is Sedimentation.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Sublimation, crystallisation, and distillation are common purification techniques in organic chemistry.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Sedimentation is a process used to separate solid particles from liquids or gases but not typically used for purifying organic compounds.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Sublimation involves the transition of a substance from solid to gas without passing through liquid.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Crystallisation is used to purify solids based on their solubility differences.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Distillation separates liquids based on differences in boiling points.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which group was given the name paraffin earlier?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Aldehydes</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Alkanes</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Alcohols</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Acids</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The group that was given the name paraffin earlier is Alkanes.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The term \"paraffin\" comes from Latin meaning \"little affinity,\" referring to the low reactivity of alkanes.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Aldehydes, alcohols, and acids are different classes of organic compounds.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Alkanes are saturated hydrocarbons with single bonds.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">They are relatively inert and have low chemical reactivity.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Paraffin wax is a mixture of higher alkanes.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which chemical compound with the chemical formula (CH</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">3</span><span style=\"font-family:'Cambria Math'\">CH</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">2</span><span style=\"font-family:'Cambria Math'\">Cl), is used as a blowing agent in foamed plastics?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> 3-Chlorohexane </span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> 1-Chloropropane</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Chloromethane</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Chloroethane</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The chemical compound with the formula CH₃CH₂Cl, used as a blowing agent in foamed plastics, is Chloroethane.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Chloroethane is an ethyl chloride used in various industrial applications, including as a blowing agent.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">3-Chlorohexane and 1-chloropropane are longer-chain chlorinated hydrocarbons, and chloromethane (CH₃Cl) is methyl chloride.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Blowing agents help create cellular structures in plastics to make them lightweight.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Chloroethane evaporates easily, producing gas bubbles in the plastic matrix.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Safety precautions are necessary when handling chlorinated hydrocarbons.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which functional group compound is obtained by the reaction of</span><span style=\"font-family:'Cambria Math'\">an oxoacid with a hydroxyl compound such as alcohol or phenol?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Carbonyls</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Esters</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Amines</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Carboxylic acids</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The functional group compound obtained by the reaction of an oxoacid with a hydroxyl compound such as alcohol or phenol is an Ester.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Esters are formed by the esterification process where a carboxylic acid (oxoacid) reacts with an alcohol or phenol.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Carbonyls, amines, and carboxylic acids are different functional groups not formed by this reaction.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Esters typically have pleasant fruity odors and are used in flavors and fragrances.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The general formula of esters is R–COO–R'.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">This reaction is usually acid-catalyzed.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which of the following is an organic compound with the formula C</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">5</span><span style=\"font-family:'Cambria Math'\">H</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">4</span><span style=\"font-family:'Cambria Math'\">Cl</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">2</span><span style=\"font-family:'Cambria Math'\"> that is used as a fumigant insecticide to control cloth moths?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Paradichlorobenzene</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Ethylbenzene</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Benzoyl chloride</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Chlorobenzene</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The organic compound with the formula C₆H₄Cl₂ used as a fumigant insecticide to control cloth moths is Paradichlorobenzene.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Paradichlorobenzene has two chlorine atoms substituted at the para positions of a benzene ring.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ethylbenzene, benzoyl chloride, and chlorobenzene have different formulas and uses.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Paradichlorobenzene is commonly used in mothballs.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It sublimates slowly to release vapors that repel insects.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Proper handling and ventilation are important when using it indoors.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> In the format of the IUPAC name of the organic compound, the term ‘Root’ is used to represent:</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Functional groups that may be present in the compound </span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> The cyclic or acyclic nature of the given compound </span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> The number of carbon atoms in the parent chain </span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> The presence of side chains or substituent groups </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">In the IUPAC naming system, the term ‘Root’ is used to represent the number of carbon atoms in the parent chain.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The root word indicates the length of the main carbon chain in the organic compound.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Functional groups, cyclic nature, and substituent groups are indicated by different parts of the name, not the root.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">For example, \"meth-\" indicates 1 carbon, \"eth-\" 2 carbons, \"prop-\" 3 carbons, etc.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The root forms the base of the compound’s name before suffixes and prefixes are added.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Understanding the root is essential for correct systematic naming.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> What is the name of the compound having the formula CH</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">3</span><span style=\"font-family:'Cambria Math'\">CH</span><span style=\"line-height:108%;font-size:7.33pt;vertical-align:sub;font-family:'Cambria Math'\">2</span><span style=\"font-family:'Cambria Math'\">OH?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Acetic acid</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Ethanol</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Methane</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Chloroform</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The compound with the formula CH₃CH₂OH is Ethanol.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ethanol is an alcohol with two carbon atoms and a hydroxyl group (-OH).</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Acetic acid is CH₃COOH, methane is CH₄, and chloroform is CHCl₃.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Ethanol is widely used as a solvent, in alcoholic beverages, and as a fuel.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is a colorless, volatile liquid with a characteristic odor.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">It is also used in medical and industrial applications.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which of the following is an example of monosaccharides?</span><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">A. Fructose </span><span style=\"font-family:'Cambria Math'\">B. Sucrose</span><span style=\"font-family:'Cambria Math'\">C. Starch</span><span style=\"font-family:'Cambria Math'\">D. Glucose</span></p>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> Only B</span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> Both A and D</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> Both B and C</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> Only C</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The examples of monosaccharides among the given options are Fructose and Glucose (Both A and D).</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Sucrose is a disaccharide, and starch is a polysaccharide.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Monosaccharides are the simplest form of carbohydrates.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Monosaccharides have the general formula (CH₂O)n and cannot be hydrolyzed further.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Fructose is a ketohexose, and glucose is an aldohexose.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">These sugars are important energy sources in living organisms.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> Which of the following is NOT a property of graphite?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> It is a conductor of electricity </span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> It has low melting point </span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> It has a lower density than diamond </span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> It is a conductor of heat </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The property that is NOT true for graphite is:</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">(b) It has low melting point.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Graphite actually has a very high melting point due to its strong covalent bonds in layers.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Graphite is a good conductor of electricity and heat, and it has a lower density than diamond.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Graphite consists of layers of carbon atoms arranged in hexagonal lattices with weak forces between layers.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Its electrical conductivity is due to delocalized electrons within layers.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The high melting point makes it useful in high-temperature applications.</span></li></ul>"
+    },
+    {
+        "question": "<span style=\"font-family:'Cambria Math'\"> With symbols having their usual meaning, which one among the following is used as the standard for defining atomic mass unit?</span>",
+        "option_1": "<span style=\"font-family:'Cambria Math'\"> C-12 </span>",
+        "option_2": "<span style=\"font-family:'Cambria Math'\"> H-1</span>",
+        "option_3": "<span style=\"font-family:'Cambria Math'\"> N-14</span>",
+        "option_4": "<span style=\"font-family:'Cambria Math'\"> O-8</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">The standard used for defining the atomic mass unit (amu) is C-12 (Carbon-12).</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">By definition, 1 atomic mass unit is exactly 1/12th the mass of one atom of Carbon-12.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">H-1 (Hydrogen-1), N-14 (Nitrogen-14), and O-8 (Oxygen-8) are not used as the standard.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"><span style=\"font-family:'Cambria Math'\">Additional Information:</span></p><ul><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Carbon-12 isotope has 6 protons and 6 neutrons.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">This standard provides a consistent basis for measuring atomic masses.</span></li><li><span style=\"line-height:108%;font-size:11pt;font-family:'Cambria Math'\">Atomic mass unit is fundamental in chemistry and physics for expressing atomic and molecular masses.</span></li></ul><p style=\"margin-top:0pt;margin-bottom:8pt\"></p>"
+    }
+]
