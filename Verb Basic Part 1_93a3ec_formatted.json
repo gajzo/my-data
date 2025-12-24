@@ -1,0 +1,272 @@
+[
+    {
+        "question": "<span> He might passing the exam if he studies harder. </span>",
+        "option_1": "<span> He might passing </span>",
+        "option_2": "<span> the exam if </span>",
+        "option_3": "<span> he studies harder. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> Modal auxiliary verbs are followed by the base form of the verb (infinitive) without \"to.\" Therefore, the correct form of the verb after \"might\" should be \"pass,\" not \"passing.\"</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"He might pass the exam if he studies harder.\"</span></p>"
+    },
+    {
+        "question": "<span> In my previous job, I can finish tasks much quicker than I do now.</span>",
+        "option_1": "<span> In my previous job, </span>",
+        "option_2": "<span> I can finish tasks much </span>",
+        "option_3": "<span> quicker than I do now. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The error lies in the use of \"can\" instead of \"could.\" Since the sentence is referring to a past job, \"could\" should be used to denote past ability. </span><p><span>Therefore, the correct form of the sentence should be: </span><span style=\"text-decoration:underline\">\"In my previous job, I could finish tasks much quicker than I do now.\" </span></p>"
+    },
+    {
+        "question": "<span> Can you please send me the report by the end of the day?</span>",
+        "option_1": "<span> Can you please send </span>",
+        "option_2": "<span> me the report by </span>",
+        "option_3": "<span> the end of the day?</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"can\" to show a friendly request and \"could\" to show a formal request. </span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"Could you please send me the report by the end of the day?\"</span></p>"
+    },
+    {
+        "question": "<span> The movie may not be as good as the reviews suggest.</span>",
+        "option_1": "<span> The movie may not </span>",
+        "option_2": "<span> be as good as </span>",
+        "option_3": "<span> the reviews suggest. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"might\" suggests a lower degree of possibility, indicating uncertainty or a less likely outcome, while \"may\" expresses a possibility that is neither particularly low nor particularly high. </span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"The movie might not be as good as the reviews suggest.\"</span></p>"
+    },
+    {
+        "question": "<span> The government cannot be able to contain Encephalitis by spending just 1% of GDP on the health sector.</span>",
+        "option_1": "<span> The government cannot </span>",
+        "option_2": "<span> be able to contain</span>",
+        "option_3": "<span> Encephalitis by spending just 1% of GDP on the health sector.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> ‘Cannot’ shows inability, remove ‘be able to’. If we use both ‘able to’ and ‘can’ together in a sentence, the sentence becomes superfluous. </span><p><span>So the correct sentence is ‘The government cannot contain Encephalitis by spending just 1% of GDP on the health sector.</span></p>"
+    },
+    {
+        "question": "<span> Will we discuss this matter further at the meeting?</span>",
+        "option_1": "<span> Will we discuss </span>",
+        "option_2": "<span> this matter further </span>",
+        "option_3": "<span> at the meeting? </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> When making a suggestion in an interrogative sentence with first-person pronouns (such as \"we\"), \"shall we\" is typically used instead of \"will we\".</span><p><span>So, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"Shall we discuss this matter further at the meeting?\"</span></p>"
+    },
+    {
+        "question": "<p>When I live abroad, I will take long walks along the river every evening.</p>",
+        "option_1": "<p>When I live abroad,</p>",
+        "option_2": "<p>I will take long walks along</p>",
+        "option_3": "<p>the river every evening</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>The sentence is absolutely correct.</p>"
+    },
+    {
+        "question": "<span> Will you please </span><a name=\"_Hlk164351611\"><span>turn down the </span></a><span>volume a bit?</span>",
+        "option_1": "<span> Will you please</span>",
+        "option_2": "<span> turn down the</span>",
+        "option_3": "<span> volume a bit?</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> when making a polite request in an interrogative sentence, \"would\" is typically used instead of \"will.\" </span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"Would you please turn down the volume a bit?\" </span></p>"
+    },
+    {
+        "question": "<span> He double-checked the address, lest he would get lost on the way to the party.</span>",
+        "option_1": "<span> He double-checked the </span>",
+        "option_2": "<span> address, lest he would get </span>",
+        "option_3": "<span> lost on the way to the party</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> In this sentence, \"would get\" is not used after \"lest\" to indicate a negative purpose. When \"lest\" is used, the verb following it is typically in the base form without \"would.\" Therefore, \"would get\" should be replaced with \"should get.\"</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"He double-checked the address, lest he should get lost on the way to the party.\"</span></p>"
+    },
+    {
+        "question": "<span> They ought to play basketball every Saturday morning. </span>",
+        "option_1": "<span> They ought to play </span>",
+        "option_2": "<span> basketball every </span>",
+        "option_3": "<span> Saturday morning </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> if you intend to talk about a past habitual action, you could indeed use \"used to.\" </span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">\"They used to play basketball every Saturday morning.\"</span></p>"
+    },
+    {
+        "question": "<p>She is given to sung loudly when she's in a good mood.</p>",
+        "option_1": "<p>She is given to sung</p>",
+        "option_2": "<p>loudly when she's</p>",
+        "option_3": "<p>in a good mood</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The error in the sentence is in the phrase \"to sung.\" The correct form following \"given to\" should be the gerund form, \"singing,\" not the past participle \"sung.\" So, the correct option is: (a) She is given to sung</p> <p>Therefore, the correct sentence would be: “She is given to singing loudly when she's in a good mood.”</p>"
+    },
+    {
+        "question": "<span> They used to lived in the countryside before moving to the city. </span>",
+        "option_1": "<span> They used to lived </span>",
+        "option_2": "<span> in the countryside </span>",
+        "option_3": "<span> before moving to the city. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In this sentence, the verb \"lived\" is used incorrectly after \"used to.\" When \"used to\" is used to indicate past habits or states, it should be followed by the base form of the verb (infinitive) without \"to.\" Therefore, the correct form of the verb should be \"live,\" not \"lived.\"</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"They used to live in the countryside before moving to the city.\"</span></p>"
+    },
+    {
+        "question": "<span> A good diet and regular exercise could contribute to overall health and well-being. </span>",
+        "option_1": "<span> A good diet and regular </span>",
+        "option_2": "<span> exercise could contribute </span>",
+        "option_3": "<span> to overall health and well-being. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> \"Could\" implies past ability or theoretical possibility, whereas \"can\" indicates present ability or capacity. Since the sentence is expressing a general truth or possibility rather than a past ability, \"can\" should replace \"could\" in this context.</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"A good diet and regular exercise can contribute to overall health and well-being.\"</span></p>"
+    },
+    {
+        "question": "<span> They might have finished the project by now they've been working on it for weeks.</span>",
+        "option_1": "<span> They might have finished </span>",
+        "option_2": "<span> the project by now they've </span>",
+        "option_3": "<span> been working on it for weeks </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"Must\" is used to express a higher degree of possibility or probability based on evidence or logical inference. In this context, if the speaker wants to emphasize a strong likelihood that the project has been completed, \"must\" would be more appropriate than \"might.\"</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"They must have finished the project by now, they've been working on it for weeks.\" </span></p>"
+    },
+    {
+        "question": "<span> I shall not hesitate to take action if necessary. </span>",
+        "option_1": "<span> I shall not </span>",
+        "option_2": "<span> hesitate to take </span>",
+        "option_3": "<span> action if necessary </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> “Shall is used with the</span><span>second person (you), and</span><span>third person to denote command, promise, threat, determination, compulsion, and advice. will is used with I and we in similar cases.”</span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">\"I will not hesitate to take action if necessary.\"</span></p>"
+    },
+    {
+        "question": "<span> If you will finish your homework, you will go out to play. </span>",
+        "option_1": "<span> If you will finish your </span>",
+        "option_2": "<span> homework, you will </span>",
+        "option_3": "<span> go out to play.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In conditional sentences like this one, when the condition (the first action) depends on the result (the second action), the first action should be in the simple present tense, not the simple future tense. Therefore, \"will\" should be removed from the first part of the sentence.</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"If you finish your homework, you will go out to play.\"</span></p>"
+    },
+    {
+        "question": "<span> They understood that they will have to work harder to achieve their goals. </span>",
+        "option_1": "<span> They understood that </span>",
+        "option_2": "<span> they will have to work </span>",
+        "option_3": "<span> harder to achieve their goals. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> when a sentence is in the past, it continues in the past with the use of \"would\" instead of \"will\" to maintain grammatical consistency.</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"They understood that they would have to work harder to achieve their goals.\" </span></p>"
+    },
+    {
+        "question": "<span> I wish you will understand </span><a name=\"_Hlk164352420\"><span>how much your </span></a><a name=\"_Hlk164352429\"><span>friendship means to me.</span></a>",
+        "option_1": "<span> I wish you will understand</span>",
+        "option_2": "<span> how much your</span>",
+        "option_3": "<span> friendship means to me.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In this sentence, \"will understand\" is used to express a future action, but when expressing a wish, \"would\" is typically used instead of \"will.\" Therefore, the correct form should be \"I wish you would understand.\"</span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"I wish you would understand how much your friendship means to me.\" </span></p>"
+    },
+    {
+        "question": "<span> In addition to studying for exams, she works part-time to support herself.</span>",
+        "option_1": "<span> In addition to studying </span>",
+        "option_2": "<span> for exams, she works </span>",
+        "option_3": "<span> part-time to support herself. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The sentence is correct as it is, so the correct option is: (d) No error</span><p><span>In the following cases, to + base form of verb is not used. Instead 'V + ing'. Here 'to' is a preposition and after all the prepositions, if we a verb, the verb must be in 'V + ing' form. Some of the important phrases from which questions are asked in exams are given below. \"Be used to, accustomed to, averse to, with a view to, addicted to, devoted to, in addition to, look forward to, object to, owing to, given to, taken to, prone to.\" </span></p>"
+    },
+    {
+        "question": "<span> You needn't to worry about the arrangements, everything has been taken care of. </span>",
+        "option_1": "<span> You needn't to worry about </span>",
+        "option_2": "<span> the arrangements, everything </span>",
+        "option_3": "<span> has been taken care of. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The error in the sentence lies in the phrase \"needn't to worry.\" When \"need\" is used as a modal verb to express lack of necessity, it is followed directly by the base form of the main verb without \"to.\" Therefore, the correct form is \"You needn't worry about\" instead of \"You needn't to worry about.\"</span><p><span>The corrected sentence should be: </span><span style=\"text-decoration:underline\">\"You needn't worry about the arrangements; everything has been taken care of.\"</span></p>"
+    },
+    {
+        "question": "<span> Could you keep an eye on my bag while I go to the restroom? </span>",
+        "option_1": "<span> Could you keep an </span>",
+        "option_2": "<span> eye on my bag while </span>",
+        "option_3": "<span> I go to the restroom? </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"can\" to show a friendly request and \"could\" to show a formal request. </span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">\"Can you keep an eye on my bag while I go to the restroom?\"</span></p>"
+    },
+    {
+        "question": "<span> Might you find the strength to overcome any challenges you face.</span>",
+        "option_1": "<span> Might you find the </span>",
+        "option_2": "<span> strength to overcome </span>",
+        "option_3": "<span> any challenges you face.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"may\" is used to express a wish or hope for someone's well-being or success. This usage is common in optative sentences, where the speaker expresses a desire or aspiration for the listener's benefit. </span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"May you find the strength to overcome any challenges you face.\"</span></p>"
+    },
+    {
+        "question": "<span> We understand that time will heal all wounds. </span>",
+        "option_1": "<span> We understand </span>",
+        "option_2": "<span> that time </span>",
+        "option_3": "<span> will heal all wounds. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> when the second part of the sentence is a universal truth, habitual action, general fact, idiom, or phrase, the present tense is used. Therefore, \"will\" should be replaced with \"heals\" to maintain consistency in tenses. </span><p><span>The corrected sentence would be: </span><span style=\"text-decoration:underline\">\"We understand that time heals all wounds.\"</span></p>"
+    },
+    {
+        "question": "<span> The company needs implement stricter security measures </span><a name=\"_Hlk164418449\"><span>to protect its data. </span></a>",
+        "option_1": "<span> The company needs implement </span>",
+        "option_2": "<span> stricter security measures </span>",
+        "option_3": "<span> to protect its data. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The sentence contains a grammatical error. When \"need\" is used as a main verb followed by another verb, it typically takes \"to\" before the infinitive form of the verb. Therefore, the correct form is \"needs to implement.\" </span><p><span>So, the correct sentence would be: </span><span style=\"text-decoration:underline\">“The company needs to implement stricter security measures to protect its data.”</span></p>"
+    },
+    {
+        "question": "<p>Every morning, she would wake up early to went for a run.</p>",
+        "option_1": "<p>Every morning,</p>",
+        "option_2": "<p>she would wake up</p>",
+        "option_3": "<p>early to went for a run.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>In this sentence, \"would wake up\" is in the past tense to indicate a habitual action in the past, but \"went\" should be replaced with the infinitive form \"go\" to maintain grammatical correctness.</p> <p>The corrected sentence would be: \"Every morning, she would wake up early to go for a run.\"</p>"
+    },
+    {
+        "question": "<span> Employees </span><span style=\"text-decoration:underline\">may</span><span> wear a safety helmet at the construction site.</span>",
+        "option_1": "<span> Might</span>",
+        "option_2": "<span> Would </span>",
+        "option_3": "<span> Must</span>",
+        "option_4": "<span> No improvement </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> \"must\" is used to indicate a requirement or obligation that must be fulfilled, expressing compulsion or necessity.</span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">“Employees must wear a safety helmet at the construction site.”</span></p>"
+    },
+    {
+        "question": "<span> She </span><span style=\"text-decoration:underline\">could</span><span> pass the exam to fulfill her dream of becoming a doctor. </span>",
+        "option_1": "<span> May</span>",
+        "option_2": "<span> Might</span>",
+        "option_3": "<span> Must</span>",
+        "option_4": "<span> No improvement </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> In the given sentence, \"could\" suggests a possibility or ability, but to convey the idea of fulfilling a dream with a sense of determination or necessity, \"must\" is more appropriate. </span><p><span>Therefore, the sentence should be: </span><span style=\"text-decoration:underline\">\"She must pass the exam to fulfill her dream of becoming a doctor.\" </span></p>"
+    }
+]
