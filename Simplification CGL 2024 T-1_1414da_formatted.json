@@ -1,0 +1,512 @@
+[
+    {
+        "question": "<span>Simplify the following:</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>21− 4.9 ÷ 7 + 3.9 × 0.4 + 0.9</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span style=\"color:#800000\">21− 4.9 ÷ 7 + 3.9 × 0.4 + 0.9</span></p>",
+        "option_1": "<span style=\"color:#4224e9\"> 24.12</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 26.32</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 22.76</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 18.23</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image001.png"
+    },
+    {
+        "question": "<span> Simplify: </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image002.png",
+        "option_1": "<span style=\"color:#4224e9\"> 9</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 0</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 26</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 13</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image004.png"
+    },
+    {
+        "question": "<span>Simplify </span><span> .</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image005.png",
+        "option_1": "<span style=\"color:#4224e9\"> 0.48</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 0.37</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 0.42</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 0.28</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image007.png"
+    },
+    {
+        "question": "<span>Simplify</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>​21 −[6 + 7 − {3.22 − (1.1 × 0.2)}].</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span style=\"color:#800000\">​21 −[6 + 7 − {3.22 − (1.1 × 0.2)}]</span></p>",
+        "option_1": "<span style=\"color:#4224e9\"> 12</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 10</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 13</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 11</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image008.png"
+    },
+    {
+        "question": "<span>Simplify </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image009.png",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image011.png",
+        "option_2": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image012.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image013.png",
+        "option_4": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image014.png",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image015.png"
+    },
+    {
+        "question": "<span>Simplify </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image016.png",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image018.png",
+        "option_2": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image019.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image020.png",
+        "option_4": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image021.png",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image022.png"
+    },
+    {
+        "question": "<span>Simplify </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image023.png",
+        "option_1": "<span style=\"color:#4224e9\"> 25.5</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 23.6</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 28.7</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 30.2</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span>Let a = 8.3, b = 9.2, c = 6.1</span><p><span>= (a + b + c) = 8.3 + 9.2 + 6.1 = 23.6</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image025.png"
+    },
+    {
+        "question": "<span>Simplify: </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image026.png",
+        "option_1": "<span style=\"color:#4224e9\"> 1</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 2</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 3</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 5</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> Let a = 4.2 &amp; b = 1.2</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image028.png"
+    },
+    {
+        "question": "<span>Simplify: </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image029.png",
+        "option_1": "<span style=\"color:#4224e9\"> 17</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 36</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 28</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 31</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image031.png"
+    },
+    {
+        "question": "<span>Simplify the following expression. </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image032.png",
+        "option_1": "<span style=\"color:#4224e9\"> 27</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 54</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 81</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 63</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image034.png"
+    },
+    {
+        "question": "<span>Simplify: </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image035.png",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image037.png",
+        "option_2": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image038.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image039.png",
+        "option_4": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image040.png",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image041.png"
+    },
+    {
+        "question": "<span>Simplify</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>5 − [3 − {7 − (5 − (14.5 − 13.5))}].</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span style=\"color:#800000\">15.5 − [3 − {7 − (5 − (14.5 − 13.5))}]</span></p>",
+        "option_1": "<span style=\"color:#4224e9\"> 13.5</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 12.5</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 15.5</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 14.5</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span>5 – [3 – {7 – (5 – 1)}]</span><p><span>15.5 – [3 – {7 – 4}]</span></p><p><span>15.5 – 0 = 15.5</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>Simplify the following expression.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>[{70 − 60÷ 2 of 6} + (20− 10)÷ 10] + 600÷ 25 of (2 ×3)× (2 of 3) + 2 of 5.</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span style=\"color:#800000\">[{70 − 60÷ 2 of 6} + (20− 10)÷ 10] + 600÷ 25 of (2 ×3)× (2 of 3) + 2 of 5.</span></p>",
+        "option_1": "<span style=\"color:#4224e9\"> 90</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 110</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 99</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 100</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> [{70 – 60/12} + {10/10] + 600 ÷ 25 of 6 × 6 + 10 </span><p><span>[65 + 1] + 24 + 10 = 100</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>Simplify the following expression. </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image042.png",
+        "option_1": "<span style=\"color:#4224e9\"> 3</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 0</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 2</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 1</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image044.png"
+    },
+    {
+        "question": "<span>Simplify: </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image045.png",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image047.png",
+        "option_2": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image048.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image049.png",
+        "option_4": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image050.png",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image051.png"
+    },
+    {
+        "question": "<span>Simplify: </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image052.png",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image054.png",
+        "option_2": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image055.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image056.png",
+        "option_4": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image057.png",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image058.png"
+    },
+    {
+        "question": "<span>Simplify the following expression. </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image059.png",
+        "option_1": "<span style=\"color:#4224e9\"> 0</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 4gh</span>",
+        "option_3": "<span style=\"color:#4224e9\"> −4gh</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 4</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image061.png"
+    },
+    {
+        "question": "<span>Simplify the following.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>16 ÷ 2− 7 × 15 ÷ 3 + 5 × 5 + 4 × 3 − 10</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span style=\"color:#800000\">16 ÷ 2− 7 × 15 ÷ 3 + 5 × 5 + 4 × 3 − 10</span></p>",
+        "option_1": "<span style=\"color:#4224e9\"> 2</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 0</span>",
+        "option_3": "<span style=\"color:#4224e9\"> -1</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 1</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image062.png"
+    },
+    {
+        "question": "<span>Simplify: </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image063.png",
+        "option_1": "<span style=\"color:#4224e9\"> 9.5</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 7.5</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 8.5</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 6.5</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image065.png"
+    },
+    {
+        "question": "<span>Simplify: </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image066.png",
+        "option_1": "<span style=\"color:#4224e9\"> 27</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 23</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 9</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 15</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image068.png"
+    },
+    {
+        "question": "<span>Simplify the following. </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image069.png",
+        "option_1": "<span style=\"color:#4224e9\"> 5</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image071.png",
+        "option_2": "<span style=\"color:#4224e9\"> 5</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image072.png",
+        "option_3": "<span style=\"color:#4224e9\"> 7</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image071.png",
+        "option_4": "<span style=\"color:#4224e9\"> 7</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image072.png",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image073.png"
+    },
+    {
+        "question": "<span>Simplify: </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image074.png",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image076.png",
+        "option_2": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image077.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image078.png",
+        "option_4": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image079.png",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image080.png"
+    },
+    {
+        "question": "<span>Simplify the following: </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image081.png",
+        "option_1": "<span style=\"color:#4224e9\"> 0</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 3</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image083.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image084.png",
+        "option_4": "<span style=\"color:#4224e9\">2</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image085.png",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image086.png"
+    },
+    {
+        "question": "<span>Simplify: </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image087.png",
+        "option_1": "<span style=\"color:#4224e9\"> 11</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 2.6</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 12</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 3.2</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image089.png"
+    },
+    {
+        "question": "<span>Simplify the given expression. </span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span> .</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image090.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image091.png",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image092.png",
+        "option_2": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image093.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image094.png",
+        "option_4": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image095.png",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image096.jpeg"
+    },
+    {
+        "question": "<span>Simplify the following expression.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image097.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image098.png",
+        "option_1": "<span style=\"color:#4224e9\"> 12</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 8</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 16</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 4</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> =&gt;25÷5+3 of 2 – 4 + 6 of 3÷2 -8 +4</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>=&gt;5+6-4+18÷2-8+4</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>=&gt;11-4+9-8+4</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>=&gt;24-12</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>=&gt;12</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>Simplify </span><span> .</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image099.png",
+        "option_1": "<span style=\"color:#4224e9\"> 602</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 604</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 603</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 601</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image101.png"
+    },
+    {
+        "question": "<span>Simplify: </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image102.png",
+        "option_1": "<span style=\"color:#4224e9\"> 74</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 94</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 84</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 64</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image104.png"
+    },
+    {
+        "question": "<span>Simplify </span><span>. </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image105.png",
+        "option_1": "<span style=\"color:#4224e9\"> 261</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 596</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 725</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 445</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image107.png"
+    },
+    {
+        "question": "<span>Simplify: </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image108.png",
+        "option_1": "<span style=\"color:#4224e9\"> 19</span>",
+        "option_2": "<span style=\"color:#4224e9\"> -17</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 33</span>",
+        "option_4": "<span style=\"color:#4224e9\"> -31</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image110.png"
+    },
+    {
+        "question": "<span>Simplify the following expression: </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image111.png",
+        "option_1": "<span style=\"color:#4224e9\"> 36.78</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 38.56</span>",
+        "option_3": "<span style=\"color:#4224e9\"> -39.87</span>",
+        "option_4": "<span style=\"color:#4224e9\"> -46.48</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image113.png"
+    },
+    {
+        "question": "<span>Simplify the following expression. </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image114.png",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image116.png",
+        "option_2": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image117.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image118.png",
+        "option_4": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image119.png",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image120.png"
+    },
+    {
+        "question": "<span>Simplify the following expression. </span><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image121.png<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image122.png",
+        "option_1": "<span style=\"color:#4224e9\"> 46</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 42</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 12</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 21</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image123.png"
+    },
+    {
+        "question": "<span>Simplify </span><span> .</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image124.png",
+        "option_1": "<span style=\"color:#4224e9\"> sin</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image126.png",
+        "option_2": "<span style=\"color:#4224e9\"> cos</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image126.png",
+        "option_3": "<span style=\"color:#4224e9\"> tan</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image126.png",
+        "option_4": "<span style=\"color:#4224e9\"> cot</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image126.png",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image127.png"
+    },
+    {
+        "question": "<span>Simplify:[25 −48 ÷ 6 + 12 × 2] + 78 − [5 + 3 of (25 − 2 × 10)]</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span style=\"color:#800000\">[25 −48 ÷ 6 + 12 × 2] + 78 − [5 + 3 of (25 − 2 × 10)]</span></p>",
+        "option_1": "<span style=\"color:#4224e9\"> 99</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 89</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 90</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 98</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image128.png"
+    },
+    {
+        "question": "<span>Simplify the following expression.</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>(60 + 64 ÷ 4 of 4) × {1000 ÷ ((10 of (3 + 2)) × 2 of 5)} − 28 + (100 × 3 of 3).</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span style=\"color:#800000\">(60 + 64 ÷ 4 of 4) × {1000 ÷ ((10 of (3 + 2)) × 2 of 5)} − 28 + (100 × 3 of 3).</span></p>",
+        "option_1": "<span style=\"color:#4224e9\"> 500</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 1000</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 100</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 600</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image129.png"
+    },
+    {
+        "question": "<span>Simplify: </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image130.png",
+        "option_1": "<span style=\"color:#4224e9\"> 285</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 224</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 310</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 364</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image132.png"
+    },
+    {
+        "question": "<span>Simplify </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image133.png",
+        "option_1": "<span style=\"color:#4224e9\"> 7y</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 0</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 4x – 14y </span>",
+        "option_4": "<span style=\"color:#4224e9\"> 4x</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image135.png"
+    },
+    {
+        "question": "<span>The value of is: </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image136.png",
+        "option_1": "<span style=\"color:#4224e9\"> 8</span>",
+        "option_2": "<span style=\"color:#4224e9\"> −8</span>",
+        "option_3": "<span style=\"color:#4224e9\"> −18</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 18</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image138.png"
+    },
+    {
+        "question": "<span>The value of </span><span> of 125 is:</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image139.png",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image141.png",
+        "option_2": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image142.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image083.png",
+        "option_4": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image143.png",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image144.png"
+    },
+    {
+        "question": "<span>The value of </span><span> is:</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image145.png",
+        "option_1": "<span style=\"color:#4224e9\"> 39.5</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 25</span>",
+        "option_3": "<span style=\"color:#4224e9\"> – 29 </span>",
+        "option_4": "<span style=\"color:#4224e9\"> 13</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> = [15÷3×7-8 of 2+6]</span><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>= [5×7-16+6]</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>= [35-10]</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"><span>= 25</span></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p>"
+    },
+    {
+        "question": "<span>Find the value of </span><span>.</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image147.png",
+        "option_1": "<span style=\"color:#4224e9\"> 3</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 2</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 1</span>",
+        "option_4": "<span style=\"color:#4224e9\"> −1</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image149.png"
+    },
+    {
+        "question": "<span>Find the value of </span><span> .</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image150.png",
+        "option_1": "<span style=\"color:#4224e9\"> 80</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 60</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 70</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 50</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image152.png"
+    },
+    {
+        "question": "<span>The value of N in the equation </span><span> is:</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image153.png",
+        "option_1": "<span style=\"color:#4224e9\"> 9</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 0</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 8</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 12</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image155.png"
+    },
+    {
+        "question": "<span> is equal to:</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image156.png",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image158.png",
+        "option_2": "<span style=\"color:#4224e9\"> 1</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 0</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 9</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image159.png"
+    },
+    {
+        "question": "<span>If </span><span>, then find the value of Q.</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image160.png",
+        "option_1": "<span style=\"color:#4224e9\"> 108</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 98</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 96</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 112</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image162.png"
+    },
+    {
+        "question": "<span>Which of the following can be the value of k, if </span><span>?</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image163.png",
+        "option_1": "<span style=\"color:#4224e9\"> 1,10</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 4,7</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 2,7</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 3,10</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image165.png"
+    },
+    {
+        "question": "<span>Solve the following: </span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image166.png",
+        "option_1": "<span style=\"color:#4224e9\"> 81</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 27.1</span>",
+        "option_3": "<span style=\"color:#4224e9\"> 63</span>",
+        "option_4": "<span style=\"color:#4224e9\"> 0</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image168.png"
+    },
+    {
+        "question": "<p>The value of the expression is equal to:</p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image169.png",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image171.png",
+        "option_2": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image172.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image173.png",
+        "option_4": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image174.png",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>Let a = 1.55 and b = 0.55</p> <p>a<span style=\"font-size:7.33pt\">2</span> + b<span style=\"font-size:7.33pt\">2</span> +ab = 1.55<span style=\"font-size:7.33pt\">2</span> + 0.55<span style=\"font-size:7.33pt\">2</span> + 1.55 × 0.55</p> <p>multiply and divide by (a – b)</p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image175.png"
+    },
+    {
+        "question": "<span>The value of </span><span> is:</span><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image176.png",
+        "option_1": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image177.png",
+        "option_2": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image178.png",
+        "option_3": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image142.png",
+        "option_4": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image143.png",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image179.png"
+    },
+    {
+        "question": "<span>​If 45 ÷ 3 + 4 × A – 48 ÷ 24 + 4 = 1, then the value of A is:</span>",
+        "option_1": "<span style=\"color:#4224e9\"> 4</span>",
+        "option_2": "<span style=\"color:#4224e9\"> 2</span>",
+        "option_3": "<span style=\"color:#4224e9\"> −2</span>",
+        "option_4": "<span style=\"color:#4224e9\"> −4</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p style=\"margin-top:0pt;margin-bottom:10pt\"></p><p style=\"margin-top:0pt;margin-bottom:10pt\"></p><br>https://appx-content-v2.classx.co.in/website/bulk_uploader_images/1750330808867_image180.png"
+    }
+]
