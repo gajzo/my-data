@@ -1,0 +1,342 @@
+[
+    {
+        "question": "<span> I have never seen a niggard man like Rahul.</span>",
+        "option_1": "<span> I have never seen </span>",
+        "option_2": "<span> a niggard man </span>",
+        "option_3": "<span> like Rahul </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The correct answer is: (b) a niggard man</span><p><span>The sentence contains an error in part (b). \"Niggard\" is a noun, but in this context, an adjective is needed to modify \"man.\" </span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"I have never seen a niggardly man like Rahul.\"</span></p>"
+    },
+    {
+        "question": "<span> The preacher spoke loudly the words of the prayer, leading the congregation in worship. </span>",
+        "option_1": "<span> The preacher spoke loudly the </span>",
+        "option_2": "<span> words of the prayer, leading </span>",
+        "option_3": "<span> the congregation in worship. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> the correct answer is: (a) The preacher spoke loudly the</span><p><span>The sentence contains an error in part (a). The adverb \"loudly\" should come after the verb \"spoke\" to modify how the preacher spoke the words. Loudly means ‘in the</span><span>high volume’ and aloud means ‘audibly’.</span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"The preacher spoke the words of the prayer loudly, leading the congregation in worship.\"</span></p>"
+    },
+    {
+        "question": "<span> Fortunately, they were able to catch the last train home before the storm hit. </span>",
+        "option_1": "<span> Fortunately, they were </span>",
+        "option_2": "<span> able to catch the last </span>",
+        "option_3": "<span> train home before the storm hit. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> \"In order to modify a complete sentence, an adverb is used at the beginning of a sentence.\" So, the correct answer is (d) No error.</span><p><span>The sentence is correct as it is. There's no error in it.</span></p>"
+    },
+    {
+        "question": "<p>The project is very much challenging than we anticipated, requiring additional resources.</p>",
+        "option_1": "<p>The project is very much challenging</p>",
+        "option_2": "<p>than we anticipated, requiring</p>",
+        "option_3": "<p>additional resources.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The sentence contains an error. When using \"very much\" with a comparative degree, the correct structure is \"much more\" instead of \"very much.\"</p> <p>Therefore, the corrected sentence should be: \"The project is much more challenging than we anticipated, requiring additional resources.\"</p>"
+    },
+    {
+        "question": "<span> They were much satisfied with the outcome of their hard work. </span>",
+        "option_1": "<span> They were much satisfied </span>",
+        "option_2": "<span> with the outcome </span>",
+        "option_3": "<span> of their hard work.</span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> Very is not used with Past Participle, but it is used with following past participles. (Very tired, very dejected, very discontented, very contented, very pleased, very, drunk, very limited, very delighted.) </span><p><span>\"Much\" is typically used before past participles when emphasizing the degree of action or condition, rather than the quality itself. For example, \"much appreciated,\" \"much admired,\" etc. </span></p><p><span>Therefore, the corrected sentence should be: </span><span style=\"text-decoration:underline\">\"They were very satisfied with the outcome of their hard work.\"</span></p>"
+    },
+    {
+        "question": "<span> They hadn't made a decision on the matter yet. </span>",
+        "option_1": "<span> They hadn't </span>",
+        "option_2": "<span> made a decision </span>",
+        "option_3": "<span> on the matter yet. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"Yet is used in interrogative/negative sentences. it is placed after verb or verb + object.” Generally, it is used in present perfect negative sentences, not in past tense. </span><p><span>Therefore, the correct sentence would be: </span><span style=\"text-decoration:underline\">They haven't made a decision on the matter yet.</span></p>"
+    },
+    {
+        "question": "<span> The situation seems dire, but there might be a solution. </span>",
+        "option_1": "<span> The situation </span>",
+        "option_2": "<span> seems dire, but </span>",
+        "option_3": "<span> there might be a solution.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The sentence is correct as it is. So, the correct option is: (d) No error </span>"
+    },
+    {
+        "question": "<span> The book was too interesting that I couldn't put it down until I finished reading it. </span>",
+        "option_1": "<span> The book was too interesting </span>",
+        "option_2": "<span> that I couldn't put it down </span>",
+        "option_3": "<span> until I finished reading it. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In the provided sentence, \"too\" is used incorrectly. \"Too\" typically implies an excessive or undesirable degree of something, which doesn't quite fit the context here. Instead, \"so\" is more appropriate to indicate a high degree or intensity of interest that led to the inability to put the book down. </span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"The book was so interesting that I couldn't put it down until I finished reading it.\"</span></p>"
+    },
+    {
+        "question": "<a name=\"_Hlk163643973\"><span>The arrow flew straightly </span></a><span>through the air, hitting the target dead center.</span>",
+        "option_1": "<span> the target dead center. </span>",
+        "option_2": "<span> through the air, hitting</span>",
+        "option_3": "<span> The arrow flew straightly </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> The correct answer is: (c) The arrow flew straightly</span><p><span>The sentence contains an error in part (c). \"Straight\" is one of the words that have the same adverb and adjective forms. </span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"The arrow flew straight through the air, hitting the target dead center.\"</span></p>"
+    },
+    {
+        "question": "<span> Rarely they do have time for leisure activities due to their busy schedules. </span>",
+        "option_1": "<span> Rarely they do have time </span>",
+        "option_2": "<span> for leisure activities due </span>",
+        "option_3": "<span> to their busy schedules. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) Rarely they do have time.</span><p><span>The sentence contains an error. When an adverb of time like \"rarely\" begins a sentence, subject-verb inversion is required. </span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"Rarely do they have time for leisure activities due to their busy schedules.\"</span></p>"
+    },
+    {
+        "question": "<span> The weather today is much pleasant, it's perfect for a picnic. </span>",
+        "option_1": "<span> The weather today </span>",
+        "option_2": "<span> is much pleasant, </span>",
+        "option_3": "<span> it's perfect for a picnic. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The sentence contains an error related to the use of \"much\" with the positive degree. \"Much\" is typically used with comparative forms, not positive forms. Very is used with positive degree.</span><p><span>So, the corrected sentence is: </span><span style=\"text-decoration:underline\">\"The weather today is very pleasant, it's perfect for a picnic.\"</span></p>"
+    },
+    {
+        "question": "<span> The hotel room was rather spacious, with enough room to move around comfortably. </span>",
+        "option_1": "<span> The hotel room was rather </span>",
+        "option_2": "<span> spacious, with enough room </span>",
+        "option_3": "<span> to move around comfortably </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In the sentence, \"rather\" is used to modify \"spacious\" to indicate a degree of spaciousness that is somewhat unexpected or pleasantly surprising. Therefore, the error lies in the use of \"rather\" instead of \"fairly\" to convey the intended meaning. </span><p><span>The corrected sentence should be: </span><span style=\"text-decoration:underline\">\"The hotel room was fairly spacious, with enough room to move around comfortably.\" </span></p>"
+    },
+    {
+        "question": "<span> The mountain view is rather stunning, offering panoramic vistas of the surrounding landscape. </span>",
+        "option_1": "<span> The mountain view is rather </span>",
+        "option_2": "<span> stunning, offering panoramic </span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> vistas of the surrounding landscape. </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"Fairly\" is indeed used with desirable adjectives to indicate a moderate degree of the quality described. Therefore, in this context, \"fairly\" would be more appropriate than \"rather.\"</span><p><span>The corrected sentence should be: </span><span style=\"text-decoration:underline\">\"The mountain view is fairly stunning, offering panoramic vistas of the surrounding landscape.\"</span></p>"
+    },
+    {
+        "question": "<span> The coffee is hotter enough to warm you up on a cold day. </span>",
+        "option_1": "<span> The coffee is hotter </span>",
+        "option_2": "<span> enough to warm </span>",
+        "option_3": "<span> you up on a cold day. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The sentence has a mistake. \"Hotter enough\" is not the correct construction. Instead, \"hot enough\" is the appropriate form. So, the corrected option is: (a) The coffee is hotter </span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"The coffee is hot enough to warm you up on a cold day.\"</span></p>"
+    },
+    {
+        "question": "<span> They would rather stay in and watch a movie but go out in the rain. </span>",
+        "option_1": "<span> They would rather stay</span>",
+        "option_2": "<span> in and watch a movie </span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> but go out in the rain. </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> According to the rule, \"rather\" should be followed by \"than,\" not \"but.\" So, the corrected option is: (d) but go out in the rain. </span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"They would rather stay in and watch a movie than go out in the rain.\" </span></p>"
+    },
+    {
+        "question": "<p>Barely a week goes by without him practicing the guitar.</p>",
+        "option_1": "<p>Barely a week goes</p>",
+        "option_2": "<p>by without him</p>",
+        "option_3": "<p>practicing the guitar.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>The sentence is correct as it is. So, the correct option is: (d) No error</p>"
+    },
+    {
+        "question": "<p>She describes the landscape breathtakingly beautiful.</p>",
+        "option_1": "<p>She describes</p>",
+        "option_2": "<p>the landscape</p>",
+        "option_3": "<p>breathtakingly beautiful.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The sentence is almost correct, but it needs an adverb \"as\" before \"breathtakingly beautiful\" to modify the verb \"describes.\"</p> <p>So, the corrected sentence would be: \"She describes the landscape as breathtakingly beautiful.\"</p> <p><strong>According to SSC exam pattern, the error will be marked in Part 2 (\"the landscape /\").</strong></p> <p><strong>Reason:</strong><br/> SSC considers the error in the part where something is missing after it, not where the rest of the phrase continues.</p>"
+    },
+    {
+        "question": "<a name=\"_Hlk163829556\"><span>They seldom if never encounter such challenging problems in their work. </span></a>",
+        "option_1": "<span> They seldom if never </span>",
+        "option_2": "<span> encounter such challenging </span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> problems in their work. </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> ‘Seldom or never’, ‘seldom if ever’, little or nothing’, ‘little if anything’ are correct. </span><p><span>Therefore, the correct answer would</span><span>be: </span><span style=\"text-decoration:underline\">“They seldom if ever encounter such challenging problems in their work.”</span></p>"
+    },
+    {
+        "question": "<span> They consider her as a reliable source of information. </span>",
+        "option_1": "<span> They consider her </span>",
+        "option_2": "<span> as a reliable </span>",
+        "option_3": "<span> source of information. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> The sentence is almost correct, but it does not require the adverb \"as\" before \"a reliable\" because the verb \"consider\" can directly be followed by a direct object (\"her\") and then a complement (\"a reliable source of information\"). </span><p><span>Therefore, the corrected version would be: </span><span style=\"text-decoration:underline\">\"They consider her a reliable source of information.\" </span></p>"
+    },
+    {
+        "question": "<span> Scarcely nobody attended the meeting due to the short notice.</span>",
+        "option_1": "<span> Scarcely nobody attended </span>",
+        "option_2": "<span> the meeting due </span>",
+        "option_3": "<span> to the short notice.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The sentence has a double negative (\"scarcely\" and \"nobody\"), which makes it contradictory. To correct it, we should use either \"scarcely\" or \"nobody,\" but not both. </span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"Scarcely anybody attended the meeting due to the short notice.\" </span></p>"
+    },
+    {
+        "question": "<span> He realized lately in life that he had pursued the wrong career path. </span>",
+        "option_1": "<span> No error</span>",
+        "option_2": "<span> the wrong career path. </span>",
+        "option_3": "<span> that he had pursued </span>",
+        "option_4": "<span> He realized lately in life </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct answer is: (d) He realized lately in life </span><p><span>The sentence contains an error in part (d). \"Lately\" is an adverb meaning recently, but in this context, \"late\" is the correct adverb to modify \"realized\" indicating the timing of the realization.</span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"He realized late in life that he had pursued the wrong career path.\"</span></p>"
+    },
+    {
+        "question": "<span> The students studied hardly for their final exams, hoping to secure good grades. </span>",
+        "option_1": "<span> The students studied hardly </span>",
+        "option_2": "<span> for their final exams, hoping </span>",
+        "option_3": "<span> to secure good grades. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) The students studied hardly</span><p><span>The sentence contains an error in part (a). \"Hardly\" is an adverb that means scarcely or barely, which doesn't convey the intended meaning of intense studying in this context. The correct word to use here is \"hard,\" which means with great effort. </span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"The students studied hard for their final exams, hoping to secure good grades.\" </span></p>"
+    },
+    {
+        "question": "<p>Hardly does ever she complain about her workload.</p>",
+        "option_1": "<p>Hardly does ever</p>",
+        "option_2": "<p>she complain</p>",
+        "option_3": "<p>about her workload.</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The correct answer is: (a) Hardly does ever</p> <p>This part is <strong>incorrect</strong>, because <strong>\"hardly ever\"</strong> is a <strong>fixed phrase</strong> meaning \"rarely\", and it <strong>must stay together</strong> and <strong>at the beginning</strong> for inversion to apply properly.</p> <p>The sentence contains an error. The placement of \"ever\" is incorrect; follow the correct structure for inversion when starting a sentence with an adverb of time.</p> <p>Therefore, the correct sentence should be: \"Hardly ever does she complain about her workload.\"</p>"
+    },
+    {
+        "question": "<span> They have complained frequently about the noise coming from the construction site. </span>",
+        "option_1": "<span> from the construction site.</span>",
+        "option_2": "<span> about the noise coming </span>",
+        "option_3": "<span> They have complained frequently </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<span> In the given sentence, the adverb \"frequently\" is not placed between the auxiliary verb \"have\" and the main verb \"complained.\"</span><p><span>According to the rule, the adverb should come between the auxiliary verb and the main verb. So, the corrected sentence should be: </span><span style=\"text-decoration:underline\">\"They have frequently complained about the noise coming from the construction site.\"</span></p>"
+    },
+    {
+        "question": "<span> The book was much captivating, keeping readers hooked until the end. </span>",
+        "option_1": "<span> The book was much captivating </span>",
+        "option_2": "<span> keeping readers </span>",
+        "option_3": "<span> hooked until the end. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p><span>The sentence contains an error. \"Much\" is not typically used before present participles. Instead, \"very\" is commonly used for this purpose. </span></p><p><span>Therefore, the corrected sentence would be: </span><span style=\"text-decoration:underline\">\"The book was very captivating, keeping readers hooked until the end.\" </span></p>"
+    },
+    {
+        "question": "<span> The task was fairly too difficult for him to complete alone. </span>",
+        "option_1": "<span> The task was fairly </span>",
+        "option_2": "<span> too difficult for him </span>",
+        "option_3": "<span> No error </span>",
+        "option_4": "<span> to complete alone. </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> \"Fairly\" is not followed by 'too'. In such sentences use 'Rather' in place of 'fairly'. </span><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"The task was rather too difficult for him to complete alone.\"</span></p>"
+    },
+    {
+        "question": "<span> The music at the party was very loud, making it difficult to hold a conversation. </span>",
+        "option_1": "<span> The music at the party was </span>",
+        "option_2": "<span> very loud, making it </span>",
+        "option_3": "<span> difficult to hold a conversation. </span>",
+        "option_4": "<span> No error</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> Here, \"too\" is used to indicate that the volume of the music exceeds what is considered appropriate or desirable. It means \"excessively\" or \"more than necessary.\" So, the music being \"too loud\" implies that it's louder than what is comfortable or suitable for the situation. </span><p><span>Therefore, the correct answer would be: </span><span style=\"text-decoration:underline\">“The music at the party was too loud, making it difficult to hold a conversation.” </span></p>"
+    },
+    {
+        "question": "<span> He has no one else to share his secrets with except his closest friend. </span>",
+        "option_1": "<span> He has no one else to </span>",
+        "option_2": "<span> No error </span>",
+        "option_3": "<span> share his secrets with</span>",
+        "option_4": "<span> except his closest friend </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> Else is followed by but. </span><p><span>Therefore, the correct answer would be: </span><span style=\"text-decoration:underline\">“He has no one else to share his secrets with but his closest friend.” </span></p>"
+    },
+    {
+        "question": "<span> She denied never having been to that part of town before. </span>",
+        "option_1": "<span> She denied never</span>",
+        "option_2": "<span> having been to that </span>",
+        "option_3": "<span> part of town before.</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The sentence has a double negative (\"denied\" and \"never\"), which makes it contradictory and grammatically incorrect. To correct it, we should remove one of the negatives. </span><p><span>Here's the corrected version: </span><span style=\"text-decoration:underline\">\"She denied ever having been to that part of town before.\"</span></p>"
+    },
+    {
+        "question": "<span> The artist expressed herself free through her paintings, using vibrant colors and bold strokes.</span>",
+        "option_1": "<span> The artist expressed herself free </span>",
+        "option_2": "<span> through her paintings, using </span>",
+        "option_3": "<span> vibrant colors and bold strokes. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The correct answer is: (a) The artist expressed herself free</span><p><span>The sentence contains an error in part (a). The word \"free\" should be used as an adverb in this context to modify the verb \"expressed.\" </span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"The artist expressed herself freely through her paintings, using vibrant colors and bold strokes.\" </span></p>"
+    },
+    {
+        "question": "<span> He was absent frequently from school last semester. </span>",
+        "option_1": "<span> He was </span>",
+        "option_2": "<span> absent frequently from </span>",
+        "option_3": "<span> school last semester</span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<span> According to the rule, the adverb \"frequently\" should come after the form of the verb \"to be\" (in this case, \"was\"). </span><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"He was frequently absent from school last semester.\"</span></p>"
+    },
+    {
+        "question": "<span> The fireworks exploded aloud in the night sky, creating a dazzling display of colors. </span>",
+        "option_1": "<span> in the night sky, creating </span>",
+        "option_2": "<span> a dazzling display of colors. </span>",
+        "option_3": "<span> No error</span>",
+        "option_4": "<span> The fireworks exploded aloud </span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<span> The correct answer is: (d) The fireworks exploded aloud</span><p><span>The sentence contains an error in part (d). \"Aloud\" means out loud or audibly, which doesn't fit the context of fireworks exploding. The correct word to use here is \"loudly,\" which describes the manner in which the fireworks exploded. </span></p><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"The fireworks exploded loudly in the night sky, creating a dazzling display of colors.\" </span></p>"
+    },
+    {
+        "question": "<span> The students were very appreciated for their hard work on the project. </span>",
+        "option_1": "<span> The students were very </span>",
+        "option_2": "<span> appreciated for their </span>",
+        "option_3": "<span> hard work on the project. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> The sentence contains an error in the use of \"very\" with the past participle \"appreciated.\" \"Very\" is not typically used before past participles in English. </span><p><span>Therefore, the correct sentence should be: </span><span style=\"text-decoration:underline\">\"The students were much appreciated for their hard work on the project.\" </span></p>"
+    },
+    {
+        "question": "<span> She seemed fairly frustrated with her progress on the project, as she encountered many obstacles. </span>",
+        "option_1": "<span> She seemed fairly frustrated </span>",
+        "option_2": "<span> with her progress on the project </span>",
+        "option_3": "<span> as she encountered many obstacles. </span>",
+        "option_4": "<span> No error </span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<span> In the sentence, \"fairly\" should be replaced with \"rather\" since \"rather\" is typically used with undesirable adjectives to convey a moderate degree of the quality described. </span><p><span>Therefore, the corrected sentence should be: </span><span style=\"text-decoration:underline\">\"She seemed rather frustrated with her progress on the project, as she encountered many obstacles.\"</span></p>"
+    }
+]
