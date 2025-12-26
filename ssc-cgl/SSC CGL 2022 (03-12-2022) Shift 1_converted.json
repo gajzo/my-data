@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "<p>Three different positions of the same dice are shown (figures 1 to 3). Find the number on the face opposite to the face having '1'.</p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image1.png",
+        "option_1": "<p>6</p>",
+        "option_2": "<p>4</p>",
+        "option_3": "<p>5</p>",
+        "option_4": "<p>3</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Cambria Math;\">By analyzing all the three figures given into the question we can conclude that </span><span style=\"font-family: Cambria Math;\">these are the opposite faces of the given dice.</span></p> <p><span style=\"font-family: Cambria Math;\">2 → 5</span></p> <p><span style=\"font-family: Cambria Math;\">3 → 6</span></p> <p><span style=\"font-family: Cambria Math;\">1 → 4 </span></p> <p><span style=\"font-family: Cambria Math;\">4 is opposite to 1.</span></p>"
+    },
+    {
+        "question": "<p>Select the correct mirror image of the given combination when the mirror is placed at 'PQ' as shown below.</p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image2.png",
+        "option_1": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image3.png",
+        "option_2": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image4.png",
+        "option_3": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image5.png",
+        "option_4": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image6.png",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image7.png"
+    },
+    {
+        "question": "<p>Select the figure from among the given options that can replace the question mark (?) in the following series.</p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image8.png",
+        "option_1": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image9.png",
+        "option_2": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image10.png",
+        "option_3": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image11.png",
+        "option_4": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image12.png",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image11.png"
+    },
+    {
+        "question": "<p>In a certain code language, 'MOBILE' is written as 'PRELOH' and 'SILENT' is written as 'VLOHQW', how will 'PAINTING' be written in that language?</p>",
+        "option_1": "<p>SDLQVKPI</p>",
+        "option_2": "<p>SDLQWLQJ</p>",
+        "option_3": "<p>RCKPWLQJ</p>",
+        "option_4": "<p>RCKPVKPI</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Cambria Math;\">Similarly,</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image13.png<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image14.png<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image15.png"
+    },
+    {
+        "question": "<p>Select the set in which the numbers are related in the same way as are the numbers of the following set.</p> <p><span style=\"font-weight: 400;\">(<b>NOTE:</b> Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits.)</span></p> <p><span style=\"font-weight: 400;\">(36, 90, 18)</span></p> <p><span style=\"font-weight: 400;\">(15, 35, 8)</span></p>",
+        "option_1": "<p>14, 45, 5</p>",
+        "option_2": "<p>14, 42, 7</p>",
+        "option_3": "<p>13, 78, 6</p>",
+        "option_4": "<p>12, 60, 8</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p> <p><span style=\"font-family: Cambria Math;\"><b>Logic:</b>- ( first num - third num ) × 5 = second num</span></p> <p><span style=\"font-weight: 400;\">(36, 90, 18)</span>⇒( 36-18) × 5 = 90</p> <p><span style=\"font-weight: 400;\">(15, 35, 8)</span>⇒ (15-8) × 5 = 35</p> <p><span style=\"font-family: Cambria Math;\">Similarly,</span></p> <p><span style=\"font-weight: 400;\">(14, 45, 5)</span>⇒ (14-5) × 5 = 45</p>"
+    },
+    {
+        "question": "<p>If P + Q means that P is the mother of Q, P ÷ Q means that P is the father of Q, P - Q means that P is the sister of Q, then which of the following expression shows that A is the maternal grandfather of C?</p>",
+        "option_1": "<p>B÷<span style=\"font-family: Cambria Math;\">A + C</span></p>",
+        "option_2": "<p>A - B<span style=\"font-family: Cambria Math;\">÷C</span></p>",
+        "option_3": "<p>A + B÷<span style=\"font-family: Cambria Math;\">C</span></p>",
+        "option_4": "<p>A÷<span style=\"font-family: Cambria Math;\">B + C</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><span style=\"font-family: Cambria Math;\">According to the question the following relation obtained between A, B and C, </span></p> <p><span style=\"font-family: Cambria Math;\">From the above diagram we can say that A is the maternal grandfather of C.</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image16.png"
+    },
+    {
+        "question": "<p>Select the option that is related to the fifth letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster and the fourth letter-cluster is related<span style=\"font-family: Cambria Math;\">to the third letter-cluster. </span></p> <p><span style=\"font-family: Cambria Math;\">ROAR: QZNQ :: HEAR: QZDG :: DAMP : ?</span></p>",
+        "option_1": "<p>MPAD</p>",
+        "option_2": "<p>OLZC</p>",
+        "option_3": "<p>BCOA</p>",
+        "option_4": "<p>PMAD</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Cambria Math;\">Similarly,</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image17.png<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image18.png<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image19.png"
+    },
+    {
+        "question": "<p>By Interchanging the given two numbers which of the following equation will be not correct?</p> <p><span style=\"font-family: Cambria Math;\">5 and 9</span></p>",
+        "option_1": "<p>9 <span style=\"font-family: Cambria Math;\">× 4 + 5 - 8 ÷ </span><span style=\"font-family: Cambria Math;\">2 = 25</span></p>",
+        "option_2": "<p>9 - 5×<span style=\"font-family: Cambria Math;\">4 + 6 ÷ </span><span style=\"font-family: Cambria Math;\"> 3 = - 30</span></p>",
+        "option_3": "<p>9 + 7×<span style=\"font-family: Cambria Math;\"> 8 </span><span style=\"font-family: Cambria Math;\">÷ 4 - 5 = 10</span></p>",
+        "option_4": "<p>9 - 4<span style=\"font-family: Cambria Math;\">×5 + 6 </span><span style=\"font-family: Cambria Math;\">÷ 2 = - 28</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Cambria Math;\">According to the question by interchanging 5 and 9 we found that only option (b) satisfies so as per that </span></p> <p><span style=\"font-family: Cambria Math;\">5 - 9 ×</span><span style=\"font-family: Cambria Math;\"> 4 + 6 </span><span style=\"font-family: Cambria Math;\">÷ 3</span></p> <p><span style=\"font-family: Cambria Math;\">5-36+2 = -29 (not equal to RHS)</span></p>"
+    },
+    {
+        "question": "<p>Select the figure from among the given options that can replace the question mark in the following series.</p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image20.png",
+        "option_1": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image21.png",
+        "option_2": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image22.png",
+        "option_3": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image23.png",
+        "option_4": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image24.png",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image24.png"
+    },
+    {
+        "question": "<p>Select the set in which the numbers are related in the same way as are the numbers of the following set.</p> <p><span style=\"font-weight: 400;\">(<b>NOTE:</b> Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 - Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is NOT allowed)</span></p> <p><span style=\"font-weight: 400;\">(452, 50, 63)</span></p> <p><span style=\"font-weight: 400;\">(260, 35, 30)</span></p>",
+        "option_1": "<p><span style=\"font-weight: 400;\">(330, 30, 45)</span></p>",
+        "option_2": "<p><span style=\"font-weight: 400;\">(260, 30, 25)</span></p>",
+        "option_3": "<p><span style=\"font-weight: 400;\"> (260, 50, 15)</span></p>",
+        "option_4": "<p><span style=\"font-weight: 400;\">(230, 15, 45)</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p> <p><span style=\"font-family: Cambria Math;\"><b>Logic:</b>- [ second num × 4 + third num × 4 = first num ] </span></p> <p><span style=\"font-weight: 400;\">(452, 50, 63) ⇒ 50 × 4 + 63 × 4 = 452</span></p> <p><span style=\"font-weight: 400;\">(260, 35, 30) ⇒ 35 × 4 + 30 × 4 = 260</span></p> <p><span style=\"font-family: Cambria Math;\">Similarly,</span></p> <p><span style=\"font-weight: 400;\">(260, 50, 15) ⇒ 50×4 + 15×4 = 260</span></p>"
+    },
+    {
+        "question": "<p>Three of the following letter-clusters are alike in some manner and hence form a group. Which letter-cluster does not belong to that group?</p>",
+        "option_1": "<p>CGB</p>",
+        "option_2": "<p>FYI</p>",
+        "option_3": "<p>RKU</p>",
+        "option_4": "<p>KDN</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p> <p><span style=\"font-family: Cambria Math;\">Pattern follows:- first letter + 3 = third letter and first letter - 7 = second letter</span></p> <p><span style=\"font-family: Cambria Math;\">FYI ⇒ F + 3 = I, and F-7 = Y</span></p> <p><span style=\"font-family: Cambria Math;\">RKU ⇒ R+3 = U, and R-7 = K</span></p> <p><span style=\"font-family: Cambria Math;\">KDN ⇒ K+3 = N, and K-7 = D</span></p> <p><span style=\"font-family: Cambria Math;\">CGB ⇒ C-1 = B, and C+4=G (not follows)</span></p>"
+    },
+    {
+        "question": "<p>Select the set in which the numbers are related in the same way as are the numbers of the following sets.</p> <p><span style=\"font-weight: 400;\">(<b>NOTE:</b> Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 Operations on 13 such as adding / subtracting / multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is NOT allowed)</span></p> <p><span style=\"font-weight: 400;\">(12, 42, 7)</span></p> <p><span style=\"font-weight: 400;\">(13, 52, 8)</span></p>",
+        "option_1": "<p><span style=\"font-weight: 400;\">(8, 7, 43)</span></p>",
+        "option_2": "<p>(7, 12, 6)</p>",
+        "option_3": "<p>(9, 26, 8)</p>",
+        "option_4": "<p><span style=\"font-weight: 400;\">(9, 18, 4)</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><span style=\"font-family: Cambria Math;\"><b>Logic:</b>- </span><span style=\"font-family: Cambria Math;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>f</mi><mi>i</mi><mi>r</mi><mi>s</mi><mi>t</mi><mo> </mo><mi>n</mi><mi>u</mi><mi>m</mi><mo> </mo><mo>×</mo><mo> </mo><mi>t</mi><mi>h</mi><mi>i</mi><mi>r</mi><mi>d</mi><mo> </mo><mi>n</mi><mi>u</mi><mi>m</mi></mrow><mn>2</mn></mfrac></math>= second num</span></p> <p><span style=\"font-weight: 400;\">(12, 42, 7) </span>⇒ <span style=\"font-family: Cambria Math;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>12</mn><mo>×</mo><mn>7</mn></mrow><mn>2</mn></mfrac></math>= 42</span></p> <p><span style=\"font-weight: 400;\">(13, 52, 8) </span>⇒ <span style=\"font-family: Cambria Math;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>13</mn><mo>×</mo><mn>8</mn></mrow><mn>2</mn></mfrac></math>= 52</span></p> <p><span style=\"font-weight: 400;\">(9, 18, 4) </span>⇒ <span style=\"font-family: Cambria Math;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>9</mn><mo>×</mo><mn>4</mn></mrow><mn>2</mn></mfrac></math>= 18</span></p>"
+    },
+    {
+        "question": "<p>Select the option that is related to the fifth letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster and the fourth letter-cluster is related to the third letter-cluster.</p> <p><span style=\"font-family: Cambria Math;\">WINDOW : XFOELX:: TICKET: UFDLBU :: REGION: ?</span></p>",
+        "option_1": "<p>SBHFLO</p>",
+        "option_2": "<p>SHFKLO</p>",
+        "option_3": "<p>BHFDLO</p>",
+        "option_4": "<p>HFSOKL</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p> <p><span style=\"font-family: Cambria Math;\"><b>LOGIC:</b>-[ vowel - 3 and consonant + 1 ] </span></p> <p><span style=\"font-family: Cambria Math;\">Similarly,</span></p><br>https://ssccglpinnacle.com/images/mceu_49155846411680753829587.png<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image26.png<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image27.png"
+    },
+    {
+        "question": "<p>Which of the following letter-clusters will replace the question mark (?) in the given series?</p> <p><span style=\"font-family: Cambria Math;\">DAJ, GEL, JIN, MMP, ?</span></p>",
+        "option_1": "<p>PRS</p>",
+        "option_2": "<p>QPU</p>",
+        "option_3": "<p>QRT</p>",
+        "option_4": "<p>PQR</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image28.png"
+    },
+    {
+        "question": "<p>Which two signs and two numbers should be interchanged in the following equation to make it correct?</p> <p><span style=\"font-family: Cambria Math;\">14 </span><span style=\"font-family: Cambria Math;\">× 6 ÷</span><span style=\"font-family: Cambria Math;\"> 12 + 15 - 9 = 203</span></p>",
+        "option_1": "<p>15 , 6, +, ÷</p>",
+        "option_2": "<p>12 , 15 ,- ,×</p>",
+        "option_3": "<p>12 , 9 , ÷<span style=\"font-family: Cambria Math;\"> , - </span></p>",
+        "option_4": "<p>14 , 6 ,÷<span style=\"font-family: Cambria Math;\">, ×</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p> <p><span style=\"font-family: Cambria Math;\">Given, 14</span><span style=\"font-family: Cambria Math;\">×6÷</span><span style=\"font-family: Cambria Math;\">12 + 15 - 9 = 203</span></p> <p><span style=\"font-family: Cambria Math;\">By checking the option one by one we found that only option (a) satisfies so according to that,</span></p> <p><span style=\"font-family: Cambria Math;\">14 × 15 + 12 ÷ 6 - 9 = 203(RHS)</span></p>"
+    },
+    {
+        "question": "<p>Read the given statement(s) and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement(s).</p> <p><span style=\"font-family: Cambria Math;\"><strong>Statements:</strong></span></p> <p><span style=\"font-family: Cambria Math;\">Some bulbs are switches.</span></p> <p><span style=\"font-family: Cambria Math;\">No switch is a vase.</span></p> <p><span style=\"font-family: Cambria Math;\">All fans are switches.</span></p> <p><span style=\"font-family: Cambria Math;\"><strong>Conclusions:</strong></span></p> <p><span style=\"font-family: Cambria Math;\">I. Some bulbs being fans is a possibility.</span></p> <p><span style=\"font-family: Cambria Math;\">II. No fan is a vase.</span></p> <p><span style=\"font-family: Cambria Math;\">III. All switches are fans.</span></p> <p><span style=\"font-family: Cambria Math;\">IV. No bulb is a vase.</span></p>",
+        "option_1": "<p>Only Conclusions II and III follow</p>",
+        "option_2": "<p>Only Conclusions I and II follow</p>",
+        "option_3": "<p>Only Conclusions I, II and IV follow</p>",
+        "option_4": "<p>Only Conclusion I follows</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Cambria Math;\">From the above diagram we can conclude that only conclusion I and II follows.</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image29.png"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">A # B means 'A is the mother of B'.</span></p> <p><span style=\"font-family: Cambria Math;\">A @ B means 'A is the son of B'.</span></p> <p><span style=\"font-family: Cambria Math;\">A &amp; B means 'A is the brother of B'.</span></p> <p><span style=\"font-family: Cambria Math;\">A % B means 'A is the wife of B'.</span></p> <p><span style=\"font-family: Cambria Math;\">If W # Q @ T &amp; Y @ M % K, then how is K related to W?</span></p>",
+        "option_1": "<p>Father</p>",
+        "option_2": "<p>Father-in-law</p>",
+        "option_3": "<p>Brother-in-law</p>",
+        "option_4": "<p>Brother</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Cambria Math;\">As per given instruction the following relation obtained,</span></p> <p><span style=\"font-family: Cambria Math;\">From the above diagram we can say that K is the father in law of W.</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image31.png"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusion logically follows the given statements.</span></p> <p><strong><span style=\"font-family: Cambria Math;\">Statements:</span></strong></p> <p><span style=\"font-family: Cambria Math;\">I. Some W are F.</span></p> <p><span style=\"font-family: Cambria Math;\">II. Some R are F.</span></p> <p><strong><span style=\"font-family: Cambria Math;\"><b>Conclusion:</b></span></strong></p> <p><span style=\"font-family: Cambria Math;\">I. Some R are not W.</span></p> <p><span style=\"font-family: Cambria Math;\">II. No W is R.</span></p>",
+        "option_1": "<p>Only conclusion I follows</p>",
+        "option_2": "<p>Both conclusions I and II follows</p>",
+        "option_3": "<p>Only conclusion II follows</p>",
+        "option_4": "<p>Neither conclusion follows</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><span style=\"font-family: Cambria Math;\">As per above diagram we can say that neither conclusion follows. </span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image32.png"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">In a certain code language, 'BREAK' is written as '2182111' and 'COLOUR' is written as '34124518'. How will 'TRING' be written in that language?</span></p>",
+        "option_1": "<p>20181347</p>",
+        "option_2": "<p>20189147</p>",
+        "option_3": "<p>20183147</p>",
+        "option_4": "<p>20183174</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p> <p><span style=\"font-family: Cambria Math;\">Logic : All consonants are written as their place value and all vowels are written as their vowel position value i.e A, E, I, O, U </span><span style=\"font-family: Cambria Math;\">1, 2, 3, 4, 5</span></p> <p><span style=\"font-family: Cambria Math;\">Similarly,</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image33.png<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image34.png<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image35.png"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">Select the correct combination of mathematical signs to sequentially replace the * signs and to balance the given equation.</span></p> <p><span style=\"font-family: Cambria Math;\">20 * 2 * 50 * 5 * 115</span></p>",
+        "option_1": "<p>-, × ,=,+</p>",
+        "option_2": "<p>+, × ,= ,-</p>",
+        "option_3": "<p>+, × ,- , =</p>",
+        "option_4": "<p>-, × ,+, =</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p> <p><span style=\"font-family: Cambria Math;\">Given, </span><span style=\"font-family: Cambria Math;\">20 * 2 * 50 * 5 * 115</span></p> <p><span style=\"font-family: Cambria Math;\">By checking all the option one by one we found that only option (c) satisfies so as per that,</span></p> <p><span style=\"font-family: Cambria Math;\">20 + 2 × 50 - 5 = 115 </span></p> <p><span style=\"font-family: Cambria Math;\">LHS = RHS</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">Select the option that represents the correct order of the given words as they would appear in an English dictionary.</span></p> <p><span style=\"font-family: Cambria Math;\">1- Expensive</span></p> <p><span style=\"font-family: Cambria Math;\">2- Expedition</span></p> <p><span style=\"font-family: Cambria Math;\">3- Experience</span></p> <p><span style=\"font-family: Cambria Math;\">4- Expel</span></p> <p><span style=\"font-family: Cambria Math;\">5- Expenditure</span></p>",
+        "option_1": "<p>2, 4, 5, 1, 3</p>",
+        "option_2": "<p>2, 4, 5, 3, 1</p>",
+        "option_3": "<p>5, 2, 1, 4, 3</p>",
+        "option_4": "<p>4, 2, 5, 1, 3</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p> <p><span style=\"font-family: Cambria Math;\"> Expedition → Expel → Expenditure → Expensive → Experience</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.</span></p> <p><span style=\"font-family: Cambria Math;\">RMTS, WGAK, BAHC, GUOU, ?</span></p>",
+        "option_1": "<p>LMNO</p>",
+        "option_2": "<p>LOVM</p>",
+        "option_3": "<p>LOVQ</p>",
+        "option_4": "<p>LMNQ</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image36.png"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">Select the option in which the given figure is embedded (rotation is NOT allowed).</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image37.png",
+        "option_1": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image38.png",
+        "option_2": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image39.png",
+        "option_3": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image40.png",
+        "option_4": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image41.png",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image39.png"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">In the following question, select the missing number from the given series.</span></p> <p><span style=\"font-family: Cambria Math;\"> 1, 22, 44, 67, 91, ?</span></p>",
+        "option_1": "<p>116</p>",
+        "option_2": "<p>106</p>",
+        "option_3": "<p>115</p>",
+        "option_4": "<p>118</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image42.png"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">In the following question, four number pairs are given. In each pair the number on left side of (-) is related to the number of the right side of (-) with some Logic/Rule/Relation. Three pairs are similar on basis of same Logic/Rule/Relation. Select the odd one out from the given alternatives. (<b>NOTE:</b> Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g.13 - Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)</span></p>",
+        "option_1": "<p>7 - 71</p>",
+        "option_2": "<p>11 - 111</p>",
+        "option_3": "<p>8 - 81</p>",
+        "option_4": "<p>12 - 167</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><span style=\"font-family: Cambria Math;\">Pattern follows:-[ first num × 10 + 1 = second num ]</span></p> <p><span style=\"font-weight: 400;\">( 7 - 71 ) ⇒ 7 × 10 + 1 = 71</span></p> <p><span style=\"font-weight: 400;\">(11 - 111 ) ⇒ 11 × 10 +1 =111</span></p> <p><span style=\"font-weight: 400;\">(8 - 81 ) ⇒ 8×10+1 = 81</span></p> <p><span style=\"font-weight: 400;\">(12 - 167) ⇒ 12 × 10+1 = 121 (not follows)</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">Any natural mass of mineral matter that makes up the earth's crust is</span><span style=\"font-family: Cambria Math;\">.</span></p>",
+        "option_1": "<p>Garbage</p>",
+        "option_2": "<p>Rock</p>",
+        "option_3": "<p>Stone</p>",
+        "option_4": "<p>Fossil</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Rock</strong>.<span style=\"font-family: Cambria Math;\"> Types of rocks include </span><span style=\"font-family: Cambria Math;\"><strong>Igneous rocks</strong></span><span style=\"font-family: Cambria Math;\"><strong> </strong>(formed by the solidification of magma and lava), </span><span style=\"font-family: Cambria Math;\"><strong>Sedimentary rock</strong></span><span style=\"font-family: Cambria Math;\"><strong>s </strong>(formed by deposition of fragments of rocks by exogenous processes), and</span><span style=\"font-family: Cambria Math;\"> <strong>Metamorphic rocks</strong></span><span style=\"font-family: Cambria Math;\"><strong> </strong>(</span><span style=\"font-family: Cambria Math;\">formed when rocks are subjected to high heat, high pressure</span><span style=\"font-family: Cambria Math;\">). </span><span style=\"font-family: Cambria Math;\"><strong>Fossils are an animal</strong></span><span style=\"font-family: Cambria Math;\"><strong> </strong>or plant that lived thousands of years ago which has turned into rock. The branch of biology that deals with the study of fossils is called </span><strong><span style=\"font-family: Cambria Math;\">paleontology</span></strong><span style=\"font-family: Cambria Math;\">.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">Rajashree Shirke was given which of the following prestigious dance awards of 2013 for her excellence in Kathak?</span></p>",
+        "option_1": "<p>Sangeet Natak Academy Award</p>",
+        "option_2": "<p>Padma Shri</p>",
+        "option_3": "<p>Kalidas Samman</p>",
+        "option_4": "<p>National Film Award</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Rajashree Shirke </strong><span style=\"font-family: Cambria Math;\">(kathak dancer) won Sangeet Natak Academy Award in 2013. </span><strong><span style=\"font-family: Cambria Math;\">Awards and Honors:</span></strong><span style=\"font-family: Cambria Math;\"> Mumbai Mayor's Award for Women Achievers of the Year, Best Shikshak for the year 2007, and Title \"</span><strong><span style=\"font-family: Cambria Math;\">Khosrovani</span></strong><span style=\"font-family: Cambria Math;\">\" by Halim Academy of Sitar. </span><span style=\"font-family: Cambria Math;\"><strong>Shambhu Maharaj</strong></span><span style=\"font-family: Cambria Math;\"><strong> </strong>was the first Kathak dancer to win Sangeet Natak Academy Award in 1955. </span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">Who was the captain of the Indian hockey men's team at Olympic 2020?</span></p>",
+        "option_1": "<p>Manpreet Singh</p>",
+        "option_2": "<p>Amit Rohidas</p>",
+        "option_3": "<p>Sreejesh Ravindran</p>",
+        "option_4": "<p>Krishan B Pathak</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family: Cambria Math;\"><strong>Manpreet Singh</strong>. <strong>Olympic 2020 Indian winners: </strong></span><span style=\"font-family: Cambria Math;\">Neeraj Chopra (Javelin Throw, Gold), Ravi Dahiya (Wrestling (57 Kgs), Silver), Mirabai Chanu (Weightlifting for Women (49 Kgs), Silver), PV Sindhu (Women’s Single Badminton, Bronze), Indian Hockey Team (Hockey, Bronze), Lovlina Borgohain (Women’s Welterweight Boxing, Bronze), Bajrang Punia (Wrestling (65 Kgs), Bronze). </span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">An exponent of Hindustani classical music, Gangubai Hangal was an eminent singer to have hailed from the</span><span style=\"font-family: Cambria Math;\"> gharana of the Hindustani Khyal family.</span></p>",
+        "option_1": "<p>Patiala</p>",
+        "option_2": "<p>Kirana</p>",
+        "option_3": "<p>Agra</p>",
+        "option_4": "<p>Gwalior</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Gangubai Hangal </strong><span style=\"font-family: Cambria Math;\">(Karnataka) belonged to the </span><strong><span style=\"font-family: Cambria Math;\">Kirana </span></strong><span style=\"font-family: Cambria Math;\">gharana.</span><span style=\"font-family: Cambria Math;\"> <strong>Awards and Honors:</strong></span><span style=\"font-family: Cambria Math;\"><strong> </strong>Karnataka Sangeetha Nritya Academy Award (1962), Padma Bhushan (1971), Sangeet Natak Akademi Award (1973), Sangeet Natak Akademi Fellowship (1996), and Padma Vibhushan (2002). </span></p>"
+    },
+    {
+        "question": "<p>If we deduct depreciation from GNP the measure of aggregate income that we obtain is called<span style=\"font-family: Cambria Math;\">.</span></p>",
+        "option_1": "<p>Gross Domestic Product at market prices</p>",
+        "option_2": "<p>Gross Domestic Product</p>",
+        "option_3": "<p>Net National Product</p>",
+        "option_4": "<p>Personal income</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>NNP = GNP – Depreciation</strong>. <strong>Net national product</strong><span style=\"font-family: Cambria Math;\"> (NNP) is the market value of all the finished goods and services that are produced by citizens of a nation, living domestically and internationally during a year. Gross Domestic Product at market prices is called Nominal GDP. Gross Domestic Product at constant price is called Real GDP. </span><strong><span style=\"font-family: Cambria Math;\">Personal Income </span></strong><span style=\"font-family: Cambria Math;\">= National Income - Corporate Income Taxes-Undistributed Corporate Profits- Social Security Contribution +Transfer </span><span style=\"font-family: Cambria Math;\">Payments. </span><strong><span style=\"font-family: Cambria Math;\">GDP </span></strong><span style=\"font-family: Cambria Math;\">= C+I+G+(X-M) (C=Consumption, I=Investment, G=Government expenditure , and (X - M) =Export minus import). </span></p>"
+    },
+    {
+        "question": "<p>The chemical formula of borax is<span style=\"font-family: Cambria Math;\">.</span></p>",
+        "option_1": "<p><math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Na</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">B</mi><mn>5</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>7</mn></msub><mo>.</mo><mn>10</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math></p>",
+        "option_2": "<p><math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Na</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">B</mi><mn>4</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>7</mn></msub><mo>.</mo><mn>10</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math></p>",
+        "option_3": "<p><math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Na</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">B</mi><mn>4</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>7</mn></msub><mo>.</mo><mn>5</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math></p>",
+        "option_4": "<p><math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Na</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">B</mi><mn>4</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>7</mn></msub><mo>.</mo><mn>12</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) Borax<span style=\"font-family: Cambria Math;\">(</span><span style=\"font-family: Cambria Math;\">tincal, sodium tetraborate decahydrate</span><span style=\"font-family: Cambria Math;\">)</span><span style=\"font-family: Cambria Math;\"> is a natural mineral and a salt of boric acid. It is also known as sodium borate, sodium tetraborate, or disodium tetraborate. It is an important boron compound and its chemical</span><span style=\"font-family: Cambria Math;\">formula </span><math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>Na</mi><mn>2</mn></msub><msub><mi mathvariant=\"normal\">B</mi><mn>4</mn></msub><msub><mi mathvariant=\"normal\">O</mi><mn>7</mn></msub><mo>·</mo><mn>10</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math><span style=\"font-family: Cambria Math;\"> . It can be used in the testing of cleaning agent, insecticide, water softening agent and diabetes mellitus.</span></p>"
+    },
+    {
+        "question": "<p>32<span style=\"font-family: Cambria Math;\">. OYO partnered with the Jammu and Kashmir administration to launch a rural tourism initiative. What is this initiative called?</span></p>",
+        "option_1": "<p>Weaving a Better Future</p>",
+        "option_2": "<p>Crown of Incredible India</p>",
+        "option_3": "<p>Shared Planet</p>",
+        "option_4": "<p>United India</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<span style=\"font-family: Cambria Math;\"> Hospitality tech company</span><span style=\"font-family: Cambria Math;\"> <strong>OYO</strong></span><span style=\"font-family: Cambria Math;\"><strong> </strong>partnered with the </span><span style=\"font-family: Cambria Math;\"><strong>Jammu and</strong> <strong>Kashmir</strong></span><span style=\"font-family: Cambria Math;\"> administration to launch a rural tourism initiative, 'Crown of Incredible India', across the Union Territory to give a boost to the distressed tourism industry and turn the youth into start-up entrepreneurs in J&amp;K. </span><strong><span style=\"font-family: Cambria Math;\">Lieutenant Governor:</span></strong><span style=\"font-family: Cambria Math;\"> Manoj Sinha (As of December 2022). ‘Weaving a better future for Cotton 'is the theme of World cotton Day 2022 (October 7). </span></p>"
+    },
+    {
+        "question": "<p>Chief Minister Shramik Kalyan Prakalp scheme was launched by Amit Shah for women<span style=\"font-family: Cambria Math;\">of </span><span style=\"font-family: Cambria Math;\">.</span></p>",
+        "option_1": "<p>Bihar</p>",
+        "option_2": "<p>Tripura</p>",
+        "option_3": "<p>Haryana</p>",
+        "option_4": "<p>Jharkhand</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<span style=\"font-family: Cambria Math;\">The </span><strong><span style=\"font-family: Cambria Math;\">Tripura </span></strong><span style=\"font-family: Cambria Math;\">government announced a special scheme named </span><span style=\"font-family: Cambria Math;\">“<strong>Mukhyamantri Chaa Shramik Kalyan Prakalp</strong></span><span style=\"font-family: Cambria Math;\">” 10th March 2022. The scheme aims to ensure the social security of around 7,000 Tripura’s tea garden workers. Among 7,000 tea garden workers of Tripura, 75% are women.</span></p>"
+    },
+    {
+        "question": "<p>Players that stop dribbling in handball have to pass or shot within:</p>",
+        "option_1": "<p> 5 second</p>",
+        "option_2": "<p> 30 second </p>",
+        "option_3": "<p> 10 second</p>",
+        "option_4": "<p> 3 second</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<span style=\"font-family:Cambria Math\"> If a </span><span style=\"font-family:Cambria Math\">handball </span><span style=\"font-family:Cambria Math\">player takes more than </span><span style=\"font-family:Cambria Math\">three steps</span><span style=\"font-family:Cambria Math\"> without dribbling (bouncing the ball) or holds the ball for more than </span><span style=\"font-family:Cambria Math\">3 seconds</span><span style=\"font-family:Cambria Math\"> without bouncing it, shooting or passing, then that is deemed </span><span style=\"font-family:Cambria Math\">'walking' </span><span style=\"font-family:Cambria Math\">and possession is </span><span style=\"font-family:Cambria Math\">lost</span><span style=\"font-family:Cambria Math\">. </span><span style=\"font-family:Cambria Math\">Terminology </span><span style=\"font-family:Cambria Math\">used in Handball: Court player, Goalie, Corner Throw, Corner Throw, Free throw, Penalty throw, Referee’s throw, Dive shot, Goal, Throw-in, Throw-on, Throw out, etc. </span></p>"
+    },
+    {
+        "question": "<p>Which of the following sequence is correct with respect to the Delhi Dynasties?</p>",
+        "option_1": "<p>Khalji dynasty, Lodi dynasty, Sayyid dynasty</p>",
+        "option_2": "<p>Tughluq dynasty, Khalji dynasty, Sayyid dynasty</p>",
+        "option_3": "<p>Early Turkish Rulers, Rajput dynasties, Khalji dynasty</p>",
+        "option_4": "<p>Rajput dynasties, Khalji dynasty, Tughluq dynasty</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>The Rulers of Delhi: Rajput Dynasties</strong> {<span style=\"font-family: Cambria Math;\">Tomaras (1165), Ananga Pala (1130 - 1145), Chauhans (1165 - 1192), Prithviraj Chauhan (1175 - 1192)}, </span><strong><span style=\"font-family: Cambria Math;\">Early Turkish Rulers/ Mamluk dynasty</span></strong><span style=\"font-family: Cambria Math;\"> {Qutbuddin Aibak (1206 - 1210), Shamsuddin Iltutmish: (1210 - 1236), Raziyya (1236 - 1240), Ghiyasuddin Balban (1266 - 1287)}, </span><span style=\"font-family: Cambria Math;\"><strong>Khilji Dynasty </strong></span><span style=\"font-family: Cambria Math;\">{Jalaluddin Khalji (1290 - 1296), Alauddin Khalji (1296 - 1316)}, </span><span style=\"font-family: Cambria Math;\"><strong>Tughlaq Dynasty</strong></span><span style=\"font-family: Cambria Math;\"><strong> </strong>{Ghiyasuddin Tughlaq (1320 - 1324), Muhammad Tughluq (1324 - 1351), Firuz Shah Tughluq (1351 - 1388)}, </span><span style=\"font-family: Cambria Math;\"><strong>Sayyid Dynasty</strong></span><span style=\"font-family: Cambria Math;\"><strong> </strong>{Khizr Khan (1414 - 1421)}, </span><span style=\"font-family: Cambria Math;\"><strong>Lodhi</strong> <strong>Dynasty</strong></span><span style=\"font-family: Cambria Math;\"><strong> </strong>{Bahlul Lodi (1451 - 1489)}. </span></p>"
+    },
+    {
+        "question": "<p>Which of the following is NOT a classification of E-Commerce?</p>",
+        "option_1": "<p><span style=\"font-weight: 400;\"> B2C (Business-to-Consumer)</span></p>",
+        "option_2": "<p><span style=\"font-weight: 400;\">D2D (Distributor-to-Distributor)</span></p>",
+        "option_3": "<p><span style=\"font-weight: 400;\">C2C (Consumer-to-Consumer)</span></p>",
+        "option_4": "<p><span style=\"font-family: Cambria Math;\"><span style=\"font-weight: 400;\">B2B (Business-to-Business)</span> </span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<span style=\"font-family: Cambria Math;\"> <strong>D2D (Distributor-to-Distributor)</strong>. </span><strong><span style=\"font-family: Cambria Math;\">Types </span></strong><span style=\"font-family: Cambria Math;\">of e - commerce include </span><strong><span style=\"font-family: Cambria Math;\">B2C</span></strong><span style=\"font-family: Cambria Math;\"> (Business to Consumer), </span><strong><span style=\"font-family: Cambria Math;\">B2B</span></strong><span style=\"font-family: Cambria Math;\"> (Business to business), </span><strong><span style=\"font-family: Cambria Math;\">C2C</span></strong><span style=\"font-family: Cambria Math;\"><strong> </strong>(Consumer to Consumer), </span><strong><span style=\"font-family: Cambria Math;\">P2P</span></strong><span style=\"font-family: Cambria Math;\"><strong> </strong>(Peer to Peer), and </span><strong><span style=\"font-family: Cambria Math;\">M - Commerce</span></strong><span style=\"font-family: Cambria Math;\"> (Mobile Commerce). </span><strong><span style=\"font-family: Cambria Math;\">Examples </span></strong><span style=\"font-family: Cambria Math;\">of E-Commerce are Amazon, Flipkart, eBay, Fiverr, Upwork, Olx, Quikr, etc. </span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">takes oath as new Meghalaya Governor in October 2022.</span></p>",
+        "option_1": "<p>B.D. Mishra</p>",
+        "option_2": "<p>AK Anil Kumar</p>",
+        "option_3": "<p>Prashant Kumar</p>",
+        "option_4": "<p>Sunil Barthwal</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>B.D Mishra</strong> <span style=\"font-family: Cambria Math;\">(former brigadier of the Indian Army) sworn in as new Meghalaya Governor in October 2022. He is also the current governor of Arunachal Pradesh (assumed office on 3 October 2017). </span><span style=\"font-family: Cambria Math;\"><strong>As of December</strong> <strong>2022</strong></span><span style=\"font-family: Cambria Math;\">: AK Anil Kumar (Vice president of International Astronautical Foundation), Prashant Kumar (CEO of Yes Bank), </span><span style=\"font-family: Cambria Math;\">Sunil Barthwal (Commerce Secretary). </span></p>"
+    },
+    {
+        "question": "<p>There are<span style=\"font-family: Cambria Math;\"> main types of cell division.</span></p>",
+        "option_1": "<p>4</p>",
+        "option_2": "<p>2</p>",
+        "option_3": "<p>3</p>",
+        "option_4": "<p>5</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<span style=\"font-family: Cambria Math;\"> There are mainly </span><span style=\"font-family: Cambria Math;\"><strong>two types </strong></span><span style=\"font-family: Cambria Math;\">of cell division, such as <strong>Mitosis </strong>and Meiosis. </span><span style=\"font-family: Cambria Math;\">Mitosis</span><span style=\"font-family: Cambria Math;\">: The process cells use to make exact replicas of themselves. Mitosis is observed in almost all the body’s cells, including eyes, skin, hair, and muscle cells. </span><strong><span style=\"font-family: Cambria Math;\">Meiosis</span></strong><span style=\"font-family: Cambria Math;\">: In this type of cell division, sperm or egg cells are produced instead of identical daughter cells as in mitosis. </span><strong><span style=\"font-family: Cambria Math;\">Binary Fission:</span></strong><span style=\"font-family: Cambria Math;\"> Single-celled organisms like bacteria replicate themselves for reproduction.</span></p>"
+    },
+    {
+        "question": "<p>The first session of Indian National congress was held at<span style=\"font-family: Cambria Math;\">.</span></p>",
+        "option_1": "<p>Bombay</p>",
+        "option_2": "<p>Madras</p>",
+        "option_3": "<p>Calcutta</p>",
+        "option_4": "<p>Surat</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>First </strong><span style=\"font-family: Cambria Math;\">session of Congress was held at </span><strong><span style=\"font-family: Cambria Math;\">Bombay </span></strong><span style=\"font-family: Cambria Math;\">in 1885 under the presidency of W.C. Bannerjee. 1st session attended by 72 delegates. The Indian National Congress was founded at Bombay in December 1885. Other Congress sessions held in </span><strong><span style=\"font-family: Cambria Math;\">Bombay </span></strong><span style=\"font-family: Cambria Math;\">were in 1889 (President - Sir William Wedderburn), 1904 (Sir Henry Cotton), 1915 (Satyendra Prasanna Sinha), 1918 (Syed Hasan Imam, August/September), and 1934 (Rajendra Prasad). In </span><strong><span style=\"font-family: Cambria Math;\">1915</span></strong><span style=\"font-family: Cambria Math;\">, another session of congress was held in December (Delhi, Madan Mohan Malaviya). </span></p>"
+    },
+    {
+        "question": "<p>An electric current is expressed by a unit called<span style=\"font-family: Cambria Math;\">.</span></p>",
+        "option_1": "<p>meter</p>",
+        "option_2": "<p>ampere</p>",
+        "option_3": "<p>watt</p>",
+        "option_4": "<p>joule</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Electric current</strong><span style=\"font-family: Cambria Math;\"> is defined as the rate of flow of electrons in a conductor. The SI Unit of electric current is the </span><strong><span style=\"font-family: Cambria Math;\">Ampere</span></strong><span style=\"font-family: Cambria Math;\"><strong> </strong>(1 ampere = 1 coulomb / 1 second). Electric current is a </span><span style=\"font-family: Cambria Math;\">scalar </span><span style=\"font-family: Cambria Math;\">quantity. </span><span style=\"font-family: Cambria Math;\">Metre </span><span style=\"font-family: Cambria Math;\">is the SI unit of length. </span><span style=\"font-family: Cambria Math;\">Watt </span><span style=\"font-family: Cambria Math;\">(W), is the SI unit of power, One joule of energy transferred in a second is equal to 1 watt. </span><strong><span style=\"font-family: Cambria Math;\">Joule </span></strong><span style=\"font-family: Cambria Math;\">is the SI unit of energy, One joule is defined as the amount of energy exerted when a force of one newton is applied over a displacement of one meter.</span></p>"
+    },
+    {
+        "question": "<p>How thick is the lithosphere?</p>",
+        "option_1": "<p>25 to 45 kilometres</p>",
+        "option_2": "<p>10 to 25 kilometres</p>",
+        "option_3": "<p>10 to 200 kilometres</p>",
+        "option_4": "<p>5 to 10 kilometres</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family: Cambria Math;\">The </span><span style=\"font-family: Cambria Math;\"><strong>lithosphere </strong>(10-200 km) </span><span style=\"font-family: Cambria Math;\">is the outermost and mechanical layer of the Earth that consists of the entire crust and the top-most portion of the mantle. </span><strong><span style=\"font-family: Cambria Math;\">Mechanically</span></strong><span style=\"font-family: Cambria Math;\">, the earth’s layers can be divided into lithosphere, asthenosphere (80-200 km), mesospheric mantle , outer core, and inner core. </span><strong><span style=\"font-family: Cambria Math;\">Chemically</span></strong><span style=\"font-family: Cambria Math;\">, Earth can be divided into the crust (8-40 kms), upper mantle (640 km), lower mantle (660 - 2700), outer core (2200 km), and inner core (1200 km).</span></p>"
+    },
+    {
+        "question": "<p>Who among the following is related to the musical instrument Santoor?</p>",
+        "option_1": "<p>Pandit Shivkumar Sharma</p>",
+        "option_2": "<p>Pandit Ravishankar Prasad</p>",
+        "option_3": "<p>Pandit Hariprasad Chaurasia</p>",
+        "option_4": "<p>Pandit Jasraj</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family: Cambria Math;\"> Pandit Shivkumar Sharma was a </span><strong><span style=\"font-family: Cambria Math;\">Santoor </span></strong><span style=\"font-family: Cambria Math;\">player. </span><span style=\"font-family: Cambria Math;\"><strong>Awards and Honors:</strong> </span><span style=\"font-family: Cambria Math;\">Sangeet Natak Akademi Award (1986), the Padma Shri (1991), and the Padma Vibhushan (2001). As a music composer, he collaborated with Indian </span><strong><span style=\"font-family: Cambria Math;\">flutist Hariprasad Chaurasia </span></strong><span style=\"font-family: Cambria Math;\">under the collaborative name </span><span style=\"font-family: Cambria Math;\"><strong>Shiv</strong>–<strong>Hari</strong>.</span><span style=\"font-family: Cambria Math;\"> Pandit Ravishankar Prasad (<strong>Sitar player</strong>) and Pandit Jasraj (<strong>tabla</strong> <strong>player</strong>). </span></p>"
+    },
+    {
+        "question": "<p>Chemical formula of magnesium oxide is<span style=\"font-family: Cambria Math;\">.</span></p>",
+        "option_1": "<p><math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>MgCO</mi><mn>3</mn></msub></math></p>",
+        "option_2": "<p><math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>MgO</mi><mn>2</mn></msub></math></p>",
+        "option_3": "<p>MgO</p>",
+        "option_4": "<p><math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo> </mo><mi>Mg</mi><msub><mrow><mo>(</mo><mi>OH</mi><mo>)</mo></mrow><mn>2</mn></msub></math></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Magnesium Oxide (MgO)</strong><span style=\"font-family: Cambria Math;\"> can be used as an antacid to relieve heartburn, sour stomach, or acid indigestion. </span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mi>g</mi><mi>C</mi><msub><mi>O</mi><mn>3</mn></msub></math><span style=\"font-family: Cambria Math;\">(Magnesium Carbonate), </span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>M</mi><mi>g</mi><msub><mi>O</mi><mn>2</mn></msub></math><span style=\"font-family: Cambria Math;\"> (Magnesium dioxide), and </span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo> </mo><mi>M</mi><mi>g</mi><msub><mrow><mo>(</mo><mi>O</mi><mi>H</mi><mo>)</mo></mrow><mn>2</mn></msub></math><span style=\"font-family: Cambria Math;\">(Magnesium hydroxide). </span></p>"
+    },
+    {
+        "question": "<p>The Constitution forbids employment of children below the age of <span style=\"font-family: Cambria Math;\">years in dangerous jobs like factories and mines.</span></p>",
+        "option_1": "<p>15</p>",
+        "option_2": "<p>14</p>",
+        "option_3": "<p>16</p>",
+        "option_4": "<p>18</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Article 24</strong><span style=\"font-family: Cambria Math;\"> strictly prohibits the employment of children below the </span><span style=\"font-family: Cambria Math;\">age of</span><span style=\"font-family: Cambria Math;\">14</span><span style=\"font-family: Cambria Math;\"> in any hazardous industry or factories or mines, without exception. The</span><span style=\"font-family: Cambria Math;\"> <strong>Child Labour </strong>(<strong>Prohibition and Regulation</strong>) <strong>Act, 1986</strong></span><span style=\"font-family: Cambria Math;\"> (renamed as Child &amp; Adolescent Labour (Prohibition and Regulation) Act, 1986 in 2016) specifically deals with the violations of related to this right. </span><strong><span style=\"font-family: Cambria Math;\">Article 23 and 24</span></strong><span style=\"font-family: Cambria Math;\"> of Indian Constitution deal with the Right against Exploitation. The</span><span style=\"font-family: Cambria Math;\"> <strong>Article 23</strong></span><span style=\"font-family: Cambria Math;\"> of the Indian Constitution prohibits human trafficking and begar (forced labor without payment) to protect the millions of underprivileged and deprived people of the country.</span></p>"
+    },
+    {
+        "question": "<p>Which of the following is not a natural fibre?</p>",
+        "option_1": "<p>Linen</p>",
+        "option_2": "<p>Cotton</p>",
+        "option_3": "<p>Rayon</p>",
+        "option_4": "<p>Jute</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family: Cambria Math;\">Examples of </span><span style=\"font-family: Cambria Math;\"><strong>Natural fibres</strong></span><span style=\"font-family: Cambria Math;\"><strong> </strong>(Fibres obtained from natural sources like plants and animals) include : Cotton, Silk, Wool, Linen, Jute and Hemp. Examples of</span><span style=\"font-family: Cambria Math;\"> <strong>Artificial fibres</strong></span><span style=\"font-family: Cambria Math;\"><strong> </strong>( Fibres which are manufactured in laboratories) include </span><span style=\"font-family: Cambria Math;\">Rayon</span><span style=\"font-family: Cambria Math;\">, Nylon, Polyester, Acrylic and Aramid.</span></p>"
+    },
+    {
+        "question": "<p>Which of the following statements is NOT correct with reference to the election of the President of India?</p>",
+        "option_1": "<p>He/She is indirectly elected by the elected MLAs and MPs.</p>",
+        "option_2": "<p>The President is elected for a period of five years.</p>",
+        "option_3": "<p><span style=\"font-weight: 400;\">All doubts and disputes in connection with the President's election can be inquired into and decided by both the Supreme Court and the High Courts.</span></p>",
+        "option_4": "<p>The election takes place in accordance with the principle of proportional representation.</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family: Cambria Math;\">Any dispute related to the election of the </span><strong><span style=\"font-family: Cambria Math;\">President </span></strong><span style=\"font-family: Cambria Math;\">is taken up by the </span><span style=\"font-family: Cambria Math;\">Supreme Court,</span><span style=\"font-family: Cambria Math;\"> the <strong>Supreme Court</strong>’s decision is final. </span><span style=\"font-family: Cambria Math;\">The fixed value of each vote by an </span><strong><span style=\"font-family: Cambria Math;\">MP</span></strong><span style=\"font-family: Cambria Math;\"><strong> </strong>of the Rajya Sabha and the Lok Sabha is </span><strong><span style=\"font-family: Cambria Math;\">700</span></strong><span style=\"font-family: Cambria Math;\">. The value of each </span><strong><span style=\"font-family: Cambria Math;\">MLAs </span></strong><span style=\"font-family: Cambria Math;\">vote is determined by dividing the population of the State by the number of MLAs in its legislative Assembly, and the quotient achieved is further divided by 1000. </span><span style=\"font-family: Cambria Math;\"><strong>Articles related to Presidential Election</strong>: </span><span style=\"font-family: Cambria Math;\">Article 54 (Election of President), Article 55 (Manner of election of President), Article 56 (Term of office of President), Article 57 (Eligibility for re-election), and Article 58 (Qualifications for election as President). </span></p>"
+    },
+    {
+        "question": "<p>Which of the following is celebrated as the New Year in Tamil Nadu?</p>",
+        "option_1": "<p>Pongal</p>",
+        "option_2": "<p>Puthandu</p>",
+        "option_3": "<p>Ugadi</p>",
+        "option_4": "<p>Onam</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Puthandu </strong><span style=\"font-family: Cambria Math;\">(Puthuvarudam, Tamil New Year), is the first day of the first Tamil month, </span><strong><span style=\"font-family: Cambria Math;\">Chittirai </span></strong><span style=\"font-family: Cambria Math;\">(14 April) on the Tamil calendar, celebrated as a festival by Tamil Hindus of Tamil Nadu and Puducherry. </span><strong><span style=\"font-family: Cambria Math;\">Pongal </span></strong><span style=\"font-family: Cambria Math;\">(Tai Pongal) is a 3 -4 days Hindu </span><span style=\"font-family: Cambria Math;\">harvest festival </span><span style=\"font-family: Cambria Math;\">celebrated by Tamils in India (Tamil Nadu, Karnataka, Kerala, and Andhra Pradesh, Telangana and Puducherry) and Sri Lanka.</span><span style=\"font-family: Cambria Math;\"> <strong>Ugadi festival</strong> </span><span style=\"font-family: Cambria Math;\">(new year festival, celebrated in states of Andhra Pradesh, Karnataka and Telangana). </span><span style=\"font-family: Cambria Math;\">Onam </span><span style=\"font-family: Cambria Math;\">(Harvest festival of Kerala). </span></p>"
+    },
+    {
+        "question": "<p>In the early eleventh century, the Chola king Rajendra I built a Shiva temple and filled it<span style=\"font-family: Cambria Math;\">with a Sun-pedestal seized from the ______.</span></p>",
+        "option_1": "<p>Palas</p>",
+        "option_2": "<p>Vakatakas</p>",
+        "option_3": "<p>Chalukyas</p>",
+        "option_4": "<p>Kalingas</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family: Cambria Math;\">Chola king </span><span style=\"font-family: Cambria Math;\"><strong>Rajendra-I</strong> </span><span style=\"font-family: Cambria Math;\">(reigned between 1014 and 1044 CE) built a Shiva temple in his capital, </span><span style=\"font-family: Cambria Math;\"><strong>Gangaikondacholapuram</strong> </span><span style=\"font-family: Cambria Math;\">(north Tamil Nadu) and filled it with prized statues seized from defeated rulers such as </span><strong><span style=\"font-family: Cambria Math;\">Sun-pedestal (Chalukyas)</span></strong><span style=\"font-family: Cambria Math;\">, a Ganesha statue and several statues of Durga, a Nandi statue, an image of Bhairava and Bhairavi </span><span style=\"font-family: Cambria Math;\">(Kalingas of Orissa)</span><span style=\"font-family: Cambria Math;\">, and a Kali statue</span><span style=\"font-family: Cambria Math;\"> (Palas of Bengal).</span></p>"
+    },
+    {
+        "question": "<p>Which of the following offices was NOT held by the poet Harishena?</p>",
+        "option_1": "<p>Sandhi-vigrahika</p>",
+        "option_2": "<p>Maha-danda-nayaka</p>",
+        "option_3": "<p>Nagara-shreshthi</p>",
+        "option_4": "<p>Kumar-amatya</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Nagara-shreshthi</strong> <span style=\"font-family: Cambria Math;\">(chief banker or merchant).</span><span style=\"font-family: Cambria Math;\"> <strong>Offices held by Poet Harishena: </strong></span><span style=\"font-family: Cambria Math;\">Maha-danda-Nayaka (chief judicial officer), Kumar-amatya (important minister) and a sandhi-vigrahika (minister of war and peace). Emperor </span><span style=\"font-family: Cambria Math;\">Samudragupta's </span><span style=\"font-family: Cambria Math;\">court poet was Harisena, his poem, </span><span style=\"font-family: Cambria Math;\">Prashati </span><span style=\"font-family: Cambria Math;\">about Samudragupta's courage inscribed on the Allahabad Pillar. Harisena’s other </span><span style=\"font-family: Cambria Math;\">works </span><span style=\"font-family: Cambria Math;\">include Apabramsa Dharma Pariksha, Karpura Prakara , Jagathsundari - Yogamaladikara, Yasodhara Kanta, Astahnikakatha, and Brhatkathakosa. </span></p>"
+    },
+    {
+        "question": "<p>______ is found in association with rocks composed of calcium carbonates?</p>",
+        "option_1": "<p>Limestone</p>",
+        "option_2": "<p>Gold</p>",
+        "option_3": "<p>Iron</p>",
+        "option_4": "<p>Diamond</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Limestone </strong><span style=\"font-family: Cambria Math;\">is a sedimentary rock made of calcium carbonate (CaCO</span><span style=\"font-family: Cambria Math;\">3</span><span style=\"font-family: Cambria Math;\">), usually in the form of calcite or aragonite.</span></p> <p><span style=\"font-family: Cambria Math;\">Some other </span><strong><span style=\"font-family: Cambria Math;\">examples </span></strong><span style=\"font-family: Cambria Math;\">of sedimentary include Breccia, Conglomerate, Sandstone, Siltstone, and Shale. These rocks are formed by the deposition and subsequent cementation of the material at the Earth’s surface within the bodies of water.</span></p>"
+    },
+    {
+        "question": "<p>A car starts from point A towards point B, travelling at the speed of 20 km/h. 1<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math><span style=\"font-family: Cambria Math;\"> hours later, another car starts from point A and travelling at the speed of 30 km/h and reaches 2<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math></span><span style=\"font-family: Cambria Math;\"> hours before the first car. Find the distance between A and B.</span></p>",
+        "option_1": "<p>300 km</p>",
+        "option_2": "<p>240 km</p>",
+        "option_3": "<p>260 km</p>",
+        "option_4": "<p>280 km</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Cambria Math;\">the speed of First car be 20 km/h and the speed of second car be 30 km/h </span></p> <p><span style=\"font-family: Cambria Math;\">Let ‘t’ be the time taken by the second car to complete the journey.</span></p> <p><span style=\"font-family: Cambria Math;\">Then time taken by the first car to complete the journey = (1.5 + t + 2.5)hrs. </span></p> <p><span style=\"font-family: Cambria Math;\">Now, equating the total distance in both cases, we get :- </span></p> <p><span style=\"font-family: Cambria Math;\">30 × t = 20 × (1.5 + t + 2.5)hrs</span></p> <p><span style=\"font-family: Cambria Math;\">⇒30t = 80 + 20t</span></p> <p><span style=\"font-family: Cambria Math;\">⇒t = 8 hr</span></p> <p><span style=\"font-family: Cambria Math;\">Now, total distance = 30 × t = 30 × 8= 240 km.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">The difference between a discount of 25% and two successive discounts of 15% and10% on a certain bill was ₹25. Find the amount of the bill.</span></p>",
+        "option_1": "<p>₹3,333.33</p>",
+        "option_2": "<p>₹2,500</p>",
+        "option_3": "<p>₹833.33</p>",
+        "option_4": "<p>₹1,666.67</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><span style=\"font-family: Cambria Math;\">Let , amount be 100%</span></p> <p><span style=\"font-family: Cambria Math;\">Net discount of 15% and 10% = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>15</mn><mo>+</mo><mo> </mo><mn>10</mn><mo>-</mo><mfrac><mrow><mn>15</mn><mo>×</mo><mn>10</mn></mrow><mn>100</mn></mfrac></math></span><span style=\"font-family: Cambria Math;\"> = 23.5%</span></p> <p><span style=\"font-family: Cambria Math;\">Required difference = 25% - 23.5% = 1.5% </span></p> <p><span style=\"font-family: Cambria Math;\">According to question , </span></p> <p><span style=\"font-family: Cambria Math;\">The value of 1.5% = 25 Rs.</span></p> <p><span style=\"font-family: Cambria Math;\">The value of amount (100% ) = </span><span style=\"font-family: Cambria Math;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>25</mn><mrow><mn>1</mn><mo>.</mo><mn>5</mn></mrow></mfrac><mo>×</mo><mn>100</mn></math>= Rs 1666.67.</span></p>"
+    },
+    {
+        "question": "<p>A trader has a weighing balance that shows 1300 g for a kg. He further marks up his<span style=\"font-family: Cambria Math;\">cost price by 15%. The net profit percentage is:</span></p>",
+        "option_1": "<p>5%</p>",
+        "option_2": "<p>5%</p>",
+        "option_3": "<p>50%</p>",
+        "option_4": "<p>45%</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Cambria Math;\">Weighing </span><span style=\"font-family: Cambria Math;\">balance </span><span style=\"font-family: Cambria Math;\">of the trader shows 1300 gm for 1000 gm . </span></p> <p><span style=\"font-family: Cambria Math;\"> C.P. : S.P.</span></p> <p><span style=\"font-family: Cambria Math;\">By weighting ⇒ </span><span style=\"font-family: Cambria Math;\">1000 : 1300</span></p> <p><span style=\"font-family: Cambria Math;\">By markup ⇒ </span><span style=\"font-family: Cambria Math;\">100 : 115</span></p> <p><span style=\"font-family: Cambria Math;\"> --------------------------</span></p> <p><span style=\"font-family: Cambria Math;\"> C.P. : S.P. </span><span style=\"font-family: Cambria Math;\"> ⇒ 100 : 149.5</span></p> <p><span style=\"font-family: Cambria Math;\">Net profit % = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>149</mn><mo>.</mo><mn>5</mn><mo> </mo><mo>-</mo><mn>100</mn></mrow><mn>100</mn></mfrac><mo>×</mo><mn>100</mn></math></span><span style=\"font-family: Cambria Math;\"> = 49.5%</span></p>"
+    },
+    {
+        "question": "<p>The nearest number which is greater to 87501, and is completely divisible by 765 is :</p>",
+        "option_1": "<p>88975</p>",
+        "option_2": "<p>87975</p>",
+        "option_3": "<p>87966</p>",
+        "option_4": "<p>87775</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)Nearest number which is greater to 87501 and is completely divisible by 765 is :- 765×115 = 87975</p> <p><span style=\"font-family: Cambria Math;\">Short Tricks:-</span></p> <p><span style=\"font-family: Cambria Math;\">In this type of question make factor of 765 = 5×3×3×17</span></p> <p><span style=\"font-family: Cambria Math;\">And now , check the option which is divisible by 3 , 5 and 17 .</span></p> <p><span style=\"font-family: Cambria Math;\">Clearly , 87975 is clearly divisible by 3 , 5 and 17 .</span></p>"
+    },
+    {
+        "question": "<p>Simplify:<span style=\"font-family: Cambria Math;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>C</mi><mi>o</mi><mi>s</mi><mi>A</mi></mrow><mrow><mn>1</mn><mo> </mo><mo>+</mo><mo> </mo><mi>tan</mi><mi>A</mi></mrow></mfrac><mo>-</mo><mfrac><mrow><mi>sin</mi><mi>A</mi></mrow><mrow><mn>1</mn><mo>+</mo><mi>c</mi><mi>o</mi><mi>t</mi><mi>A</mi></mrow></mfrac></math></span></p>",
+        "option_1": "<p>tanA</p>",
+        "option_2": "<p>cosA - sinA</p>",
+        "option_3": "<p>cosA.sinA</p>",
+        "option_4": "<p>cosA + sinA</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>cos</mi><mi>A</mi></mrow><mrow><mn>1</mn><mo>+</mo><mi>tan</mi><mi>A</mi></mrow></mfrac><mo>-</mo><mfrac><mrow><mi>sin</mi><mi>A</mi></mrow><mrow><mn>1</mn><mo>+</mo><mi>c</mi><mi>o</mi><mi>t</mi><mi>A</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>cos</mi><mi>A</mi></mrow><mrow><mn>1</mn><mo>+</mo><mstyle displaystyle=\"true\"><mfrac><mrow><mi>sin</mi><mi>A</mi></mrow><mrow><mi>cos</mi><mi>A</mi></mrow></mfrac></mstyle></mrow></mfrac><mo>-</mo><mfrac><mrow><mi>sin</mi><mi>A</mi></mrow><mrow><mn>1</mn><mo>+</mo><mstyle displaystyle=\"true\"><mfrac><mrow><mi>cos</mi><mi>A</mi></mrow><mrow><mi>sin</mi><mi>A</mi></mrow></mfrac></mstyle></mrow></mfrac><mspace linebreak=\"newline\"></mspace><mo>=</mo><mfrac><mrow><msup><mi>cos</mi><mn>2</mn></msup><mi>A</mi></mrow><mrow><mi>cos</mi><mi>A</mi><mo>+</mo><mi>sin</mi><mi>A</mi></mrow></mfrac><mo>-</mo><mfrac><mrow><msup><mi>sin</mi><mn>2</mn></msup><mi>A</mi></mrow><mrow><mi>sin</mi><mi>A</mi><mo>+</mo><mi>cos</mi><mi>A</mi></mrow></mfrac><mspace linebreak=\"newline\"></mspace><mo>⇒</mo><mfrac><mrow><msup><mi>cos</mi><mn>2</mn></msup><mi>A</mi><mo> </mo><mo>-</mo><mo> </mo><msup><mi>sin</mi><mn>2</mn></msup><mi>A</mi></mrow><mrow><mi>cos</mi><mi>A</mi><mo>+</mo><mi>sin</mi><mi>A</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>(</mo><mi>cos</mi><mi>A</mi><mo>+</mo><mi>sin</mi><mi>A</mi><mo>)</mo><mo>(</mo><mi>cos</mi><mi>A</mi><mo>-</mo><mi>sin</mi><mi>A</mi><mo>)</mo></mrow><mrow><mo>(</mo><mi>cos</mi><mi>A</mi><mo>+</mo><mi>sin</mi><mi>A</mi><mo>)</mo></mrow></mfrac><mspace linebreak=\"newline\"></mspace><mo>=</mo><mo>(</mo><mi>cos</mi><mi>A</mi><mo>-</mo><mi>sin</mi><mi>A</mi><mo>)</mo></math></p>"
+    },
+    {
+        "question": "<p>In triangle ABC, the bisector of angle BAC cuts the side BC at D. If AB = 10 cm, and AC<span style=\"font-family: Cambria Math;\">= 14 cm, then what is BD : DC ?</span></p>",
+        "option_1": "<p>10 : 7</p>",
+        "option_2": "<p>5 : 7</p>",
+        "option_3": "<p>7 : 5</p>",
+        "option_4": "<p>7 : 10</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Cambria Math;\">Theorem:- </span></p> <p><span style=\"font-family: Cambria Math;\">In a triangle, the angle bisector of any angle will divide the opposite side in the ratio of the sides containing the angle.</span></p> <p><span style=\"font-family: Cambria Math;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>A</mi><mi>B</mi></mrow><mrow><mi>A</mi><mi>C</mi><mo> </mo></mrow></mfrac><mo>=</mo><mo> </mo><mfrac><mrow><mi>B</mi><mi>D</mi></mrow><mrow><mi>D</mi><mi>C</mi></mrow></mfrac></math>……(angle bisector property )</span></p> <p><span style=\"font-family: Cambria Math;\">Here , </span></p> <p><span style=\"font-family: Cambria Math;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>10</mn><mn>14</mn></mfrac><mo> </mo><mo>=</mo><mo> </mo><mfrac><mrow><mi>B</mi><mi>D</mi></mrow><mrow><mi>D</mi><mi>C</mi></mrow></mfrac><mo>⇒</mo></math>BD : DC = 5 : 7 </span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image43.png"
+    },
+    {
+        "question": "<p>The table given below shows the number of people in different states.</p> <p><span style=\"font-family: Cambria Math;\">What is the ratio of the number of people in state C to the number of people in state E?</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image44.png",
+        "option_1": "<p>31:17</p>",
+        "option_2": "<p>35:18</p>",
+        "option_3": "<p>18:35</p>",
+        "option_4": "<p>17:29</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p> <p><span style=\"font-family: Cambria Math;\">number of people in state C = 144</span></p> <p><span style=\"font-family: Cambria Math;\">number of people in state E = 280</span></p> <p><span style=\"font-family: Cambria Math;\">Required ratio : - 144 : 280 </span><span style=\"font-family: Cambria Math;\">⇒ 18 : 35</span></p>"
+    },
+    {
+        "question": "<p>₹5,000 is divided into two parts such that if one part is invested at 4% and the other at<span style=\"font-family: Cambria Math;\">5%, then the whole annual interest from both the sums is ₹223. How much was </span><span style=\"font-family: Cambria Math;\">invested at 4%?</span></p>",
+        "option_1": "<p>₹2600</p>",
+        "option_2": "<p>₹2700</p>",
+        "option_3": "<p>₹2400</p>",
+        "option_4": "<p>₹2300</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Cambria Math;\">Let , the amount invested at 4% is x Rs. Then , the amount invested at 5% will be (5000-x) Rs.</span></p> <p><span style=\"font-family: Cambria Math;\">Formula : - Simple Interest = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>P</mi><mo>×</mo><mi>R</mi><mo>×</mo><mi>T</mi></mrow><mn>100</mn></mfrac></math></span></p> <p><span style=\"font-family: Cambria Math;\">According to question , </span></p> <p><span style=\"font-family: Cambria Math;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>x</mi><mo>×</mo><mn>4</mn><mo>×</mo><mn>1</mn></mrow><mn>100</mn></mfrac><mo>+</mo><mfrac><mrow><mo>(</mo><mn>5000</mn><mo>-</mo><mi>x</mi><mo>)</mo><mo>×</mo><mn>5</mn><mo>×</mo><mn>1</mn></mrow><mn>100</mn></mfrac></math> </span><span style=\"font-family: Cambria Math;\"> = 223</span></p> <p><span style=\"font-family: Cambria Math;\">⇒4x -5x + 25000 = 22300</span></p> <p><span style=\"font-family: Cambria Math;\">⇒x = Rs 2700.</span></p>"
+    },
+    {
+        "question": "<p>The table given below shows the number of trucks sold by six companies.</p> <p><span style=\"font-family: Cambria Math;\">Number of trucks sold by L is what percent of number of trucks sold by J?</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image46.png",
+        "option_1": "<p>100 percent</p>",
+        "option_2": "<p>250 percent</p>",
+        "option_3": "<p>200 percent</p>",
+        "option_4": "<p>150 percent</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p> <p><span style=\"font-family: Cambria Math;\">number of trucks sold by company L = 80</span></p> <p><span style=\"font-family: Cambria Math;\">number of trucks sold by company J = 40</span></p> <p><span style=\"font-family: Cambria Math;\">Required percentage : </span><span style=\"font-family: Cambria Math;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo> </mo><mn>80</mn></mrow><mn>40</mn></mfrac><mo>×</mo><mn>100</mn></math>= 200%</span></p>"
+    },
+    {
+        "question": "<p>If the volume of a sphere is 24,416.64 cm³<span style=\"font-family: Cambria Math;\">, find its surface area (take π=3.14) correct to </span><span style=\"font-family: Cambria Math;\">two places of decimal.</span></p>",
+        "option_1": "<p>55 cm²</p>",
+        "option_2": "<p>44 cm²</p>",
+        "option_3": "<p>66 cm²</p>",
+        "option_4": "<p>67 cm²</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Cambria Math;\">Volume of sphere = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>4</mn><mn>3</mn></mfrac><mo>×</mo><mi>π</mi><msup><mi>r</mi><mn>3</mn></msup></math></span></p> <p><span style=\"font-family: Cambria Math;\">Now, </span><span style=\"font-family: Cambria Math;\"> = <span style=\"text-decoration: line-through;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>24416</mn><mo>.</mo><mn>64</mn><mo> </mo><mo> </mo><mo>=</mo><mfrac><mrow><mo> </mo><mn>4</mn></mrow><mn>3</mn></mfrac><mo>×</mo><mn>3</mn><mo>.</mo><mn>14</mn><mo>×</mo><msup><mi>r</mi><mn>3</mn></msup></math></span></span></p> <p>⇒<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>r</mi><mn>3</mn></msup><mo> </mo><mo>=</mo><mo> </mo><mfrac><mrow><mn>7776</mn><mo>×</mo><mn>3</mn></mrow><mn>4</mn></mfrac><mo> </mo><mo>=</mo><mo> </mo><mn>5832</mn><mo> </mo></math></p> <p><span style=\"font-family: Cambria Math;\">⇒r = 18 cm</span></p> <p><span style=\"font-family: Cambria Math;\">Now, surface area of sphere = </span><span style=\"font-family: Cambria Math;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>π</mi><msup><mi>r</mi><mn>2</mn></msup><mo> </mo><mo>=</mo><mo> </mo><mn>4</mn><mo>×</mo><mn>3</mn><mo>.</mo><mn>14</mn><mo>×</mo><mn>18</mn><mo>×</mo><mn>18</mn><mo> </mo><mo>=</mo><mo> </mo><mn>4069</mn><mo>.</mo><mn>44</mn><mo> </mo><mi>c</mi><msup><mi>m</mi><mn>2</mn></msup></math></span></p>"
+    },
+    {
+        "question": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo> </mo><mfrac><mn>1</mn><mrow><mn>1</mn><mo> </mo><mo>+</mo><mo> </mo><mi>C</mi><mi>o</mi><mi>s</mi><mo>(</mo><mn>90</mn><mo>°</mo><mo> </mo><mo>-</mo><mo> </mo><mi>θ</mi><mo> </mo><mo>)</mo></mrow></mfrac><mo> </mo><mo> </mo><mo>+</mo><mo> </mo><mo> </mo><mfrac><mn>1</mn><mrow><mn>1</mn><mo> </mo><mo>-</mo><mo> </mo><mi>C</mi><mi>o</mi><mi>s</mi><mo>(</mo><mn>90</mn><mo>°</mo><mo> </mo><mo>-</mo><mo> </mo><mi>θ</mi><mo>)</mo></mrow></mfrac><mo>=</mo><mo> </mo><mo> </mo></math></p>",
+        "option_1": "<p>2sec²θ</p>",
+        "option_2": "<p>1</p>",
+        "option_3": "<p>0</p>",
+        "option_4": "<p>2tan²θ</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p> <p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mrow><mn>1</mn><mo>+</mo><mi>cos</mi><mo>(</mo><mn>90</mn><mo>°</mo><mo>-</mo><mi>θ</mi><mo>)</mo></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>1</mn><mo>-</mo><mi>cos</mi><mo>(</mo><mn>90</mn><mo>°</mo><mo>-</mo><mi>θ</mi><mo>)</mo></mrow></mfrac><mspace linebreak=\"newline\"></mspace><mo>=</mo><mfrac><mn>1</mn><mrow><mn>1</mn><mo>+</mo><mi>sin</mi><mi>θ</mi></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mn>1</mn><mo>-</mo><mi>sin</mi><mi>θ</mi></mrow></mfrac><mspace linebreak=\"newline\"></mspace><mo>⇒</mo><mfrac><mrow><mo>(</mo><mn>1</mn><mo>-</mo><mi>sin</mi><mi>θ</mi><mo>)</mo><mo>+</mo><mo>(</mo><mn>1</mn><mo>+</mo><mi>sin</mi><mi>θ</mi><mo>)</mo></mrow><mrow><mn>1</mn><mo>-</mo><mo> </mo><msup><mi>sin</mi><mn>2</mn></msup><mi>θ</mi></mrow></mfrac><mo>=</mo><mfrac><mn>2</mn><mrow><msup><mi>cos</mi><mn>2</mn></msup><mi>θ</mi></mrow></mfrac><mo>=</mo><mn>2</mn><mi>s</mi><mi>e</mi><msup><mi>c</mi><mn>2</mn></msup><mi>θ</mi></math></p>"
+    },
+    {
+        "question": "<p>If (4a +<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>5</mn><mi>a</mi></mfrac></math><span style=\"font-family: Cambria Math;\"> + 5) = 14, what is the value of (16a² + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>25</mn><msup><mi>a</mi><mn>2</mn></msup></mfrac></math></span><span style=\"font-family: Cambria Math;\">)? </span></p>",
+        "option_1": "<p>25</p>",
+        "option_2": "<p>36</p>",
+        "option_3": "<p>41</p>",
+        "option_4": "<p>40</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p> <p><span style=\"font-family: Cambria Math;\">Identities :- when ax +<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>y</mi><mi>a</mi></mfrac></math> </span><span style=\"font-family: Cambria Math;\"> = k , then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mo>(</mo><mi>a</mi><mi>x</mi><mo>)</mo></mrow><mn>2</mn></msup><mo> </mo><mo>+</mo><mo> </mo><mfrac><msup><mi>y</mi><mn>2</mn></msup><msup><mi>a</mi><mn>2</mn></msup></mfrac><mo>=</mo><mo> </mo><mo> </mo><msup><mi>k</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mi>x</mi><mi>y</mi><mo> </mo></math></span></p> <p><span style=\"font-family: Cambria Math;\">Now, </span></p> <p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>a</mi><mo>+</mo><mfrac><mn>5</mn><mi>a</mi></mfrac><mo>+</mo><mn>5</mn><mo> </mo><mo>=</mo><mo> </mo><mn>14</mn><mo> </mo><mo>⇒</mo><mn>4</mn><mi>a</mi><mo>+</mo><mfrac><mn>5</mn><mi>a</mi></mfrac><mo>=</mo><mo> </mo><mn>9</mn><mo> </mo><mo> </mo><mo> </mo><mo>…</mo><mo>…</mo><mi>e</mi><mo>.</mo><mi>q</mi><mo>.</mo><mo>(</mo><mn>1</mn><mo>)</mo></math></p> <p><span style=\"font-family: Cambria Math;\">On squaring e.q.(1) , we get </span></p> <p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>16</mn><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>25</mn><mrow><msup><mi>a</mi><mn>2</mn></msup><mo> </mo><mo> </mo></mrow></mfrac><mo>=</mo><mo> </mo><msup><mn>9</mn><mn>2</mn></msup><mo>-</mo><mn>2</mn><mo>×</mo><mn>4</mn><mo>×</mo><mn>5</mn><mo> </mo><mo>=</mo><mo> </mo><mn>41</mn><mo> </mo><mo> </mo></math></p>"
+    },
+    {
+        "question": "<p>Study the following table and answer the question that follows.</p> <p><span style=\"font-family: Cambria Math;\">A school has four sections A, B, C and D of Class IX students.</span><span style=\"font-family: Cambria Math;\">The results of Science and Mathematics examinations are shown in the following table.</span></p> <p><span style=\"font-family: Cambria Math;\">What percentage of students of section C Passed in Science but failed in Mathematics?</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image48.png",
+        "option_1": "<p>70%</p>",
+        "option_2": "<p>20%</p>",
+        "option_3": "<p>85%</p>",
+        "option_4": "<p>30%</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p> <p><span style=\"font-family: Cambria Math;\">Section C students who passed in science but failed in maths their number is 8 , then Required% = </span><span style=\"font-family: Cambria Math;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>8</mn><mo> </mo></mrow><mn>92</mn></mfrac><mo>×</mo><mn>100</mn></math>= 8.70%</span></p>"
+    },
+    {
+        "question": "<p>Ruchi, Khushi and Teju can do a piece of work in 30, 40 and 60 days respectively. In<span style=\"font-family: Cambria Math;\">how many days can Ruchi do the work, if she is assisted by both Khushi and Teju on </span><span style=\"font-family: Cambria Math;\">every third day?</span></p>",
+        "option_1": "<p><span style=\"font-family: Cambria Math;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>550</mn><mn>12</mn></mfrac></math> days</span></p>",
+        "option_2": "<p><span style=\"font-family: Cambria Math;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>85</mn><mn>4</mn></mfrac></math> days</span></p>",
+        "option_3": "<p><span style=\"font-family: Cambria Math;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>71</mn><mn>2</mn></mfrac></math> days</span></p>",
+        "option_4": "<p><span style=\"font-family: Cambria Math;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>360</mn><mn>17</mn></mfrac></math> days</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Cambria Math;\">Total work is 120 units.</span></p> <p><span style=\"font-family: Cambria Math;\">Ruchi’s efficiency is 4 units. On every third day she is assisted by Khushi and Teju .</span></p> <p><span style=\"font-family: Cambria Math;\">Work done in 3 days = 4+4+(4+3+2) = 17 units</span></p> <p><span style=\"font-family: Cambria Math;\">Work done in 21 days = 17 ×7 = 119 units</span></p> <p><span style=\"font-family: Cambria Math;\">Remaining work = 120 units - 119 units = 1 units </span></p> <p><span style=\"font-family: Cambria Math;\">On 22nd days ruchi work alone , time require to complete 1 unit of work by ruchi = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>4</mn></mfrac></math></span><span style=\"font-family: Cambria Math;\"> days.</span></p> <p><span style=\"font-family: Cambria Math;\">Total days =<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mo> </mo><mn>21</mn><mo> </mo><mo>+</mo><mo> </mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo> </mo><mo>)</mo></math> </span><span style=\"font-family: Cambria Math;\"> days. = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>85</mn><mn>4</mn></mfrac></math> </span><span style=\"font-family: Cambria Math;\">days</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image50.png"
+    },
+    {
+        "question": "<p>If the diameter of a sphere is 3.5 cm, then what is the total surface area of the sphere?</p>",
+        "option_1": "<p>75 cm²</p>",
+        "option_2": "<p>6 cm²</p>",
+        "option_3": "<p>5 cm²</p>",
+        "option_4": "<p>25 cm²</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p> <p><span style=\"font-family: Cambria Math;\">Radius of sphere = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>3</mn><mo>.</mo><mn>5</mn></mrow><mn>2</mn></mfrac></math></span><span style=\"font-family: Cambria Math;\">cm</span></p> <p><span style=\"font-family: Cambria Math;\">Total surface area of sphere =</span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi mathvariant=\"normal\">π</mi><msup><mi>r</mi><mn>2</mn></msup><mo> </mo><mo>=</mo><mo> </mo><mn>4</mn><mo>×</mo><mfrac><mn>22</mn><mn>7</mn></mfrac><mo>×</mo><mfrac><mrow><mn>3</mn><mo>.</mo><mn>5</mn></mrow><mn>2</mn></mfrac><mo>×</mo><mfrac><mrow><mn>3</mn><mo>.</mo><mn>5</mn></mrow><mn>2</mn></mfrac><mo> </mo><mo>=</mo><mo> </mo><mn>38</mn><mo>.</mo><mn>5</mn><mi>c</mi><msup><mi>m</mi><mn>2</mn></msup></math></p>"
+    },
+    {
+        "question": "<p>Ram loses 12<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math><span style=\"font-family: Cambria Math;\">% of his money and after spending 75% of the remainder, is left with ₹630. How much money did Ram have initially?</span></p>",
+        "option_1": "<p>₹2,080</p>",
+        "option_2": "<p>₹ 2,880</p>",
+        "option_3": "<p>₹2,205</p>",
+        "option_4": "<p>₹2,808</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Cambria Math;\">Let , ram has initially 32 units Rs. ,</span></p> <p><span style=\"font-family: Cambria Math;\">Then money left after losing 12<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math></span><span style=\"font-family: Cambria Math;\">% = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>32</mn><mo>×</mo><mn>7</mn></mrow><mn>8</mn></mfrac></math></span><span style=\"font-family: Cambria Math;\"> = 28 unit </span></p> <p><span style=\"font-family: Cambria Math;\">Finally , money left after spending 75% of the left money = </span><span style=\"font-family: Cambria Math;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>28</mn><mo>×</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></math>= 7 units</span></p> <p><span style=\"font-family: Cambria Math;\">According to question , </span></p> <p><span style=\"font-family: Cambria Math;\">7 units = 630 Rs. </span><span style=\"font-family: Cambria Math;\"> ⇒ 32 units = 32 ×90 = Rs 2880.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mi>x</mi></mfrac></math>-</span><span style=\"font-family: Cambria Math;\">= 13 then, what will be the value of </span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo> </mo><msup><mi>x</mi><mn>4</mn></msup><mo> </mo><mo>+</mo><mo> </mo><mfrac><mn>1</mn><msup><mi>x</mi><mn>4</mn></msup></mfrac></math></p>",
+        "option_1": "<p>28561</p>",
+        "option_2": "<p>29243</p>",
+        "option_3": "<p>27887</p>",
+        "option_4": "<p>29239</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>I</mi><mi>d</mi><mi>e</mi><mi>n</mi><mi>t</mi><mi>i</mi><mi>t</mi><mi>y</mi><mo> </mo><mo>:</mo><mo> </mo><mo>=</mo><mo> </mo><mi>w</mi><mi>h</mi><mi>e</mi><mi>n</mi><mo> </mo><mo> </mo><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>=</mo><mo> </mo><mi>k</mi><mo> </mo><mo>,</mo><mo> </mo><mi>t</mi><mi>h</mi><mi>e</mi><mi>n</mi><mo> </mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>1</mn><msup><mi>x</mi><mn>2</mn></msup></mfrac><mo>=</mo><mo> </mo><msup><mi>k</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mspace linebreak=\"newline\"></mspace><mo> </mo><mi>x</mi><mo>-</mo><mfrac><mn>1</mn><mi>x</mi></mfrac><mo> </mo><mo>=</mo><mo> </mo><mn>13</mn><mo> </mo><mo> </mo><mo>,</mo><mo> </mo><mo> </mo><mo> </mo><mi>t</mi><mi>h</mi><mi>e</mi><mi>n</mi><mo> </mo><mo>,</mo><mo> </mo><mo> </mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mfrac><mn>1</mn><msup><mi>x</mi><mn>2</mn></msup></mfrac><mo>=</mo><mo> </mo><msup><mn>13</mn><mn>2</mn></msup><mo>+</mo><mn>2</mn><mo> </mo><mo>=</mo><mo> </mo><mn>171</mn><mo> </mo><mspace linebreak=\"newline\"></mspace><mi>A</mi><mi>n</mi><mi>d</mi><mo> </mo><mo> </mo><msup><mi>x</mi><mn>4</mn></msup><mo>+</mo><mfrac><mn>1</mn><msup><mi>x</mi><mrow><mn>4</mn><mo> </mo></mrow></msup></mfrac><mo>=</mo><mo> </mo><msup><mfenced><mn>171</mn></mfenced><mn>2</mn></msup><mo>-</mo><mn>2</mn><mo> </mo><mo>=</mo><mo> </mo><mo> </mo><mn>29241</mn><mo> </mo><mo>-</mo><mn>2</mn><mo> </mo><mo>=</mo><mo> </mo><mn>29239</mn></math></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">Study</span><span style=\"font-family: Cambria Math;\"> the given chart and answer the question that follows. </span></p> <p><span style=\"font-family: Cambria Math;\">The chart shows the quantities of machines (M1, M2, M3) available in different stores (S1, S2, S3, S4).</span></p> <p><span style=\"font-family: Cambria Math;\">Which stores have more number of M2 machines than the average number of M2 machines per store?</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image51.png",
+        "option_1": "<p>S2 and S4</p>",
+        "option_2": "<p>S1 and S3</p>",
+        "option_3": "<p>S2 and S3</p>",
+        "option_4": "<p>S1 and S4</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><span style=\"font-family: Cambria Math;\">Average number of M2 machine per store = </span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>12</mn><mo>+</mo><mn>8</mn><mo>+</mo><mn>8</mn><mo>+</mo><mn>14</mn></mrow><mn>4</mn></mfrac><mo> </mo><mo>=</mo><mo> </mo><mfrac><mn>42</mn><mn>4</mn></mfrac></math><span style=\"font-family: Cambria Math;\">= 10.5 </span></p> <p><span style=\"font-family: Cambria Math;\">Clearly , Store S1 and S4 have more machines than the average number of M2 machines per store . </span></p>"
+    },
+    {
+        "question": "<p>If a ∶ b = c ∶ d, then which of the following ratio is equal to a ∶ c?</p>",
+        "option_1": "<p>a ∶ d</p>",
+        "option_2": "<p>b ∶ c</p>",
+        "option_3": "<p>a + d ∶ b + c</p>",
+        "option_4": "<p>a + b ∶ c + d</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>L</mi><mi>e</mi><mi>t</mi><mo> </mo><mo>,</mo><mo> </mo><mfrac><mi>a</mi><mi>b</mi></mfrac><mo>=</mo><mo> </mo><mfrac><mi>c</mi><mi>d</mi></mfrac><mo>=</mo><mi>x</mi><mo> </mo><mo> </mo><mo> </mo><mo>…</mo><mo>.</mo><mo>.</mo><mi>e</mi><mo>.</mo><mi>q</mi><mo>.</mo><mo>(</mo><mn>1</mn><mo>)</mo><mspace linebreak=\"newline\"></mspace><mo> </mo><mfrac><mi>a</mi><mi>c</mi></mfrac><mo> </mo><mo>=</mo><mo> </mo><mfrac><mi>b</mi><mi>d</mi></mfrac><mo> </mo><mo> </mo><mo>…</mo><mo>.</mo><mo>.</mo><mi>e</mi><mo>.</mo><mi>q</mi><mo>.</mo><mo>(</mo><mn>2</mn><mo>)</mo><mo> </mo><mspace linebreak=\"newline\"></mspace><mi>T</mi><mi>h</mi><mi>e</mi><mi>n</mi><mo> </mo><mo>,</mo><mo> </mo><mi>a</mi><mo>=</mo><mi>b</mi><mi>x</mi><mo> </mo><mo> </mo><mi>a</mi><mi>n</mi><mi>d</mi><mo> </mo><mi>c</mi><mo> </mo><mo>=</mo><mi>d</mi><mi>x</mi><mspace linebreak=\"newline\"></mspace><mo> </mo><mi>N</mi><mi>o</mi><mi>w</mi><mo> </mo><mi>a</mi><mi>p</mi><mi>p</mi><mi>l</mi><mi>y</mi><mi>i</mi><mi>n</mi><mi>g</mi><mo> </mo><mi>c</mi><mi>o</mi><mi>m</mi><mi>p</mi><mi>o</mi><mi>n</mi><mi>e</mi><mi>n</mi><mi>d</mi><mi>o</mi><mo> </mo><mi>a</mi><mi>n</mi><mi>d</mi><mo> </mo><mi>d</mi><mi>i</mi><mi>v</mi><mi>i</mi><mi>d</mi><mi>e</mi><mi>n</mi><mi>d</mi><mi>o</mi><mo> </mo><mi>i</mi><mi>n</mi><mo> </mo><mi>e</mi><mo>.</mo><mi>q</mi><mo>.</mo><mo>(</mo><mn>1</mn><mo>)</mo><mspace linebreak=\"newline\"></mspace><mo> </mo><mfrac><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mrow><mi>a</mi><mo>-</mo><mi>b</mi></mrow></mfrac><mo> </mo><mo>=</mo><mo> </mo><mfrac><mrow><mi>c</mi><mo>+</mo><mi>d</mi></mrow><mrow><mi>c</mi><mo>-</mo><mi>d</mi></mrow></mfrac><mo> </mo><mspace linebreak=\"newline\"></mspace><mfrac><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mrow><mi>c</mi><mo>+</mo><mi>d</mi></mrow></mfrac><mo> </mo><mo>=</mo><mo> </mo><mfrac><mrow><mi>a</mi><mo>-</mo><mi>b</mi></mrow><mrow><mi>c</mi><mo>-</mo><mi>d</mi></mrow></mfrac><mo> </mo><mo>=</mo><mo> </mo><mfrac><mrow><mi>b</mi><mi>x</mi><mo>-</mo><mi>b</mi></mrow><mrow><mi>d</mi><mi>x</mi><mo>-</mo><mi>d</mi></mrow></mfrac><mo> </mo><mo> </mo><mo>=</mo><mfrac><mrow><mi>b</mi><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo></mrow><mrow><mi>d</mi><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo></mrow></mfrac><mo> </mo><mspace linebreak=\"newline\"></mspace><mfrac><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mrow><mi>c</mi><mo>+</mo><mi>d</mi></mrow></mfrac><mo> </mo><mo>=</mo><mo> </mo><mfrac><mi>b</mi><mi>d</mi></mfrac><mo> </mo><mo>=</mo><mo> </mo><mfrac><mi>a</mi><mi>c</mi></mfrac><mo> </mo><mo>…</mo><mo>.</mo><mi>f</mi><mi>r</mi><mi>o</mi><mi>m</mi><mo> </mo><mi>e</mi><mo>.</mo><mi>q</mi><mo>.</mo><mo>(</mo><mn>2</mn><mo>)</mo><mspace linebreak=\"newline\"></mspace><mo> </mo><mfrac><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><mrow><mi>c</mi><mo>+</mo><mi>d</mi></mrow></mfrac><mo> </mo><mo>=</mo><mo> </mo><mfrac><mi>a</mi><mi>c</mi></mfrac><mo> </mo></math></p>"
+    },
+    {
+        "question": "<p>The factors of<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>x</mi><mn>4</mn></msup><mo> </mo><mo> </mo><mo>+</mo><mo> </mo><msup><mi>x</mi><mrow><mn>2</mn><mo> </mo></mrow></msup><mo>+</mo><mo> </mo><mn>25</mn></math><span style=\"font-family: Cambria Math;\"> are:</span></p>",
+        "option_1": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mo> </mo><mn>3</mn><mi>x</mi><mo> </mo><mo>-</mo><mo> </mo><mn>5</mn><mo>)</mo><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo> </mo><mo>-</mo><mo> </mo><mn>3</mn><mi>x</mi><mo> </mo><mo>+</mo><mo> </mo><mn>5</mn><mo>)</mo></math></p>",
+        "option_2": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mo> </mo><mn>3</mn><mi>x</mi><mo> </mo><mo>+</mo><mo> </mo><mn>5</mn><mo>)</mo><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo> </mo><mo>-</mo><mo> </mo><mn>3</mn><mi>x</mi><mo> </mo><mo>+</mo><mo> </mo><mn>5</mn><mo>)</mo></math></p>",
+        "option_3": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mo> </mo><mn>3</mn><mi>x</mi><mo> </mo><mo>+</mo><mn>5</mn><mo>)</mo><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo> </mo><mo>-</mo><mo> </mo><mn>3</mn><mi>x</mi><mo> </mo><mo>+</mo><mo> </mo><mn>5</mn><mo>)</mo></math></p>",
+        "option_4": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mo> </mo><mn>3</mn><mi>x</mi><mo> </mo><mo>+</mo><mn>5</mn><mo>)</mo><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo> </mo><mo>+</mo><mo> </mo><mn>3</mn><mi>x</mi><mo> </mo><mo>+</mo><mo> </mo><mn>5</mn><mo>)</mo></math></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Cambria Math;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>25</mn><mo> </mo></mrow></mfenced><mo> </mo><mo>=</mo><mo> </mo><mfenced><mrow><msup><mi>x</mi><mn>4</mn></msup><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mn>5</mn><mn>2</mn></msup></mrow></mfenced><mspace linebreak=\"newline\"></mspace><mfenced close=\"]\" open=\"[\"><mrow><mo> </mo><mfenced close=\"}\" open=\"{\"><mrow><msup><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn></mrow></mfenced><mn>2</mn></msup><mo>-</mo><mn>2</mn><mo>×</mo><mn>5</mn><mo>×</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfenced><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfenced><mo> </mo><mspace linebreak=\"newline\"></mspace><mfenced close=\"]\" open=\"[\"><mrow><msup><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn></mrow></mfenced><mn>2</mn></msup><mo>-</mo><mn>10</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup></mrow></mfenced><mo> </mo><mspace linebreak=\"newline\"></mspace><mfenced close=\"]\" open=\"[\"><mrow><msup><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn></mrow></mfenced><mn>2</mn></msup><mo>-</mo><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup></mrow></mfenced><mo> </mo><mo> </mo><mspace linebreak=\"newline\"></mspace><mfenced close=\"]\" open=\"[\"><mrow><msup><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn></mrow></mfenced><mn>2</mn></msup><mo>-</mo><msup><mfenced><mrow><mn>3</mn><mi>x</mi></mrow></mfenced><mn>2</mn></msup><mo> </mo></mrow></mfenced><mspace linebreak=\"newline\"></mspace><mo> </mo><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mfenced><mfenced><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>5</mn></mrow></mfenced></math> </span></p>"
+    },
+    {
+        "question": "<p>71<span style=\"font-family: Cambria Math;\">.</span><span style=\"font-family: Cambria Math;\"> The area of a sector of a circle is 66cm</span><span style=\"font-family: Cambria Math;\">² </span><span style=\"font-family: Cambria Math;\"> and the angle of the sector is 60°. Find the </span><span style=\"font-family: Cambria Math;\">radius of the circle.</span></p>",
+        "option_1": "<p>5√15 cm</p>",
+        "option_2": "<p>6√14 cm</p>",
+        "option_3": "<p>7√19 cm</p>",
+        "option_4": "<p>3√14 cm</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><span style=\"font-family: Cambria Math;\">Area of sector = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>θ</mi><mn>360</mn></mfrac><mo>×</mo><mi mathvariant=\"normal\">π</mi><msup><mi>r</mi><mn>2</mn></msup><mo> </mo></math></span></p> <p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo><mn>66</mn><mi>c</mi><msup><mi>m</mi><mrow><mn>2</mn><mo> </mo></mrow></msup><mo>=</mo><mo> </mo><mfrac><mn>60</mn><mn>360</mn></mfrac><mo>×</mo><mfrac><mn>22</mn><mn>7</mn></mfrac><mo>×</mo><msup><mi>r</mi><mn>2</mn></msup><mspace linebreak=\"newline\"></mspace><mo>⇒</mo><msup><mi>r</mi><mn>2</mn></msup><mo> </mo><mo>=</mo><mo> </mo><mfrac><mrow><mn>66</mn><mo>×</mo><mn>6</mn><mo>×</mo><mn>7</mn></mrow><mrow><mn>22</mn><mo> </mo></mrow></mfrac><mo>=</mo><mo> </mo><mn>3</mn><mo>×</mo><mn>6</mn><mo>×</mo><mn>7</mn><mspace linebreak=\"newline\"></mspace><mo>⇒</mo><mi>r</mi><mo> </mo><mo>=</mo><mo> </mo><mn>3</mn><msqrt><mn>14</mn></msqrt><mo> </mo><mi>c</mi><mi>m</mi></math></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image53.png"
+    },
+    {
+        "question": "<p>Calculate the HCF of<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo> </mo><mfrac><mn>12</mn><mn>5</mn></mfrac><mo> </mo><mo>,</mo><mo> </mo><mfrac><mn>14</mn><mn>15</mn></mfrac></math> <span style=\"font-family: Cambria Math;\"> , </span><span style=\"font-family: Cambria Math;\"> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>16</mn><mn>17</mn></mfrac></math></span></p>",
+        "option_1": "<p><span style=\"text-decoration: underline;\"><span style=\"font-family: Cambria Math;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>4</mn><mn>255</mn></mfrac></math> </span></span></p>",
+        "option_2": "<p><span style=\"font-family: Cambria Math;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>3</mn><mn>255</mn></mfrac></math> </span></p>",
+        "option_3": "<p><span style=\"font-family: Cambria Math;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>2</mn><mn>255</mn></mfrac></math> </span></p>",
+        "option_4": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>255</mn></mfrac></math></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p> <p><span style=\"font-family: Cambria Math;\">H.C.F. </span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>12</mn><mn>5</mn></mfrac><mo>,</mo><mfrac><mn>14</mn><mn>15</mn></mfrac><mo>,</mo><mfrac><mn>16</mn><mn>17</mn></mfrac><mo>=</mo><mfrac><mrow><mi>H</mi><mo>.</mo><mi>C</mi><mo>.</mo><mi>F</mi><mo>.</mo><mo> </mo><mo>(</mo><mn>12</mn><mo>,</mo><mn>14</mn><mo>,</mo><mn>16</mn><mo>)</mo></mrow><mrow><mi>L</mi><mo>.</mo><mi>C</mi><mo>.</mo><mi>M</mi><mo>.</mo><mo> </mo><mo>(</mo><mn>5</mn><mo>,</mo><mn>15</mn><mo>,</mo><mn>17</mn><mo>)</mo></mrow></mfrac><mo>=</mo><mfrac><mn>2</mn><mn>255</mn></mfrac></math></p>"
+    },
+    {
+        "question": "<p>If (cos q + sin q) = 31/25, then what will be the value of cos² q?</p>",
+        "option_1": "<p>522/625</p>",
+        "option_2": "<p>512/625</p>",
+        "option_3": "<p>513/625</p>",
+        "option_4": "<p>576/625</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><span style=\"font-family: Cambria Math;\">Triplets (7,24,25) are used. </span></p> <p><span style=\"font-family: Cambria Math;\">(<span style=\"font-weight: 400;\">cos q+sin q)</span>= </span><span style=\"font-family: Cambria Math;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>31</mn><mn>25</mn></mfrac></math>...….(given)</span></p> <p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mfrac><mi>B</mi><mi>H</mi></mfrac><mo>+</mo><mfrac><mi>P</mi><mi>H</mi></mfrac><mo>)</mo><mo>=</mo><mfrac><mrow><mi>B</mi><mo>+</mo><mi>P</mi></mrow><mi>H</mi></mfrac><mo>=</mo><mfrac><mrow><mn>24</mn><mo>+</mo><mn>7</mn></mrow><mn>25</mn></mfrac><mo>=</mo><mfrac><mn>31</mn><mn>25</mn></mfrac></math><span style=\"font-family: Cambria Math;\">….....satisfy the given equation . </span></p> <p><span style=\"font-family: Cambria Math;\">Then , </span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>cos</mi><mn>2</mn></msup><mi>q</mi><mo> </mo><mo>=</mo><msup><mrow><mo>(</mo><mfrac><mi>B</mi><mi>H</mi></mfrac><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><mfrac><mn>576</mn><mn>625</mn></mfrac></math></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image54.png"
+    },
+    {
+        "question": "<p>The average marks of 60 students in a class are 62. The average marks of boys and girls in that subject are 60 and 65, respectively. The number of boys in the class is:</p>",
+        "option_1": "<p>36</p>",
+        "option_2": "<p>25</p>",
+        "option_3": "<p>41</p>",
+        "option_4": "<p>31</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p> <p><span style=\"font-family: Cambria Math;\">Let the no. of boys is x , then the no. of girls be (60-x)</span></p> <p><span style=\"font-family: Cambria Math;\">Total mark of 60 students = 62×60 marks = 3720</span></p> <p><span style=\"font-family: Cambria Math;\">Now according to question ,</span></p> <p><span style=\"font-family: Cambria Math;\">60×x + 65× (60-x) = 3720</span></p> <p><span style=\"font-family: Cambria Math;\">⇒5x = 3900 - 3720</span></p> <p><span style=\"font-family: Cambria Math;\">⇒x = 36 boys</span></p> <p><span style=\"font-family: Cambria Math;\">Short tricks:- </span></p> <p><span style=\"font-family: Cambria Math;\">Concept:- When we do alligation on average of identities , we get the ratio of number of identities.</span></p> <p><span style=\"font-family: Cambria Math;\">According to question ,</span></p> <p><span style=\"font-family: Cambria Math;\">5 units = 60 students</span></p> <p><span style=\"font-family: Cambria Math;\">Then , 3 units = 36 boys </span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image55.png"
+    },
+    {
+        "question": "<p>Select the correct option with respect to the given statement.</p> <p><span style=\"font-family: Cambria Math;\">Two tangents are drawn at the end of the diameter of a circle.</span></p>",
+        "option_1": "<p>They intersect each other.</p>",
+        "option_2": "<p>They pass through origin.</p>",
+        "option_3": "<p>They are parallel to each other.</p>",
+        "option_4": "<p>They are perpendicular to each other.</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p> <p><span style=\"font-family: Cambria Math;\">Tangents drawn at the end of the diameter of a circle are always parallel to each other.</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675231962/word/media/image57.png"
+    },
+    {
+        "question": "<p>Fill in the blank with the correct collocation.</p> <p><span style=\"font-family: Cambria Math;\">Motorists committing this infraction are ________ fined.</span></p>",
+        "option_1": "<p>wholly</p>",
+        "option_2": "<p>hardly</p>",
+        "option_3": "<p>slowly</p>",
+        "option_4": "<p>heavily</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<span style=\"font-family: Cambria Math;\">heavily.</span></p> <p><span style=\"font-family: Cambria Math;\">‘Heavily’ means </span><span style=\"font-family: Cambria Math;\">to a great degree</span><span style=\"font-family: Cambria Math;\">. The given sentence states that </span><span style=\"font-family: Cambria Math;\">m</span><span style=\"font-family: Cambria Math;\">otorists committing this infraction are heavily fined. <b>Hence,</b> ‘heavily’ is the most appropriate answer.</span></p>"
+    },
+    {
+        "question": "<p>Select the most appropriate meaning of the given idiom.</p> <p><span style=\"font-family: Cambria Math;\">Fair and square</span></p>",
+        "option_1": "<p>Honestly</p>",
+        "option_2": "<p>Fair-skinned</p>",
+        "option_3": "<p>Being vague</p>",
+        "option_4": "<p>Good looking</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family: Cambria Math;\">Fair and square- honestly.</span></p> <p><span style=\"font-family: Cambria Math;\">E.g.- Argentina won the FIFA world cup match fair and square.</span></p>"
+    },
+    {
+        "question": "<p>Select the most appropriate option to substitute the underlined segment in the given<span style=\"font-family: Cambria Math;\">sentence.</span></p> <p><span style=\"font-family: Cambria Math;\">I </span><span style=\"text-decoration: underline;\"><span style=\"font-family: Cambria Math;\">used to swim across</span></span><span style=\"font-family: Cambria Math;\">the river when I was young.</span></p>",
+        "option_1": "<p>will swim across</p>",
+        "option_2": "<p>was swimming across</p>",
+        "option_3": "<p>could swim across</p>",
+        "option_4": "<p>can swim across</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family: Cambria Math;\">could swim across</span></p> <p><span style=\"font-family: Cambria Math;\">The modal verb ‘could’ is </span><span style=\"font-family: Cambria Math;\">used for saying that somebody had the ability or was allowed to do something</span><span style=\"font-family: Cambria Math;\">. Similarly, the given sentence states that the narrator had the ability to cross the river when he was young. <b>Hence,</b> ‘</span><span style=\"font-family: Cambria Math;\">could swim across</span><span style=\"font-family: Cambria Math;\">’ is the most appropriate answer.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">Select the option that contains a grammatical error in the underlined portion</span></p> <p><span style=\"font-family: Cambria Math;\">I have never played any game of side this track during the season.</span></p>",
+        "option_1": "<p>I have never played any game off side this track <span style=\"font-family: Cambria Math;\"><span style=\"text-decoration: underline;\">during the season</span>.</span></p>",
+        "option_2": "<p>I have never played any game <span style=\"text-decoration: underline;\"><span style=\"font-family: Cambria Math;\">of side this track</span></span><span style=\"font-family: Cambria Math;\"> during the season. </span></p>",
+        "option_3": "<p><span style=\"text-decoration: underline;\"><span style=\"font-family: Cambria Math;\"> I have never played</span></span><span style=\"font-family: Cambria Math;\">any game off side this track during the season.</span></p>",
+        "option_4": "<p>I have never played <span style=\"text-decoration: underline;\"><span style=\"font-family: Cambria Math;\">any game</span></span><span style=\"font-family: Cambria Math;\"> off side this track during the season.</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<span style=\"font-family: Cambria Math;\">I have never played any game </span><span style=\"text-decoration: underline;\"><span style=\"font-family: Cambria Math;\">of side this track</span></span><span style=\"font-family: Cambria Math;\"> during the season. </span></p> <p><span style=\"font-family: Cambria Math;\">“Off-side” is </span><span style=\"font-family: Cambria Math;\">used about a player in football in a position that is not allowed by the rules of the game. The sentence in option ‘b’ has the preposition ‘of’ in place of ‘off’ so it must be removed to make the sentence grammatically correct. </span></p>"
+    },
+    {
+        "question": "<p>Select the most appropriate option to fill in the blank.</p> <p><span style=\"font-family: Cambria Math;\">We decided to ___________ as we were missing him a lot.</span></p>",
+        "option_1": "<p>give a visit</p>",
+        "option_2": "<p>take a visit</p>",
+        "option_3": "<p>bring in a visit</p>",
+        "option_4": "<p>pay him a visit</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<span style=\"font-family: Cambria Math;\">pay him a visit</span></p> <p><span style=\"font-family: Cambria Math;\">‘</span><span style=\"font-family: Cambria Math;\">Pay him a visit</span><span style=\"font-family: Cambria Math;\">’ means </span><span style=\"font-family: Cambria Math;\">to go somewhere to spend time with someone</span><span style=\"font-family: Cambria Math;\">. The given sentence states that </span><span style=\"font-family: Cambria Math;\">we decided to </span><span style=\"font-family: Cambria Math;\">spend time with him</span><span style=\"font-family: Cambria Math;\"> as we were missing him a lot</span><span style=\"font-family: Cambria Math;\">. <b>Hence,</b> ‘</span><span style=\"font-family: Cambria Math;\">pay him a visit</span><span style=\"font-family: Cambria Math;\">’ is the most appropriate answer.</span></p>"
+    },
+    {
+        "question": "<p>Select the correct indirect form of the given sentence.</p> <p><span style=\"font-family: Cambria Math;\">Latika said to him, “I got a hefty discount on this television.”</span></p>",
+        "option_1": "<p>Latika told him that she has got a hefty discount on that television.</p>",
+        "option_2": "<p>Latika told him that she is getting a hefty discount on that television.</p>",
+        "option_3": "<p>Latika told him that she had got a hefty discount on that television.</p>",
+        "option_4": "<p>Latika told him that she has got a hefty discount on this television.</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p><span style=\"font-family: Cambria Math;\">(c)</span><span style=\"font-family: Cambria Math;\">Latika told him that she had got a hefty discount on that television. </span></p> <p><span style=\"font-weight: 400;\">(a) Latika told him that she </span><span style=\"text-decoration: underline;\"><span style=\"font-weight: 400;\">has</span></span><span style=\"font-weight: 400;\">got a hefty discount on that television. (Incorrect Verb)</span></p> <p><span style=\"font-weight: 400;\">(b) Latika told him that she </span><span style=\"text-decoration: underline;\"><span style=\"font-weight: 400;\">is getting</span></span><span style=\"font-weight: 400;\"> a hefty discount on that television. (Incorrect Tense)</span></p> <p><span style=\"font-weight: 400;\">(d) Latika told him that she </span><span style=\"text-decoration: underline;\"><span style=\"font-weight: 400;\">has</span></span><span style=\"font-weight: 400;\">got a hefty discount on this television. (Incorrect Verb)</span></p>"
+    },
+    {
+        "question": "<p>Select the option that can be used as a one-word substitute for the given group of words.</p> <p><span style=\"font-family: Cambria Math;\">One who mediates in a deal or complex situation</span></p>",
+        "option_1": "<p>Equaliser</p>",
+        "option_2": "<p>Solicitor</p>",
+        "option_3": "<p>Pacifier</p>",
+        "option_4": "<p>Negotiator</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<span style=\"font-family: Cambria Math;\">Negotiator- one who mediates in a deal or complex situation</span></p> <p><span style=\"font-family: Cambria Math;\">Equaliser- </span><span style=\"font-family: Cambria Math;\">a thing which has an equalizing effect</span></p> <p><span style=\"font-family: Cambria Math;\">Solicitor- </span><span style=\"font-family: Cambria Math;\">a lawyer whose job is to give legal advice, prepare legal documents and arrange the buying and selling of land, etc.</span></p> <p><span style=\"font-family: Cambria Math;\">Pacifier- </span><span style=\"font-family: Cambria Math;\">a person or thing that pacifies someone or something</span></p>"
+    },
+    {
+        "question": "<p>Select the most appropriate ANTONYM of the given word.</p> <p><span style=\"font-family: Cambria Math;\">Ambition</span></p>",
+        "option_1": "<p>Intent</p>",
+        "option_2": "<p>Anxiety</p>",
+        "option_3": "<p>Object</p>",
+        "option_4": "<p>Laziness</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<span style=\"font-family: Cambria Math;\">Laziness- </span><span style=\"font-family: Cambria Math;\">the quality of not being willing to work or use any effort</span></p> <p><span style=\"font-family: Cambria Math;\">Ambition- </span><span style=\"font-family: Cambria Math;\">something that you very much want to have or do</span></p> <p><span style=\"font-family: Cambria Math;\">Intent- </span><span style=\"font-family: Cambria Math;\">showing great attention</span></p> <p><span style=\"font-family: Cambria Math;\">Anxiety- </span><span style=\"font-family: Cambria Math;\">a feeling of worry or fear, especially about the future</span></p> <p><span style=\"font-family: Cambria Math;\">Object- </span><span style=\"font-family: Cambria Math;\">a thing that can be seen and touched, but is not alive</span></p>"
+    },
+    {
+        "question": "<p>Select the most appropriate synonym of the word ‘stagnant’ from the following<span style=\"font-family: Cambria Math;\">Sentence.</span></p> <p><span style=\"font-family: Cambria Math;\">Reeta was motionless after knowing that her brother had become mentally unstable </span><span style=\"font-family: Cambria Math;\">after seeing the fatal accident on Tuesday night.</span></p>",
+        "option_1": "<p>Motionless</p>",
+        "option_2": "<p>Fatal</p>",
+        "option_3": "<p>Unstable</p>",
+        "option_4": "<p>Accident</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family: Cambria Math;\">Motionless-</span><span style=\"font-family: Cambria Math;\"> someone or something that is motionless is not moving at all</span></p> <p><span style=\"font-family: Cambria Math;\">Stagnant- </span><span style=\"font-family: Cambria Math;\">not flowing and therefore dirty and having an unpleasant smell</span></p> <p><span style=\"font-family: Cambria Math;\">Fatal- </span><span style=\"font-family: Cambria Math;\">causing or ending in death</span></p> <p><span style=\"font-family: Cambria Math;\">Unstable- </span><span style=\"font-family: Cambria Math;\">likely to change or fail</span></p> <p><span style=\"font-family: Cambria Math;\">Accident- </span><span style=\"font-family: Cambria Math;\">an unpleasant event that happens unexpectedly and causes damage, injury or death</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">S</span><span style=\"font-family: Cambria Math;\">elect the most appropriate option that can substitute the underlined segment in the </span><span style=\"font-family: Cambria Math;\">given sentence.</span></p> <p><span style=\"text-decoration: underline;\"><span style=\"font-family: Cambria Math;\">Last before year,</span></span><span style=\"font-family: Cambria Math;\"> Shirley got very good grades.</span></p>",
+        "option_1": "<p>The last year before</p>",
+        "option_2": "<p>Before last year</p>",
+        "option_3": "<p>The year before last</p>",
+        "option_4": "<p>Before year last</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family: Cambria Math;\">The year before last </span></p> <p><span style=\"font-family: Cambria Math;\">‘The year before last’ means </span><span style=\"font-family: Cambria Math;\">during the year before the previous one. The given sentence states that </span><span style=\"font-family: Cambria Math;\">Shirley got very good grades in the year before the previous one. <b>Hence,</b> ‘The year before last’ is the most appropriate answer.</span></p>"
+    },
+    {
+        "question": "<p>Select the correct passive form of the given sentence.</p> <p><span style=\"font-family: Cambria Math;\">The new owners hired a lot of new servers.</span></p>",
+        "option_1": "<p>A lot of new servers were hired by the new owners.</p>",
+        "option_2": "<p>A lot of new servers are being hired by the new owners.</p>",
+        "option_3": "<p>A lot of new servers are hired by the new owners.</p>",
+        "option_4": "<p>A lot of new servers had been hired by the new owners.</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family: Cambria Math;\"> A lot of new servers were hired by the new owners. </span></p> <p><span style=\"font-weight: 400;\">(b) A lot of new servers </span><span style=\"text-decoration: underline;\"><span style=\"font-weight: 400;\">are being hired</span></span><span style=\"font-weight: 400;\"> by the new owners. (Incorrect Tense)</span></p> <p><span style=\"font-weight: 400;\">(c) A lot of new servers </span><span style=\"text-decoration: underline;\"><span style=\"font-weight: 400;\">are hired</span></span><span style=\"font-weight: 400;\"> by the new owners. (Incorrect Tense)</span></p> <p><span style=\"font-weight: 400;\">(d) A lot of new servers </span><span style=\"text-decoration: underline;\"><span style=\"font-weight: 400;\">had been hired</span></span><span style=\"font-weight: 400;\"> by the new owners. (Incorrect Tense)</span></p>"
+    },
+    {
+        "question": "<p>Select the sentences that contains no spelling errors.</p>",
+        "option_1": "<p>I heard raucouos laughter from the next room.</p>",
+        "option_2": "<p>I heard raocous laughter from the next room.</p>",
+        "option_3": "<p>I heard raucus laughter from the next room.</p>",
+        "option_4": "<p>I heard raucous laughter from the next room.</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<span style=\"font-family: Cambria Math;\"> I heard raucous laughter from the next room.</span></p> <p><span style=\"font-family: Cambria Math;\">‘Raucous’ is the correct spelling which is only given in option ‘d’.</span></p> <p><span style=\"font-family: Cambria Math;\">Raucous - making or constituting a disturbingly harsh and loud noise</span></p>"
+    },
+    {
+        "question": "<p>Select the most appropriate synonym of the bracketed word to fill in the blank.</p> <p><span style=\"font-family: Cambria Math;\">There is a huge generation __________ (void) between Arun and his grandparents.</span></p>",
+        "option_1": "<p>traditions</p>",
+        "option_2": "<p>gap</p>",
+        "option_3": "<p>memory</p>",
+        "option_4": "<p>experience</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<span style=\"font-family: Cambria Math;\">Gap- </span><span style=\"font-family: Cambria Math;\">an empty space in something or between two things</span></p> <p><span style=\"font-family: Cambria Math;\">Void- </span><span style=\"font-family: Cambria Math;\">a large empty space</span></p> <p><span style=\"font-family: Cambria Math;\">Traditions- </span><span style=\"font-family: Cambria Math;\">the transmission of customs or beliefs from generation to generation</span></p> <p><span style=\"font-family: Cambria Math;\">Memory- </span><span style=\"font-family: Cambria Math;\">a person’s ability to remember things</span></p> <p><span style=\"font-family: Cambria Math;\">Experience- </span><span style=\"font-family: Cambria Math;\">the things that you have done in your life</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\">Select the most appropriate synonym of the underlined word in the given sentence.</span></p> <p><span style=\"font-family: Cambria Math;\">The </span><span style=\"text-decoration: underline;\"><span style=\"font-family: Cambria Math;\">perils</span></span><span style=\"font-family: Cambria Math;\">of smoking tobacco can never be ignored.</span></p>",
+        "option_1": "<p>Delights</p>",
+        "option_2": "<p>Benefits</p>",
+        "option_3": "<p>Hazards</p>",
+        "option_4": "<p>Humiliations</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family: Cambria Math;\">Hazards- </span><span style=\"font-family: Cambria Math;\">a danger or risk</span></p> <p><span style=\"font-family: Cambria Math;\">Perils- </span><span style=\"font-family: Cambria Math;\">something that is very dangerous</span></p> <p><span style=\"font-family: Cambria Math;\">Delights- </span><span style=\"font-family: Cambria Math;\">to give somebody great pleasure</span></p> <p><span style=\"font-family: Cambria Math;\">Benefits- </span><span style=\"font-family: Cambria Math;\">an advantage or useful effect that something has</span></p> <p><span style=\"font-family: Cambria Math;\">Humiliations- </span><span style=\"font-family: Cambria Math;\">the feeling of being ashamed or losing respect for yourself, </span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Cambria Math;\"> Select the most appropriate option that can substitute the underlined segment in the </span><span style=\"font-family: Cambria Math;\">given sentence.</span></p> <p><span style=\"font-family: Cambria Math;\">I </span><span style=\"text-decoration: underline;\"><span style=\"font-family: Cambria Math;\">am been working here</span></span><span style=\"font-family: Cambria Math;\"> for the past ten years.</span></p>",
+        "option_1": "<p>have been working here</p>",
+        "option_2": "<p>is been working here</p>",
+        "option_3": "<p>was been working here</p>",
+        "option_4": "<p>had been working here</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family: Cambria Math;\"> have been working here</span></p> <p><span style=\"font-family: Cambria Math;\">“</span><span style=\"text-decoration: underline;\"><span style=\"font-family: Cambria Math;\">Have been + V-ing + for + time duration</span></span><span style=\"font-family: Cambria Math;\"><span style=\"text-decoration: underline;\">”</span> is the correct grammatical structure for the given sentence. <b>Hence,</b> ‘</span><span style=\"font-family: Cambria Math;\">have been working here</span><span style=\"font-family: Cambria Math;\">’ is the most appropriate answer.</span></p>"
+    },
+    {
+        "question": "<p>Select the most appropriate option to fill in the blank.</p> <p><span style=\"font-family: Cambria Math;\">Seeing my messy room, my mother taught me to keep everything in order. Now my </span><span style=\"font-family: Cambria Math;\">room is ________.</span></p>",
+        "option_1": "<p>on demand</p>",
+        "option_2": "<p>of no avail</p>",
+        "option_3": "<p>spick and span</p>",
+        "option_4": "<p>high and dry</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family: Cambria Math;\"> spick and span. </span></p> <p><span style=\"font-family: Cambria Math;\">‘</span><span style=\"font-family: Cambria Math;\">Spick and span’ is an idiom that means </span><span style=\"font-family: Cambria Math;\">neat, clean, and well looked after</span><span style=\"font-family: Cambria Math;\">. The given sentence talks about the narrator’s room which is now </span><span style=\"font-family: Cambria Math;\">neat, clean, and well looked after</span><span style=\"font-family: Cambria Math;\">. <b>Hence,</b> ‘spick and span’ is the most appropriate answer. </span></p>"
+    },
+    {
+        "question": "<p>The following sentence has been split into four segments. Identify the segment that<span style=\"font-family: Cambria Math;\">contains a grammatical error.</span></p> <p><span style=\"font-family: Cambria Math;\">There is a whole world / out there that / is invisible from / the naked eye.</span></p>",
+        "option_1": "<p>the naked eye</p>",
+        "option_2": "<p>is invisible from</p>",
+        "option_3": "<p>There is a whole world</p>",
+        "option_4": "<p>out there that</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<span style=\"font-family: Cambria Math;\">is invisible from. </span></p> <p><span style=\"font-family: Cambria Math;\">There is a prepositional error in the given sentence. The preposition ‘from’ must be replaced with ‘to’. <b>Hence,</b> ‘</span><span style=\"font-family: Cambria Math;\">is invisible to the naked eye</span><span style=\"font-family: Cambria Math;\">’ is the most appropriate answer.</span></p>"
+    },
+    {
+        "question": "<p>Select the option that expresses the given sentences in passive voice</p> <p><span style=\"font-family: Cambria Math;\">Had they not cleared the exam?</span></p>",
+        "option_1": "<p>Is the exam not been cleared by them?</p>",
+        "option_2": "<p>Have the exam not been cleared by them?</p>",
+        "option_3": "<p>Was the exam not been cleared by them?</p>",
+        "option_4": "<p>Had the exam not been cleared by them?</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<span style=\"font-family: Cambria Math;\"> Had the exam not been cleared by them? </span></p> <p><span style=\"font-weight: 400;\">(a) </span><span style=\"text-decoration: underline;\"><span style=\"font-weight: 400;\">Is</span></span><span style=\"font-weight: 400;\">the exam not been cleared by them? (Incorrect Verb)</span></p> <p><span style=\"font-weight: 400;\">(b) </span><span style=\"text-decoration: underline;\"><span style=\"font-weight: 400;\">Have</span></span><span style=\"font-weight: 400;\">the exam not been cleared by them? (Incorrect Verb)</span></p> <p><span style=\"font-weight: 400;\">(c) </span><span style=\"text-decoration: underline;\"><span style=\"font-weight: 400;\">Was</span></span><span style=\"font-weight: 400;\">the exam not been cleared by them? (Incorrect Verb) </span></p>"
+    },
+    {
+        "question": "<p>The question below consists of a set of labeled sentences. Out of the four options<span style=\"font-family: Cambria Math;\">given, select the most logical order of the sentences to form a coherent paragraph.</span></p> <p><span style=\"font-family: Cambria Math;\">P. In Tokyo, they built an expressway linking the international airport in Haneda to the </span><span style=\"font-family: Cambria Math;\">centre, and widened some of the city’s major arteries.</span></p> <p><span style=\"font-family: Cambria Math;\">Q. These infrastructure improvements helped to bring about the Japanese economic </span><span style=\"font-family: Cambria Math;\">miracle over the next couple of decades.</span></p> <p><span style=\"font-family: Cambria Math;\">R. Tokyo 2020 was supposed to be a great economic stimulus, replicating the </span><span style=\"font-family: Cambria Math;\">achievements of Tokyo 1964.</span></p> <p><span style=\"font-family: Cambria Math;\">S. It was thanks to hosting that Olympics that Japan invested in infrastructure such as </span><span style=\"font-family: Cambria Math;\">the famous Shinkansen bullet train .</span></p>",
+        "option_1": "<p>RSPQ</p>",
+        "option_2": "<p>QPRS</p>",
+        "option_3": "<p>SRQP</p>",
+        "option_4": "<p>PQRS</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family: Cambria Math;\">RSPQ. </span></p> <p><span style=\"font-family: Cambria Math;\">Sentence R will be the starting line as it contains the main idea of the parajumble i.e. </span><span style=\"font-family: Cambria Math;\">Tokyo 2020 Olympics</span><span style=\"font-family: Cambria Math;\"> However, Sentence S states that </span><span style=\"font-family: Cambria Math;\">it was thanks to hosting that Olympics that Japan invested in infrastructure such as the famous Shinkansen bullet train</span><span style=\"font-family: Cambria Math;\">. So, S will follow R. Further, Sentence P states that </span><span style=\"font-family: Cambria Math;\">in Tokyo, they built an expressway linking the international airport in Haneda to the centre, and widened some o</span><span style=\"font-family: Cambria Math;\">f the city’s major arteries </span><span style=\"font-family: Cambria Math;\">&amp; Sentence Q states that </span><span style=\"font-family: Cambria Math;\">these infrastructure improvements helped to bring about the </span><span style=\"font-family: Cambria Math;\">Japanese economic miracle over the next couple of decades</span><span style=\"font-family: Cambria Math;\">. So, Q will follow P. Going through the options, option a has the correct sequence.</span></p>"
+    },
+    {
+        "question": "<p>In the given sentence the underlined word may have been incorrectly spelt. Identify<span style=\"font-family: Cambria Math;\">the option that rectifies the spelling. If there is no error in spelling, select ‘No error’. </span></p> <p><span style=\"font-family: Cambria Math;\">Getting a compliment from her husband was a rare </span><span style=\"text-decoration: underline;\"><span style=\"font-family: Cambria Math;\">occurrance</span></span><span style=\"font-family: Cambria Math;\">in Rashmila’s life</span></p>",
+        "option_1": "<p>occurrence</p>",
+        "option_2": "<p>ocurrance</p>",
+        "option_3": "<p>No error</p>",
+        "option_4": "<p>ocurrancce</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family: Cambria Math;\">occurrence. </span></p> <p><span style=\"font-family: Cambria Math;\">‘</span><span style=\"font-family: Cambria Math;\">Occurrence’ is the correct spelling. </span></p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test :</strong></p> <p><span style=\"font-family: Cambria Math;\">Academic life has (96) _________ demanding for students as a result of different internal and </span><span style=\"font-family: Cambria Math;\">external expectations. Teenagers are especially (97)__________ to academic stress because </span><span style=\"font-family: Cambria Math;\">they go through so many personal and social changes. As a result, designing effective and </span><span style=\"font-family: Cambria Math;\">efficient (98) _________ solutions requires a thorough understanding of the causes and </span><span style=\"font-family: Cambria Math;\">consequences of academic stress. Exams are one of the (99)_________ aspects of anyone's </span><span style=\"font-family: Cambria Math;\">life. Exams are stressful for everyone, whether they are students or adults because everyone </span><span style=\"font-family: Cambria Math;\">wants to perform well and no one wants to fail as to avoid (100) ________ in future.</span></p> <p><strong><span style=\"font-family: Cambria Math;\">Select the most appropriate option to fill in blank number 96.</span></strong></p>",
+        "option_1": "<p>becomes</p>",
+        "option_2": "<p>became</p>",
+        "option_3": "<p>become</p>",
+        "option_4": "<p>becoming</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family: Cambria Math;\">become. </span></p> <p><span style=\"font-family: Cambria Math;\">“Has + V</span><span style=\"font-family: Cambria Math;\">3</span><span style=\"font-family: Cambria Math;\">” is the correct grammatical structure for the given sentence. <b>Hence,</b> ‘</span><span style=\"font-family: Cambria Math;\">become(</span><span style=\"font-family: Cambria Math;\">V</span><span style=\"font-family: Cambria Math;\">3</span><span style=\"font-family: Cambria Math;\">)</span><span style=\"font-family: Cambria Math;\">’ is the most appropriate answer.</span></p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test :</strong></p> <p><span style=\"font-family: Cambria Math;\">Academic life has (96) _________ demanding for students as a result of different internal and </span><span style=\"font-family: Cambria Math;\">external expectations. Teenagers are especially (97)__________ to academic stress because </span><span style=\"font-family: Cambria Math;\">they go through so many personal and social changes. As a result, designing effective and </span><span style=\"font-family: Cambria Math;\">efficient (98) _________ solutions requires a thorough understanding of the causes and </span><span style=\"font-family: Cambria Math;\">consequences of academic stress. Exams are one of the (99)_________ aspects of anyone's </span><span style=\"font-family: Cambria Math;\">life. Exams are stressfwants to perform well and no one wants to fail as to avoid (100) ________ in future.</span></p> <p><strong><span style=\"font-family: Cambria Math;\">Select the most appropriate option to fill in blank number 97.</span></strong></p>",
+        "option_1": "<p>scared</p>",
+        "option_2": "<p>prone</p>",
+        "option_3": "<p>liable</p>",
+        "option_4": "<p>resistance</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<span style=\"font-family: Cambria Math;\">prone. </span></p> <p><span style=\"font-family: Cambria Math;\">‘</span><span style=\"font-family: Cambria Math;\">Prone</span><span style=\"font-family: Cambria Math;\">’ means </span><span style=\"font-family: Cambria Math;\">likely to suffer from something or to do something bad</span><span style=\"font-family: Cambria Math;\">. The given passage states that </span><span style=\"font-family: Cambria Math;\">Teenagers are especially prone to academic stress</span><span style=\"font-family: Cambria Math;\">. <b>Hence,</b> ‘</span><span style=\"font-family: Cambria Math;\">prone</span><span style=\"font-family: Cambria Math;\">’ is the most appropriate answer.</span></p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test :</strong></p> <p><span style=\"font-family: Cambria Math;\">Academic life has (96) _________ demanding for students as a result of different internal and </span><span style=\"font-family: Cambria Math;\">external expectations. Teenagers are especially (97)__________ to academic stress because </span><span style=\"font-family: Cambria Math;\">they go through so many personal and social changes. As a result, designing effective and </span><span style=\"font-family: Cambria Math;\">efficient (98) _________ solutions requires a thorough understanding of the causes and </span><span style=\"font-family: Cambria Math;\">consequences of academic stress. Exams are one of the (99)_________ aspects of anyone's </span><span style=\"font-family: Cambria Math;\">life. Exams are stressful for everyone, whether they are students or adults because everyone </span><span style=\"font-family: Cambria Math;\">wants to perform well and no one wants to fail as to avoid (100) ________ in future.</span></p> <p><strong><span style=\"font-family: Cambria Math;\"> Select the most appropriate option to fill in blank number 98.</span></strong></p>",
+        "option_1": "<p>collateral</p>",
+        "option_2": "<p>intervention</p>",
+        "option_3": "<p>convention</p>",
+        "option_4": "<p>physical</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<span style=\"font-family: Cambria Math;\">intervention. </span></p> <p><span style=\"font-family: Cambria Math;\">‘</span><span style=\"font-family: Cambria Math;\">Intervention</span><span style=\"font-family: Cambria Math;\">’ means </span><span style=\"font-family: Cambria Math;\">the act or fact or a means of interfering with the outcome or course</span><span style=\"font-family: Cambria Math;\">. The given passage states that d</span><span style=\"font-family: Cambria Math;\">esigning effective and efficient intervention solutions requires a thorough understanding of the causes and consequences of academic stress</span><span style=\"font-family: Cambria Math;\">. <b>Hence,</b> ‘</span><span style=\"font-family: Cambria Math;\">intervention</span><span style=\"font-family: Cambria Math;\">’ is the most appropriate answer.</span></p>"
+    },
+    {
+        "question": "<p><strong> Cloze Test :</strong></p> <p><span style=\"font-family: Cambria Math;\">Academic life has (96) _________ demanding for students as a result of different internal and </span><span style=\"font-family: Cambria Math;\">external expectations. Teenagers are especially (97)__________ to academic stress because </span><span style=\"font-family: Cambria Math;\">they go through so many personal and social changes. As a result, designing effective and </span><span style=\"font-family: Cambria Math;\">efficient (98) _________ solutions requires a thorough understanding of the causes and </span><span style=\"font-family: Cambria Math;\">consequences of academic stress. Exams are one of the (99)_________ aspects of anyone's </span><span style=\"font-family: Cambria Math;\">life. Exams are stressful for everyone, whether they are students or adults because everyone </span><span style=\"font-family: Cambria Math;\">wants to perform well and no one wants to fail as to avoid (100) ________ in future.</span></p> <p><strong><span style=\"font-family: Cambria Math;\"> Select the most appropriate option to fill in blank number 99.</span></strong></p>",
+        "option_1": "<p>more important</p>",
+        "option_2": "<p>most eager</p>",
+        "option_3": "<p>most crucial</p>",
+        "option_4": "<p>more urgent</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family: Cambria Math;\">most crucial. </span></p> <p><span style=\"font-family: Cambria Math;\">‘Superlative degree adjective’ denotes the form of an adjective or adverb </span><span style=\"font-family: Cambria Math;\">th</span><span style=\"font-family: Cambria Math;\">at expresses the highest or a very high degree of quality </span><span style=\"font-family: Cambria Math;\">of a thing, person, etc</span><span style=\"font-family: Cambria Math;\">. </span><span style=\"font-family: Cambria Math;\">For example, best, worst, greatest, etc. However, we always place the definite article ‘the’ before any superlative adjective. Similarly, in the given sentence, ‘most’ is the superlative degree adjective. <b>Hence,</b> ‘most crucial’ i</span><span style=\"font-family: Cambria Math;\">s the most appropriate answer.</span></p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test :</strong></p> <p><span style=\"font-family: Cambria Math;\">Academic life has (96) _________ demanding for students as a result of different internal and </span><span style=\"font-family: Cambria Math;\">external expectations. Teenagers are especially (97)__________ to academic stress because </span><span style=\"font-family: Cambria Math;\">they go through so many personal and social changes. As a result, designing effective and </span><span style=\"font-family: Cambria Math;\">efficient (98) _________ solutions requires a thorough understanding of the causes and </span><span style=\"font-family: Cambria Math;\">consequences of academic stress. Exams are one of the (99)_________ aspects of anyone's </span><span style=\"font-family: Cambria Math;\">life. Exams are stressful for everyone, whether they are students or adults because everyone </span><span style=\"font-family: Cambria Math;\">wants to perform well and no one wants to fail as to avoid (100) ________ in future.</span></p> <p><strong><span style=\"font-family: Cambria Math;\">Select the most appropriate option to fill in blank number 100.</span></strong></p>",
+        "option_1": "<p>ambiguity</p>",
+        "option_2": "<p>sneak</p>",
+        "option_3": "<p>wanderlust</p>",
+        "option_4": "<p>purpose</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family: Cambria Math;\">ambiguity. </span></p> <p><span style=\"font-family: Cambria Math;\">‘</span><span style=\"font-family: Cambria Math;\">Ambiguity</span><span style=\"font-family: Cambria Math;\">’ means </span><span style=\"font-family: Cambria Math;\">something that can be understood in more than one way</span><span style=\"font-family: Cambria Math;\">. The given passage states that </span><span style=\"font-family: Cambria Math;\">no one wants to fail to avoid ambiguity in future. </span><span style=\"font-family: Cambria Math;\"><b>Hence,</b> ‘</span><span style=\"font-family: Cambria Math;\">ambiguity</span><span style=\"font-family: Cambria Math;\">’ is the most appropriate answer.</span></p>"
+    }
+]
