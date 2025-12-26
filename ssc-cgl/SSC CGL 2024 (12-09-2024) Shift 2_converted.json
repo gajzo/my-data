@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "<p>Three of the following numbers are alike in a certain way and one is different. Pick the odd one out.<br/>(NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)</p>",
+        "option_1": "<p>12 – 7 – 209</p>",
+        "option_2": "<p>19 – 11 – 330</p>",
+        "option_3": "<p>23 – 8 – 343</p>",
+        "option_4": "<p>15 – 9 – 264</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Logic:</strong> (1st number + 2nd number ) × 11 = 3rd number.<br/>12 – 7 – 209 :- (12 + 7 ) × 11 = 209<br/>19 – 11 – 330 :- (19 + 11 ) × 11 = 330<br/>15 – 9 – 264 :- (15 + 9 ) × 11 = 264<br/>But<br/>23 – 8 – 343 :- (23 + 8 ) × 11 = 341 (<math display=\"inline\"><mo>≠</mo></math>343)</p>"
+    },
+    {
+        "question": "<p>Select the option figure that will replace the question mark (?) in the figure given below and complete the pattern.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969864107.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969864309.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969864499.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969864682.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969864836.png",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969864499.png"
+    },
+    {
+        "question": "<p>In a certain code language, ‘talk to me’ is coded as ‘aq yt bl’ and ‘do not talk’ is coded as ‘yt me wc’. What is the code for ‘talk’ in that language?</p>",
+        "option_1": "<p>yt</p>",
+        "option_2": "<p>wc</p>",
+        "option_3": "<p>bl</p>",
+        "option_4": "<p>aq</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) talk to me<math display=\"inline\"><mo>→</mo></math> aq yt bl ………. (i)<br/>do not talk <math display=\"inline\"><mo>→</mo></math> yt me wc ………(ii)<br/>In both equation ‘talk’ and ‘yt’ is common<br/>So, ‘talk’ code is ‘yt’.</p>"
+    },
+    {
+        "question": "<p>‘NGRP’ is related to ‘JCNL’ in a certain way based on the English alphabetical order. In the same way, ‘FKLT’ is related to ‘BGHP’. To which of the following is ‘SQUO’ related, following the same logic?</p>",
+        "option_1": "<p>ONQL</p>",
+        "option_2": "<p>OMQK</p>",
+        "option_3": "<p>PNRL</p>",
+        "option_4": "<p>PMRK</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>, <br/>Similarly<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969864983.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969865112.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969865250.png"
+    },
+    {
+        "question": "<p>Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series.<br/>E_GHEI_GELK_ _OME</p>",
+        "option_1": "<p>IGFE</p>",
+        "option_2": "<p>IFGE</p>",
+        "option_3": "<p>FIFE</p>",
+        "option_4": "<p>FGEI</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969865424.png"
+    },
+    {
+        "question": "<p>In a certain code language,<br/>A + B means ‘A is the son of B’,<br/>A − B means ‘A is the wife of B’,<br/>A × B means ‘A is the brother of B’ and<br/>A ÷ B means ‘A is the daughter of B’.<br/>Based on the above, how is P related to R if ‘P × S ÷ M − T + R’?</p>",
+        "option_1": "<p>Brother</p>",
+        "option_2": "<p>Son’s son</p>",
+        "option_3": "<p>Father’s mother</p>",
+        "option_4": "<p>Daughter</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><br/>‘P’ is the son’s son of ‘R’</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969865696.png"
+    },
+    {
+        "question": "<p>346 is related to 245 by certain logic. Following the same logic, 580 is related to 479. To which of the following is 613 related, following the same logic?<br/>(NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)</p>",
+        "option_1": "<p>720</p>",
+        "option_2": "<p>460</p>",
+        "option_3": "<p>512</p>",
+        "option_4": "<p>630<br/><br/></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Logic: </strong>1st number - 101 = 2nd number<br/>346 : 245 :- 346 - 101 = 245<br/>580 : 479 :- 580 -101 = 479<br/>Similarly<br/>613 : x :- 613 - 101 = 512</p>"
+    },
+    {
+        "question": "<p>How many squares are there in the given figure?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969865799.png",
+        "option_1": "<p>8</p>",
+        "option_2": "<p>9</p>",
+        "option_3": "<p>10</p>",
+        "option_4": "<p>7</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><br/>ABCD, UWZD, EWST, JINL, KYML, YMNH, XYPQ, YGOP, WFOR<br/>There are 9 squares.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969866011.png"
+    },
+    {
+        "question": "<p>Which of the following terms will replace the question mark (?) in the given series?<br/>HPL, KLQ, NHV, QDA, TZF, ?</p>",
+        "option_1": "<p>WVK</p>",
+        "option_2": "<p>XVK</p>",
+        "option_3": "<p>WDK</p>",
+        "option_4": "<p>XWK</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969866208.png"
+    },
+    {
+        "question": "<p>Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969866371.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969866481.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969866627.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969866753.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969866883.png",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969866753.png"
+    },
+    {
+        "question": "<p>Select the set in which the numbers are related in the same way as are the numbers of the following set.<br/>(11, 16.5, 22)<br/>(14.5, 20, 25.5)<br/>(NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/deleting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)</p>",
+        "option_1": "<p>(14, 18.5, 23.5)</p>",
+        "option_2": "<p>(21.5, 25, 31.5)</p>",
+        "option_3": "<p>(18, 23.5, 29)</p>",
+        "option_4": "<p>(24.5, 30, 36.5)</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Logic</strong> : (1st number + 3rd number) ÷ 2 = 2nd number<br/>(11, 16.5, 22) :- (11 + 22) ÷ 2 = 16.5 <br/>(14.5, 20, 25.5) :- (14.5 + 25.5) ÷ 2 = 20 <br/>Similarly<br/>(18, 23.5, 29) :- (18 + 29) ÷ 2 = 23.5</p>"
+    },
+    {
+        "question": "Select the word-pair that best represents a similar relationship to the one expressed in the pair of words given below.<br/>(The words must be considered as meaningful English words and must NOT be related to each other based on the number of letters/number of consonants/vowels in the word)<br/>Duleep Trophy : Cricket",
+        "option_1": "Burdwan Trophy : Polo",
+        "option_2": "Agha Khan Cup : Hockey",
+        "option_3": "Dhyan Chand Trophy : Badminton",
+        "option_4": "Durand Cup : Cricket",
+        "option_5": "",
+        "answer": "2",
+        "solution": "(b) the Duleep Trophy is associated with the sport of Cricket. Similarly, the Agha Khan Cup is associated with the sport of Hockey."
+    },
+    {
+        "question": "<p>In a certain code language, ‘BOOK’ is written as ‘ZNNI’ and ‘SHOP’ is written as ‘QFNN’. How will ‘NOTES’ be written in that language?</p>",
+        "option_1": "<p>LRDQN</p>",
+        "option_2": "<p>LNRDQ</p>",
+        "option_3": "<p>LDNQR</p>",
+        "option_4": "<p>QDRNL</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <b>Logic:</b>- Consonant takes - 2 and vowel takes - 1.<br/>, <br/>Similarly<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969866993.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969867154.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969867324.png"
+    },
+    {
+        "question": "<p>Two sets of numbers are given below. In each set of numbers, certain mathematical operation(s) on the first number result(s) in the second number. Similarly, certain mathematical operation(s) on the second number result(s) in the third number and so on. Which of the given options follows the same set of operations as in the given sets?<br/>(NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)<br/>10 – 12 – 8 – 15; 12 – 14 – 10 – 19</p>",
+        "option_1": "<p>11 – 13 – 9 – 17</p>",
+        "option_2": "<p>8 – 6 – 10 – 18</p>",
+        "option_3": "<p>6 – 8 – 12 – 16</p>",
+        "option_4": "<p>15 – 13 – 9 – 19</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Logic :</strong> 1st number + 2 = 2nd number, 2nd number - 4 = 3rd number, <br/>(3rd number × 2) - 1 = 4th number<br/>10 – 12 – 8 – 15 :- 10 + 2 = 12 , 12 - 4 = 8 , (8 × 2) -1 = 15<br/>12 – 14 – 10 – 19 :- 12 + 2 = 14 , 14 - 4 = 10, (10 × 2) - 1 = 19<br/>Similarly<br/>11 – 13 – 9 – 17 :- 11 + 2 = 13, 13 - 4 = 9, (9 × 2) - 1 = 17</p>"
+    },
+    {
+        "question": "<p>Six letters U, V, W, X, Y and Z are written on different faces of a dice. Two positions of this dice are shown in the figure. Find the letter on the face opposite to V.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969867580.png",
+        "option_1": "<p>X</p>",
+        "option_2": "<p>Y</p>",
+        "option_3": "<p>Z</p>",
+        "option_4": "<p>W</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) in the dice 1 and 2 ‘U’ and ‘X’ are common<br/><b>Hence,</b> ‘Z’ is the opposite of ‘V’</p>"
+    },
+    {
+        "question": "<p>What will come in place of the question mark (?) in the following equation if ‘+’ and ‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged?<br/>16 ÷ 4 + 8 × 8 − 4 = ?</p>",
+        "option_1": "<p>11</p>",
+        "option_2": "<p>67</p>",
+        "option_3": "<p>42</p>",
+        "option_4": "<p>36</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Given : </strong>16 ÷ 4 + 8 × 8 − 4 = ?<br/>As per the instructions after interchanging the symbol ‘+’ and ‘−’ and ‘×’ and ‘÷’, we get.<br/>16 × 4 - 8 ÷ 8 + 4 = ?<br/>64 -1 + 4 = 67</p>"
+    },
+    {
+        "question": "<p>Which of the following operations should be interchanged to make the following equation correct?<br/>12 + 12 − 4 × 4 ÷ 2 = 22</p>",
+        "option_1": "<p>+ and ÷</p>",
+        "option_2": "<p>÷ and −</p>",
+        "option_3": "<p>− and +</p>",
+        "option_4": "<p>× and −</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Given :</strong> 12 + 12 − 4 × 4 ÷ 2 = 22<br/>After going through all the options, option (b) satisfies.<br/>12 + 12 ÷ 4 × 4 - 2 = 22<br/>12 + 3 × 4 - 2 = 22<br/>12 + 12 - 2 = 22<br/>12 + 10 = 22</p>"
+    },
+    {
+        "question": "<p>Six letters J, K, L, M, N and O are written on different faces of a dice. Two positions of this dice are shown in the figure below. Find the letter on the face opposite to J.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969867737.png",
+        "option_1": "<p>M</p>",
+        "option_2": "<p>O</p>",
+        "option_3": "<p>L</p>",
+        "option_4": "<p>N</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) From the dice 1 and 2 opposite faces are<br/>N <math display=\"inline\"><mo>↔</mo></math> J, M ↔ K, O ↔ L</p>"
+    },
+    {
+        "question": "<p>Which figure should replace the question mark (?) if the following series were to be continued?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969867983.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969868198.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969868328.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969868445.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969868568.png",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969868198.png"
+    },
+    {
+        "question": "<p>Which of the following numbers will replace the question marks (?) in the given series?<br/>16, 36, 64, ?, ?, 196, 256, 324</p>",
+        "option_1": "<p>81, 121</p>",
+        "option_2": "<p>100, 121</p>",
+        "option_3": "<p>100, 144</p>",
+        "option_4": "<p>81, 100</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969868775.png"
+    },
+    {
+        "question": "<p>Three statements are given followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements.<br/><strong>Statements :</strong><br/>All cards are postcards.<br/>Some postcards are books.<br/>All books are novels.<br/><strong>Conclusions :</strong><br/>I. Some postcards are novels.<br/>II. No card is a book.<br/>III. All cards are novels.</p>",
+        "option_1": "<p>Only II and III conclusion follow</p>",
+        "option_2": "<p>Only conclusion III follows</p>",
+        "option_3": "<p>Only I and II conclusion follow</p>",
+        "option_4": "<p>Only conclusion I follows</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/><br/>Only conclusion I follows</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969868979.png"
+    },
+    {
+        "question": "In a certain code language, ‘can we play’ is coded as ‘ae tc nx’ and ‘play in school’ is coded as ‘tc rm ef’. How is ‘play’ coded in that language?",
+        "option_1": "rm",
+        "option_2": "ef",
+        "option_3": "ae",
+        "option_4": "tc<br/>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "(d) can we play<math display=\"inline\"><mo>→</mo></math> ae tc nx ……(i)<br/>play in school <math display=\"inline\"><mo>→</mo></math> tc rm ef ……… (ii)<br/>In equation (i) and (ii) ‘play’ and ‘tc’ is common<br/><b>Hence,</b> ‘play’ code is ‘tc’"
+    },
+    {
+        "question": "<p>Each vowel in the word ‘STAMINA’ is changed to the preceding letter in the English alphabetical order and each consonant is changed to the following letter in the English alphabetical order. How many letters are there in the English alphabetical order between the letter which is the third from the right and the fourth from the left in the group of letters thus formed?</p>",
+        "option_1": "<p>Five</p>",
+        "option_2": "<p>Seven</p>",
+        "option_3": "<p>Four</p>",
+        "option_4": "<p>Six</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Given </strong>: STAMINA<br/>As per instructions given in question , we get word - TUZNHOZ<br/>The word third from the right is ‘H’ and fourth from the left end is ‘N’.<br/>Between the words ‘H’ and ‘N’ is 5.</p>"
+    },
+    {
+        "question": "<p>Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which is the letter-cluster that DOES NOT belong to that group?<br/>(Note : The odd man out is not based on the number of consonants/vowels or their position in the letter-cluster.)</p>",
+        "option_1": "<p>MPT</p>",
+        "option_2": "<p>ACG</p>",
+        "option_3": "<p>DGK</p>",
+        "option_4": "<p>HKO</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>, , <br/>But<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969869499.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969869608.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969869723.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969869886.png"
+    },
+    {
+        "question": "<p>Identify the figure from the given options, which when put in place of the question mark (?), will logically complete the series.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969870057.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969870200.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969870318.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969870464.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969870643.png",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969870200.png"
+    },
+    {
+        "question": "<p>Which of the following is an example of public sector industry in India?</p>",
+        "option_1": "<p>Bharat Heavy Electricals Limited</p>",
+        "option_2": "<p>Bajaj Auto</p>",
+        "option_3": "<p>Dabur</p>",
+        "option_4": "<p>Tata Iron Steel Company</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Bharat Heavy Electricals Limited.</strong> The public sector is the part of the economy that is owned and managed by the government, including government-controlled enterprises. BHEL is a government-owned company that specializes in manufacturing electrical equipment. It was established in 1964. Other PSUs: Steel Authority of India Ltd (SAIL), ONGC, and OIL etc.</p>"
+    },
+    {
+        "question": "<p>In which of the following years was the Pro Kabaddi League established in India?</p>",
+        "option_1": "<p>2015</p>",
+        "option_2": "<p>2016</p>",
+        "option_3": "<p>2013</p>",
+        "option_4": "<p>2014</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>2014</strong>. Pro Kabaddi is a ground-breaking initiative by Mashal Sports Pvt. Ltd and Disney Star. The inaugural Pro Kabaddi season in 2014 saw eight teams participating in the league. By Season 5, the number of teams competing grew to 12. Pro Kabaddi League (PKL) Winners : Season 1 - Jaipur Pink Panthers, Season 9 - Jaipur Pink Panthers, Season 10 - Puneri Paltan.</p>"
+    },
+    {
+        "question": "<p>The Vedangas are Hindu auxiliary disciplines that originated in ancient times and are linked to the study of the Vedas. These are _________ in number.</p>",
+        "option_1": "<p>five</p>",
+        "option_2": "<p>seven</p>",
+        "option_3": "<p>four</p>",
+        "option_4": "<p>six</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Six</strong>. Vedanga literally means \"limbs of the Vedas,\" and refers to the six disciplines connected with studying the Vedas, the ancient Indian spiritual writings. The six Vedangas are as follows: Shiksha (phonetics), Kalpa (ritual), Vyakarana (grammar), Nirukta (etymology), Chandas (meter), and Jyotisha (astronomy).</p>"
+    },
+    {
+        "question": "<p>What was the actual growth rate of the first five-year plan?</p>",
+        "option_1": "<p>2%</p>",
+        "option_2": "<p>6%</p>",
+        "option_3": "<p>6%</p>",
+        "option_4": "<p>1%</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>3.6%. </strong>The First Five-Year Plan (1951-56) surpassed its targeted growth rate of 2.1%, achieving notable success, particularly in the agricultural sector. Based on the Harrod-Domar Model, the plan focused on key areas such as agriculture, price stability, power generation, and transportation, providing a solid foundation for India’s economic development post-independence.</p>"
+    },
+    {
+        "question": "<p>What are the five Fs of indirect transmission?</p>",
+        "option_1": "<p>Flies, fingers, fomites, food and fluid</p>",
+        "option_2": "<p>Fruit, fingers, flu, food and fluid</p>",
+        "option_3": "<p>Flies, fingers, friends, food and fruit</p>",
+        "option_4": "<p>Flies, fingers, fomites, food and fruit</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Flies, fingers, fomites, food and fluid. </strong>Indirect transmission of communicable diseases occurs through various means, commonly referred to as the \"5Fs\" : flies, fingers, fomites (objects like towels and handkerchiefs that can carry infections), food, and fluids. Some diseases can spread through contaminated water, food, ice, blood, and even body tissues or organs. Examples of such diseases include typhoid, diarrhea, polio, intestinal parasites, and infective hepatitis.</p>"
+    },
+    {
+        "question": "<p>Match the points under Column A with those under Column B.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969870757.png",
+        "option_1": "<p>i-d, ii-c, iii-b, iv-a</p>",
+        "option_2": "<p>i-b, ii-a, iii-c, iv-d</p>",
+        "option_3": "<p>i-a, ii-c, iii-b, iv-d</p>",
+        "option_4": "<p>i-a, ii-b, iii-c, iv-d</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong> i-d, ii-c, iii-b, iv-a.</strong> Annelida (Latin, annulus meaning \"little ring\") includes animals that can live in water (both marine and freshwater) or on land. They may be free-living or, in some cases, parasitic. Examples include Nereis, and Hirudinaria (blood-sucking leech). Arthropoda : The largest phylum in the animal kingdom and includes insects. Examples include Scorpion and Prawn. Echinodermata : These animals have an endoskeleton of calcareous ossicles. Examples include Antedon (Sea lily), and Cucumaria (Sea cucumber). Platyhelminthes : They have a dorso-ventrally flattened body. Examples include Fasciola (Liver fluke).</p>"
+    },
+    {
+        "question": "<p>The Election Laws Amendment Bill passed in the Parliament recently seeks to implement certain electoral reforms. One of them is the eligibility date. Till now, only one date – 1 January was considered for deciding eligibility with respect to age. What reform does the Bill seek in this regard?</p>",
+        "option_1": "<p>Introducing two dates – 1 January and 1 June</p>",
+        "option_2": "<p>Eliminating the idea of eligibility date – enrolment throughout the year</p>",
+        "option_3": "<p>Introducing four dates – 1 January, 1 April, 1 July, 1 October</p>",
+        "option_4": "<p>Introducing three dates – 1 January, 1 May, 1 September</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) The Election Laws (Amendment) Bill, 2021 was introduced in the Lok Sabha on December 20, 2021. The Bill amends the Representation of the People Act, 1950 and the Representation of the People Act, 1951 to implement certain electoral reforms. The 1950 Act provides for allocation of seats and delimitation of constituencies for elections, qualifications of voters, and preparation of electoral rolls. The 1951 Act provides for the conduct of elections, and offences and disputes related to elections.</p>"
+    },
+    {
+        "question": "<p>In July 2020, which state initiated the 'Ashirwad Scheme' to extend financial support for a daughter's marriage who belongs to a family earning a lower income?</p>",
+        "option_1": "<p>Uttar Pradesh</p>",
+        "option_2": "<p>Bihar</p>",
+        "option_3": "<p>Punjab</p>",
+        "option_4": "<p>Rajasthan</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Punjab</strong>. Benefits of Ashirwad Scheme : Financial aid of Rs. 21,000. Eligibility : The girl must be 18 years or older. The family's total annual income should not exceed Rs. 32,790 from all sources. The amount of shagun/Ashirwad is limited up to two girls of the concerned family under the scheme.</p>"
+    },
+    {
+        "question": "<p>In the state legislative assembly, the Money bill can be introduced with the prior permission of _______.</p>",
+        "option_1": "<p>Governor</p>",
+        "option_2": "<p>Auditor General</p>",
+        "option_3": "<p>Finance Minister</p>",
+        "option_4": "<p>CAG</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Governor</strong>. Money Bills in State Legislatures : A Money Bill is a special type of financial bill that deals with matters like taxation, borrowing, or expenditure from the state's Consolidated Fund. Article 198 of the Constitution of India deals with the special procedure for money bills in state legislatures. Article 148 : Provision for the appointment of the Comptroller and Auditor General of India (CAG) by the President.</p>"
+    },
+    {
+        "question": "<p>According to Census of India 2011, what is the gap between male and female literacy rate in India?</p>",
+        "option_1": "<p>59%</p>",
+        "option_2": "<p>30%</p>",
+        "option_3": "<p>84%</p>",
+        "option_4": "<p>68%</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>16.68%</strong>. According to the 2011 Census of India, the overall literacy rate was 74.04%. The literacy rate for males was 82.14%, while for females, it was 65.46%. Literacy rates for States and Union Territories (UTs) : Kerala - 94% (highest among states), Bihar - 61.80% (lowest among states), Lakshadweep - 91.85% (highest among UTs), Dadra and Nagar Haveli - 76.24% (lowest among UTs), Mizoram - 91.33%, Goa - 88.70% and Delhi - 86.21%.</p>"
+    },
+    {
+        "question": "<p>In which year was the Digital India mission launched?</p>",
+        "option_1": "<p>2014</p>",
+        "option_2": "<p>2016</p>",
+        "option_3": "<p>2015</p>",
+        "option_4": "<p>2017</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>2015</strong>. The Digital India programme was launched by Prime Minister Shri Narendra Modi. Aim : To transform India into a knowledge-based economy and a digitally empowered society by ensuring digital services, digital access, digital inclusion, digital empowerment and bridging the digital divide. Coordinated by : Ministry of Electronics and Information Technology.</p>"
+    },
+    {
+        "question": "<p>Who among the following players is related to table tennis?</p>",
+        "option_1": "<p>Manish Narwal</p>",
+        "option_2": "<p>Manika Batra</p>",
+        "option_3": "<p>K Srikanth</p>",
+        "option_4": "<p>Pankaj Advani</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Manika Batra.</strong> She is a triple gold medalist at the South Asian Games, a double gold medalist at the Commonwealth Games, and a bronze medalist at the Asian Cup and Asian Games. Her Awards : Major Dhyan Chand Khel Ratna Award (2020), and Arjuna Award (2018). Other Prominent Table Tennis Players : Achanta Sharath Kamal, Sathiyan Gnanasekaran, Mouma Das, and Neha Aggarwal Sharma. Manish Narwal (Para Pistol Shooter), K Srikanth (badminton player), Pankaj Advani (billiards and snooker).</p>"
+    },
+    {
+        "question": "<p>Which of the following gases emits red light when electricity is passed through it?</p>",
+        "option_1": "<p>Neon</p>",
+        "option_2": "<p>Hydrogen</p>",
+        "option_3": "<p>Argon</p>",
+        "option_4": "<p>Helium</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Neon</strong>. Electric discharge in gases happens when electric current passes through a gaseous medium, leading to the ionization of the gas. This process can produce visible light, with different elements emitting various wavelengths and colors as they return to their ground states. Gas and Colour : Hydrogen - Blue-violet, Helium - Pink-orange, Argon - Violet and Krypton - Lavender.</p>"
+    },
+    {
+        "question": "<p>Chand Bardai’s famous literary work ________, mentions Prithviraj Chauhan‘s love story and heroic deeds.</p>",
+        "option_1": "<p>Harakeli Nataka</p>",
+        "option_2": "<p>Abhidhana Chintamani</p>",
+        "option_3": "<p>Prithviraj Raso</p>",
+        "option_4": "<p>Rajamartanda</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong> Prithviraj Raso.</strong> It is a Braj language epic poem about the life of Prithviraj Chauhan. Other Ancient Books and Authors : ‘Ain-i-Akbari’ - Abul Fazl, ‘Mahabharata’ - Vyasa, ‘Ramayana’ - Valmiki, ‘Shakuntala’ - Kalidasa, and ‘Mudrarakshas’ - Vishakhadatta.</p>"
+    },
+    {
+        "question": "<p>Who among the following freedom fighters is known as ‘Deshbandhu’?</p>",
+        "option_1": "<p>Gopal Krishna Gokhale</p>",
+        "option_2": "<p>Bhagat Singh</p>",
+        "option_3": "<p>Subhas Chandra Bose</p>",
+        "option_4": "<p>Chittaranjan Das</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Chittaranjan Das</strong>. He was a politician and leader of the Swaraj (Independence) Party in Bengal under British rule. Other Personalities and Their Titles : Mahatma Gandhi (Father of the Nation), Subhas Chandra Bose (Netaji), Bhagat Singh (Shaheed-e-Azam), Jawaharlal Nehru (Chacha Nehru), and Sardar Vallabhbhai Patel (Iron Man of India).</p>"
+    },
+    {
+        "question": "<p>Buddhadev Dasgupta is famous for playing which of the following musical instruments?</p>",
+        "option_1": "<p>Sarod</p>",
+        "option_2": "<p>Sarangi</p>",
+        "option_3": "<p>Bansuri</p>",
+        "option_4": "<p>Mridangam</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Sarod</strong>. It is a stringed instrument, used in Hindustani music on the Indian subcontinent. Buddhadev Das Gupta was an Indian classical musician. His Awards: Padma Bhushan (2012) and Sangeet Natak Akademi Award (1993). Notable exponents of the Sarod : Ustad Amjad Ali Khan, Bahadur Khan, and Allaudin Khan.</p>"
+    },
+    {
+        "question": "<p>Which of the following is NOT a Fundamental Duty of the Indian citizens?</p>",
+        "option_1": "<p>To develop scientific temper, humanism and the spirit of inquiry and reform.</p>",
+        "option_2": "<p>To safeguard public property and to abjure violence.</p>",
+        "option_3": "<p>To cherish and follow the noble ideas that inspired our national struggle for freedom.</p>",
+        "option_4": "<p>Mandatory national service of 5 years.</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Mandatory national service of 5 years.</strong> The Fundamental Duties of Indian citizens, as outlined in Article 51A of the Indian Constitution, include : Article 51A(b) - To cherish and follow the noble ideals which inspired our national struggle for freedom. Article 51A(h) - To develop the scientific temper, humanism, and spirit of inquiry and reform. Article 51A(i) - To safeguard public property and to abjure violence.</p>"
+    },
+    {
+        "question": "<p>What is the product formed when zinc and sulphuric acid react?</p>",
+        "option_1": "<p>Zinc sulphate</p>",
+        "option_2": "<p>Zinc hydroxide</p>",
+        "option_3": "<p>Zinc sulphide</p>",
+        "option_4": "<p>Zinc oxide</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Zinc </strong>sulphate. Zinc reacts with dilute Sulphuric acid to form Zinc sulphate and Hydrogen gas is evolved from the reaction. This is a single displacement reaction of a non-metal by a metal. Both metals and nonmetals take part in displacement reactions. Zn (s) + <math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><msub><mi>SO</mi><mn>4</mn></msub></math>(aq) → <math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>ZnSO</mi><mn>4</mn></msub></math>(aq) + <math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub></math>(g).</p>"
+    },
+    {
+        "question": "<p>Hindustani singer Pandit Venkatesh Kumar was honoured with 'Kalidas Samman-2022' by which state government?</p>",
+        "option_1": "<p>Madhya Pradesh</p>",
+        "option_2": "<p>Maharashtra</p>",
+        "option_3": "<p>Uttar Pradesh</p>",
+        "option_4": "<p>Gujarat</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Madhya Pradesh</strong>. The Kalidas Samman is an annual arts award named after Kalidasa, a famous Classical Sanskrit writer. It was first awarded in 1980 and was initially conferred in alternate years in four fields: Classical Music, Classical Dance, Theatre and Plastic Arts. Recipients of the Kalidas Samman: 2018- Anjolie Ela Menon (Visual Arts), 2019 - Surendra Verma (Theatre), and 2020 - Aruna Sairam (Classical Music).</p>"
+    },
+    {
+        "question": "<p>In which form of exchange are goods used as a medium of exchange?</p>",
+        "option_1": "<p>Online exchange</p>",
+        "option_2": "<p>Credit exchange</p>",
+        "option_3": "<p>Currency exchange</p>",
+        "option_4": "<p>Barter exchange</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Barter exchange</strong>. The barter system is a method of exchange where goods are traded directly for other goods without using money. However, it faced several challenges, such as the lack of double coincidence of wants, the absence of a common measure of value, no standard for deferred or future payments, and issues with storing wealth, which could lead to waste.</p>"
+    },
+    {
+        "question": "<p>Gangaur Festival, Pushkar Fair, Nagaur Fair and Urs Fair are the popular fairs and festivals of which state?</p>",
+        "option_1": "<p>Rajasthan</p>",
+        "option_2": "<p>Tripura</p>",
+        "option_3": "<p>Punjab</p>",
+        "option_4": "<p>Maharashtra</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Rajasthan</strong>. Other fairs and festivals in Rajasthan: Camel Festival, Mahaveerji Fair, Baneshwar Fair , Kolayat Fair, Marwar Festival, and Dhulandi Festival. Fairs and Festivals of India: Tripura - Poush Sankranti, Garia, and Kharchi. Punjab - Chhappar Mela, Lohri, Hola Mohalla, and Baisakhi. Maharashtra - Banganga Festival, and Pola Festival.</p>"
+    },
+    {
+        "question": "<p>______ leaves are used to make bidis.</p>",
+        "option_1": "<p>Neem</p>",
+        "option_2": "<p>Champa</p>",
+        "option_3": "<p>Betel</p>",
+        "option_4": "<p>Tendu</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Tendu</strong>. Tendu tree (Diospyros melanoxylon Roxb.) belonging to Family Ebenaceae, which is endemic to the Indian subcontinent. Bidi is an indigenous leaf-rolled cigarette made from coarse uncured tobacco, tied with a coloured string at one end.</p>"
+    },
+    {
+        "question": "<p>Which of the following hills is located in the Eastern Ghats?</p>",
+        "option_1": "<p>Naga hills</p>",
+        "option_2": "<p>Khasi hills</p>",
+        "option_3": "<p>Shevaroy hills</p>",
+        "option_4": "<p>Anamudi hills</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Shevaroy hills</strong>. The Eastern Ghats are a series of discontinuous low hills with an average elevation of 600 meters. They extend parallel to the east coast, from the southern part of the Mahanadi valley to the Nilgiri hills. The highest peak in this region is Jindhagada Peak (1,690 meters). Notable hills in the Eastern Ghats include : Mahendragiri and Niyamgiri hills in Odisha, Nallamala hills (Andhra Pradesh), and Kollimalai and Pachaimalai hills in Tamil Nadu.</p>"
+    },
+    {
+        "question": "<p>Who established Shantiniketan and when?</p>",
+        "option_1": "<p>Mahatma Gandhi, 1910</p>",
+        "option_2": "<p>Ravindranath Tagore, 1901</p>",
+        "option_3": "<p>Ravindranath Tagore, 1905</p>",
+        "option_4": "<p>Devendranath Tagore, 1915</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Ravindranath Tagore</strong>, <strong>1901</strong>. Shantiniketan Initially founded as an ashram by Debendranath Tagore in 1863 and later expanded by Rabindranath Tagore into a center for learning and culture, it evolved into Visva-Bharati University in 1921. In 2023, Shantiniketan was recognized as India's 41st UNESCO World Heritage Site. Other Institutes and Founders : Rishi Valley (1926, Andhra Pradesh) - J. Krishnamurti; Auroville (1968, Tamil Nadu) - Sri Aurobindo; Sabarmati Ashram (1915, Gujarat) - Mahatma Gandhi.</p>"
+    },
+    {
+        "question": "<p>Which of the following institutes was founded by Mrinalini Sarabhai who was a Bharatanatyam and Kathakali dancer?</p>",
+        "option_1": "<p>Sri Thyagaraja College of Music and Dance</p>",
+        "option_2": "<p>Nrityanjali Institute of Performing Arts</p>",
+        "option_3": "<p>Darpana Academy of Performing Arts</p>",
+        "option_4": "<p>Nalanda Nritya Kala Mahavidyalaya</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Darpana Academy of Performing Arts.</strong> It is a school for performing arts in Ahmedabad, Gujarat, established by Mrinalini Sarabhai and Vikram Sarabhai in 1949. Mrinalini Sarabhai’s Awards : Padma Bhushan (1992) and Padma Shri (1965).</p>"
+    },
+    {
+        "question": "<p>A person borrowed some money on simple interest. After 4 years, he returned<math display=\"inline\"><mfrac><mrow><mn>9</mn><mi> </mi></mrow><mrow><mn>5</mn><mi> </mi></mrow></mfrac></math> of the money to lender. What was the rate of interest?</p>",
+        "option_1": "<p>20% p.a.</p>",
+        "option_2": "<p>18% p.a.</p>",
+        "option_3": "<p>17% p.a.</p>",
+        "option_4": "<p>19% p.a.</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>Amount = Principal <math display=\"inline\"><mo>×</mo></math> (1 + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>Rate</mi><mo> </mo><mo>×</mo><mo> </mo><mi>Time</mi></mrow><mn>100</mn></mfrac></math>)<br/><math display=\"inline\"><mo>⇒</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>9</mn><mn>5</mn></mfrac></math>P = P (1 + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>Rate</mi><mo> </mo><mo>×</mo><mo> </mo><mn>4</mn></mrow><mn>100</mn></mfrac></math>)<br/><math display=\"inline\"><mo>⇒</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>9</mn><mn>5</mn></mfrac></math> - 1 = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>Rate</mi><mo> </mo><mo>×</mo><mo> </mo><mn>4</mn></mrow><mn>100</mn></mfrac></math><br/><math display=\"inline\"><mo>⇒</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>4</mn><mn>5</mn></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>Rate</mi><mo> </mo><mo>×</mo><mo> </mo><mn>4</mn></mrow><mn>100</mn></mfrac></math><br/><math display=\"inline\"><mo>⇒</mo></math> Rate = 20%</p>"
+    },
+    {
+        "question": "<p>Every month, a man consumes 20 kg of rice and 8 kg of wheat. The price of rice is 20% of the price of wheat, resulting in a total expenditure of ₹300 per month for rice and wheat combined. If the price of wheat is increased by 20%, what percentage reduction in rice consumption is needed to maintain the same expenditure of ₹300? (Given that the price of rice and consumption of wheat is constant.)</p>",
+        "option_1": "<p>40%</p>",
+        "option_2": "<p>38%</p>",
+        "option_3": "<p>24%</p>",
+        "option_4": "<p>22%</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) Let price of rice = x<br/>Price of wheat = 5x<br/>Total price = 20 x + 8 × 5x = 300<br/>⇒ x = 5<br/>New price of wheat = 25 × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>6</mn><mn>5</mn></mfrac></math> = 30<br/>Let new price of rice = y<br/>⇒ 20 × y + 8 × 30 = 300<br/>⇒ 20y = 60<br/>⇒ y = 3<br/>Now, <br/>Reduction percentage = <math display=\"inline\"><mfrac><mrow><mn>5</mn><mi> </mi><mo>-</mo><mi> </mi><mn>3</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math> × 100 = 40%</p>"
+    },
+    {
+        "question": "<p>A thief pursued by a policeman was 150 m ahead at the start. If the ratio of the speed of the policeman to that of the thief was 5 : 4, then how far (distance in metres) could the thief go before he is caught by the policeman?</p>",
+        "option_1": "<p>350</p>",
+        "option_2": "<p>200</p>",
+        "option_3": "<p>600</p>",
+        "option_4": "<p>400</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/>Time taken to catch the thief = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>150</mn><mrow><mn>5</mn><mi mathvariant=\"normal\">x</mi><mi mathvariant=\"normal\"> </mi><mo>-</mo><mo> </mo><mn>4</mn><mi mathvariant=\"normal\">x</mi></mrow></mfrac></math> = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>150</mn><mi mathvariant=\"normal\">x</mi></mfrac></math><br/>Distance covered by thief = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>150</mn><mi mathvariant=\"normal\">x</mi></mfrac></math> × 4x = 600 meters</p>"
+    },
+    {
+        "question": "<p>The given table shows the production of iron rods by a company for a period of 6 months. Study the table and answer the question that follows.<br/> <br/>What is the ratio of the month having the highest production to the lowest production to the month having</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969871116.png",
+        "option_1": "<p>9 : 5</p>",
+        "option_2": "<p>12 : 5</p>",
+        "option_3": "<p>1 : 2</p>",
+        "option_4": "<p>5 : 12</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) Highest production = 108<br/>Lowest production = 45<br/>Required ratio = <math display=\"inline\"><mfrac><mrow><mn>108</mn></mrow><mrow><mn>45</mn></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>12</mn><mn>5</mn></mfrac></math></p>"
+    },
+    {
+        "question": "<p>Solve the following:<br/>[2.5 + 1.5)² ÷ 4 of <math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math> × 8 - 1]</p>",
+        "option_1": "<p>0</p>",
+        "option_2": "<p>81</p>",
+        "option_3": "<p>1</p>",
+        "option_4": "<p>63<br/><br/></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/>[(2.5 + 1.5)² ÷ 4 of <math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math> × 8 - 1]<br/>[(4)² ÷ 2 × 8 - 1)] = 8 × 8 - 1 = 64 - 1 = 63</p>"
+    },
+    {
+        "question": "<p>Find the area of a sector with an arc length of 44 cm, which subtends a central angle of 30°.</p>",
+        "option_1": "<p>1488 cm²</p>",
+        "option_2": "<p>1584 cm²</p>",
+        "option_3": "<p>1848 cm²</p>",
+        "option_4": "<p>1884 cm²</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/>Arc length of sector = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi mathvariant=\"normal\">θ</mi><mn>360</mn></mfrac></math> 2πr <br/>⇒ 44 = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>30</mn><mn>360</mn></mfrac></math> × 2 × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>22</mn><mn>7</mn></mfrac></math> × r<br/>⇒ r = 84 cm<br/>area of a sector = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi mathvariant=\"normal\">θ</mi><mn>360</mn></mfrac></math> πr²<br/>= <math display=\"inline\"><mfrac><mrow><mn>30</mn></mrow><mrow><mn>360</mn></mrow></mfrac></math> × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>22</mn><mn>7</mn></mfrac></math> × 84 × 84 = 1848 cm²</p>"
+    },
+    {
+        "question": "<p>The following pie chart shows the study time of different subjects of a student in a day. Study the pie chart and answer the question.<br/> <br/>If the student studied English for 3 hours, then he studied Mathematics for:</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969871419.png",
+        "option_1": "<p>2 hours</p>",
+        "option_2": "<p>1 hour</p>",
+        "option_3": "<p>7 hours</p>",
+        "option_4": "<p>5 hours</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/><math display=\"inline\"><mfrac><mrow><mn>15</mn></mrow><mrow><mn>100</mn></mrow></mfrac></math> × x = 3<br/>⇒ x = 20<br/>For mathematics:<br/><math display=\"inline\"><mfrac><mrow><mn>35</mn></mrow><mrow><mn>100</mn></mrow></mfrac></math> × 20 = 7 hours</p>"
+    },
+    {
+        "question": "<p>Two cylinders have the radii of their bases in the ratio 4 : 5 and their heights are in the ratio 5 : 7. Find the ratio of their curved surface areas.</p>",
+        "option_1": "<p>5 : 4</p>",
+        "option_2": "<p>4 : 7</p>",
+        "option_3": "<p>1 : 2</p>",
+        "option_4": "<p>4 : 5</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>Ratio of curved surface area = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">π</mi><mi mathvariant=\"normal\"> </mi><mi>RH</mi></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">π</mi><mi mathvariant=\"normal\"> </mi><mi>rh</mi></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\">π</mi><mn>4</mn><mo> </mo><mo>×</mo><mo> </mo><mn>5</mn></mrow><mrow><mn>2</mn><mi mathvariant=\"normal\">π</mi><mn>5</mn><mo> </mo><mo>×</mo><mo> </mo><mn>7</mn></mrow></mfrac><mo> </mo><mo>=</mo><mo> </mo><mfrac><mn>4</mn><mn>7</mn></mfrac></math></p>"
+    },
+    {
+        "question": "<p>Solve the following:<br/><math display=\"inline\"><mfrac><mrow><mn>1</mn><mi> </mi></mrow><mrow><mn>1</mn><mo>+</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>θ</mi><mi> </mi></mrow></mfrac></math> + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mrow><mn>1</mn><mo>-</mo><mo> </mo><mi>cosθ</mi></mrow></mfrac></math> = ?</p>",
+        "option_1": "<p>2cosec²θ</p>",
+        "option_2": "<p>2sin²θ</p>",
+        "option_3": "<p>2sec²θ</p>",
+        "option_4": "<p>2tan²θ</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mrow><mn>1</mn><mo> </mo><mo>+</mo><mo> </mo><mi>cosθ</mi></mrow></mfrac><mo> </mo><mo>+</mo><mo> </mo><mfrac><mn>1</mn><mrow><mn>1</mn><mo> </mo><mo>-</mo><mo> </mo><mi>cosθ</mi></mrow></mfrac></math><br/><math display=\"inline\"><mo>⇒</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>1</mn><mo> </mo><mo>-</mo><mo> </mo><mi>cosθ</mi><mo> </mo><mo>+</mo><mo> </mo><mn>1</mn><mo> </mo><mo>+</mo><mo> </mo><mi>cosθ</mi></mrow><mrow><mn>1</mn><mo> </mo><mo>-</mo><mo> </mo><msup><mi>cos</mi><mn>2</mn></msup><mi mathvariant=\"normal\">θ</mi></mrow></mfrac></math> <br/><math display=\"inline\"><mo>⇒</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>2</mn><mrow><msup><mi>sin</mi><mn>2</mn></msup><mi mathvariant=\"normal\">θ</mi></mrow></mfrac><mo> </mo><mo>=</mo><mo> </mo><mn>2</mn><mo> </mo><msup><mi>cosec</mi><mn>2</mn></msup><mi mathvariant=\"normal\">θ</mi></math></p>"
+    },
+    {
+        "question": "<p>Two pipes A and B can fill a tank in 48 minutes and 66 minutes, respectively. If both the pipes are opened simultaneously, then after how many minutes should pipe B be closed so that the tank gets filled in 32 minutes?</p>",
+        "option_1": "<p>18</p>",
+        "option_2": "<p>16</p>",
+        "option_3": "<p>22</p>",
+        "option_4": "<p>20</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/><br/>If A worked for 32 minutes = 32 × 11 = 352 <br/>Remaining work = 528 - 352 = 176<br/>Remaining work by B = <math display=\"inline\"><mfrac><mrow><mn>176</mn></mrow><mrow><mn>8</mn></mrow></mfrac></math> = 22 minutes<br/>After 22 minutes, pipe B should be closed.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969871701.png"
+    },
+    {
+        "question": "<p>If 7 tan θ = 3, then<math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>7</mn><mi mathvariant=\"normal\"> </mi><mi>sin</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">θ</mi><mi mathvariant=\"normal\"> </mi><mo>+</mo><mi mathvariant=\"normal\"> </mi><mn>5</mn><mi mathvariant=\"normal\"> </mi><mi>cos</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">θ</mi></mrow><mrow><mn>7</mn><mi mathvariant=\"normal\"> </mi><mi>sin</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">θ</mi><mi mathvariant=\"normal\"> </mi><mo>-</mo><mi mathvariant=\"normal\"> </mi><mn>2</mn><mi mathvariant=\"normal\"> </mi><mi>cos</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">θ</mi></mrow></mfrac></math> is:</p>",
+        "option_1": "<p>7</p>",
+        "option_2": "<p>5</p>",
+        "option_3": "<p>8</p>",
+        "option_4": "<p>6</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>7</mn><mi mathvariant=\"normal\"> </mi><mi>sin</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">θ</mi><mi mathvariant=\"normal\"> </mi><mo>+</mo><mi mathvariant=\"normal\"> </mi><mn>5</mn><mi mathvariant=\"normal\"> </mi><mi>cos</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">θ</mi></mrow><mrow><mn>7</mn><mi mathvariant=\"normal\"> </mi><mi>sin</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">θ</mi><mi mathvariant=\"normal\"> </mi><mo>-</mo><mi mathvariant=\"normal\"> </mi><mn>2</mn><mi mathvariant=\"normal\"> </mi><mi>cos</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">θ</mi></mrow></mfrac></math><br/><math display=\"inline\"><mo>⇒</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>7</mn><mo> </mo><mi>tanθ</mi><mo> </mo><mo>+</mo><mo> </mo><mn>5</mn></mrow><mrow><mn>7</mn><mo> </mo><mi>tanθ</mi><mo> </mo><mo>-</mo><mo> </mo><mn>2</mn></mrow></mfrac><mo> </mo><mo>=</mo><mo> </mo><mfrac><mrow><mn>7</mn><mo> </mo><mo>×</mo><mo> </mo><mstyle displaystyle=\"true\"><mfrac><mn>3</mn><mn>7</mn></mfrac></mstyle><mo> </mo><mo>+</mo><mo> </mo><mn>5</mn></mrow><mrow><mn>7</mn><mo> </mo><mo>×</mo><mo> </mo><mstyle displaystyle=\"true\"><mfrac><mn>3</mn><mn>7</mn></mfrac></mstyle><mo> </mo><mo>-</mo><mo> </mo><mn>2</mn></mrow></mfrac><mo> </mo><mo>=</mo><mo> </mo><mfrac><mrow><mn>3</mn><mo> </mo><mo>+</mo><mo> </mo><mn>5</mn></mrow><mrow><mn>3</mn><mo> </mo><mo>-</mo><mo> </mo><mn>2</mn></mrow></mfrac></math> = 8</p>"
+    },
+    {
+        "question": "<p>The given pie chart shows the expenditure by a state government on various sports during a particular year.<br/> <br/>If the total amount spent on tennis and football is ₹1,45,000, then the total amount (in ₹) spent on all the given sports is:</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969872101.png",
+        "option_1": "<p>3,10,000</p>",
+        "option_2": "<p>4,50,000</p>",
+        "option_3": "<p>5,00,000</p>",
+        "option_4": "<p>4,10,000</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) total amount spent on tennis and football = 14x + 15x = 29x = 145000<br/><math display=\"inline\"><mo>⇒</mo></math> x = 5,000<br/>Total amount spent on all sports = 5000 <math display=\"inline\"><mo>×</mo></math> 100 = 5,00,000</p>"
+    },
+    {
+        "question": "<p>The given pie-chart shows the percentage distribution of 20,000 employees in a company.<br/>Study the given chart and answer the question that follows.<br/> <br/>If 30% of the employees in department D are females, then how many male employees are there in that department?</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969872315.png",
+        "option_1": "<p>4200</p>",
+        "option_2": "<p>4500</p>",
+        "option_3": "<p>5000</p>",
+        "option_4": "<p>4000</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>Total employees in company D = 20000 × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>30</mn><mn>100</mn></mfrac></math> = 6000<br/>Females in company D = 6000 × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>30</mn><mn>100</mn></mfrac></math> = 1800<br/><math display=\"inline\"><mo>⇒</mo></math> Males in company D = 6000 - 1800 = 4200</p>"
+    },
+    {
+        "question": "<p>In triangle ABC, the length of side BC is 2 cm less than twice the length of side AB. The length of side AC exceeds the length of side AB by 10 cm. The perimeter of the triangle is 40 cm. Determine the length (in cm) of the smallest side of the triangle.</p>",
+        "option_1": "<p>12</p>",
+        "option_2": "<p>14</p>",
+        "option_3": "<p>10</p>",
+        "option_4": "<p>8</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/><br/>Perimeter of triangle ABC = x + 2x - 2 + x + 10<br/><math display=\"inline\"><mo>⇒</mo></math> 4x + 8 = 40<br/><math display=\"inline\"><mo>⇒</mo></math> 4x = 32<br/><math display=\"inline\"><mo>⇒</mo></math> x = 8<br/><b>Hence,</b> <br/>The smallest side = 8 cm</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969872629.png"
+    },
+    {
+        "question": "<p>If<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>cot</mi><mn>4</mn></msup><mi mathvariant=\"normal\">ϕ</mi><mo> </mo><mo>-</mo><mo> </mo><mi>cot</mi><mo>²</mo><mi mathvariant=\"normal\">ϕ</mi></math> = 1, then the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>cos</mi><mn>4</mn></msup><mi mathvariant=\"normal\">ϕ</mi><mo> </mo><mo>+</mo><mo> </mo><mi>cos</mi><mo>²</mo><mi mathvariant=\"normal\">ϕ</mi></math> is:</p>",
+        "option_1": "<p>2</p>",
+        "option_2": "<p>1</p>",
+        "option_3": "<p><math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><msqrt><mn>3</mn></msqrt></mrow></mfrac></math></p>",
+        "option_4": "<p><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>3</mn><mn>2</mn></mfrac></math></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>cot</mi><mn>4</mn></msup><mi mathvariant=\"normal\">ϕ</mi></math> - cot²ϕ = 1<br/><math display=\"inline\"><mo>⇒</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>cot</mi><mn>4</mn></msup><mi mathvariant=\"normal\">ϕ</mi></math> = 1 + cot²ϕ <br/><math display=\"inline\"><mo>⇒</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>cot</mi><mn>4</mn></msup><mi mathvariant=\"normal\">ϕ</mi></math> = cosec²ϕ …..(cosec²ϕ =1 + cot²ϕ )<br/><math display=\"inline\"><mo>⇒</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi>cos</mi><mn>4</mn></msup><mi mathvariant=\"normal\">ϕ</mi></mrow><mrow><msup><mi>sin</mi><mn>4</mn></msup><mi mathvariant=\"normal\">ϕ</mi></mrow></mfrac><mo> </mo><mo>=</mo><mo> </mo><mfrac><mn>1</mn><mrow><msup><mi>sin</mi><mn>2</mn></msup><mi mathvariant=\"normal\">ϕ</mi></mrow></mfrac></math> <br/><math display=\"inline\"><mo>⇒</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>cos</mi><mn>4</mn></msup><mi mathvariant=\"normal\">ϕ</mi></math> = sin²ϕ …..(i)<br/>Now,<br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>cos</mi><mn>4</mn></msup><mi mathvariant=\"normal\">ϕ</mi></math> + cos²ϕ = sin²ϕ + cos²ϕ = 1</p>"
+    },
+    {
+        "question": "<p>The average of the squares of the first 46 natural numbers is</p>",
+        "option_1": "<p>5</p>",
+        "option_2": "<p>5</p>",
+        "option_3": "<p>5</p>",
+        "option_4": "<p>5</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>Sum of square of n natural numbers = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi mathvariant=\"normal\">n</mi><mo>(</mo><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\"> </mi><mo>+</mo><mi mathvariant=\"normal\"> </mi><mn>1</mn><mo>)</mo><mi mathvariant=\"normal\"> </mi><mo>(</mo><mn>2</mn><mi mathvariant=\"normal\">n</mi><mi mathvariant=\"normal\"> </mi><mo>+</mo><mi mathvariant=\"normal\"> </mi><mn>1</mn><mo>)</mo></mrow><mn>6</mn></mfrac></math><br/>Sum of square of 46 natural numbers = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>46</mn><mo>(</mo><mn>46</mn><mi> </mi><mo>+</mo><mi> </mi><mn>1</mn><mo>)</mo><mo>(</mo><mn>2</mn><mi> </mi><mo>×</mo><mi> </mi><mn>46</mn><mi> </mi><mo>+</mo><mi> </mi><mn>1</mn><mo>)</mo></mrow><mn>6</mn></mfrac></math><br/>= <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>46</mn><mi> </mi><mo>×</mo><mi> </mi><mn>47</mn><mi> </mi><mo>×</mo><mi> </mi><mn>93</mn></mrow><mn>6</mn></mfrac></math> = 33511<br/>Required average = <math display=\"inline\"><mfrac><mrow><mn>33511</mn></mrow><mrow><mn>46</mn></mrow></mfrac></math> = 728.5</p>"
+    },
+    {
+        "question": "<p>Find the gain percentage, given that Siddhi sold her scooter for ₹ 24318 gaining<math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mn>6</mn></mrow></mfrac></math>th of the selling price.</p>",
+        "option_1": "<p>20%</p>",
+        "option_2": "<p>35%</p>",
+        "option_3": "<p>25%</p>",
+        "option_4": "<p>5%</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>Profit = <math display=\"inline\"><msup><mrow><mfrac><mrow><mn>24318</mn></mrow><mrow><mn>6</mn><mi> </mi></mrow></mfrac></mrow><mrow><mi> </mi></mrow></msup></math> = 4053.<br/>SP = 24318<br/><math display=\"inline\"><mo>⇒</mo></math> CP = 24318 - 4053 = 20265<br/>Now,<br/>Gain % = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>Profit</mi><mi>CP</mi></mfrac></math> × 100<br/><math display=\"inline\"><mo>⇒</mo></math> P% = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>4053</mn><mn>20265</mn></mfrac></math> × 100 = 20%</p>"
+    },
+    {
+        "question": "<p>For the following equations, what are the values of a and b to have infinitely many solutions?<br/>ax + by = 2<br/>3x - (5 - 2a)y = 6</p>",
+        "option_1": "<p>a = - 1,b = - 1</p>",
+        "option_2": "<p>a = - 1,b = 1</p>",
+        "option_3": "<p>a = 1,b = - 1</p>",
+        "option_4": "<p>a = 1,b = 1</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) For many solutions<br/><math display=\"inline\"><mfrac><mrow><mi>a</mi></mrow><mrow><mn>3</mn></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi mathvariant=\"normal\">b</mi><mrow><mo>-</mo><mo>(</mo><mn>5</mn><mo> </mo><mo>-</mo><mo> </mo><mn>2</mn><mi mathvariant=\"normal\">a</mi><mo>)</mo></mrow></mfrac><mo> </mo><mo>=</mo><mo> </mo><mfrac><mn>2</mn><mn>6</mn></mfrac></math><br/><math display=\"inline\"><mo>⇒</mo><mfrac><mrow><mi>a</mi></mrow><mrow><mn>3</mn></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>2</mn><mn>6</mn></mfrac></math> ⇒ a = 1<br/>And <math display=\"inline\"><mfrac><mrow><mi>b</mi></mrow><mrow><mo>-</mo><mi> </mi><mo>(</mo><mn>5</mn><mi> </mi><mo>-</mo><mi> </mi><mn>2</mn><mi>a</mi><mo>)</mo></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>2</mn><mn>6</mn></mfrac></math> ⇒ 3b = - 5 + 2a ⇒ 3b = - 5 + 2 ⇒ b = -1</p>"
+    },
+    {
+        "question": "<p>Which of following numbers is NOT divisible by 11?</p>",
+        "option_1": "<p>109153</p>",
+        "option_2": "<p>5445</p>",
+        "option_3": "<p>128041</p>",
+        "option_4": "<p>80124</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Divisibility by 11 : </strong>if the difference between the sum of the digits in the odd places and the sum of the digits in the even places is 0 or a multiple of 11.<br/>By checking all the options one by one, we get only option (c) that satisfies the rule.<br/>128041<br/>(1 + 8 + 4) - (2 + 0 + 1) = 13 - 3 =10 <math display=\"inline\"><mo>≠</mo></math> 0 or 11k.<br/>Hence 128041 is not divisible by 11.</p>"
+    },
+    {
+        "question": "<p>If m + n = 24, then (m - 16)³ + (n - 8)³ is __________.</p>",
+        "option_1": "<p>0</p>",
+        "option_2": "<p>40</p>",
+        "option_3": "<p>576</p>",
+        "option_4": "<p>320</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>m + n = 24<br/>Let m = 12<br/>n = 12<br/><math display=\"inline\"><mo>⇒</mo></math> (m - 16)³ + (n - 8)³ = (12 -16)³ + (12 - 8)³<br/>= (-4)³ + (4)³ = 0</p>"
+    },
+    {
+        "question": "<p>In ΔDEF, the bisector of ∠D intersects side EF at point N. If DE = 36 cm, DF = 40 cm and EF = 38 cm, then the length (in cm) of NF is ________.</p>",
+        "option_1": "<p>16</p>",
+        "option_2": "<p>20</p>",
+        "option_3": "<p>18</p>",
+        "option_4": "<p>12</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><br/>The angle bisector theorem states that when an angle in a triangle is bisected, the opposite side is divided into two segments that are proportional to the other two sides of the triangle.<br/>Here, <br/>DE : DF = 36 : 40 = 9 : 10<br/>9x + 10x = 38 <math display=\"inline\"><mo>⇒</mo></math> x = 2<br/><b>Hence,</b> <br/>EN = 9 × 2 =18<br/>And NF = 10 × 2 = 20</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969872837.png"
+    },
+    {
+        "question": "<p>The ratio between male and female members in a club is 2 : 3. If the number of male members is increased by 200, the ratio becomes 5 : 6. How many female members are there in the club?</p>",
+        "option_1": "<p>1200</p>",
+        "option_2": "<p>900</p>",
+        "option_3": "<p>1400</p>",
+        "option_4": "<p>1000</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) Let male = 2x<br/>Female = 3x<br/>New ratio<br/><math display=\"inline\"><mfrac><mrow><mn>2</mn><mi>x</mi><mi> </mi><mo>+</mo><mi> </mi><mn>200</mn></mrow><mrow><mn>3</mn><mi>x</mi></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>5</mn><mn>6</mn></mfrac></math><br/><math display=\"inline\"><mo>⇒</mo></math> 4x + 400 = 5x<br/><math display=\"inline\"><mo>⇒</mo></math> x = 400<br/><math display=\"inline\"><mo>⇒</mo></math> Female = 3 × 400 = 1200</p>"
+    },
+    {
+        "question": "<p>The MP of an article was Rs.180 and it was sold at a discount of 15%, the discount in Rs. is:</p>",
+        "option_1": "<p>12</p>",
+        "option_2": "<p>15</p>",
+        "option_3": "<p>27</p>",
+        "option_4": "<p>18</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) 180 ×<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>15</mn><mn>100</mn></mfrac></math> = 27<br/><math display=\"inline\"><mo>⇒</mo></math> Discount = 27 Rs.</p>"
+    },
+    {
+        "question": "<p>In a garden, there are 6 daisy plants the first year. Each year, a gardener adds 3 new daisy plants. He has 26 jasmine plants the first year and loses 2 each year. When will the number of daisy plants equal to the number of jasmine plants after the first year?</p>",
+        "option_1": "<p>5 years</p>",
+        "option_2": "<p>4 years</p>",
+        "option_3": "<p>2 years</p>",
+        "option_4": "<p>6 years</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) After checking options one by one we get,<br/>After 4 years,<br/>Daisy plants = 6 + 3 + 3 + 3 + 3 = 18<br/>And Jasmine plants = 26 - 2 - 2 - 2 - 2 =18<br/><b>Hence,</b> after 4 years daisy plants and jasmine plants become equal.</p>"
+    },
+    {
+        "question": "<p>From a point T, the length of the tangent to a circle is 32 cm and the distance of T from the centre is 40 cm. The diameter (in cm) of the circle is:</p>",
+        "option_1": "<p>36</p>",
+        "option_2": "<p>16</p>",
+        "option_3": "<p>32</p>",
+        "option_4": "<p>48</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/><br/>Let, r = radius<br/>r² = 40² - 32²<br/>⇒ r² = 1600 - 1024 = 576<br/>⇒ r = 24 cm<br/>and diameter = 48 cm</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730969873015.png"
+    },
+    {
+        "question": "<p>Select the most appropriate synonym of the underlined word.<br/>Many people love to visit <span style=\"text-decoration: underline;\">enchanting</span> hills.</p>",
+        "option_1": "<p>alluring</p>",
+        "option_2": "<p>cool</p>",
+        "option_3": "<p>risky</p>",
+        "option_4": "<p>echoing</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Alluring</strong>- attractive or tempting.<br/><strong>Enchanting</strong>- delightfully charming or captivating.<br/><strong>Cool</strong>- calm and composed, or moderately cold.<br/><strong>Risky</strong>- dangerous or involving potential loss.<br/><strong>Echoing</strong>- resounding or repeating sound.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate ANTONYM of the word in brackets to fill in the blank.<br/>She has _______ (witty) remarks about everything.</p>",
+        "option_1": "<p>sorry</p>",
+        "option_2": "<p>whimsical</p>",
+        "option_3": "<p>unamusing</p>",
+        "option_4": "<p>woeful</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Unamusing</strong>- not entertaining.<br/><strong>Witty</strong>- cleverly humorous or sharp in expression.<br/><strong>Sorry</strong>- feeling regret or sorrow.<br/><strong>Whimsical</strong>- playfully unpredictable or fanciful.<br/><strong>Woeful</strong>- full of sorrow or misery.</p>"
+    },
+    {
+        "question": "Select the sentence that does NOT have a spelling error.",
+        "option_1": "The paintings are structured chronologically, starting from cubism to surealism.",
+        "option_2": "The artist received recognition for her impressive etchings, buclic landscapes, and recreation of natural scenes around her.",
+        "option_3": "The insouciance of the rock star considering the importance of the occasion, came as a shock to the audience who expected stressful moments.",
+        "option_4": "The focus of the exibition is to reinforce versatility and creative thinking.",
+        "option_5": "",
+        "answer": "3",
+        "solution": "(c) The insouciance of the rock star considering the importance of the occasion, came as a shock to the audience who expected stressful moments.<br/>‘Surrealism’, ‘bucolic’ and ‘exhibition’ are the correct spellings."
+    },
+    {
+        "question": "<p>Select the most appropriate synonym of the given word.<br/>Repulse</p>",
+        "option_1": "<p>Repel</p>",
+        "option_2": "<p>Substitute</p>",
+        "option_3": "<p>Recover</p>",
+        "option_4": "<p>Reprove</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Repel</strong>- to drive or push away.<br/><strong>Repulse</strong>- to reject or cause disgust.<br/><strong>Substitute</strong>- a replacement or alternative.<br/><strong>Recover</strong>- to regain strength or return to normal.<br/><strong>Reprove</strong>- to reprimand or criticize.</p>"
+    },
+    {
+        "question": "The given sentence is divided into four segments. Select the option that has the segment with a grammatical error.<br/>The employees were comfortable / with me and they talked about / their problems since / I has worked there as a manager.",
+        "option_1": "I has worked there as a manager.",
+        "option_2": "with me and they talked about",
+        "option_3": "their problems since",
+        "option_4": "The employees were comfortable<br/>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "(a) I has worked there as a manager.<br/>The given sentence is in the past tense, so it must have the verb of past tense. ‘Had’ will be used instead of ‘has’. <b>Hence,</b> ‘I had worked there as a manager’ is the most appropriate answer."
+    },
+    {
+        "question": "Parts of a sentence are given below in jumbled order. Select the option that arranges the parts in the correct sequence to form a meaningful sentence.<br/>(P) the sun<br/>(Q) to our planet, Earth<br/>(O) provides essential energy<br/>(R) sustaining life and warmth",
+        "option_1": "POQR",
+        "option_2": "QROP",
+        "option_3": "ROQP",
+        "option_4": "ORPQ",
+        "option_5": "",
+        "answer": "1",
+        "solution": "(a) POQR<br/>The given sentence starts with Part P as it contains the main subject of the sentence, i.e. The Sun. Part P will be followed by Part O as it contains the main verb(provides) and its object(essential energy). Further, Part Q states that Earth is the planet that gets essential energy and Part R states that the energy sustains life and warmth. Going through the options, option ‘a’ has the correct sequence."
+    },
+    {
+        "question": "<p>Select the correct option to form a meaningful sentence.<br/>I / that/the chef/ to work/ in/ the new/ heard/ restaurant/ is going/ across the road.<br/>(a) (b) (c) (d) (e) (f) (g) (h) (i) (j)</p>",
+        "option_1": "<p>a, c, g, b, h, i, f, e, d, j</p>",
+        "option_2": "<p>a, b, d, c, e, f, h, g, i, j</p>",
+        "option_3": "<p>a, b, d, c, g, e, f, h, i, j</p>",
+        "option_4": "<p>a, g, b, c, i, d, e, f, h, j</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) a, g, b, c, i, d, e, f, h, j<br/>The correct sentence is: “I heard that the chef is going to work in the new restaurant across the road.”</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate synonym of the word in brackets to fill in the blank.<br/>Listening to the same lecture everyday appeared very ________ to him. (boring)</p>",
+        "option_1": "<p>monotonous</p>",
+        "option_2": "<p>furious</p>",
+        "option_3": "<p>nervous</p>",
+        "option_4": "<p>monolithic</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Monotonous</strong>- dull, repetitive, lacking variety.<br/><strong>Boring</strong>- causing weariness or lack of interest.<br/><strong>Furious</strong>- extremely angry.<br/><strong>Nervous</strong>- anxious or apprehensive.<br/><strong>Monolithic</strong>- large, uniform, and unchanging.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate option to substitute the underlined segment in the given sentence.<br/>My sisters <span style=\"text-decoration: underline;\">wished me good luck</span> before I went on the stage to sing.</p>",
+        "option_1": "<p>Told me to sit on the fence</p>",
+        "option_2": "<p>Told me to break a leg</p>",
+        "option_3": "<p>Told me to break the ice</p>",
+        "option_4": "<p>Told me to break an arm</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Told me to break a leg (idiom)</strong>- wished me good luck.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate option that can substitute the underlined segment in the given sentence.<br/>Five years later, I <span style=\"text-decoration: underline;\">was eating</span> this same dish at the same restaurant.</p>",
+        "option_1": "<p>will have be eating</p>",
+        "option_2": "<p>has been eating</p>",
+        "option_3": "<p>am eating</p>",
+        "option_4": "<p>had been eating</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) am eating<br/>The given sentence implies that the person ate a dish at a restaurant and five years later, he is eating the same dish at the same restaurant. Therefore, the sentence will be written in simple present tense. <b>Hence,</b> ‘am eating’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br/>O. went<br/>P. yesterday<br/>Q. we<br/>R. to the<br/>S. park",
+        "option_1": "RQOSP",
+        "option_2": "OPQRS",
+        "option_3": "PSROQ",
+        "option_4": "QORSP",
+        "option_5": "",
+        "answer": "4",
+        "solution": "(d) QORSP<br/>The given sentence starts with Part Q as it introduces the subject of the sentence, i.e. ‘We’. Part O contains the main verb and Part R has the preposition ‘to’ that will indicate the place where he went. So, R will follow O. Further, Part S states the place (park) and Part P states the time. So, P will follow S. Going through the options, option ‘d’ has the correct sequence."
+    },
+    {
+        "question": "Select the INCORRECTLY spelt word in the given sentence.<br/>One must be confident of winning and gaining one’s goals and must face situations, disasters, trials and setbecks of life with confidence.",
+        "option_1": "Trials",
+        "option_2": "Disasters",
+        "option_3": "Confident",
+        "option_4": "Setbecks",
+        "option_5": "",
+        "answer": "4",
+        "solution": "(d) Setbecks<br/>'Setbacks' is the correct spelling."
+    },
+    {
+        "question": "<p>Select the most appropriate ANTONYM of the given word.<br/>Paralysed</p>",
+        "option_1": "<p>Demure</p>",
+        "option_2": "<p>Stifled</p>",
+        "option_3": "<p>Sultry</p>",
+        "option_4": "<p>Healthy</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Healthy</strong>- in good physical or mental condition.<br/><strong>Paralysed</strong>- unable to move or act.<br/><strong>Demure</strong>- modest, shy, or reserved.<br/><strong>Stifled</strong>- unable to breathe properly.<br/><strong>Sultry</strong>- hot and humid, or passionate and alluring.</p>"
+    },
+    {
+        "question": "<p>Select the option that can be used as a one-word substitute for the given group of words.<br/>The list of subjects to be discussed at a meeting</p>",
+        "option_1": "<p>Minutes</p>",
+        "option_2": "<p>Objectives</p>",
+        "option_3": "<p>Agenda</p>",
+        "option_4": "<p>Menu</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Agenda</strong>- the list of subjects to be discussed at a meeting.<br/><strong>Minutes</strong>- a period equal to 60 seconds.<br/><strong>Objectives</strong>- something you plan to achieve.<br/><strong>Menu</strong>- a list of dishes available in a restaurant.</p>"
+    },
+    {
+        "question": "<p>Select the option that expresses the given sentence in active voice.<br/>The drug pedlar was arrested by the narcotics team.</p>",
+        "option_1": "<p>The narcotics team was arrested the drug pedlar.</p>",
+        "option_2": "<p>The narcotics team arrest the drug pedlar.</p>",
+        "option_3": "<p>The narcotics team arrested the drug pedlar.</p>",
+        "option_4": "<p>The narcotics team has arrested the drug pedlar.</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) The narcotics team arrested the drug pedlar. (Correct)<br/>(a) The narcotics team <span style=\"text-decoration: underline;\">was</span> arrested the drug pedlar. (Incorrect Use of ‘was’)<br/>(b) The narcotics team <span style=\"text-decoration: underline;\">arrest</span> the drug pedlar. (Incorrect Tense)<br/>(c) The narcotics team <span style=\"text-decoration: underline;\">has arrested</span> the drug pedlar. (Incorrect Tense)</p>"
+    },
+    {
+        "question": "The following sentence has been divided into four segments. Identify the segment that contains an adverbial usage error.<br/>Mr. Arun / will pay dear / for his / financial mistake.",
+        "option_1": "will pay dear",
+        "option_2": "Mr. Arun",
+        "option_3": "for his",
+        "option_4": "financial mistake",
+        "option_5": "",
+        "answer": "1",
+        "solution": "(a) will pay dear<br/>The given sentence needs an adverb ‘dearly’ to modify the verb ‘pay’, not the adjective ‘dear’. <b>Hence,</b> ‘will pay dearly’ is the most appropriate answer."
+    },
+    {
+        "question": "<p>Select the most appropriate option to fill in the blank.<br/>We have postponed this movie outing too many times, so we are going tomorrow, come _____ or shine.</p>",
+        "option_1": "<p>rain</p>",
+        "option_2": "<p>mountain</p>",
+        "option_3": "<p>hail</p>",
+        "option_4": "<p>thunder</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) rain<br/>The given sentence states that we have postponed this movie outing too many times, so we are going tomorrow, come rain or shine. <b>Hence,</b> ‘rain’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br/>A. needs to be<br/>B. the shelf in<br/>C. a piece of wood<br/>D. the kitchen<br/>E. need to buy<br/>F. replaced, so I will",
+        "option_1": "BEFCAD",
+        "option_2": "ACDBFE",
+        "option_3": "DEBACF",
+        "option_4": "BDAFEC",
+        "option_5": "",
+        "answer": "4",
+        "solution": "(d) BDAFEC<br/>The given sentence starts with Part B as it contains the main subject of the sentence, i.e. ‘The shelf’. Part D states the location of the shelf and Part A has the main verb of the sentence. So, A will follow D. Further Part F talks about replacing the shelf and Part E talks about buying something. So, E will follow F. Finally, Part C concludes the sentence by stating that a piece of wood needs to be bought. Going through the options, option ‘d’ has the correct sequence."
+    },
+    {
+        "question": "Select the option that expresses the given sentence in passive voice.<br/>Scientists were conducting experiments on the newly discovered species.",
+        "option_1": "Experiments on the newly discovered species had been conducted by the scientists.",
+        "option_2": "The newly discovered species has been conducting experiments by scientists.",
+        "option_3": "The newly discovered species has been experimented on by scientists.",
+        "option_4": "Experiments were being conducted on the newly discovered species by scientists.",
+        "option_5": "",
+        "answer": "4",
+        "solution": "(d) Experiments were being conducted on the newly discovered species by scientists. (Correct)<br/>(a) Experiments on the newly discovered species had been conducted by the scientists. (Incorrect Sentence Structure)<br/>(b) The newly discovered species has been conducting experiments by scientists. (Incorrect Sentence Structure)<br/>(c) The newly discovered species has been experimented on by scientists. (Incorrect Sentence Structure)"
+    },
+    {
+        "question": "Select the most appropriate option to fill in the blanks.<br/>He had ________ the ________ into smaller clips.",
+        "option_1": "clipping, clips",
+        "option_2": "clipping, clipped",
+        "option_3": "clips, clipping",
+        "option_4": "clipped, clipping",
+        "option_5": "",
+        "answer": "4",
+        "solution": "(d) clipped, clipping<br/>‘Clipped’ means cut short neatly &amp; ‘clipping’ means an article cut from a newspaper or magazine. The given sentence states that he had clipped the clipping into smaller clips. <b>Hence,</b> ‘clipped, clipping’ is the most appropriate answer."
+    },
+    {
+        "question": "<p><strong>Cloze Test :</strong><br/>People often say that the stars govern their fate but they forget the fact that success or failure is the result of one’s own (96)________. If we sow chaff, we can’t reap grain; and the result or consequence of an action depends on what one does and to the extent he (97)________ it. If we work hard, we succeed only to the extent that we work. People who think that the law of karma is (98)________ may feel that if one is destined to get something he will always get it whether he strives for it or not. But experience tells us that reward and punishments are the direct result of our action. Honesty and hard work never go unrewarded and (99)________ and evil deeds never go (100)________. In fact even the law of karma, in its proper sense, means that the fruit we get is decided by whatever actions we did in the past.<br/>Select the most appropriate option to fill in blank number 96.</p>",
+        "option_1": "<p>power</p>",
+        "option_2": "<p>incidents</p>",
+        "option_3": "<p>case</p>",
+        "option_4": "<p>actions</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) actions<br/>The given passage states that people forget the fact that success or failure is the result of one’s own actions. <b>Hence,</b> ‘actions’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test :</strong><br/>People often say that the stars govern their fate but they forget the fact that success or failure is the result of one’s own (96)________. If we sow chaff, we can’t reap grain; and the result or consequence of an action depends on what one does and to the extent he (97)________ it. If we work hard, we succeed only to the extent that we work. People who think that the law of karma is (98)________ may feel that if one is destined to get something he will always get it whether he strives for it or not. But experience tells us that reward and punishments are the direct result of our action. Honesty and hard work never go unrewarded and (99)________ and evil deeds never go (100)________. In fact even the law of karma, in its proper sense, means that the fruit we get is decided by whatever actions we did in the past.<br/>Select the most appropriate option to fill in blank number 97.</p>",
+        "option_1": "<p>does</p>",
+        "option_2": "<p>have</p>",
+        "option_3": "<p>create</p>",
+        "option_4": "<p>put<br/><br/></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) does<br/>The given passage states that the result or consequence of an action depends on what one does and to the extent he does it. <b>Hence,</b> ‘does’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test :</strong><br/>People often say that the stars govern their fate but they forget the fact that success or failure is the result of one’s own (96)________. If we sow chaff, we can’t reap grain; and the result or consequence of an action depends on what one does and to the extent he (97)________ it. If we work hard, we succeed only to the extent that we work. People who think that the law of karma is (98)________ may feel that if one is destined to get something he will always get it whether he strives for it or not. But experience tells us that reward and punishments are the direct result of our action. Honesty and hard work never go unrewarded and (99)________ and evil deeds never go (100)________. In fact even the law of karma, in its proper sense, means that the fruit we get is decided by whatever actions we did in the past.<br/>Select the most appropriate option to fill in blank number 98.</p>",
+        "option_1": "<p>supreme</p>",
+        "option_2": "<p>greatest</p>",
+        "option_3": "<p>more</p>",
+        "option_4": "<p>most</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) supreme<br/>‘Supreme’ means highest in authority. The given passage states an opinion about the people who think that the law of karma is supreme. <b>Hence,</b> ‘supreme’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test :</strong><br/>People often say that the stars govern their fate but they forget the fact that success or failure is the result of one’s own (96)________. If we sow chaff, we can’t reap grain; and the result or consequence of an action depends on what one does and to the extent he (97)________ it. If we work hard, we succeed only to the extent that we work. People who think that the law of karma is (98)________ may feel that if one is destined to get something he will always get it whether he strives for it or not. But experience tells us that reward and punishments are the direct result of our action. Honesty and hard work never go unrewarded and (99)________ and evil deeds never go (100)________. In fact even the law of karma, in its proper sense, means that the fruit we get is decided by whatever actions we did in the past.<br/>Select the most appropriate option to fill in blank number 99.</p>",
+        "option_1": "<p>horribly</p>",
+        "option_2": "<p>badly</p>",
+        "option_3": "<p>dishonesty</p>",
+        "option_4": "<p>fairness<br/><br/><br/></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) dishonesty<br/>‘Dishonesty’ means lack of honesty. The given passage states that dishonesty and evil deeds never go unpunished. <b>Hence,</b> 'dishonesty' is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test :</strong><br/>People often say that the stars govern their fate but they forget the fact that success or failure is the result of one’s own (96)________. If we sow chaff, we can’t reap grain; and the result or consequence of an action depends on what one does and to the extent he (97)________ it. If we work hard, we succeed only to the extent that we work. People who think that the law of karma is (98)________ may feel that if one is destined to get something he will always get it whether he strives for it or not. But experience tells us that reward and punishments are the direct result of our action. Honesty and hard work never go unrewarded and (99)________ and evil deeds never go (100)________. In fact even the law of karma, in its proper sense, means that the fruit we get is decided by whatever actions we did in the past.<br/>Select the most appropriate option to fill in blank number 100.</p>",
+        "option_1": "<p>unpunished</p>",
+        "option_2": "<p>vile</p>",
+        "option_3": "<p>punished</p>",
+        "option_4": "<p>waste</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) unpunished<br/>‘Unpunished’ means not receiving any punishment or penalty. The given passage states that dishonesty and evil deeds never go unpunished. <b>Hence,</b> 'unpunished' is the most appropriate answer.</p>"
+    }
+]
