@@ -20,7 +20,7 @@
         "solution": "<p>(d)<br/></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1667286086/word/media/image5.png"
     },
     {
-        "question": "<p><span style=\"font-family: Cambria Math;\"> How many triangles are there in the given figure?</span><br/></p>\\n<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1667286086/word/media/image6.png",
+        "question": "<p><span style=\"font-family: Cambria Math;\"> How many triangles are there in the given figure?</span><br/></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1667286086/word/media/image6.png",
         "option_1": "<p>17</p>",
         "option_2": "<p>16</p>",
         "option_3": "<p>18</p>",
@@ -80,7 +80,7 @@
         "solution": "<p>(d)<span style=\"font-family: Cambria Math;\"><strong>Logic:</strong> +3, +3, -3, -3 pattern is followed. </span><br/><span style=\"font-family: Cambria Math;\">C + 3 = F, Q + 3 = T, D - 3 = A and V - 3 = S</span><br/><span style=\"font-family: Cambria Math;\"><b>Hence,</b> FTAS is the correct answer.</span></p>"
     },
     {
-        "question": "<p><span style=\"font-family: Cambria Math;\"> Select the number from among the given options that can replace the question mark (?) in the following series. </span></p>\\n<p><span style=\"font-family: Cambria Math;\">10, 22, 35, 40, 72, 40, ? </span></p>",
+        "question": "<p><span style=\"font-family: Cambria Math;\"> Select the number from among the given options that can replace the question mark (?) in the following series. </span></p> <p><span style=\"font-family: Cambria Math;\">10, 22, 35, 40, 72, 40, ? </span></p>",
         "option_1": "<p>133</p>",
         "option_2": "<p>143</p>",
         "option_3": "<p>134</p>",
@@ -250,14 +250,14 @@
         "solution": "<p>(c)<br/><span style=\"font-family: Cambria Math;\"><strong>Logic:</strong> a : a × (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>a</mi><mn>2</mn></mfrac></math> </span><span style=\"font-family: Cambria Math;\">+ 1)</span><br/><span style=\"font-family: Cambria Math;\">Similarly 28 : 28 × (14 + 1) </span><br/><span style=\"font-family: Cambria Math;\">= 28 × 15 = 420</span><br/><span style=\"font-family: Cambria Math;\"><b>Hence,</b> (c) is the correct answer.</span></p>"
     },
     {
-        "question": "<p>Who among the following was the first Indian to unfurl the tricolour on foreign land?</p>\\n",
-        "option_1": "<p>Annie Besant</p>\\n",
-        "option_2": "<p>Lakshmi Sehgal</p>\\n",
-        "option_3": "<p>Bhikaiji Cama</p>\\n",
-        "option_4": "<p>Begum Hazrat Mahal</p>\\n",
+        "question": "<p>Who among the following was the first Indian to unfurl the tricolour on foreign land?</p>",
+        "option_1": "<p>Annie Besant</p>",
+        "option_2": "<p>Lakshmi Sehgal</p>",
+        "option_3": "<p>Bhikaiji Cama</p>",
+        "option_4": "<p>Begum Hazrat Mahal</p>",
         "option_5": "",
         "answer": "3",
-        "solution": "<p>(c) Bhikaiji Cama was the first Indian to unfurl the tricolor on foreign land at the International Socialist Congress in Stuttgart, Germany in 1907.</p>\\n"
+        "solution": "<p>(c) Bhikaiji Cama was the first Indian to unfurl the tricolor on foreign land at the International Socialist Congress in Stuttgart, Germany in 1907.</p>"
     },
     {
         "question": "<p>‘Bolak-aat’ is a ______ from the state of Karnataka</p>",
@@ -270,44 +270,44 @@
         "solution": "<p>(c) Bolak-aat’ is a dance form from the Kodagu region of the state of Karnataka. This dance form is<span style=\"font-family: Cambria Math;\">performed by Kodava men in the back of an oil lamp in an open field. The men hold chiavari (yak fur) in one hand and the Kodava short sword (odi-kathi) in the other while performing this dance.</span></p>"
     },
     {
-        "question": "<p>Which part of the body is associated with the rickets disorder?</p>\\n",
-        "option_1": "<p>Eyes</p>\\n",
-        "option_2": "<p>Skin</p>\\n",
-        "option_3": "<p>Bones</p>\\n",
-        "option_4": "<p>Heart</p>\\n",
+        "question": "<p>Which part of the body is associated with the rickets disorder?</p>",
+        "option_1": "<p>Eyes</p>",
+        "option_2": "<p>Skin</p>",
+        "option_3": "<p>Bones</p>",
+        "option_4": "<p>Heart</p>",
         "option_5": "",
         "answer": "3",
-        "solution": "<p>(c) Bones are associated with the rickets disorder. The main cause of rickets is a lack of vitamin D which results in reduced absorption of calcium and phosphorus in bones. This condition leads to softening and weakening of bones.</p>\\n"
+        "solution": "<p>(c) Bones are associated with the rickets disorder. The main cause of rickets is a lack of vitamin D which results in reduced absorption of calcium and phosphorus in bones. This condition leads to softening and weakening of bones.</p>"
     },
     {
-        "question": "<p>Who among the following was the Nizam of Hyderabad in 1947?</p>\\n",
-        "option_1": "<p>Mir Mahbub Ali Khan</p>\\n",
-        "option_2": "<p>Osman Ali</p>\\n",
-        "option_3": "<p>Akbar Ali Khan</p>\\n",
-        "option_4": "<p>Nasir Jung</p>\\n",
+        "question": "<p>Who among the following was the Nizam of Hyderabad in 1947?</p>",
+        "option_1": "<p>Mir Mahbub Ali Khan</p>",
+        "option_2": "<p>Osman Ali</p>",
+        "option_3": "<p>Akbar Ali Khan</p>",
+        "option_4": "<p>Nasir Jung</p>",
         "option_5": "",
         "answer": "2",
-        "solution": "<p>(b) Osman Ali was the Nizam of Hyderabad in 1947.<span style=\"font-family: Cambria Math;\">He was the last Nizam (ruler) of the Princely State of Hyderabad. He ruled the Kingdom of Hyderabad between 1911 and 1948. </span></p>\\n"
+        "solution": "<p>(b) Osman Ali was the Nizam of Hyderabad in 1947.<span style=\"font-family: Cambria Math;\">He was the last Nizam (ruler) of the Princely State of Hyderabad. He ruled the Kingdom of Hyderabad between 1911 and 1948. </span></p>"
     },
     {
-        "question": "<p>Halogens have ______ electrons in their outermost shells.</p>\\n",
-        "option_1": "<p>eight</p>\\n",
-        "option_2": "<p>seven</p>\\n",
-        "option_3": "<p>five</p>\\n",
-        "option_4": "<p>six</p>\\n",
+        "question": "<p>Halogens have ______ electrons in their outermost shells.</p>",
+        "option_1": "<p>eight</p>",
+        "option_2": "<p>seven</p>",
+        "option_3": "<p>five</p>",
+        "option_4": "<p>six</p>",
         "option_5": "",
         "answer": "2",
-        "solution": "<p>(b) Halogens have seven electrons in their outermost shells. The halogens are all highly reactive, which means they're quick to form bonds with other elements. There are five halogens in the periodic table: fluorine, chlorine, bromine, iodine, and astatine.</p>\\n"
+        "solution": "<p>(b) Halogens have seven electrons in their outermost shells. The halogens are all highly reactive, which means they're quick to form bonds with other elements. There are five halogens in the periodic table: fluorine, chlorine, bromine, iodine, and astatine.</p>"
     },
     {
-        "question": "<p>Which of the following is a water-soluble vitamin?</p>\\n",
-        "option_1": "<p>Vitamin D</p>\\n",
-        "option_2": "<p>Vitamin C</p>\\n",
-        "option_3": "<p>Vitamin A</p>\\n",
-        "option_4": "<p>Vitamin K</p>\\n",
+        "question": "<p>Which of the following is a water-soluble vitamin?</p>",
+        "option_1": "<p>Vitamin D</p>",
+        "option_2": "<p>Vitamin C</p>",
+        "option_3": "<p>Vitamin A</p>",
+        "option_4": "<p>Vitamin K</p>",
         "option_5": "",
         "answer": "2",
-        "solution": "<p>(b) Vitamin C is a water-soluble vitamin. Vitamin C and B are water soluble vitamins whereas vitamin A, D, E, K are fat soluble vitamins.</p>\\n"
+        "solution": "<p>(b) Vitamin C is a water-soluble vitamin. Vitamin C and B are water soluble vitamins whereas vitamin A, D, E, K are fat soluble vitamins.</p>"
     },
     {
         "question": "<p>Who among the following never became the Vice President of India?</p>",
@@ -320,54 +320,54 @@
         "solution": "<p>(a) Gulzarilal Nanda never became the Vice President of India. Gulzarilal Nanda was an Indian politician and economist who served as interim Prime Minister twice following the deaths of Jawaharlal Nehru in 1964 and Lal Bahadur Shastri in 1966 respectively.</p>"
     },
     {
-        "question": "<p>How many trains were flagged off by Prime Minister Narendra Modi in January 2021 connecting the location of the Statue of Unity to different parts of India?</p>\\n",
-        "option_1": "<p>Seven</p>\\n",
-        "option_2": "<p>Eight</p>\\n",
-        "option_3": "<p>Five</p>\\n",
-        "option_4": "<p>Six</p>\\n",
+        "question": "<p>How many trains were flagged off by Prime Minister Narendra Modi in January 2021 connecting the location of the Statue of Unity to different parts of India?</p>",
+        "option_1": "<p>Seven</p>",
+        "option_2": "<p>Eight</p>",
+        "option_3": "<p>Five</p>",
+        "option_4": "<p>Six</p>",
         "option_5": "",
         "answer": "2",
-        "solution": "<p>(b) Eight trains were flagged off by Prime Minister Narendra Modi in January 2021 connecting the location of the Statue of Unity to different parts of India. The trains will connect Kevadiya to Varanasi, Dadar, Ahmedabad, Delhi's Hazrat Nizamuddin, Rewa, Chennai and Pratapnagar.</p>\\n"
+        "solution": "<p>(b) Eight trains were flagged off by Prime Minister Narendra Modi in January 2021 connecting the location of the Statue of Unity to different parts of India. The trains will connect Kevadiya to Varanasi, Dadar, Ahmedabad, Delhi's Hazrat Nizamuddin, Rewa, Chennai and Pratapnagar.</p>"
     },
     {
-        "question": "<p>Which of the following locations has the highest altitude?</p>\\n",
-        "option_1": "<p>Patna</p>\\n",
-        "option_2": "<p>Kolkata</p>\\n",
-        "option_3": "<p>Ranikhet</p>\\n",
-        "option_4": "<p>Moradabad</p>\\n",
+        "question": "<p>Which of the following locations has the highest altitude?</p>",
+        "option_1": "<p>Patna</p>",
+        "option_2": "<p>Kolkata</p>",
+        "option_3": "<p>Ranikhet</p>",
+        "option_4": "<p>Moradabad</p>",
         "option_5": "",
         "answer": "3",
-        "solution": "<p>(c) Ranikhet has the highest altitude amongst the given locations. It is a famous hill station in Uttarakhand at an altitude of 1,869 metres (6,132 ft) above sea level and within sight of the western peaks of the Himalayas.</p>\\n"
+        "solution": "<p>(c) Ranikhet has the highest altitude amongst the given locations. It is a famous hill station in Uttarakhand at an altitude of 1,869 metres (6,132 ft) above sea level and within sight of the western peaks of the Himalayas.</p>"
     },
     {
-        "question": "<p>Who among the following is the author of the book 'Democrats and Dissenters'?</p>\\n",
-        "option_1": "<p>Arun Shourie</p>\\n",
-        "option_2": "<p>Ramchandra Guha</p>\\n",
-        "option_3": "<p>Nalini Singh</p>\\n",
-        "option_4": "<p>Gurucharan Das</p>\\n",
+        "question": "<p>Who among the following is the author of the book 'Democrats and Dissenters'?</p>",
+        "option_1": "<p>Arun Shourie</p>",
+        "option_2": "<p>Ramchandra Guha</p>",
+        "option_3": "<p>Nalini Singh</p>",
+        "option_4": "<p>Gurucharan Das</p>",
         "option_5": "",
         "answer": "2",
-        "solution": "<p>(b) Ramchandra Guha has written the book 'Democrats and Dissenters’. He<span style=\"font-family: Cambria Math;\">is an Indian historian, writer and public intellectual whose research interests include social, political, contemporary, environmental and cricket history, and the field of economics. His other major works include India after Gandhi, The Unquiet Woods, Savaging the Civilized.</span></p>\\n"
+        "solution": "<p>(b) Ramchandra Guha has written the book 'Democrats and Dissenters’. He<span style=\"font-family: Cambria Math;\">is an Indian historian, writer and public intellectual whose research interests include social, political, contemporary, environmental and cricket history, and the field of economics. His other major works include India after Gandhi, The Unquiet Woods, Savaging the Civilized.</span></p>"
     },
     {
-        "question": "<p>Which of the following articles of the constitution of India provides for the creation of a GST Council?</p>\\n",
-        "option_1": "<p>Article 246A</p>\\n",
-        "option_2": "<p>Article 279A</p>\\n",
-        "option_3": "<p>Article 269A</p>\\n",
-        "option_4": "<p>Article 323A</p>\\n",
+        "question": "<p>Which of the following articles of the constitution of India provides for the creation of a GST Council?</p>",
+        "option_1": "<p>Article 246A</p>",
+        "option_2": "<p>Article 279A</p>",
+        "option_3": "<p>Article 269A</p>",
+        "option_4": "<p>Article 323A</p>",
         "option_5": "",
         "answer": "2",
-        "solution": "<p>(b) Article 279A of the Constitution of India provides for the creation of a GST Council. It empowers the president to constitute a joint forum of the central and states namely, Goods and Services Tax Council. The GST Council is a constitutional body for making recommendations to the union and state government on issues related to Goods and Service Tax.</p>\\n"
+        "solution": "<p>(b) Article 279A of the Constitution of India provides for the creation of a GST Council. It empowers the president to constitute a joint forum of the central and states namely, Goods and Services Tax Council. The GST Council is a constitutional body for making recommendations to the union and state government on issues related to Goods and Service Tax.</p>"
     },
     {
-        "question": "<p>Which of the following is NOT a feature of food security?</p>\\n",
-        "option_1": "<p>Availability</p>\\n",
-        "option_2": "<p>Affordability</p>\\n",
-        "option_3": "<p>Acceptability</p>\\n",
-        "option_4": "<p>Accessibility</p>\\n",
+        "question": "<p>Which of the following is NOT a feature of food security?</p>",
+        "option_1": "<p>Availability</p>",
+        "option_2": "<p>Affordability</p>",
+        "option_3": "<p>Acceptability</p>",
+        "option_4": "<p>Accessibility</p>",
         "option_5": "",
         "answer": "3",
-        "solution": "<p>(c) Acceptability is not a feature of food security. The four features of food security are availability, accessibility, utilization, and stability. Acceptability means access to culturally acceptable food, which is produced and obtained in ways that do not compromise people's dignity, self-respect, or human rights.</p>\\n"
+        "solution": "<p>(c) Acceptability is not a feature of food security. The four features of food security are availability, accessibility, utilization, and stability. Acceptability means access to culturally acceptable food, which is produced and obtained in ways that do not compromise people's dignity, self-respect, or human rights.</p>"
     },
     {
         "question": "<p>With which of the following sports is the term ‘Chinaman’ associated?</p>",
@@ -380,34 +380,34 @@
         "solution": "<p>(a) The term ‘Chinaman’ is associated with Cricket. Chinaman bowling is a left-arm unorthodox spin, where the bowler spins the ball into a right-handed batsman.</p>"
     },
     {
-        "question": "<p>Which of the following is a work on statecraft written by Krishnadevaraya?</p>\\n",
-        "option_1": "<p>Karpuramanjari</p>\\n",
-        "option_2": "<p>Amuktamalyada</p>\\n",
-        "option_3": "<p>Tolkappiyam</p>\\n",
-        "option_4": "<p>Kadambari</p>\\n",
+        "question": "<p>Which of the following is a work on statecraft written by Krishnadevaraya?</p>",
+        "option_1": "<p>Karpuramanjari</p>",
+        "option_2": "<p>Amuktamalyada</p>",
+        "option_3": "<p>Tolkappiyam</p>",
+        "option_4": "<p>Kadambari</p>",
         "option_5": "",
         "answer": "2",
-        "solution": "<p>(b) Amuktamalyada is a work on statecraft written by Krishnadevaraya. It is a Telugu epic poem. Krishnadevraya was the Vijayanagara Emperor in the early 16th century. Karouramanjri is the work of Rajashekhara. Tolkappiyam is the work of Tholkappiyar and Kadambari is the work of Banabhatta.</p>\\n"
+        "solution": "<p>(b) Amuktamalyada is a work on statecraft written by Krishnadevaraya. It is a Telugu epic poem. Krishnadevraya was the Vijayanagara Emperor in the early 16th century. Karouramanjri is the work of Rajashekhara. Tolkappiyam is the work of Tholkappiyar and Kadambari is the work of Banabhatta.</p>"
     },
     {
-        "question": "<p>India and ______ were declared joint winners of the 2020 Online FIDE Chess Olympiad.</p>\\n",
-        "option_1": "<p>Estonia</p>\\n",
-        "option_2": "<p>Russia</p>\\n",
-        "option_3": "<p>Serbia</p>\\n",
-        "option_4": "<p>The US</p>\\n",
+        "question": "<p>India and ______ were declared joint winners of the 2020 Online FIDE Chess Olympiad.</p>",
+        "option_1": "<p>Estonia</p>",
+        "option_2": "<p>Russia</p>",
+        "option_3": "<p>Serbia</p>",
+        "option_4": "<p>The US</p>",
         "option_5": "",
         "answer": "2",
-        "solution": "<p>(b) India and Russia were declared joint winners of the 2020 Online FIDE Chess Olympiad. In the FIDE chess olympiad, 2020, 162 nations and 163 teams participated.</p>\\n"
+        "solution": "<p>(b) India and Russia were declared joint winners of the 2020 Online FIDE Chess Olympiad. In the FIDE chess olympiad, 2020, 162 nations and 163 teams participated.</p>"
     },
     {
-        "question": "<p>Which of the following states’ former Governor, Mata Prasad, died in January 2021?</p>\\n",
-        "option_1": "<p>Goa</p>\\n",
-        "option_2": "<p>Uttarakhand</p>\\n",
-        "option_3": "<p>Uttar Pradesh</p>\\n",
-        "option_4": "<p>Arunachal Pradesh</p>\\n",
+        "question": "<p>Which of the following states’ former Governor, Mata Prasad, died in January 2021?</p>",
+        "option_1": "<p>Goa</p>",
+        "option_2": "<p>Uttarakhand</p>",
+        "option_3": "<p>Uttar Pradesh</p>",
+        "option_4": "<p>Arunachal Pradesh</p>",
         "option_5": "",
         "answer": "4",
-        "solution": "<p>(d) Arunachal Pradesh’s former Governor, Mata Prasad, died in January 2021. He was the 8th governor of Arunachal Pradesh. B.D Mishra is the current Governor of Arunachal Pradesh.</p>\\n"
+        "solution": "<p>(d) Arunachal Pradesh’s former Governor, Mata Prasad, died in January 2021. He was the 8th governor of Arunachal Pradesh. B.D Mishra is the current Governor of Arunachal Pradesh.</p>"
     },
     {
         "question": "<p>When is National Girl Child Day observed annually in India?</p>",
@@ -420,74 +420,74 @@
         "solution": "<p>(d) On 24 January is the National Girl Child Day observed annually in India. It was started by the Ministry of Women and Child Development and the Government of India in 2008. The purpose of the celebration is to spread awareness among people about all the inequalities faced by girls in Indian society</p>"
     },
     {
-        "question": "<p>______ is created by the collision of convergent plate boundaries.</p>\\n",
-        "option_1": "<p>Mid-ocean ridge</p>\\n",
-        "option_2": "<p>Land erosion</p>\\n",
-        "option_3": "<p>Oceanic trench</p>\\n",
-        "option_4": "<p>Mountain building</p>\\n",
+        "question": "<p>______ is created by the collision of convergent plate boundaries.</p>",
+        "option_1": "<p>Mid-ocean ridge</p>",
+        "option_2": "<p>Land erosion</p>",
+        "option_3": "<p>Oceanic trench</p>",
+        "option_4": "<p>Mountain building</p>",
         "option_5": "",
         "answer": "4",
-        "solution": "<p>(d) Mountain building is created by the collision of convergent plate boundaries. A convergent boundary is an area on earth where two or more lithospheric plates converge or collide and one plate eventually slides beneath the other.</p>\\n"
+        "solution": "<p>(d) Mountain building is created by the collision of convergent plate boundaries. A convergent boundary is an area on earth where two or more lithospheric plates converge or collide and one plate eventually slides beneath the other.</p>"
     },
     {
-        "question": "<p>Which of the following diseases is caused by a parasite?</p>\\n",
-        "option_1": "<p>Goitre</p>\\n",
-        "option_2": "<p>Pneumonia</p>\\n",
-        "option_3": "<p>Plague</p>\\n",
-        "option_4": "<p>Malaria</p>\\n",
+        "question": "<p>Which of the following diseases is caused by a parasite?</p>",
+        "option_1": "<p>Goitre</p>",
+        "option_2": "<p>Pneumonia</p>",
+        "option_3": "<p>Plague</p>",
+        "option_4": "<p>Malaria</p>",
         "option_5": "",
         "answer": "4",
-        "solution": "<p>(d) Malaria is caused by a parasite called Plasmodium. It is transmitted to people through the bites of infected female Anopheles mosquitoes.Goitre is a swelling in the neck resulting from an enlarged thyroid gland usually caused by iodine deficiency. Pneumonia is an infection that inflames the air sacs in one or both lungs which causes cough with phlegm or pus, fever, chills, and difficulty breathing. A variety of organisms, including bacteria, viruses, fungi, can cause pneumonia. Humans usually get plague after being bitten by a rodent flea that is carrying the plague bacterium Yersinia pestis</p>\\n"
+        "solution": "<p>(d) Malaria is caused by a parasite called Plasmodium. It is transmitted to people through the bites of infected female Anopheles mosquitoes.Goitre is a swelling in the neck resulting from an enlarged thyroid gland usually caused by iodine deficiency. Pneumonia is an infection that inflames the air sacs in one or both lungs which causes cough with phlegm or pus, fever, chills, and difficulty breathing. A variety of organisms, including bacteria, viruses, fungi, can cause pneumonia. Humans usually get plague after being bitten by a rodent flea that is carrying the plague bacterium Yersinia pestis</p>"
     },
     {
-        "question": "<p>Who among the following is credited with postulating three laws of planetary motion?</p>\\n",
-        "option_1": "<p>Isaac Newton</p>\\n",
-        "option_2": "<p>Tycho Brahe</p>\\n",
-        "option_3": "<p>Johannes Kepler</p>\\n",
-        "option_4": "<p>Galileo Galilei</p>\\n",
+        "question": "<p>Who among the following is credited with postulating three laws of planetary motion?</p>",
+        "option_1": "<p>Isaac Newton</p>",
+        "option_2": "<p>Tycho Brahe</p>",
+        "option_3": "<p>Johannes Kepler</p>",
+        "option_4": "<p>Galileo Galilei</p>",
         "option_5": "",
         "answer": "3",
         "solution": "<p>(c) Johannes Kepler proposed three laws of planetary motion. The three laws state that:<br/><span style=\"font-family: Cambria Math;\">1. The orbit of a planet is an ellipse with the Sun at one of the two foci.</span><br/><span style=\"font-family: Cambria Math;\">2. A line segment joining a planet and the Sun sweeps out equal areas in equal intervals of time.</span><br/><span style=\"font-family: Cambria Math;\">3. The square of a planet's orbital period is proportional to the cube of the length of the semi-major axis of its orbit.</span></p>"
     },
     {
-        "question": "<p>What is the objective of the 'Doughnut Model' of development?</p>\\n",
-        "option_1": "<p>It envisions total abandonment of technology to live at peace with the environment.</p>\\n",
-        "option_2": "<p>It envisions the food processing industry as the center of development.</p>\\n",
-        "option_3": "<p>It envisions rapid development at an environmental cost, then makes up for it later.</p>\\n",
-        "option_4": "<p>It envisions a world in which people and the planet can thrive in balance.</p>\\n",
+        "question": "<p>What is the objective of the 'Doughnut Model' of development?</p>",
+        "option_1": "<p>It envisions total abandonment of technology to live at peace with the environment.</p>",
+        "option_2": "<p>It envisions the food processing industry as the center of development.</p>",
+        "option_3": "<p>It envisions rapid development at an environmental cost, then makes up for it later.</p>",
+        "option_4": "<p>It envisions a world in which people and the planet can thrive in balance.</p>",
         "option_5": "",
         "answer": "4",
-        "solution": "<p>(d) The objective of the 'Doughnut Model' of development is to envision a world in which people and the planet can thrive in balance. The Doughnut model of economics was proposed by<span style=\"font-family: Cambria Math;\">Kate Raworth</span><span style=\"font-family: Cambria Math;\">. </span></p>\\n"
+        "solution": "<p>(d) The objective of the 'Doughnut Model' of development is to envision a world in which people and the planet can thrive in balance. The Doughnut model of economics was proposed by<span style=\"font-family: Cambria Math;\">Kate Raworth</span><span style=\"font-family: Cambria Math;\">. </span></p>"
     },
     {
-        "question": "<p>Tapovan Vishnugad Hydroelectric Project is located in:</p>\\n",
-        "option_1": "<p>Ladakh</p>\\n",
-        "option_2": "<p>Jammu and Kashmir</p>\\n",
-        "option_3": "<p>Uttarakhand</p>\\n",
-        "option_4": "<p>Himachal Pradesh</p>\\n",
+        "question": "<p>Tapovan Vishnugad Hydroelectric Project is located in:</p>",
+        "option_1": "<p>Ladakh</p>",
+        "option_2": "<p>Jammu and Kashmir</p>",
+        "option_3": "<p>Uttarakhand</p>",
+        "option_4": "<p>Himachal Pradesh</p>",
         "option_5": "",
         "answer": "3",
-        "solution": "<p>(c) Tapovan Vishnugad Hydroelectric Project is located in Uttrakhand. It is constructed on the Dhauliganga River in Chamoli District of Uttarakhand. Other hydroelectric projects in Uttarakhand are- Tehri Dam Project on the Bhagirathi river and VishnuPrayag Project on the Alaknanda river.</p>\\n"
+        "solution": "<p>(c) Tapovan Vishnugad Hydroelectric Project is located in Uttrakhand. It is constructed on the Dhauliganga River in Chamoli District of Uttarakhand. Other hydroelectric projects in Uttarakhand are- Tehri Dam Project on the Bhagirathi river and VishnuPrayag Project on the Alaknanda river.</p>"
     },
     {
-        "question": "<p>According to the Puranas, Lord Vishnu took the shape of ______ in order to rescue the earth, which had sunk into the water.</p>\\n",
-        "option_1": "<p>a lion</p>\\n",
-        "option_2": "<p>a boar</p>\\n",
-        "option_3": "<p>a tiger</p>\\n",
-        "option_4": "<p>an elephant</p>\\n",
+        "question": "<p>According to the Puranas, Lord Vishnu took the shape of ______ in order to rescue the earth, which had sunk into the water.</p>",
+        "option_1": "<p>a lion</p>",
+        "option_2": "<p>a boar</p>",
+        "option_3": "<p>a tiger</p>",
+        "option_4": "<p>an elephant</p>",
         "option_5": "",
         "answer": "2",
-        "solution": "<p>(b) According to the Puranas, Lord Vishnu took the shape of a boar in order to rescue the earth, which had sunk into the water. Varaha, (Sanskrit: “Boar”) third of the 10 incarnations (avatars) of the Hindu god Vishnu. According to Hindu iconography, the boar is a symbol of all aspects of sacrifice.</p>\\n"
+        "solution": "<p>(b) According to the Puranas, Lord Vishnu took the shape of a boar in order to rescue the earth, which had sunk into the water. Varaha, (Sanskrit: “Boar”) third of the 10 incarnations (avatars) of the Hindu god Vishnu. According to Hindu iconography, the boar is a symbol of all aspects of sacrifice.</p>"
     },
     {
-        "question": "<p>Who among the following was appointed as the Chairman and Managing Director of<span style=\"font-family: Cambria Math;\">Telecommunications Consultants India Limited in January 2021?</span></p>\\n",
-        "option_1": "<p>Jitendra Singh</p>\\n",
-        "option_2": "<p>Rajeev Kumar</p>\\n",
-        "option_3": "<p>Sarabjit Singh Sandhu</p>\\n",
-        "option_4": "<p>Sanjeev Kumar</p>\\n",
+        "question": "<p>Who among the following was appointed as the Chairman and Managing Director of<span style=\"font-family: Cambria Math;\">Telecommunications Consultants India Limited in January 2021?</span></p>",
+        "option_1": "<p>Jitendra Singh</p>",
+        "option_2": "<p>Rajeev Kumar</p>",
+        "option_3": "<p>Sarabjit Singh Sandhu</p>",
+        "option_4": "<p>Sanjeev Kumar</p>",
         "option_5": "",
         "answer": "4",
-        "solution": "<p>(d) Sanjeev Kumar was appointed as the Chairman and Managing Director of Telecommunications Consultants India Limited in January 2021.</p>\\n"
+        "solution": "<p>(d) Sanjeev Kumar was appointed as the Chairman and Managing Director of Telecommunications Consultants India Limited in January 2021.</p>"
     },
     {
         "question": "<p>Which of the following is the meaning of ‘Pishtaq’ in the context of medieval Indo-Islamic Architecture?</p>",
