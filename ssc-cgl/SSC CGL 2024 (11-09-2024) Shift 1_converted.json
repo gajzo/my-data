@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "<p>What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘–’ are interchanged and ‘×’ and ‘÷’ are interchanged?<br/>14014 × 14 – 10 ÷ 8 + 14 = ?</p>",
+        "option_1": "<p>1062</p>",
+        "option_2": "<p>1063</p>",
+        "option_3": "<p>1067</p>",
+        "option_4": "<p>1064</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Given:</strong> 14014 × 14 – 10 ÷ 8 + 14 = ?<br/>As per the given instructions after interchanging the symbol ‘+’ and ‘–’ and ‘×’ and ‘÷’ , we get.<br/>14014 ÷ 14 + 10 × 8 - 14<br/>1001 + 80 - 14<br/>1067</p>"
+    },
+    {
+        "question": "<p>The position(s) of how many letters will remain unchanged if all the letters in the word ‘MEADOW’ are arranged in English alphabetical order?</p>",
+        "option_1": "<p>None</p>",
+        "option_2": "<p>Two</p>",
+        "option_3": "<p>One</p>",
+        "option_4": "<p>Three</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><br/>The position of two letters are not changed.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872736734.png"
+    },
+    {
+        "question": "<p>In the following number-pairs, the second number is obtained by applying certain mathematical operations to the first number. Select the set in which the numbers are related in the same way as are the numbers of the following sets.<br/>(<strong>NOTE </strong>: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)<br/>(280, 140)<br/>(186, 93)</p>",
+        "option_1": "<p>(118, 59)</p>",
+        "option_2": "<p>(92, 51)</p>",
+        "option_3": "<p>(86, 48)</p>",
+        "option_4": "<p>(166, 84)</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong> Logic: </strong>1st number ÷ 2 = 2nd number.<br/>(280, 140) :- 280 ÷ 2 = 140<br/>(186, 93) :- 186 ÷ 2 = 93<br/>Similarly,<br/>(118, 59) :- 118 ÷ 2 = 59</p>"
+    },
+    {
+        "question": "<p>A paper is folded and cut as shown below. How will it appear when unfolded?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872736878.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872737014.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872737120.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872737247.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872737359.png",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872737014.png"
+    },
+    {
+        "question": "<p>Select the correct mirror image of the given figure when the mirror is placed at MN as shown.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872737491.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872737653.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872737775.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872737902.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872738029.png",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872737653.png"
+    },
+    {
+        "question": "<p>Which two numbers (not digits) should be interchanged to make the given equation correct?<br/>48 ÷ 3 + 12 × 4 – 6 × 7 + 21 = 27</p>",
+        "option_1": "<p>3 and 4</p>",
+        "option_2": "<p>3 and 6</p>",
+        "option_3": "<p>4 and 7</p>",
+        "option_4": "<p>12 and 21</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Given</strong>: 48 ÷ 3 + 12 × 4 – 6 × 7 + 21 = 27<br/>After checking all the options, option (a) satisfied. After interchanging 3 and 4 we get,<br/>48 ÷ 4 + 12 × 3 – 6 × 7 + 21 = 27<br/>12 + 36 - 42 + 21 = 27<br/>69 - 42 = 27<br/>L.H.S. = R.H.S.</p>"
+    },
+    {
+        "question": "The question contains pairs of words that are related to each other in a certain way. Three of the following four word pairs are alike as these have the same relationship and thus form a group. Which word pair is the one that DOES NOT belong to that group?<br/>(The words must be considered as meaningful English words and must not be related to each other based on the number of letters / number of consonants/vowels in the word.)",
+        "option_1": "Bone – orthopaedic",
+        "option_2": "Uterus – urologist",
+        "option_3": "Stomach – gastroenterologist",
+        "option_4": "Eye – ophthalmologist",
+        "option_5": "",
+        "answer": "2",
+        "solution": "(b) a urologist specializes in the urinary system and male reproductive organs, not the uterus. The correct specialist for uterus-related issues is a gynecologist. Thus, option (b) does not fit the pattern."
+    },
+    {
+        "question": "<p>In a certain code language, ‘CONFUSED’ is coded as ‘7’ and ‘CHAIN’ is coded as ‘4’. How will ‘ADULTHOOD’ be coded in that language?</p>",
+        "option_1": "<p>9</p>",
+        "option_2": "<p>7</p>",
+        "option_3": "<p>8</p>",
+        "option_4": "<p>6</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>CONFUSED</strong> :- The number of letters in word (8) - 1 = 7<br/><strong>CHAIN</strong> :- The number of letters in word (5) - 1 = 4<br/>Similarly<br/><strong>ADULTHOOD </strong>:- The number of letters in word (9) - 1 = 8</p>"
+    },
+    {
+        "question": "<p>The same operation(s) are followed in all the given number pairs except one. Find that odd number pair.<br/>(<strong>NOTE </strong>: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)</p>",
+        "option_1": "<p>151 : 19</p>",
+        "option_2": "<p>128 : 16</p>",
+        "option_3": "<p>135 : 17</p>",
+        "option_4": "<p>103 : 13</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Logic:</strong> (2nd number × 8) - 1 = 1st number<br/>151 : 19 :- (19 × 8) - 1 = 151<br/>135 : 17 :- (17 × 8) - 1 = 135<br/>103 : 13 :- (13 × 8) - 1 = 103<br/>But<br/>128 : 16 :- (16 × 8) - 1 = 127 ( ≠ 128)</p>"
+    },
+    {
+        "question": "<p>Identify the figure given in the options which when put in place of? will logically complete the series.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872738151.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872738275.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872738398.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872738518.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872738689.png",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872738275.png"
+    },
+    {
+        "question": "<p>Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series.<br/>q p _ r _ r q _ p _ r p _ q _ p r _ p _ q</p>",
+        "option_1": "<p>r p q r r p r q</p>",
+        "option_2": "<p>r p q r r q r r</p>",
+        "option_3": "<p>r p q q r q r p</p>",
+        "option_4": "<p>r p q r r q r p</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>q p <span style=\"text-decoration: underline;\"><strong>r</strong></span> r <span style=\"text-decoration: underline;\"><strong>p</strong></span> r q/ <span style=\"text-decoration: underline;\"><strong>q</strong></span> p <span style=\"text-decoration: underline;\"><strong>r</strong></span> r p <span style=\"text-decoration: underline;\"><strong>r</strong></span> q/ <span style=\"text-decoration: underline;\"><strong>q</strong></span> p r <span style=\"text-decoration: underline;\"><strong>r</strong></span> p <span style=\"text-decoration: underline;\"><strong>r</strong></span> q</p>"
+    },
+    {
+        "question": "<p>16 is related to 112 following a certain logic. Following the same logic, 26 is related to 182. To which of the following is 44 related, following the same logic?<br/>(<strong>NOTE </strong>: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)</p>",
+        "option_1": "<p>308</p>",
+        "option_2": "<p>312</p>",
+        "option_3": "<p>310</p>",
+        "option_4": "<p>302</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Logic:</strong> 1st number × 7 = 2nd number<br/>16 × 7 = 112<br/>26 × 7 = 182<br/>Similarly<br/>44 × 7 = 308</p>"
+    },
+    {
+        "question": "<p>‘Summer’ is related to ‘Season’ in the same way as ‘Cotton’ is related to ‘________’.</p>",
+        "option_1": "<p>Cloth</p>",
+        "option_2": "<p>Grain</p>",
+        "option_3": "<p>Dye</p>",
+        "option_4": "<p>Tree</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>The relationship between Cotton and Cloth is the same as the relationship between Summer and Season.</p>"
+    },
+    {
+        "question": "<p>Three statements are given, followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements.<br/><strong>Statements :</strong><br/>All bottles are jugs.<br/>Some bottles are flasks.<br/>All flasks are bins.<br/><strong>Conclusions :</strong><br/>I. Some bottles are bins.<br/>II. Some jugs are bins.<br/>III. Some flasks are jugs.</p>",
+        "option_1": "<p>All conclusions I, II and III follow</p>",
+        "option_2": "<p>Either conclusion I or II follows</p>",
+        "option_3": "<p>Only conclusions II and III follow</p>",
+        "option_4": "<p>Only conclusions I and II follow</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/><br/>All conclusions I, II and III follow.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872738832.png"
+    },
+    {
+        "question": "<p>In a certain code language,<br/>A + B means ‘A is the son of B’,<br/>A − B means ‘A is the wife of B’,<br/>A × B means ‘A is the brother of B’ and<br/>A ÷ B means ‘A is the mother of B’.<br/>Based on the above, if ‘P + Q ÷ R − T × M’, which of the following is true?</p>",
+        "option_1": "<p>M is the sister of T.</p>",
+        "option_2": "<p>P is the brother of R.</p>",
+        "option_3": "<p>Q is the mother of M.</p>",
+        "option_4": "<p>T is the brother of P.</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><br/>P is the brother of R.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872739125.png"
+    },
+    {
+        "question": "<p>Figure X is followed by four figures numbered (1), (2), (3), (4). Identify the figure among the four in which figure X is embedded (i.e. contains figure X in the same form).<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872739223.png",
+        "option_1": "<p>2</p>",
+        "option_2": "<p>4</p>",
+        "option_3": "<p>1</p>",
+        "option_4": "<p>3</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872739344.png"
+    },
+    {
+        "question": "<p>Which figure should replace the question mark (?) if the following series were to be continued?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872739458.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872739572.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872739708.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872739858.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872739974.png",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872739974.png"
+    },
+    {
+        "question": "<p>A paper is folded and cut as shown below. How will it appear when unfolded?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872740087.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872740242.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872740367.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872740472.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872740583.png",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872740472.png"
+    },
+    {
+        "question": "<p>How many triangles are there in the given figure?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872740727.png",
+        "option_1": "<p>11</p>",
+        "option_2": "<p>8</p>",
+        "option_3": "<p>9</p>",
+        "option_4": "<p>10</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/><br/>ABC, CEG, DEF, HIK, JUT, TUS, JUS, NML, OPQ, QPR, OPR<br/>There are 11 triangles.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872740928.png"
+    },
+    {
+        "question": "<p>Select the option that is related to the fifth letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster and the fourth letter-cluster is related to the third letter-cluster.<br/>RATE : SCWI : : HIGH : IKJL : : OPEN : ?</p>",
+        "option_1": "<p>PRIS</p>",
+        "option_2": "<p>PQHR</p>",
+        "option_3": "<p>PSIR</p>",
+        "option_4": "<p>PRHR</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/>,<br/>Similarly<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872741043.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872741136.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872741242.png"
+    },
+    {
+        "question": "<p>Which of the following terms will replace the question mark (?) in the given series?<br/>GASM, CCOO, YEKQ, ? , QICU</p>",
+        "option_1": "<p>UGGS</p>",
+        "option_2": "<p>UCGS</p>",
+        "option_3": "<p>UGGT</p>",
+        "option_4": "<p>TGFS</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872741379.png"
+    },
+    {
+        "question": "<p>8 is related to 512 following a certain logic. Following the same logic, 12 is related to 1728. To which of the following is 15 related, following the same logic?<br/>(<strong>NOTE </strong>: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)</p>",
+        "option_1": "<p>2275</p>",
+        "option_2": "<p>2725</p>",
+        "option_3": "<p>3375</p>",
+        "option_4": "<p>3735</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Logic:</strong> (1st number)<sup>3</sup> = 2nd number<br/>8 : 512 :- (8)<sup>3</sup> = 512<br/>12 : 1728 :- (12)<sup>3</sup> = 1728<br/>Similarly<br/>15 : x :- (15)<sup>3</sup> = 3375</p>"
+    },
+    {
+        "question": "<p>Which of the following numbers will replace the question mark (?) in the given series?<br/>17, 38, 84, ?, 376, 772</p>",
+        "option_1": "<p>190</p>",
+        "option_2": "<p>200</p>",
+        "option_3": "<p>180</p>",
+        "option_4": "<p>150</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872741543.png"
+    },
+    {
+        "question": "Select the option that is related to the third word in the same way as the second word is related to the first word. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word)<br/>Acrimony : Humanity :: Wield : ?",
+        "option_1": "Exert",
+        "option_2": "Forgo",
+        "option_3": "Use",
+        "option_4": "Apply",
+        "option_5": "",
+        "answer": "2",
+        "solution": "(b)<br/>Acrimony\" contrasts with ‘Humanity’ where one is negative and the other is positive.<br/>Similarly, ‘Wield’ means to use something, whereas ‘Forgo’ means to do without or abstain from something, forming an opposite relationship."
+    },
+    {
+        "question": "<p>In a certain code language, 'DEMAND' is written as ‘410132144' and 'SUPPLY' is written as '194216161225'. How will 'PRODUCT' be written in that language?</p>",
+        "option_1": "<p>161830442320</p>",
+        "option_2": "<p>323615821640</p>",
+        "option_3": "<p>161542320</p>",
+        "option_4": "<p>161815421320</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/><strong>Logic :</strong>- Consonant as it is and Vowels × 2<br/> , <br/>Similarly<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872741684.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872741871.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872742011.png"
+    },
+    {
+        "question": "<p>What kind of radiation is absorbed by the ozone layer ?</p>",
+        "option_1": "<p>Green radiation</p>",
+        "option_2": "<p>Infrared radiation</p>",
+        "option_3": "<p>Visible radiation</p>",
+        "option_4": "<p>Ultraviolet radiation</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Ultraviolet radiation.</strong> The UV radiation spectrum is divided into three types : UVA, UVB and UVC. These rays can affect our skin in different ways. Ozone layer : It is a region in the Earth's stratosphere that contains a high concentration of ozone (O<sub>3</sub>) gas. This layer acts as a shield, protecting the Earth from the Sun's harmful ultraviolet (UV) radiation. Infrared radiation (IR), also known as thermal radiation, is that band in the electromagnetic radiation spectrum with wavelengths above red visible light between 780 nm to 1mm (0.78 μm to 1000 μm).</p>"
+    },
+    {
+        "question": "<p>Which of the following organisations, divided into two branches, was established by Lokmanya Bal Gangadhar Tilak and Annie Besant?</p>",
+        "option_1": "<p>Indian Association</p>",
+        "option_2": "<p>Theosophical society</p>",
+        "option_3": "<p>East Indian Association</p>",
+        "option_4": "<p>Home Rule League</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Home Rule League.</strong> In April 1916, Tilak founded the Indian Home Rule League, with its headquarters in Poona. The league's first meeting was held in Belgaum. In September 1916, Annie Besant founded the All-India Home Rule League, based in Madras. Organizations and their founders : Indian Association - Surendranath Banerjee and Ananda Mohan Bose; Theosophical Society - Helena Blavatsky, Henry Steel Olcott, William Quan Judge; East India Association - Dadabhai Naoroji.</p>"
+    },
+    {
+        "question": "<p>In which of the following years did India NOT host the ICC Cricket World Cup Tournament?</p>",
+        "option_1": "<p>2011</p>",
+        "option_2": "<p>1996</p>",
+        "option_3": "<p>1983</p>",
+        "option_4": "<p>1987</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>1983.</strong> The Cricket World Cup, officially known as the ICC Men's Cricket World Cup, is the international championship of One Day International (ODI) cricket. Organized by the International Cricket Council (ICC), the tournament is held every four years. Host Countries of the ICC Cricket World Cup: 1983 - England and Wales; 1987 - India and Pakistan; 1996 - India, Pakistan and Sri Lanka; 2011 - India, Sri Lanka and Bangladesh; 2023 - India; 2027 - Namibia, South Africa and Zimbabwe; 2031 - Bangladesh and India.</p>"
+    },
+    {
+        "question": "<p>Match the following books with their respective authors.<br/></p><br>data:image/png;base64,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",
+        "option_1": "<p>a-iii; b-i; c-iv; d-ii</p>",
+        "option_2": "<p>a-ii; b-iv; c-iii; d-i</p>",
+        "option_3": "<p>a-iv; b-iii; c-i; d-ii</p>",
+        "option_4": "<p>a-i; b-iii; c-ii; d-iv</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>a-ii; b-iv; c-iii; d-i. </strong>Some other ancient books and their authors : ‘Akbar-Namah’ - Abul Fazal, ‘Buddhacharita’ - Ashvaghosha, ‘Prithviraj Raso’ - Chand Bardai, ‘Geet Govinda’ - Jaidev, ‘Rajtarangini’ - Kalhana, ‘Kumarasambhavam’ - Kalidasa, ‘Ashtadhyayi’ - Panini, and ‘Mahabhasya’ - Patanjali.</p>"
+    },
+    {
+        "question": "Which of the following options is mostly caused by overpopulation?",
+        "option_1": "Land and other renewable resources are under pressure",
+        "option_2": "Adequate natural resource storage",
+        "option_3": "Reduction in the scarcity of water",
+        "option_4": "Increase in the area covered by forests",
+        "option_5": "",
+        "answer": "1",
+        "solution": "(a) As the population grows, there's increased demand for living space, agriculture, and resources. This leads to deforestation, uncontrolled urban expansion, and overexploitation of resources like water, soil, and forests."
+    },
+    {
+        "question": "<p>Which of the following types of direct tax collection increased as of 10 February 2023 budget?</p>",
+        "option_1": "<p>Personal income tax</p>",
+        "option_2": "<p>Octroi duties</p>",
+        "option_3": "<p>Corporate tax</p>",
+        "option_4": "<p>Commercial tax</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Personal income tax.</strong> This is a direct tax levied on individuals' income. For the fiscal year 2023-24, the provisional Net Personal Income Tax collection, including the securities transaction tax (STT), stands at Rs. 10.44 lakh crore. This represents a growth of 25.23% compared to the Net Personal Income Tax collection of Rs. 8.33 lakh crore from the previous year. Octroi duty : It was a local tax collected on various goods brought into a town or city for consumption or sale. Octroi duty was abolished in India on July 1, 2017, when the Goods and Services Tax (GST) was implemented across the country.</p>"
+    },
+    {
+        "question": "<p>Palladium on barium sulphate (Pd/BaSO<sub>4</sub>) is also known as:</p>",
+        "option_1": "<p>a Hillman reaction catalyst</p>",
+        "option_2": "<p>a Cannizzaro reaction catalyst</p>",
+        "option_3": "<p>the Rosenmund catalyst</p>",
+        "option_4": "<p>an aldol reaction catalyst</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>the Rosenmund catalyst</strong>. The Rosenmund reduction is a hydrogenation process in which an acyl chloride is selectively reduced to an aldehyde. The reaction was named after Karl Wilhelm Rosenmund. The Rosenmund catalyst can be prepared by reduction of palladium(II) chloride solution in the presence of BaSO<sub>4</sub>. Catalyst used : Hillman reaction (a nucleophilic catalyst, such as a tertiary amine or phosphine), Cannizzaro reaction (ytterbium triflate).</p>"
+    },
+    {
+        "question": "<p>Ebony and Mahogany trees are found in which type of forests?</p>",
+        "option_1": "<p>Mangrove forests</p>",
+        "option_2": "<p>Tropical deciduous forests</p>",
+        "option_3": "<p>Tropical evergreen forests</p>",
+        "option_4": "<p>Montane forests</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong> Tropical evergreen forests. I</strong>n India, these forests are primarily found in the Western Ghats, upper Assam, and the islands of Lakshadweep, Andaman, and Nicobar. Important tree species : Tropical Evergreen Forest - Rosewood, Rubber, Jack wood, and Bamboo. Mangrove Forest - Uppu ponna, Boddu ponna, Urada, Mada, Telli Mada, Gundu mada, Kadili, and Bella. Tropical deciduous forest - Teak, Sandalwood, Neem, Peepal, Sal, Bamboo, Kusum, Arjun, Khair, Mulberry. Montane forest - Oak, Chestnut, Pine, Deodar, Silver fir, Spruce.</p>"
+    },
+    {
+        "question": "<p>Which party formed the government in Britain in the year 1945?</p>",
+        "option_1": "<p>Democratic Party</p>",
+        "option_2": "<p>Labour Party</p>",
+        "option_3": "<p>Socialist Party</p>",
+        "option_4": "<p>Liberal Party</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Labour Party.</strong> In the 1945 general elections in Britain, the Labour Party, under the leadership of Clement Attlee, achieved a decisive victory, defeating Winston Churchill's Conservative Party. Democratic Party is one of the two major political parties, alongside the Republican Party, in the United States.</p>"
+    },
+    {
+        "question": "<p>When was the Duty-Free Tariff Preference (DFTP) Scheme for Least Developed Countries (LDCs) announced by India?</p>",
+        "option_1": "<p>2010</p>",
+        "option_2": "<p>2009</p>",
+        "option_3": "<p>2006</p>",
+        "option_4": "<p>2008</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>2008</strong>. Duty Free Tariff Preference (DFTP) scheme of 2008 : Prime Minister Manmohan Singh announced the DFTP scheme at the India-Africa Forum Summit on April 8, 2008. India became the first developing country to extend this facility to Least Developed Countries (LDCs). Objective : To grant tariff preferences on the exports of the Least Developed Countries on imports to India.</p>"
+    },
+    {
+        "question": "<p>Which Ghazal singer was conferred with the prestigious Deenanath Mangeshkar Award in April 2023?</p>",
+        "option_1": "<p>Talat Aziz</p>",
+        "option_2": "<p>Ghazal Srinivas</p>",
+        "option_3": "<p>Pankaj Udhas</p>",
+        "option_4": "<p>Bhupinder Singh</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Pankaj Udhas</strong>. He was an Indian ghazal and playback singer known for his works in Hindi cinema, and Indian pop. His Award: Padma Shri (2006). Recipients of the Dinanath Mangeshkar Award : 2022 - Narendra Modi, and 2024 - Amitabh Bachchan.</p>"
+    },
+    {
+        "question": "<p>In which year was the PM Ayushman Bharat Health Infrastructure Mission launched?</p>",
+        "option_1": "<p>2020</p>",
+        "option_2": "<p>2022</p>",
+        "option_3": "<p>2021</p>",
+        "option_4": "<p>2023</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>2021.</strong> Prime Minister Shri Narendra Modi inaugurated the PM Ayushman Bharat Health Infrastructure Mission, which aims to be one of the largest initiatives in India focused on improving healthcare infrastructure. Related Schemes and Their Launch Years : National Rural Health Mission (2005), Ayushman Bharat (2018), and National Digital Health Mission (2020).</p>"
+    },
+    {
+        "question": "<p>Which of the following categories does Gonyaulax belong to?</p>",
+        "option_1": "<p>Euglenoids</p>",
+        "option_2": "<p>Chrysophytes</p>",
+        "option_3": "<p>Protozoans</p>",
+        "option_4": "<p>Dinoflagellates</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Dinoflagellates</strong>. These organisms are mainly marine, photosynthetic organisms that can appear in various colors such as yellow, green, brown, blue, or red, depending on their pigments. Euglenoids include Euglena, Chrysophytes encompass diatoms and golden algae, while Amoeba represents protozoans.</p>"
+    },
+    {
+        "question": "<p>Valabhi, a city of ancient India was the capital of the __________ dynasty from the 5th to 8th Century CE.</p>",
+        "option_1": "<p>Maitraka</p>",
+        "option_2": "<p>Chalukya</p>",
+        "option_3": "<p>Pallava</p>",
+        "option_4": "<p>Vakataka</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Maitraka. </strong>The Maitraka dynasty was founded by Senapati Bhatarka. The decline of the Gupta Empire led to the rise of various ruling dynasties across northern India. Among the most notable were the Pushyabhutis of Thanesar, the Maukhari of Kanauj, and the Maitrakas of Valabhi.</p>"
+    },
+    {
+        "question": "<p>Bharatanatyam dance style is associated with which of the following states?</p>",
+        "option_1": "<p>Karnataka</p>",
+        "option_2": "<p>Tamil Nadu</p>",
+        "option_3": "<p>Bihar</p>",
+        "option_4": "<p>Manipur</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Tamil Nadu</strong>. Bharatanatyam is a classical dance form that originated from the art of dancers dedicated to temples and was previously known as Sadir or Dasi Attam. Bharatanatyam is unique because it is an Ekaharya dance, meaning one dancer portrays multiple roles in a single performance. Other classical dance styles : Kathak - Uttar Pradesh, Odissi - Odisha, Kathakali and Mohiniyattam - Kerala, Manipuri - Manipur and Sattriya - Assam.</p>"
+    },
+    {
+        "question": "<p>Which type of radiation has very short (&lt;10<sup>–3</sup> nm) wavelengths, produced by nuclear explosions, lightning and less dramatic activity of radioactive decay?</p>",
+        "option_1": "<p>Gamma</p>",
+        "option_2": "<p>Infra-red</p>",
+        "option_3": "<p>Microwave</p>",
+        "option_4": "<p>Ultraviolet</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Gamma.</strong> These rays possess the smallest wavelengths and the highest energy of all waves in the electromagnetic spectrum. They are generated by some of the most extreme and energetic phenomena in the universe, such as neutron stars, and supernova explosions. The electromagnetic spectrum, ordered from long to short wavelengths, includes the following types of waves : Radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays.</p>"
+    },
+    {
+        "question": "<p>Which of the following pairs do NOT share any borders?</p>",
+        "option_1": "<p>Bhutan and Arunachal Pradesh</p>",
+        "option_2": "<p>Bhutan and Meghalaya</p>",
+        "option_3": "<p>Bhutan and West Bengal</p>",
+        "option_4": "<p>Bhutan and Assam</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Bhutan and Meghalaya.</strong> The Indian states of West Bengal (183 km), Arunachal Pradesh (217 km), Sikkim (32 km), and Assam (267 km) share their boundaries with Bhutan. The Kingdom of Bhutan and the Republic of India are separated by a 699 km long, regional border.</p>"
+    },
+    {
+        "question": "<p>On which of the following dates does India celebrate its Constitution Day?</p>",
+        "option_1": "<p>26<sup>th</sup> January</p>",
+        "option_2": "<p>26<sup>th</sup> November</p>",
+        "option_3": "<p>15<sup>th</sup> August</p>",
+        "option_4": "<p>2<sup>nd</sup> October</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>26<sup>th</sup> November. </strong>The Constitution of India was adopted on 26 November 1949, that is why Constitution Day is celebrated on 26 November. 15th August : Independence Day (commemorating India’s independence from British rule in 1947). 2nd October : Gandhi Jayanti (the birthday of Mahatma Gandhi, celebrated as a national holiday and also observed as International Day of Non-Violence). 26th January : Republic Day (the Constitution of India came into force on 26 January 1950).</p>"
+    },
+    {
+        "question": "<p>The organisation that Comptroller and Auditor General heads is known as ___________ .</p>",
+        "option_1": "<p>Indian Civil Accounts Organisation</p>",
+        "option_2": "<p>Controller General of Accounts</p>",
+        "option_3": "<p>Indian Audit and Accounts Department</p>",
+        "option_4": "<p>Institute of Chartered Accountants of India</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong> Indian Audit and Accounts Department. </strong>The Comptroller and Auditor General (CAG) of India serves as the chief guardian of the public purse. Articles 148 to 151 of the Indian Constitution detail the role and powers of the CAG, which include auditing all receipts and expenditures of both the Government of India and State Governments.</p>"
+    },
+    {
+        "question": "<p>Consider the following statements and choose the correct statement(s) from the following:<br/>1. The UDAN scheme has completed five years since its implementation in 2017.<br/>2. It is the flagship scheme of the Ministry of Science and Technology.<br/>3. The Airports Authority of India is the implementing agency of this scheme.</p>",
+        "option_1": "<p>Only statement 3</p>",
+        "option_2": "<p>Only statement 2</p>",
+        "option_3": "<p>Only statements 2 and 3</p>",
+        "option_4": "<p>Only statements 1 and 3</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Only statements 1 and 3.</strong> The UDAN (Ude Desh ka Aam Nagrik) scheme is an initiative by the Indian government aimed at enhancing connectivity to remote and regional areas while making air travel more affordable. The scheme was introduced in 2016 as part of the National Civil Aviation Policy. First Flight : The first flight under the UDAN scheme, from Shimla to Delhi, was flagged off by Prime Minister Narendra Modi in 2017. Nodal Ministry: Ministry of Civil Aviation.</p>"
+    },
+    {
+        "question": "<p>Which Indian marathon event is considered the largest marathon in Asia?</p>",
+        "option_1": "<p>Kaveri Trail Marathon</p>",
+        "option_2": "<p>Pinkathon</p>",
+        "option_3": "<p>Delhi Half Marathon</p>",
+        "option_4": "<p>Mumbai Marathon</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Mumbai Marathon.</strong> The TATA Mumbai Marathon (TMM) is recognized as the largest marathon in Asia and the continent's biggest mass participation sporting event. Since its inception in 2004, the marathon unites people from diverse backgrounds through the joy of running. It showcases the city's spirit in supporting various charities, providing a platform for runners to raise awareness and funds for causes they care about.</p>"
+    },
+    {
+        "question": "<p>Shab-e-Barat is celebrated by which religious group?</p>",
+        "option_1": "<p>Muslim</p>",
+        "option_2": "<p>Buddhist</p>",
+        "option_3": "<p>Jain</p>",
+        "option_4": "<p>Parsi</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Muslim.</strong> Shab-e-Barat, also known as Mid-Sha'ban, is observed on the 15th night of Sha'ban in the Islamic calendar. Festivals celebrated by : Muslim - Eid al-Fitr, Eid al-Adha etc; Buddhist - Buddha Purnima, Vesak etc; Jain - Mahavir Jayanti, Paryushana etc; Parsi - Navroz, Jamshedi Navroz etc.</p>"
+    },
+    {
+        "question": "<p>Consider the following statements associated with the India Infrastructure Project Development Fund (IIPDF).<br/>1. IIPDF was set up in 2017.<br/>2. The funds for IIPDF are provided by the Central Government’?<br/>3. This scheme is notified under the Department of Economic Affairs.<br/>Which of the above statements is/are INCORRECT?</p>",
+        "option_1": "<p>Only 2 and 3</p>",
+        "option_2": "<p>Only 1</p>",
+        "option_3": "<p>Only 1 and 2</p>",
+        "option_4": "<p>Only 3</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Only 1.</strong> The Department of Economic Affairs (DEA), Ministry of Finance, Government of India, notified the Scheme for Financial Support for Project Development Expenses of PPP Projects - India Infrastructure Project Development Fund Scheme (IIPDF Scheme) in 2022.</p>"
+    },
+    {
+        "question": "<p>Who among the following was one of the Navratnas of Akbar?</p>",
+        "option_1": "<p>Purandar Das</p>",
+        "option_2": "<p>Swami Haridas</p>",
+        "option_3": "<p>Tansen</p>",
+        "option_4": "<p>Amir Khusro</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Tansen.</strong> Mian Tansen, originally named Ramtanu Pandey is a legendary figure in Hindustani Classical Music. He is known as the \"Sangeet Samrat,\" or \"Monarch of Hindustani Music. The Navratnas of Akbar included notable figures such as Abu'l-Fazl, Faizi, Birbal, Todar Mal, Raja Man Singh, Abdul Rahim Khan-I-Khana, Fakir Aziao-Din, Mullah Do Piyaza, and Tansen.</p>"
+    },
+    {
+        "question": "<p>Who has written the book ‘Fearless Governance’, published in January 2021, describing her stint as Governor?</p>",
+        "option_1": "<p>Draupadi Murmu</p>",
+        "option_2": "<p>Baby Rani Maurya</p>",
+        "option_3": "<p>Kiran Bedi</p>",
+        "option_4": "<p>Anandi ben Patel</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Kiran Bedi.</strong> She is the first woman in India to join the officer ranks of the Indian Police Service (IPS) in 1972. Her other books: ‘It's always possible’, ‘Himmat Hai’, ‘Dare to Do! For the New Generation’.</p>"
+    },
+    {
+        "question": "<p>Find the smallest number to be added to 999, so that 99 divides the sum exactly.</p>",
+        "option_1": "<p>99</p>",
+        "option_2": "<p>0</p>",
+        "option_3": "<p>90</p>",
+        "option_4": "<p>9</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/>Remainder (<math display=\"inline\"><mfrac><mrow><mn>999</mn></mrow><mrow><mn>99</mn></mrow></mfrac></math>) = 9<br/><b>Hence,</b> required smallest number = 99 - 9 = 90</p>"
+    },
+    {
+        "question": "<p>If x +<math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mi>x</mi></mrow></mfrac></math> = 2<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>10</mn></msqrt></math> , where x &gt; 1, then the value of (x<sup>3</sup> - <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msup><mi>x</mi><mn>3</mn></msup></mfrac></math>) is:</p>",
+        "option_1": "<p>221</p>",
+        "option_2": "<p>234</p>",
+        "option_3": "<p>198</p>",
+        "option_4": "<p>216</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>x + <math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mi>x</mi></mrow></mfrac></math> = 2<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>10</mn></msqrt></math><br/>x - <math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mi>x</mi></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><msup><mrow><mo>(</mo><mn>2</mn><msqrt><mn>10</mn></msqrt><mo>)</mo></mrow><mn>2</mn></msup><mo>-</mo><mn>4</mn></msqrt></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>40</mn><mo>-</mo><mn>4</mn></msqrt></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>36</mn></msqrt></math> = 6 (as x &gt; 1)<br/>So, x<sup>3</sup> - <math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></math> = (6)<sup>3</sup> + 3 × 6 = 234</p>"
+    },
+    {
+        "question": "<p>In an election between two candidates P and Q, P got 78% of the total valid votes. If the total votes of the electorate were 75,60,000, then what was the number of valid votes that Q got if 10% of the voters did not cast their vote and 15% of the votes polled were declared invalid?</p>",
+        "option_1": "<p>1,41,372</p>",
+        "option_2": "<p>1,41,732</p>",
+        "option_3": "<p>12,72,348</p>",
+        "option_4": "<p>1,47,312</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/>Total valid votes = 7560000 × <math display=\"inline\"><mfrac><mrow><mn>9</mn></mrow><mrow><mn>10</mn></mrow></mfrac></math> = 6804000<br/>Votes that Q got = 6804000 × <math display=\"inline\"><mfrac><mrow><mn>85</mn></mrow><mrow><mn>100</mn></mrow></mfrac></math> × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>22</mn><mn>100</mn></mfrac></math> = 1272348</p>"
+    },
+    {
+        "question": "<p>In a circle, two chords MN and PQ intersect at O. If MO = 9 cm, ON = 5 cm and OQ = 6 cm, then the value of OP (in cm) is:</p>",
+        "option_1": "<p>5</p>",
+        "option_2": "<p>5</p>",
+        "option_3": "<p>6</p>",
+        "option_4": "<p>7</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/><br/>From the figure, <br/>MO × ON = OQ × OP<br/>9 × 5 = 6 × x<br/>x = 7.5 cm</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872742492.png"
+    },
+    {
+        "question": "<p>In a △ABC right- angled at C, if tan A =<math display=\"inline\"><msqrt><mn>3</mn></msqrt></math>, then the value of sinA cosB cot(A + B) is:</p>",
+        "option_1": "<p><math display=\"inline\"><msqrt><mn>3</mn></msqrt></math></p>",
+        "option_2": "<p>1</p>",
+        "option_3": "<p>0</p>",
+        "option_4": "<p>2</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/>Since,the triangle is right angled at C, we know that A + B = 90°<br/>⇒ cot(A + B) = 90° = 0<br/><b>Hence,</b> sinA cosB cot (A + B) = sinA cosB × 0 = 0</p>"
+    },
+    {
+        "question": "<p>A rectangular courtyard is 4m 95cm long and 16m 65cm broad. It is to be paved with the square tiles of the same size. Find the least number of such square tiles required to pave the rectangular courtyard.</p>",
+        "option_1": "<p>877</p>",
+        "option_2": "<p>944</p>",
+        "option_3": "<p>388</p>",
+        "option_4": "<p>407</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/>Length = 495 cm<br/>Width = 1665 cm<br/>Now, finding HCF of (495 and 1665)<br/><math display=\"inline\"><mfrac><mrow><mn>1665</mn></mrow><mrow><mn>495</mn></mrow></mfrac></math> = 3 (remainder = 180)<br/><math display=\"inline\"><mfrac><mrow><mn>495</mn></mrow><mrow><mn>180</mn></mrow></mfrac></math> = 2 (remainder = 135)<br/><math display=\"inline\"><mfrac><mrow><mn>180</mn></mrow><mrow><mn>135</mn></mrow></mfrac></math> = 1 (remainder = 45)<br/><math display=\"inline\"><mfrac><mrow><mn>135</mn></mrow><mrow><mn>45</mn></mrow></mfrac></math> = 3 (remainder = 0)<br/>HCF (495 , 1665) = 45<br/>So, dimension of per required tile = 45 × 45 cm<sup>2</sup><br/>Area of the courtyard = 495 × 1665 cm<sup>2</sup><br/><b>Hence,</b> required tiles = <math display=\"inline\"><mfrac><mrow><mn>495</mn><mi> </mi><mo>×</mo><mi> </mi><mn>1665</mn></mrow><mrow><mn>45</mn><mi> </mi><mo>×</mo><mi> </mi><mn>45</mn></mrow></mfrac></math> = 11 × 37 = 407</p>"
+    },
+    {
+        "question": "<p>The inner and outer radii of a circular track are 28 m and 25 m, respectively. The cost (in ₹) of levelling the track at ₹28 per m² is:<br/>(Use 𝜋 = <math display=\"inline\"><mfrac><mrow><mn>22</mn></mrow><mrow><mn>7</mn></mrow></mfrac></math>)</p>",
+        "option_1": "<p>15,421</p>",
+        "option_2": "<p>13,992</p>",
+        "option_3": "<p>11,229</p>",
+        "option_4": "<p>17,355</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>Area of circular track = π<math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><msubsup><mi>R</mi><mn>2</mn><mn>2</mn></msubsup><mo>-</mo><msubsup><mi>R</mi><mn>1</mn><mn>2</mn></msubsup><mo>)</mo></math><br/>⇒ π[(28)<sup>2</sup> - (25)<sup>2</sup>] = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>22</mn><mn>7</mn></mfrac></math>[784 - 625]<br/>= <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>22</mn><mn>7</mn></mfrac></math>[159]<br/>Now, cost of levelling the track = 28 × <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>22</mn><mn>7</mn></mfrac></math>[159] = 4 × 22 × 159 = 13992</p>"
+    },
+    {
+        "question": "<p>There are two pipes to fill a tank. Together, they can fill the tank in 15 minutes. If one pipe can fill the tank in one and a half times as fast as the other, the faster pipe alone can fill the tank in:</p>",
+        "option_1": "<p>10 minutes</p>",
+        "option_2": "<p>25 minutes</p>",
+        "option_3": "<p>20 minutes</p>",
+        "option_4": "<p>32<math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math> minutes</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>Efficiency of pipes = 1 : 1.5<br/>Time taken to fill the tank by both the pipes = 15 min.<br/>Total capacity of tank = 15 × (1 + 1.5) = 15 × 2.5 unit<br/><b>Hence,</b> time taken to fill the tank by faster pipe alone = <math display=\"inline\"><mfrac><mrow><mn>15</mn><mi> </mi><mo>×</mo><mi> </mi><mn>2</mn><mo>.</mo><mn>5</mn></mrow><mrow><mn>1</mn><mo>.</mo><mn>5</mn></mrow></mfrac></math> = 25 min.</p>"
+    },
+    {
+        "question": "<p>Find the value of<math display=\"inline\"><mfrac><mrow><mi>s</mi><mi>e</mi><mi>c</mi><mi> </mi><mn>35</mn><mo>°</mo></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>e</mi><mi>c</mi><mi> </mi><mn>55</mn><mo>°</mo></mrow></mfrac></math> - <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>cos</mi><mo> </mo><mn>25</mn><mo>°</mo></mrow><mrow><mi>sin</mi><mo> </mo><mn>65</mn><mo>°</mo></mrow></mfrac></math></p>",
+        "option_1": "<p>0</p>",
+        "option_2": "<p>1</p>",
+        "option_3": "<p><math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math></p>",
+        "option_4": "<p>2</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/><math display=\"inline\"><mfrac><mrow><mi>s</mi><mi>e</mi><mi>c</mi><mi> </mi><mn>35</mn><mo>°</mo></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>e</mi><mi>c</mi><mi> </mi><mn>55</mn><mo>°</mo></mrow></mfrac></math> - <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>cos</mi><mo> </mo><mn>25</mn><mo>°</mo></mrow><mrow><mi>sin</mi><mo> </mo><mn>65</mn><mo>°</mo></mrow></mfrac></math><br/><math display=\"inline\"><mfrac><mrow><mi>s</mi><mi>e</mi><mi>c</mi><mo>(</mo><mn>90</mn><mi> </mi><mo>-</mo><mi> </mi><mn>55</mn><mo>°</mo><mo>)</mo></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>e</mi><mi>c</mi><mi> </mi><mn>55</mn><mo>°</mo></mrow></mfrac></math> - <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>cos</mi><mo>(</mo><mn>90</mn><mo>-</mo><mn>65</mn><mo>°</mo><mo>)</mo></mrow><mrow><mi>sin</mi><mo> </mo><mn>65</mn><mo>°</mo></mrow></mfrac></math><br/><math display=\"inline\"><mfrac><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>e</mi><mi>c</mi><mi> </mi><mn>55</mn><mo>°</mo></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>e</mi><mi>c</mi><mi> </mi><mn>55</mn><mo>°</mo></mrow></mfrac></math> - <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>sin</mi><mo> </mo><mn>65</mn><mo>°</mo></mrow><mrow><mi>sin</mi><mo> </mo><mn>65</mn><mo>°</mo></mrow></mfrac></math> = 1 - 1 = 0</p>"
+    },
+    {
+        "question": "<p>If the perimeter of an equilateral triangle is 36 units, then its area is (in square units):</p>",
+        "option_1": "<p>144<math display=\"inline\"><msqrt><mn>2</mn></msqrt></math></p>",
+        "option_2": "<p>36<math display=\"inline\"><msqrt><mn>2</mn></msqrt></math></p>",
+        "option_3": "<p>144 <math display=\"inline\"><msqrt><mn>3</mn></msqrt></math></p>",
+        "option_4": "<p>36<math display=\"inline\"><msqrt><mn>3</mn></msqrt></math></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/>Side of equilateral triangle (a) = <math display=\"inline\"><mfrac><mrow><mn>36</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math> = 12 unit<br/>Area of equilateral triangle = <math display=\"inline\"><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>4</mn></mrow></mfrac><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></math><br/>⇒ <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msqrt><mn>3</mn></msqrt><mn>4</mn></mfrac></math> × (12)<sup>2</sup> = 36<math display=\"inline\"><msqrt><mn>3</mn></msqrt></math> unit<sup>2</sup></p>"
+    },
+    {
+        "question": "<p>If asin<sup>3</sup>x + bcos<sup>3</sup>x = sinx cosx and asinx = bcosx , then find the value of a<sup>2</sup> + b<sup>2</sup>, provided that x is neither 0° nor 90°.</p>",
+        "option_1": "<p>0</p>",
+        "option_2": "<p>1</p>",
+        "option_3": "<p>a<sup>2</sup> - b<sup>2</sup></p>",
+        "option_4": "<p>a<sup>2</sup> + b<sup>2</sup></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Given:</strong> asin<sup>3</sup>x + bcos<sup>3</sup>x = sinx cosx and asinx = bcosx<br/>asin<sup>3</sup>x + bcos<sup>3</sup>x = sinx cosx<br/>asinx sin<sup>2</sup>x + bcos<sup>3</sup>x = sinx cosx<br/>bcosx sin<sup>2</sup>x + bcos<sup>3</sup>x = sinx cosx<br/>bcosx (sin<sup>2</sup>x + cos<sup>2</sup>x) = sinx cosx<br/>bcosx = sinx cosx<br/>b = sinx<br/>asinx = bcosx<br/>on putting value of b<br/>asinx = sinx cosx<br/>a = cosx<br/>Putting value of a and b <br/>a<sup>2</sup> + b<sup>2</sup> = sin<sup>2</sup>x + cos<sup>2</sup>x = 1</p>"
+    },
+    {
+        "question": "<p>A dishonest merchant sells his grocery using weights that are 12% less than the true weights and makes a profit of 10%. Find his total gain percentage.</p>",
+        "option_1": "<p>10%</p>",
+        "option_2": "<p>20%</p>",
+        "option_3": "<p>15%</p>",
+        "option_4": "<p>25%</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/>Ratio - CP : SP<br/>Less weight - 22 : 25<br/>Due to Profit - 10 : 11 <br/>-----------------------------------<br/>Final - 20 : 25<br/><b>Hence,</b> gain % = <math display=\"inline\"><mfrac><mrow><mn>5</mn></mrow><mrow><mn>20</mn></mrow></mfrac></math> × 100 = 25%</p>"
+    },
+    {
+        "question": "<p>Atul gives Vishu a head-start of 20 seconds in a 900 m race and beats him by 135 m. While running the same race again Atul gives a start of 189 m and beats him by 8 seconds. In how much time can Vishu complete the full race of 900 m?</p>",
+        "option_1": "<p>3 minutes 30 seconds</p>",
+        "option_2": "<p>2 minutes 50 seconds</p>",
+        "option_3": "<p>3 minutes 20 seconds</p>",
+        "option_4": "<p>3 minutes 10 seconds</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/>According to the question,<br/><strong>Condition (1):- </strong>Vishu complete the race at the same time as Vishu if he take (20 second + 135 m) head start<br/><strong>Condition (2):- </strong>Vishu complete the race at the same time as Vishu if he take (8 second + 189m) head start<br/>From the condition (1) and (2) we get;<br/>20 second + 135 m = 8 second + 189 m<br/>12 second = 54 m<br/>Speed of Vishu = <math display=\"inline\"><mfrac><mrow><mn>54</mn></mrow><mrow><mn>12</mn></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>9</mn><mn>2</mn></mfrac></math> m/sec<br/><b>Hence,</b> time taken by Vishu to complete the full race of 900 m = <math display=\"inline\"><mfrac><mrow><mn>900</mn></mrow><mrow><mfrac><mrow><mn>9</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></mfrac></math> = 200 min. = 3 minutes 20 seconds</p>"
+    },
+    {
+        "question": "<p>The following pie chart shows the distribution of the percentage of students in various courses at the university. The total number of students (boys and girls only) in the university is 7000.<br/> <br/>In B.Com, there are 60% girls and in B.Sc. C.Sci, there are 40% boys. The total number of girls who took admission in B.Sc C.Sci and B.Com courses is what percentage of the total students admitted to the university?</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872742638.png",
+        "option_1": "<p>25%</p>",
+        "option_2": "<p>29%</p>",
+        "option_3": "<p>23%</p>",
+        "option_4": "<p>27%</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/>Number of students (girls and boys) who took admission in B.Sc C.Sci = 25%<br/>Number of girls who took admission in B.Sc C.Sci of the total students = 25 × 60% = 15%<br/>Number of students (girls and boys) who took admission in B.Com = 20%<br/>Number of girls who took admission in B.Sc C.Sci of the total students = 20 × 60% = 12%<br/>So, required % = 15 + 12 = 27%</p>"
+    },
+    {
+        "question": "<p>In a division problem, the divisor is 4 times the quotient and 2 times the remainder. If the remainder is 32, then find the dividend.</p>",
+        "option_1": "<p>1056</p>",
+        "option_2": "<p>1650</p>",
+        "option_3": "<p>3240</p>",
+        "option_4": "<p>1065</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) According to the question,<br/>Remainder = 32<br/>Divisor = 4 × quotient<br/>Divisor = 2 × remainder = 2 × 32 = 64<br/>So, divisor = 64 , quotient = 16<br/>⇒ dividend = divisor × quotient + remainder<br/>⇒ dividend = 64 × 16 + 32 = 1056</p>"
+    },
+    {
+        "question": "<p>The interest accrued on a sum of ₹16,000 lent at a simple interest rate of 14% p.a. for the time in those many years, which gives a simple interest of three-fifths of a certain sum at 10% p.a., is:</p>",
+        "option_1": "<p>₹13,440</p>",
+        "option_2": "<p>₹12,970</p>",
+        "option_3": "<p>₹15,360</p>",
+        "option_4": "<p>₹14,280</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) Le<math display=\"inline\"><mi>t</mi></math> the time be t and rate = 10% <br/>According to question,<br/>⇒ Simple interest = <math display=\"inline\"><mfrac><mrow><mn>3</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math> × principal<br/>Then, Simple interest = <math display=\"inline\"><mfrac><mrow><mi>p</mi><mi>r</mi><mi>i</mi><mi>n</mi><mi>c</mi><mi>i</mi><mi>p</mi><mi>a</mi><mi>l</mi><mi> </mi><mo>×</mo><mi> </mi><mi>R</mi><mi>a</mi><mi>t</mi><mi>e</mi><mi> </mi><mo>×</mo><mi> </mi><mi>T</mi><mi>i</mi><mi>m</mi><mi>e</mi><mi> </mi></mrow><mrow><mn>100</mn></mrow></mfrac></math> <br/>⇒ <math display=\"inline\"><mfrac><mrow><mn>3</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math> × principal = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>principal</mi><mo>×</mo><mn>10</mn><mo>×</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">t</mi></mrow><mn>100</mn></mfrac></math><br/>⇒ t = 6<br/>Now, Simple interest = <math display=\"inline\"><mfrac><mrow><mn>1600</mn><mi> </mi><mo>×</mo><mi> </mi><mn>14</mn><mi> </mi><mo>×</mo><mi> </mi><mn>6</mn></mrow><mrow><mn>100</mn></mrow></mfrac></math> = ₹ 13,440</p>"
+    },
+    {
+        "question": "A group of 30 students appeared in a test. The average score of 12 students is 62, and that of the rest is 62. What is the average score of the group?",
+        "option_1": "62",
+        "option_2": "63",
+        "option_3": "60",
+        "option_4": "61",
+        "option_5": "",
+        "answer": "1",
+        "solution": "(a)<br/>Since both groups of 12 and 18 students have the same average score of 62, the total sum of their scores will also result in an average of 62 for the entire group."
+    },
+    {
+        "question": "<p>In a rhombus ABCD, O is any interior point such that OA = OC. What is five-ninths of the degree measure of ∠DOB?</p>",
+        "option_1": "<p>120°</p>",
+        "option_2": "<p>150°</p>",
+        "option_3": "<p>100°</p>",
+        "option_4": "<p>90°</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/><br/>As per figure,<br/>Since, COB is straight line<br/>So, ∠DOB = <math display=\"inline\"><mfrac><mrow><mn>5</mn></mrow><mrow><mn>9</mn></mrow></mfrac></math> × 180° = 100°</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872742890.png"
+    },
+    {
+        "question": "<p>The bar graph below shows the production of coffee (in lakh tons) by four companies A, B, C and D over a period of four years from 2010 to 2013. Study the graph and answer the question that follows.<br/> <br/>The combined average production for four years of companies A and C is what percentage (rounded off to 2 decimal places) more/less than the combined average production for four years of companies B and D ?</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872743004.png",
+        "option_1": "<p>Less, 7.81%</p>",
+        "option_2": "<p>More, 10.51%</p>",
+        "option_3": "<p>More, 7.81%</p>",
+        "option_4": "<p>Less, 10.51%</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>Required average production of company (A + C)</p> <p>= <math display=\"inline\"><mfrac><mrow><mo>(</mo><mn>60</mn><mi> </mi><mo>+</mo><mi> </mi><mn>90</mn><mi> </mi><mo>+</mo><mi> </mi><mn>140</mn><mi> </mi><mo>+</mo><mi> </mi><mn>220</mn><mo>)</mo><mi> </mi><mo>+</mo><mi> </mi><mo>(</mo><mn>50</mn><mi> </mi><mo>+</mo><mi> </mi><mn>190</mn><mi> </mi><mo>+</mo><mi> </mi><mn>180</mn><mi> </mi><mo>+</mo><mi> </mi><mn>250</mn><mo>)</mo></mrow><mrow><mn>2</mn></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1180</mn><mn>2</mn></mfrac></math> = 590<br/>Required average production of company (B + D)</p> <p>= <math display=\"inline\"><mfrac><mrow><mo>(</mo><mn>70</mn><mi> </mi><mo>+</mo><mi> </mi><mn>100</mn><mi> </mi><mo>+</mo><mi> </mi><mn>150</mn><mi> </mi><mo>+</mo><mi> </mi><mn>210</mn><mo>)</mo><mi> </mi><mo>+</mo><mi> </mi><mo>(</mo><mn>120</mn><mi> </mi><mo>+</mo><mi> </mi><mn>170</mn><mi> </mi><mo>+</mo><mi> </mi><mn>200</mn><mi> </mi><mo>+</mo><mi> </mi><mn>260</mn><mo>)</mo></mrow><mrow><mn>2</mn></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1280</mn><mn>2</mn></mfrac></math> = 640<br/>Required difference = 590 - 640 = 50 (less)<br/><b>Hence,</b> required % = <math display=\"inline\"><mfrac><mrow><mn>50</mn></mrow><mrow><mn>640</mn></mrow></mfrac></math> × 100 = 7.81% (less)</p>"
+    },
+    {
+        "question": "<p>Solve the given set of three equations to get the value of the unknowns:<br/>x + 2z = 3<br/>x + 2y + 3z = 5<br/>3x - 5z = -13</p>",
+        "option_1": "<p>x = 0,y = -1,z = 2</p>",
+        "option_2": "<p>x = -1,y = 0,z = 2</p>",
+        "option_3": "<p>x = -1,y = 2,z = 0</p>",
+        "option_4": "<p>x = 2,y = 0,z = -1</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><strong>Given :- </strong>x + 2z = 3<br/>x + 2y + 3z = 5<br/>3x - 5z = -13<br/>By checking all options one by one, only option (b) satisfies,<br/><b>hence,</b> x = -1, y = 0, z = 2</p>"
+    },
+    {
+        "question": "<p>Mrudula starts her job with a certain monthly salary and earns a fixed increment every year. If her salary was ₹28,400 after six years of service and ₹52,997 after fifteen years, find her annual increment.</p>",
+        "option_1": "<p>₹12,002</p>",
+        "option_2": "<p>₹1,200</p>",
+        "option_3": "<p>₹2,733</p>",
+        "option_4": "<p>₹1,824</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/>According to the question,<br/>(16 - 6) years = 52997 - 28400 = 24597<br/>9 years = ₹ 24597<br/>1 years = ₹ 2733<br/>So, her annual increment = ₹ 2733</p>"
+    },
+    {
+        "question": "<p>A sum of money is divided among P, Q, R and S in the proportion of 4 : 9 : 2 : 3. If Q gets ₹560 more than R, then the share of S is:</p>",
+        "option_1": "<p>₹140</p>",
+        "option_2": "<p>₹340</p>",
+        "option_3": "<p>₹240</p>",
+        "option_4": "<p>₹440</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/>According to the question,<br/>(9 - 2) unit = ₹560<br/>7 unit = ₹560 ⇒ 1 unit = ₹80<br/>Share of S = 80 × 3 = ₹240</p>"
+    },
+    {
+        "question": "<p>The below table gives the marks out of 100 obtained by five students in four different subjects in an examination. Study the table and answer the question that follows.<br/> <br/>What are the average marks obtained by all five students in Mathematics?</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872743339.png",
+        "option_1": "<p>83</p>",
+        "option_2": "<p>80</p>",
+        "option_3": "<p>85</p>",
+        "option_4": "<p>84</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>Required average marks = <math display=\"inline\"><mfrac><mrow><mn>70</mn><mi> </mi><mo>+</mo><mi> </mi><mn>85</mn><mi> </mi><mo>+</mo><mi> </mi><mn>90</mn><mi> </mi><mo>+</mo><mi> </mi><mn>95</mn><mi> </mi><mo>+</mo><mi> </mi><mn>75</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>415</mn><mn>5</mn></mfrac></math> = 83</p>"
+    },
+    {
+        "question": "<p>Study the given table and answer the question that follows.<br/>The given table shows the number of candidates who appeared (both male and female) in a Public Examination and the percentage of those who qualified in the examination from two states X and Z. Few values are missing in the table (indicated by ------). You will be required to fill them up according to the question.<br/> <br/>Out of the number of qualified candidates from State X in 2010, the ratio of male to female candidates is 5 : 7. If the number of female qualified candidates from State X in 2010 is 168, what is the number of appeared candidates (both male and female) from State X in 2010 ?</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730872743700.png",
+        "option_1": "<p>360</p>",
+        "option_2": "<p>480</p>",
+        "option_3": "<p>640</p>",
+        "option_4": "<p>540</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>No. of female qualified candidates from state X in 2010 (7) unit = 168<br/>1 unit = 24 <br/>No. of candidates (male + female) from state X in 2010 (12) unit = 12 × 24 = 288<br/>So, required appeared candidates = 288 × <math display=\"inline\"><mfrac><mrow><mn>100</mn></mrow><mrow><mn>60</mn></mrow></mfrac></math> = 480</p>"
+    },
+    {
+        "question": "<p>A shopkeeper, on the eve of Diwali, allowed a series of discounts on television sets. Find the selling price of a television set, if the marked price of television is ₹1,200 and successive discounts are 15% and 10%.</p>",
+        "option_1": "<p>₹945</p>",
+        "option_2": "<p>₹918</p>",
+        "option_3": "<p>₹975</p>",
+        "option_4": "<p>₹965</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>Selling price of television = 1200 × <math display=\"inline\"><mfrac><mrow><mn>17</mn></mrow><mrow><mn>20</mn></mrow></mfrac></math> × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>9</mn><mn>10</mn></mfrac></math> = ₹918</p>"
+    },
+    {
+        "question": "<p>Select the option that can be used as a one-word substitute for the underlined group of words in the following sentence.<br/>Despite recent superficial moves toward political reconciliation, Libya remains in the grip of a bloodstained corrupt military <span style=\"text-decoration: underline;\">exclusive circle of people with a common purpose.</span></p>",
+        "option_1": "<p>oblique</p>",
+        "option_2": "<p>pique</p>",
+        "option_3": "<p>clique</p>",
+        "option_4": "<p>antique</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Clique-</strong> exclusive circle of people with a common purpose.<br/><strong>Oblique-</strong> not expressed or done in a direct way.<br/><strong>Pique-</strong> a feeling of anger, especially caused by someone damaging your feeling of being proud of yourself.<br/><strong>Antique-</strong> made in an earlier period and considered to have value because of being beautiful, rare, old, or of high quality.</p>"
+    },
+    {
+        "question": "<p>Select the option that can be used as a one-word substitute for the given group of words.<br/>An instrument for viewing distant objects in space.</p>",
+        "option_1": "<p>Microscope</p>",
+        "option_2": "<p>Spectrograph</p>",
+        "option_3": "<p>Telescope</p>",
+        "option_4": "<p>Binoculars</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Telescope-</strong> an instrument for viewing distant objects in space.<br/><strong>Microscope-</strong> device that uses lenses to make very small objects look larger.<br/><strong>Spectrograph- </strong>an apparatus for photographing or otherwise recording spectra.<br/><strong>Binoculars</strong>- an optical instrument with a lens for each eye, used for viewing distant objects.</p>"
+    },
+    {
+        "question": "<p>The following sentence contains a word with a spelling error. Rectify the sentence by selecting the correct spelling of the identified word from the given options.<br/>I was upstaires when somebody rang the doorbell.</p>",
+        "option_1": "<p>Upstares</p>",
+        "option_2": "<p>Upstaire</p>",
+        "option_3": "<p>upsatires</p>",
+        "option_4": "<p>Upstairs</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Upstairs</strong><br/>'Upstairs' is the correct spelling.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate synonym of the given word.<br/>Adversity</p>",
+        "option_1": "<p>Success</p>",
+        "option_2": "<p>Misfortune</p>",
+        "option_3": "<p>Pleasure</p>",
+        "option_4": "<p>Advantage</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Misfortune</strong>- bad luck or an unfortunate event.<br/><strong>Adversity-</strong> difficulties or hardships.<br/><strong>Success- </strong>the accomplishment of an aim or purpose.<br/><strong>Pleasure- </strong>a feeling of happiness or satisfaction.<br/><strong>Advantage-</strong> a condition or circumstance that puts one in a favorable position.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate ANTONYM of the following word.<br/>Forbid</p>",
+        "option_1": "<p>Prohibit</p>",
+        "option_2": "<p>Allow</p>",
+        "option_3": "<p>Call</p>",
+        "option_4": "<p>Forsake</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Allow- </strong>permit or give permission.<br/><strong>Forbid-</strong> refuse to allow.<br/><strong>Prohibit- </strong>formally forbid something by law or authority.<br/><strong>Call-</strong> summon or request someone to come.<br/><strong>Forsake- </strong>abandon or leave.</p>"
+    },
+    {
+        "question": "<p>Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br/>(A) while the employees<br/>(B) meeting on time<br/>(C) the boss arrived at the<br/>(D) despite the heavy traffic<br/>(E) were late</p>",
+        "option_1": "<p>DCBAE</p>",
+        "option_2": "<p>DACEB</p>",
+        "option_3": "<p>BACED</p>",
+        "option_4": "<p>ACEDB</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong> DCBAE</strong><br/>The given sentence starts with Part D as it introduces the main idea of the sentence, i.e. ‘Despite the heavy traffic’. Part C contains the subject of the first clause, ‘the boss’ &amp; Part B states that the boss arrived at the meeting on time. So, B will follow C. Further, Part A states a contrasting idea using the conjunction ‘while’ &amp; Part E states that the employees were late. So, E will follow A. Going through the options, option ‘a’ has the correct sequence.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate option to substitute the underlined segment in the given sentence.<br/>Charles Darwin is renowned for his book on evolution, ‘On the Origin of Species’, which <span style=\"text-decoration: underline;\">laid down a treasure of substantiation</span> that evolution occurs, and projected a mechanism, that is, natural selection, for how it does so.</p>",
+        "option_1": "<p>laid into a treasure of substantiation</p>",
+        "option_2": "<p>laid about a treasure of substantiation</p>",
+        "option_3": "<p>laid away a treasure of substantiation</p>",
+        "option_4": "<p>laid out a treasure of substantiation</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) laid out a treasure of substantiation<br/>‘Laid out’ means explained or described something in a clear and detailed way. The given sentence states that Charles Darwin is renowned for his book on evolution, ‘On the Origin of Species’, which laid down a treasure of substantiation that evolution occurs. <b>Hence,</b> ‘laid out a treasure of substantiation’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p>Parts of the following sentence have been given as options. Select the option that contains an error.<br/>It is he who work for the company for more than a decade.</p>",
+        "option_1": "<p>for more than a decade</p>",
+        "option_2": "<p>who work</p>",
+        "option_3": "<p>for the company</p>",
+        "option_4": "<p>It is he</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) who work<br/>‘Who work’ must be replaced with ‘who has been working’ as we use the perfect continuous tense with ‘for/since’ to indicate time period. <b>Hence,</b> ‘who has been working’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p>Select the option that correctly expresses the given sentence in passive voice.<br/>The teachers of our school have already taken this training.</p>",
+        "option_1": "<p>This training has already been taken by the teachers of our school.</p>",
+        "option_2": "<p>This training has been taken by the teachers of our school.</p>",
+        "option_3": "<p>This training has already been taken by the our school teachers.</p>",
+        "option_4": "<p>This training was already taken by the teachers of our school.</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) This training has already been taken by the teachers of our school. (Correct)<br/>(b) This training has been taken by the teachers of our school. (‘Already’ is missing)<br/>(c) This training has already been taken by the our school teachers. (Incorrect Sentence Structure)<br/>(d) This training <span style=\"text-decoration: underline;\">was already taken</span> by the teachers of our school. (Incorrect Tense)</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate ANTONYM of the underlined word.<br/>He was very <span style=\"text-decoration: underline;\">cruel</span> in dealing with the students.</p>",
+        "option_1": "<p>Skittish</p>",
+        "option_2": "<p>Kind</p>",
+        "option_3": "<p>Malevolent</p>",
+        "option_4": "<p>Kingly</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Kind-</strong> caring and compassionate.<br/><strong>Cruel-</strong> causing pain or suffering.<br/><strong>Skittish-</strong> nervous or easily frightened.<br/><strong>Malevolent-</strong> having or showing a desire to harm others.<br/><strong>Kingly-</strong> royal or majestic.</p>"
+    },
+    {
+        "question": "<p>Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br/>(A) he had to take the bus<br/>(B) his friend, who used to give<br/>(C) to his office because he had<br/>(D) him a lift, was on vacation<br/>(E) never learned to drive and</p>",
+        "option_1": "<p>DACEB</p>",
+        "option_2": "<p>ACEBD</p>",
+        "option_3": "<p>EBADC</p>",
+        "option_4": "<p>BADEC</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>ACEBD</strong><br/>The given sentence starts with Part A as it introduces the main idea of the sentence, i.e. ‘He had to take the bus’. Part C states the destination (his office) and has the conjunction ‘because’ to state the reason for taking the bus. Part E states the reason for taking the bus, which is that he never learned to drive. So, E will follow C. Further, Part B talks about his friend and Part E states that his friend was on vacation. So, D will follow B. Going through the options, option ‘b’ has the correct sequence.</p>"
+    },
+    {
+        "question": "<p>Select the option that expresses the following sentence in passive voice.<br/>Ravi will play the match.</p>",
+        "option_1": "<p>The match is played by Ravi.</p>",
+        "option_2": "<p>The match will have been played by Ravi.</p>",
+        "option_3": "<p>The match will be playing by Ravi.</p>",
+        "option_4": "<p>The match will be played by Ravi.</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) The match will be played by Ravi. (Correct)<br/>(a) The match <span style=\"text-decoration: underline;\">is played</span> by Ravi. (Incorrect Tense)<br/>(b) The match <span style=\"text-decoration: underline;\">will have been</span> played by Ravi. (Incorrect Helping Verb)<br/>(c) The match will be <span style=\"text-decoration: underline;\">playing</span> by Ravi. (Incorrect form of the Verb)</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate option that can substitute the underlined word in the given sentence.<br/>Our legal system must frame proper legal rules for <span style=\"text-decoration: underline;\">juvenile</span> criminals.</p>",
+        "option_1": "<p>senile</p>",
+        "option_2": "<p>dotage</p>",
+        "option_3": "<p>old</p>",
+        "option_4": "<p>young</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) young<br/>The given sentence states that our legal system must frame legal rules for young criminals. <b>Hence,</b> ‘young’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p>Substitute the underlined word-segment with most appropriate idiom.<br/>The doctors <span style=\"text-decoration: underline;\">tried very hard</span> to save his mother but they were unsuccessful.</p>",
+        "option_1": "<p>faced the music</p>",
+        "option_2": "<p>drew the line</p>",
+        "option_3": "<p>moved heaven and earth</p>",
+        "option_4": "<p>ran like clockwork</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Moved heaven and earth</strong>- tried very hard.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate meaning of the given idiom.<br/>Hit the nail on the head</p>",
+        "option_1": "<p>They are experiencing a headache.</p>",
+        "option_2": "<p>They have accurately identified or explained something.</p>",
+        "option_3": "<p>They're uncertain about a decision.</p>",
+        "option_4": "<p>They hit a nail with a hammer.</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Hit the nail on the head-</strong> they have accurately identified or explained something.<br/>E.g.- When she said the project failed due to poor planning, she really hit the nail on the head.</p>"
+    },
+    {
+        "question": "<p>The following sentence has been split into four segments. Identify the segment that contains a grammatical error.<br/>The windows / violent banged / during the / storm yesterday.</p>",
+        "option_1": "<p>during the</p>",
+        "option_2": "<p>The windows</p>",
+        "option_3": "<p>storm yesterday.</p>",
+        "option_4": "<p>violent banged</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) violent banged<br/>‘Violent’ must be replaced with ‘violently’ as the given sentence needs an adverb to modify the verb ‘banged’. <b>Hence,</b> ‘violently banged’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "Identify the INCORRECTLY spelt word in the following sentence and select its correct spelling from the given options.<br/>His acquiantance with the author led to many fruitful collaborations.",
+        "option_1": "acuiantance",
+        "option_2": "acquaintance",
+        "option_3": "acquaintence",
+        "option_4": "aquaintance",
+        "option_5": "",
+        "answer": "2",
+        "solution": "(b) acquaintance<br/>'Acquaintance' is the correct spelling."
+    },
+    {
+        "question": "<p>Identify the correct synonym of the word given below.<br/>FATIGUE</p>",
+        "option_1": "<p>Mission</p>",
+        "option_2": "<p>Tiredness</p>",
+        "option_3": "<p>Vigour</p>",
+        "option_4": "<p>Obese</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Tiredness- </strong>state of being weary or fatigued.<br/><strong>Fatigue-</strong> extreme tiredness resulting from mental or physical exertion.<br/><strong>Mission-</strong> an important task or purpose assigned to a person or group.<br/><strong>Vigour-</strong> physical strength and good health.<br/><strong>Obese-</strong> having an unhealthy amount of body fat.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate synonym of the underlined word.<br/>She was <span style=\"text-decoration: underline;\">overstrung</span> before her dance performance.</p>",
+        "option_1": "<p>Cheerful</p>",
+        "option_2": "<p>Calm</p>",
+        "option_3": "<p>Placid</p>",
+        "option_4": "<p>Nervous</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Nervous- </strong>easily agitated or anxious.<br/><strong>Overstrung-</strong> excessively tense or anxious.<br/><strong>Cheerful-</strong> noticeably happy and optimistic.<br/><strong>Calm-</strong> free from agitation or strong emotion.<br/><strong>Placid-</strong> not easily upset or excited.</p>"
+    },
+    {
+        "question": "<p>Select the option that can be used as a one-word substitute for the given group of words.<br/>Awkward in movement or manner</p>",
+        "option_1": "<p>Alert</p>",
+        "option_2": "<p>Imbalanced</p>",
+        "option_3": "<p>Clumsy</p>",
+        "option_4": "<p>Clownish</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Clumsy</strong>- awkward in movement or manner.<br/><strong>Alert- </strong>quick to notice any unusual and potentially dangerous or difficult circumstances.<br/><strong>Imbalanced- </strong>a situation in which two or more things are not equal in size, power, importance, etc.<br/><strong>Clownish-</strong> someone who entertains people by wearing funny clothes with a painted face, and making people laugh.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:</strong><br/>Azadi Ka Amrit Mahotsav is an (96) _________ by the Government of India to celebrate and remember 75 years of independence and the beautiful history of its people, culture and achievements. This Mahotsav is (97) _________ to the people of India, who have not only been instrumental in bringing India this far in its evolutionary journey but also (98) _________ the power and potential to realise Prime Minister, Narendra Modi's (99) _________ of activating India 2.0, fuelled by the spirit of Aatmanirbhar Bharat. The formal journey of Azadi Ka Amrit Mahotsav began on 12 March 2021, beginning a (100)______ to our 75th anniversary of independence and will finish a year later on 15 August 2023.<br/>Select the most appropriate answer for blank number 96.</p>",
+        "option_1": "<p>associate</p>",
+        "option_2": "<p>initiative</p>",
+        "option_3": "<p>obligation</p>",
+        "option_4": "<p>occult</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>initiative</strong><br/>‘Initiative’ means an introductory step. The given passage states that Azadi Ka Amrit Mahotsav is an initiative by the Government of India to celebrate and remember 75 years of independence. <b>Hence,</b> 'initiative' is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:</strong><br/>Azadi Ka Amrit Mahotsav is an (96) _________ by the Government of India to celebrate and remember 75 years of independence and the beautiful history of its people, culture and achievements. This Mahotsav is (97) _________ to the people of India, who have not only been instrumental in bringing India this far in its evolutionary journey but also (98) _________ the power and potential to realise Prime Minister, Narendra Modi's (99) _________ of activating India 2.0, fuelled by the spirit of Aatmanirbhar Bharat. The formal journey of Azadi Ka Amrit Mahotsav began on 12 March 2021, beginning a (100)______ to our 75th anniversary of independence and will finish a year later on 15 August 2023.<br/>Select the most appropriate answer for blank number 97.</p>",
+        "option_1": "<p>dedicated</p>",
+        "option_2": "<p>alienated</p>",
+        "option_3": "<p>refused</p>",
+        "option_4": "<p>withhold</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>dedicated</strong><br/>‘Dedicated’ means intended for a particular person. The given passage states that this Mahotsav is dedicated to the people of India. <b>Hence,</b> ‘dedicated’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:</strong><br/>Azadi Ka Amrit Mahotsav is an (96) _________ by the Government of India to celebrate and remember 75 years of independence and the beautiful history of its people, culture and achievements. This Mahotsav is (97) _________ to the people of India, who have not only been instrumental in bringing India this far in its evolutionary journey but also (98) _________ the power and potential to realise Prime Minister, Narendra Modi's (99) _________ of activating India 2.0, fuelled by the spirit of Aatmanirbhar Bharat. The formal journey of Azadi Ka Amrit Mahotsav began on 12 March 2021, beginning a (100)______ to our 75th anniversary of independence and will finish a year later on 15 August 2023.<br/>Select the most appropriate answer for blank number 98.</p>",
+        "option_1": "<p>clarifies</p>",
+        "option_2": "<p>possess</p>",
+        "option_3": "<p>concludes</p>",
+        "option_4": "<p>obtains</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>possess</strong><br/>The given passage states that this Mahotsav is dedicated to the people of India who possess the power and potential to realise Prime Minister Narendra Modi’s vision of activating India 2.O. <b>Hence,</b> ‘possess’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:</strong><br/>Azadi Ka Amrit Mahotsav is an (96) _________ by the Government of India to celebrate and remember 75 years of independence and the beautiful history of its people, culture and achievements. This Mahotsav is (97) _________ to the people of India, who have not only been instrumental in bringing India this far in its evolutionary journey but also (98) _________ the power and potential to realise Prime Minister, Narendra Modi's (99) _________ of activating India 2.0, fuelled by the spirit of Aatmanirbhar Bharat. The formal journey of Azadi Ka Amrit Mahotsav began on 12 March 2021, beginning a (100)______ to our 75th anniversary of independence and will finish a year later on 15 August 2023.<br/>Select the most appropriate answer for blank number 99.</p>",
+        "option_1": "<p>graphics</p>",
+        "option_2": "<p>vision</p>",
+        "option_3": "<p>design</p>",
+        "option_4": "<p>control</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>vision</strong><br/>‘Vision’ means the ability to think about or plan the future with imagination or wisdom. The given passage states that This Mahotsav is dedicated to the people of India, who have not only been instrumental in bringing India this far in its evolutionary journey but also possess the power and potential to realise Prime Minister Narendra Modi's vision of activating India 2.0. <b>Hence,</b> ‘vision’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:</strong><br/>Azadi Ka Amrit Mahotsav is an (96) _________ by the Government of India to celebrate and remember 75 years of independence and the beautiful history of its people, culture and achievements. This Mahotsav is (97) _________ to the people of India, who have not only been instrumental in bringing India this far in its evolutionary journey but also (98) _________ the power and potential to realise Prime Minister, Narendra Modi's (99) _________ of activating India 2.0, fuelled by the spirit of Aatmanirbhar Bharat. The formal journey of Azadi Ka Amrit Mahotsav began on 12 March 2021, beginning a (100)______ to our 75th anniversary of independence and will finish a year later on 15 August 2023.<br/>Select the most appropriate answer for blank number 100.</p>",
+        "option_1": "<p>allocation</p>",
+        "option_2": "<p>countdown</p>",
+        "option_3": "<p>custom</p>",
+        "option_4": "<p>breakdown</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>countdown</strong><br/>‘Countdown’ means an act of counting numerals in reverse order to zero. The given passage states that the formal journey of Azadi Ka Amrit Mahotsav began on 12 March 2021, beginning a countdown to our 75th anniversary of independence and will finish a year later on 15 August 2023. <b>Hence,</b> ‘countdown’ is the most appropriate answer.</p>"
+    }
+]
