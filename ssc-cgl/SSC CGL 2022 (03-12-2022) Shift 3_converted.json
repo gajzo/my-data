@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Which of the following interchange of mathematical signs would make the given equation correct ?</span></p> <p><span style=\"font-family: Roboto;\">20<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>÷</mo></math> </span><span style=\"font-family: Roboto;\"> 4 x 8 + 16 - 15 = 11</span></p>",
+        "option_1": "<p>-,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>÷</mo></math></p>",
+        "option_2": "<p>+, -</p>",
+        "option_3": "<p>x,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>÷</mo></math></p>",
+        "option_4": "<p>+, x</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p> <p><span style=\"font-family: Roboto;\">20÷4×8+16-15=11</span></p> <p><span style=\"font-family: Roboto;\">On substituting the signs of all the given options one by </span><span style=\"font-family: Roboto;\">one in the expression, only option (c) satisfies the given expression.</span></p> <p><span style=\"font-family: Roboto;\">20×4÷8+16-15</span></p> <p><span style=\"font-family: Roboto;\">=10+16-15</span></p> <p><span style=\"font-family: Roboto;\">= 11 = RHS (satisfied)</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">A + B means 'A is the father of B'</span></p> <p><span style=\"font-family: Roboto;\">A * B means 'A is the sister of B'</span></p> <p><span style=\"font-family: Roboto;\">A % B means 'A is the daughter of B'</span></p> <p><span style=\"font-family: Roboto;\">A $ B means 'A is the son of B'</span></p> <p><span style=\"font-family: Roboto;\">If L % M + N * O $ P, then how is L related to P?</span></p>",
+        "option_1": "<p>Sister</p>",
+        "option_2": "<p>Daughter</p>",
+        "option_3": "<p>Mother</p>",
+        "option_4": "<p>mother-in-law</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Roboto;\"><b>Hence,</b> It is clear from the above figure that L is the daughter of P.</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image1.png"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Which of the following numbers will replace the question mark (?) in the given series ?</span></p> <p><span style=\"font-family: Roboto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math>, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>3</mn><mn>4</mn></mfrac></math></span><span style=\"font-family: Roboto;\">, ?,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>5</mn><mn>4</mn></mfrac></math> </span></p>",
+        "option_1": "<p>1</p>",
+        "option_2": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>4</mn></mfrac></math></p>",
+        "option_3": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>3</mn><mn>4</mn></mfrac></math></p>",
+        "option_4": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>2</mn><mn>3</mn></mfrac></math></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image2.png"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Select the option that is related to the third term in the same way as the second term is related to the first term and the sixth term is related to the fifth term.</span></p> <p><span style=\"font-family: Roboto;\">25: 264: : 31:? :: 49: 456</span></p>",
+        "option_1": "<p>312</p>",
+        "option_2": "<p>314</p>",
+        "option_3": "<p>297</p>",
+        "option_4": "<p>961</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p> <p><span style=\"font-family: Roboto;\">Logic </span><span style=\"font-family: Roboto;\">: {n : (n+8)×8}</span></p> <p><span style=\"font-weight: 400;\">(25 : 264) ⇒ (25 : 33×8)</span></p> <p><span style=\"font-weight: 400;\">(49 : 456) ⇒ (49 : 57×8)</span></p> <p><span style=\"font-weight: 400;\">Similarly,</span></p> <p><span style=\"font-weight: 400;\">(31 : 312) ⇒ (31 : 39×8)</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">In a certain code language, 'ESCAPE' is written as '49' and 'PRISON' is written as '91'. How will 'FREEDOM' be written in that language ?</span></p>",
+        "option_1": "<p>66</p>",
+        "option_2": "<p>59</p>",
+        "option_3": "<p>64</p>",
+        "option_4": "<p>55</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p> <p><span style=\"font-family: Roboto;\">Logic</span><span style=\"font-family: Roboto;\"> : All words have been coded as the sum of their place value.</span></p> <p><span style=\"font-family: Roboto;\">ESCAPE <span style=\"font-weight: 400;\">⇒</span></span><span style=\"font-family: Cambria Math;\"> 5+19+3+1+16+5 = 49</span></p> <p><span style=\"font-family: Cambria Math;\">PRISON <span style=\"font-weight: 400;\">⇒</span></span><span style=\"font-family: Cambria Math;\"> 16+18+9+19+15+14 = 91</span></p> <p><span style=\"font-family: Cambria Math;\">Similarly,</span></p> <p><span style=\"font-family: Cambria Math;\">FREEDOM <span style=\"font-weight: 400;\">⇒</span></span><span style=\"font-family: Cambria Math;\"> 6+18+5+5+4+15+13 = </span><span style=\"font-family: Cambria Math;\">66</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">What should come in place of the question mark (?) to complete the following letter series?</span></p> <p><span style=\"font-family: Roboto;\">F, E, I, G, L, I, O, ?</span></p>",
+        "option_1": "<p>I</p>",
+        "option_2": "<p>J</p>",
+        "option_3": "<p>L</p>",
+        "option_4": "<p>K</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image3.png"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">Select the option that represents the correct order of the given words as they would appear in an English dictionary.</span></p> <p><span style=\"font-family:Roboto\">1- Pardoner</span></p> <p><span style=\"font-family:Roboto\">2- Parenthetical</span></p> <p><span style=\"font-family:Roboto\">3- Parent</span><span style=\"font-family:Roboto\">al</span></p> <p><span style=\"font-family:Roboto\">4- Pardon</span></p> <p><span style=\"font-family:Roboto\">5- Parenthesis</span></p>",
+        "option_1": "<p> 1, 4, 3, 2, 5</p>",
+        "option_2": "<p> 4, 1, 3, 2, 5</p>",
+        "option_3": "<p> 4, 1, 3, 5, 2</p>",
+        "option_4": "<p> 1, 4, 3, 5, 2</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p> <p><span style=\"font-family:Roboto\">According to the English dictionary the correct order of the given words will be as follows.</span></p> <p><span style=\"font-family:Roboto\">Pardon(4) </span><span style=\"font-family:Cambria Math\">Pardoner(1) </span><span style=\"font-family:Cambria Math\">Parental(3) </span><span style=\"font-family:Cambria Math\">Parenthesis(5) </span><span style=\"font-family:Cambria Math\">Parenthetical(2)</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Select the option that is related to </span><span style=\"font-family: Roboto;\">the third term in the same way as the second term is related to the first term and the sixth term is related to the fifth term.</span></p> <p><span style=\"font-family: Roboto;\">11: 94: :23 ? :: 18: 150</span></p>",
+        "option_1": "<p>190</p>",
+        "option_2": "<p>199</p>",
+        "option_3": "<p>129</p>",
+        "option_4": "<p>109</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p> <p><span style=\"font-family: Roboto;\">Logic :</span><span style=\"font-family: Roboto;\"> (n : n×8+6)</span></p> <p><span style=\"font-weight: 400;\">(11 : 94) ⇒ (11 : 11×8+6)</span></p> <p><span style=\"font-weight: 400;\">(18 : 150) ⇒ (18 : 18×8+6)</span></p> <p><span style=\"font-family: Arial Unicode MS;\">Similarly,</span></p> <p><span style=\"font-family: Arial Unicode MS;\"><span style=\"font-weight: 400;\">(23 : 190) ⇒ (23 : 23×8+6)</span></span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">Based on the position in the Engli</span><span style=\"font-family:Roboto\">sh alphabetical order, three of the following letter- clusters are alike in some manner and one is different. Select the odd letter-cluster.</span></p>",
+        "option_1": "<p> IGMJ</p>",
+        "option_2": "<p> SPVT</p>",
+        "option_3": "<p> DBHE</p>",
+        "option_4": "<p> NLRO</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family:Arial Unicode MS\">In IGMJ ⇒ I-2=G, G+6=M, M-3=J</span></p> <p><span style=\"font-family:Arial Unicode MS\">In SPVT ⇒ S-3=P, P+6=V, V-2=T</span></p> <p><span style=\"font-family:Arial Unicode MS\">In DBHE ⇒ D-2=B, B+6=H, H-3=E</span></p> <p><span style=\"font-family:Arial Unicode MS\">In NLRO ⇒ N-2=L, L+6=R, R-3=O</span></p> <p><span style=\"font-family:Arial Unicode MS\"><b>Hence,</b> we can see that all of them are following the same pattern except</span><span style=\"font-family:Arial Unicode MS\"> SPVT.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> Select the correct combination of mathematical signs to sequentially replace the * signs and to balance the given equatio</span><span style=\"font-family: Roboto;\">n.</span></p> <p><span style=\"font-family: Roboto;\">25 * 4 * 6 * 2 * 17</span></p>",
+        "option_1": "<p>-,+,x,=</p>",
+        "option_2": "<p>+, -,=,+</p>",
+        "option_3": "<p>+, -, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>÷</mo></math>,<span style=\"font-family: Roboto;\">=</span></p>",
+        "option_4": "<p>+,-,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math>,=</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><span style=\"font-family: Roboto;\">25*4*6*2*17</span></p> <p><span style=\"font-family: Roboto;\">On substituting the signs of all the given options one by one in the expression, only option (d) satisfies the given expression.</span></p> <p><span style=\"font-family: Roboto;\">25+4-6×2=17</span></p> <p><span style=\"font-family: Roboto;\">=29-12</span></p> <p><span style=\"font-family: Roboto;\">=17=RHS (satisfied)</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> Select the set in which the numbers are related in the same way as are the numbers of the following set.</span><br/><span style=\"font-weight: 400;\">(<b>NOTE:</b> Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g., 13 - Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is NOT allowed).</span><br/><br/><strong>(0.20, 5, 25)</strong><br/><strong>(0.083, 12, 144)</strong></p>",
+        "option_1": "<p><span style=\"font-weight: 400;\"> (0.240, 4, 16)</span></p>",
+        "option_2": "<p><span style=\"font-weight: 400;\"> (0.143, 6, 36)</span></p>",
+        "option_3": "<p><span style=\"font-weight: 400;\"> (0.056, 18, 289)</span></p>",
+        "option_4": "<p><span style=\"font-weight: 400;\"> (0.063, 16, 256)</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><span style=\"font-weight: 400;\">Logic : (2nd number÷3rd number)=1st number</span></p> <p><span style=\"font-weight: 400;\">(0.20, 5, 25) ⇒ 5÷25 = 0.20</span></p> <p><span style=\"font-weight: 400;\">(0.083, 12, 144) ⇒ 12÷144 = 0.083</span></p> <p><span style=\"font-weight: 400;\">Similarly,</span></p> <p><span style=\"font-weight: 400;\">(0.063, 16, 256) ⇒ 16÷256 = 0.0625</span><span style=\"font-weight: 400;\">0.063</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement</span><span style=\"font-family: Roboto;\">s.</span></p> <p><strong><span style=\"font-family: Roboto;\">Statements:</span></strong></p> <p><span style=\"font-family: Roboto;\">Some pens are books.</span></p> <p><span style=\"font-family: Roboto;\">All books are compasses.</span></p> <p><span style=\"font-family: Roboto;\">Some compasses are pins. </span></p> <p><strong><span style=\"font-family: Roboto;\">Conclusions:</span></strong></p> <p><span style=\"font-family: Roboto;\">I. Some compasses are pens. </span></p> <p><span style=\"font-family: Roboto;\">II. All compasses are pens.</span></p> <p><span style=\"font-family: Roboto;\">III. Some pins are books.</span></p> <p><span style=\"font-family: Roboto;\">IV. Some compasses are books.</span></p>",
+        "option_1": "<p>Only conclusions I and II follow</p>",
+        "option_2": "<p><span style=\"font-family: Roboto;\">Only conclusions II and III follow</span></p>",
+        "option_3": "<p>Only conclusions I and IV follow</p>",
+        "option_4": "<p>Only conclusions III and IV follow</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p> <p><span style=\"font-family: Roboto;\">Only conclusion I and IV follows.</span></p><br>https://ssccglpinnacle.com/images/mceu_55305656411675328005509.png"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">Select the figure that will come next in the following figure series.</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image6.png",
+        "option_1": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image7.png",
+        "option_2": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image8.png",
+        "option_3": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image9.png",
+        "option_4": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image10.png",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image11.png"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">The paper is folded and cut as shown below. How will it appear when unfolded?</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image12.png",
+        "option_1": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image13.png",
+        "option_2": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image14.png",
+        "option_3": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image15.png",
+        "option_4": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image16.png",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image17.png"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">In the following question, four number pairs are given. In each pair the number on left side of (-) is related to the number of the right side of (-) with some Logic/Rule/Relation. Three pairs are</span><span style=\"font-family: Roboto;\"> similar on basis of same Logic/Rule/Relation. Select the odd one out from the given alternatives. (<b>NOTE:</b> Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g.13 - Operations on 13 such as </span><span style=\"font-family: Roboto;\">adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed).</span></p>",
+        "option_1": "<p>6-60</p>",
+        "option_2": "<p>2 -18</p>",
+        "option_3": "<p>4-40</p>",
+        "option_4": "<p>8-80</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><strong>Logic</strong><span style=\"font-weight: 400;\"> : (n : n×10)</span></p> <p><span style=\"font-weight: 400;\">(6 : 60) ⇒ (6 : 6×10)</span></p> <p><strong>(2 : 18) ⇒ (2 : 2×9)</strong></p> <p><span style=\"font-weight: 400;\">(4 : 40) ⇒ (4 : 4×10)</span></p> <p><span style=\"font-weight: 400;\">(8 : 80) ⇒ (8 : 8×10)</span></p> <p><span style=\"font-weight: 400;\"><b>Hence,</b> we can see that all of them are following the same pattern except (2 : 18).</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Select the figure that will come next in the following figure series.</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image18.png",
+        "option_1": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image19.png",
+        "option_2": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image20.png",
+        "option_3": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image21.png",
+        "option_4": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image22.png",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p>Logic-</p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image23.png<br>https://ssccglpinnacle.com/images/mceu_18996227211675675916414.png"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> Select the option in which the given figure is embedded (rotation is NOT allowed).</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image24.png",
+        "option_1": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image25.png",
+        "option_2": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image26.png",
+        "option_3": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image27.png",
+        "option_4": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image28.png",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image29.png"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">Select the correct mirror image of the given combination when the mirror is placed at 'PQ' as shown below.</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image30.png",
+        "option_1": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image31.png",
+        "option_2": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image32.png",
+        "option_3": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image33.png",
+        "option_4": "<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image34.png",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image35.png"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">If P </span><span style=\"font-family: Roboto;\">÷</span><span style=\"font-family: Roboto;\"> Q means that P is the mother of Q, P </span><span style=\"font-family: Roboto;\">Q means that P is the father of Q, P - Q means that P is the sister of Q, then which of the following expressions shows that A is the father of C?</span></p>",
+        "option_1": "<p>B <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math><span style=\"font-family: Roboto;\"> A - C</span></p>",
+        "option_2": "<p>A <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math><span style=\"font-family: Roboto;\"> B - C</span></p>",
+        "option_3": "<p>A<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math> <span style=\"font-family: Roboto;\"> B <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>÷</mo></math></span><span style=\"font-family: Roboto;\"> C</span></p>",
+        "option_4": "<p>A - B <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math><span style=\"font-family: Roboto;\"> C</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Roboto;\">Solving the expressions of all the options one by one, only option (b) is the correct answer to the question asked.</span></p> <p><span style=\"font-family: Roboto;\"><b>Hence,</b> It is clear from the above figure that A is the father of C.</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image36.png"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> In the foll</span><span style=\"font-family: Roboto;\">owing question below are given some statements followed by some conclusions based on those statements. Taking the given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of t</span><span style=\"font-family: Roboto;\">he given conclusion logically follows the given statements. </span></p> <p><strong><span style=\"font-family: Roboto;\">Statements:</span></strong></p> <p><span style=\"font-family: Roboto;\">I. Some S are C.</span></p> <p><span style=\"font-family: Roboto;\">II. Some C are D.</span></p> <p><strong><span style=\"font-family: Roboto;\">Conclusions:</span></strong></p> <p><span style=\"font-family: Roboto;\">I. All D are S.</span></p> <p><span style=\"font-family: Roboto;\">II. Some C are S.</span></p> <p><span style=\"font-family: Roboto;\">III. Some D are C.</span></p>",
+        "option_1": "<p>Both conclusions I and II follows</p>",
+        "option_2": "<p>Both conclusions II and III follows</p>",
+        "option_3": "<p>Both conclusions I and III follows</p>",
+        "option_4": "<p>All conclusion follows</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Roboto;\"><b>Hence,</b> we can see that only conclusion (II) and (III) follow.</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image37.png"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">In a certain code language, 'DOVE' is coded as '1122214' and 'CROW' is coded as '823311'. How will 'MYNA' be coded in that language?</span></p>",
+        "option_1": "<p>1121512</p>",
+        "option_2": "<p>1132512</p>",
+        "option_3": "<p>1132412</p>",
+        "option_4": "<p>1132522</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p><span style=\"font-family: Roboto;\">(b)</span></p> <p> and <span style=\"font-family: Roboto;\">Similarly ,</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image38.png<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image39.png<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image40.png"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> By interchanging the given two signs and numbers, which of the following equations will be correct ?</span></p> <p><span style=\"font-family: Roboto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo></math> and + , 6 and 3</span></p>",
+        "option_1": "<p>7 <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo></math><span style=\"font-family: Roboto;\"> 3 <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math></span><span style=\"font-family: Roboto;\"> 2 <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>÷</mo></math></span><span style=\"font-family: Roboto;\"> 6 + 4 = 17</span></p>",
+        "option_2": "<p>8 <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math><span style=\"font-family: Roboto;\"> 3 <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo></math></span><span style=\"font-family: Roboto;\"> 6 + 4 </span><span style=\"font-family: Roboto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>÷</mo></math>2= 49</span></p>",
+        "option_3": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9</mn><mo>-</mo><mn>6</mn><mo>×</mo><mn>4</mn><mo>+</mo><mn>3</mn><mo>×</mo><mn>7</mn><mo>=</mo><mn>8</mn></math></p>",
+        "option_4": "<p>9 <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>-</mo></math><span style=\"font-family: Roboto;\">6 <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math></span><span style=\"font-family: Roboto;\"> 4 + 3 <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math></span><span style=\"font-family: Roboto;\"> 7 = 8</span></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Roboto;\">On interchanging the signs and numbers in all options one by one, we find that only option (b) is correct.</span></p> <p><span style=\"font-family: Roboto;\">8×6+3-4÷2=49</span></p> <p><span style=\"font-family: Roboto;\">=48+3-2</span></p> <p><span style=\"font-family: Roboto;\">=49=RHS (satisfied)</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Select the word-pair that best represents a similar relationship to the one expressed in the given pai</span><span style=\"font-family: Roboto;\">r of words.</span><br/><span style=\"font-weight: 400;\">(The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word)</span><br/><br/><span style=\"font-family: Roboto;\">Hibiscus : Flower</span></p>",
+        "option_1": "<p>Pumpkin : Fruit</p>",
+        "option_2": "<p>Beans: Protein</p>",
+        "option_3": "<p>Leaf: Green</p>",
+        "option_4": "<p>Tree: Trunk</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p> <p><span style=\"font-family: Roboto;\"> Hibiscus is a type of flower, Similarly Pumpkin is a type of</span><span style=\"font-family: Roboto;\"> fruit</span><span style=\"font-family: Roboto;\">.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> Which of the following terms will replace the question mark (?) in the given series?</span></p> <p><span style=\"font-family: Roboto;\">ZXE ZWD ZVC ? ZTA</span></p>",
+        "option_1": "<p>ZAB</p>",
+        "option_2": "<p>SUB</p>",
+        "option_3": "<p>ZUB</p>",
+        "option_4": "<p>ZUC</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image41.png"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> Select the option that is related to the fifth letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster and the fourth letter-cluster is related to the third letter-cluster.</span></p> <p><span style=\"font-family: Roboto;\">COOK : DQPM :: DOWN : EQXP :: ONLY : ?</span></p>",
+        "option_1": "<p>PPMA</p>",
+        "option_2": "<p>PPMB</p>",
+        "option_3": "<p>PQMA</p>",
+        "option_4": "<p>PQMB</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p> <p> and <span style=\"font-family: Roboto;\">Similarly, </span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image42.png<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image43.png<br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image44.png"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\"> Who among the following was the first Indian to win the Grammy Award?</span></p>",
+        "option_1": "<p> Pandit Ravi Shankar</p>",
+        "option_2": "<p> Pandit Shiv Kumar Sharma</p>",
+        "option_3": "<p> Pandit Vishwa Mohan Bhatt</p>",
+        "option_4": "<p> Ustad Zakir Hussain</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family:Roboto\">Ravi Shankar</span><span style=\"font-family:Roboto\"> (sitarist). He was the first Indian to win a Grammy for 'West Meets East', the 1968 album with American violinist Yehudi Menuhin. He has won </span><span style=\"font-family:Roboto\">five </span><span style=\"font-family:Roboto\">grammy awards. </span><span style=\"font-family:Roboto\">Awards </span><span style=\"font-family:Roboto\">:- Bharat Ratna </span><span style=\"font-family:Roboto\">(1999)</span><span style=\"font-family:Roboto\">, Padma Vibhushan </span><span style=\"font-family:Roboto\">(1981)</span><span style=\"font-family:Roboto\">, Padm</span><span style=\"font-family:Roboto\">a Bhushan </span><span style=\"font-family:Roboto\">(1967)</span><span style=\"font-family:Roboto\">, Sangeet Natak Akademi Award </span><span style=\"font-family:Roboto\">(1962)</span><span style=\"font-family:Roboto\">, Sangeet Natak Akademi Fellowship </span><span style=\"font-family:Roboto\">(1975)</span><span style=\"font-family:Roboto\">, Kalidas Samman </span><span style=\"font-family:Roboto\">(1987–88)</span><span style=\"font-family:Roboto\">. </span><span style=\"font-family:Roboto\">Pandit Shivkumar Sharma</span><span style=\"font-family:Roboto\"> (santoor).</span><span style=\"font-family:Roboto\">Vishwa Mohan Bhatt</span><span style=\"font-family:Roboto\"> (Mohan veena). </span><span style=\"font-family:Roboto\">Ustad Zakir Hussain </span><span style=\"font-family:Roboto\">(tabla player).</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> Chemical formula of gypsum is _______.</span></p>",
+        "option_1": "<p>CaSO<sub><span style=\"font-family: Roboto;\">4</span></sub><span style=\"font-family: Roboto;\">.2H</span><sub><span style=\"font-family: Roboto;\">2</span></sub><span style=\"font-family: Roboto;\">O</span></p>",
+        "option_2": "<p>CaSO<sub><span style=\"font-family: Roboto;\">4</span></sub><span style=\"font-family: Roboto;\">.H</span><sub><span style=\"font-family: Roboto;\">2</span></sub><span style=\"font-family: Roboto;\">O</span></p>",
+        "option_3": "<p>CaSO<sub><span style=\"font-family: Roboto;\">4</span></sub></p>",
+        "option_4": "<p>CaSO<sub><span style=\"font-family: Roboto;\">4</span></sub><span style=\"font-family: Roboto;\">.(1/2)H</span><sub><span style=\"font-family: Roboto;\">2</span></sub><span style=\"font-family: Roboto;\">O</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) Gypsum<span style=\"font-family: Roboto;\">- </span><span style=\"font-family: Roboto;\">CaSO</span><sub><span style=\"font-family: Roboto;\">4</span></sub><span style=\"font-family: Roboto;\">.2H</span><sub><span style=\"font-family: Roboto;\">2</span></sub><span style=\"font-family: Roboto;\">O</span><span style=\"font-family: Roboto;\">(</span><span style=\"font-family: Roboto;\">chemical formula),</span><span style=\"font-family: Roboto;\"> Calcium Sulphate Dihydrate</span><span style=\"font-family: Roboto;\">(chemical name). </span><span style=\"font-family: Roboto;\">Uses </span><span style=\"font-family: Roboto;\">- making pottery and molds, hardening material in cement, in agriculture as a fertilizer. </span><span style=\"font-family: Roboto;\">Plaster of Paris</span><span style=\"font-family: Roboto;\"> - CaSO</span><sub><span style=\"font-family: Roboto;\">4</span></sub><span style=\"font-family: Roboto;\">.(1/2)H</span><sub><span style=\"font-family: Roboto;\">2</span></sub><span style=\"font-family: Roboto;\">O. Anhydrous Calcium Sulfate or </span><span style=\"font-family: Roboto;\">Dead Burnt Plaster - </span><span style=\"font-family: Roboto;\">CaSO</span><span style=\"font-family: Roboto;\">4</span><span style=\"font-family: Roboto;\">. </span><span style=\"font-family: Roboto;\">Hydrated Calcium Sulphate</span><span style=\"font-family: Roboto;\"> - CaSO</span><sub><span style=\"font-family: Roboto;\">4</span></sub><span style=\"font-family: Roboto;\">.H</span><sub><span style=\"font-family: Roboto;\">2</span></sub><span style=\"font-family: Roboto;\">O. </span><span style=\"font-family: Roboto;\">If CaSO</span><sub><span style=\"font-family: Roboto;\">4</span></sub><span style=\"font-family: Roboto;\">.2H</span><sub><span style=\"font-family: Roboto;\">2</span></sub><span style=\"font-family: Roboto;\">O is heated above 393 K</span><span style=\"font-family: Roboto;\">, it forms anhydrite, also known as ‘dead burnt plaster’, which will again form gypsum on mixing</span><span style=\"font-family: Roboto;\">with water.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">Wangala festival is celebrated by which of the following tribes?</span></p>",
+        "option_1": "<p> Bhil tribe</p>",
+        "option_2": "<p> Garo tribe</p>",
+        "option_3": "<p> Tharu tribe</p>",
+        "option_4": "<p> Bhutia tribe</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<span style=\"font-family:Roboto\">Wangala Festival </span><span style=\"font-family:Roboto\">(100 drums festival)</span><span style=\"font-family:Roboto\">- </span><span style=\"font-family:Roboto\">Garos of Meghalaya</span><span style=\"font-family:Roboto\">. Wangala Festival is a harvest festival held in honor of Saljong, the Sun-god of fertility. It also signifies the onset of winter. </span><span style=\"font-family:Roboto\">Bhil tribe</span><span style=\"font-family:Roboto\"> - Bhagoria Festivals</span><span style=\"font-family:Roboto\">(Madhya Pradesh).</span><span style=\"font-family:Roboto\"> Tharu tribe</span><span style=\"font-family:Roboto\"> (southern Nepal and northern India) </span><span style=\"font-family:Roboto\">- </span><span style=\"font-family:Roboto\">Dashain (Vijayadashami),</span><span style=\"font-family:Roboto\"> Tihar (Deepawali), and Jitiya.</span><span style=\"font-family:Roboto\"> Bhutia tribe</span><span style=\"font-family:Roboto\"> (Sikkim) - Losar festival.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> Which Article deals with the 'Power of Parliament to amend the Constitution and procedure therefor?</span></p>",
+        "option_1": "<p>Article 352</p>",
+        "option_2": "<p>Article 249</p>",
+        "option_3": "<p>Article 368</p>",
+        "option_4": "<p>Article 356</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family: Roboto;\">Article 368</span><span style=\"font-family: Roboto;\"> - Power of Parliament to amend the Constitution and procedure therefor. </span><span style=\"font-family: Roboto;\">Article </span><br/><span style=\"font-family: Roboto;\">356</span><span style=\"font-family: Roboto;\"> - Provisions in case of failure of constitu</span><span style=\"font-family: Roboto;\">tional machinery in States, President’s rule. </span><br/><span style=\"font-family: Roboto;\">Article 352 </span><span style=\"font-family: Roboto;\">- </span><span style=\"font-family: Roboto;\">Proclamation of Emergency (National Emergency).</span><br/><span style=\"font-family: Roboto;\">Article 249</span><span style=\"font-family: Roboto;\"> - Power of Parliament to legislate with respect to a matter in the State List in the national interest.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\"> Name the first Odissi classical dancer from Odisha who was conferred the Padma Vibhushan Award.</span></p>",
+        "option_1": "<p> Kelucharan Mohapatra</p>",
+        "option_2": "<p> Bijayini Satpathy</p>",
+        "option_3": "<p> Sonal Mansingh</p>",
+        "option_4": "<p> Gangadhar Pradhan</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family:Roboto\">K</span><span style=\"font-family:Roboto\">elucharan Mohapatra</span><span style=\"font-family:Roboto\"> was a legendary Indian classical </span><span style=\"font-family:Roboto\">Odissi dancer.</span><span style=\"font-family:Roboto\"> He is the first person to receive the Padma Vibhushan (2000) from Odisha. Other awards - Sangeet Natak Akademi Award (1966), Padma Shri (1974), Padma Bhushan (1988), Sangeet Natak </span><span style=\"font-family:Roboto\">Akademi </span><span style=\"font-family:Roboto\">Fellowship (1991), and Kalidas Samman from Madhya Pradesh government. </span><span style=\"font-family:Roboto\">Bijayini Satpathy</span><span style=\"font-family:Roboto\"> (Odissi).</span><span style=\"font-family:Roboto\"> Sonal Mansingh</span><span style=\"font-family:Roboto\"> (Bharatanatyam and Odissi). She is the youngest recipient of Padma Bhushan in 1992 and Padma Vibhushan in 2003. </span><span style=\"font-family:Roboto\">Gangadhar Pradhan</span><span style=\"font-family:Roboto\"> (Odissi).</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">The official draw for FIFA U-17 Women's World Cup India 2022 will be held in:</span></p>",
+        "option_1": "<p> China PR</p>",
+        "option_2": "<p> Brazil</p>",
+        "option_3": "<p> India</p>",
+        "option_4": "<p> Zurich</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<span style=\"font-family:Roboto\">The official draw for FIFA U-17 Women's World Cup India 2022 was held in Zurich (largest city in Switzerland) on 24 June 2022. Spain won the title by defeating Colombia at DY Patil Sports Stadium in Mumbai. Organized by Fédération Internationale de Footbal</span><span style=\"font-family:Roboto\">l Association (FIFA), the tournament is held in even-numbered years, starting in 2008. Football - 2 teams, each with 11 players (a goalkeeper, defenders, midfielders and forwards).</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">________is a record of assets and liabilities of any firm.</span></p>",
+        "option_1": "<p> Bill file</p>",
+        "option_2": "<p> Balance of payment</p>",
+        "option_3": "<p> B<span style=\"font-family:Roboto\">alance sheet</span></p>",
+        "option_4": "<p> Bank bailout</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family:Roboto\">Balance sheet </span><span style=\"font-family:Roboto\">- a financial statement that reports a company's assets, liabilities, and shareholder equity at a moment in time. A </span><span style=\"font-family:Roboto\">bailout </span><span style=\"font-family:Roboto\">is an injection of money from a business, individual, or government into a failing company to prevent its demise and the ensuing con</span><span style=\"font-family:Roboto\">sequences. </span><span style=\"font-family:Roboto\">Balance of payments (BoP)</span><span style=\"font-family:Roboto\"> records the transactions in goods, services, and assets between residents of a country with the rest of the world for a specified time period. A </span><span style=\"font-family:Roboto\">bill file</span><span style=\"font-family:Roboto\"> is the official collection of documents that are produced during</span><span style=\"font-family:Roboto\"> a bill's journey through the legislative process.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\"> Which of the following statements is correct?</span></p> <p><span style=\"font-family:Roboto\">I. The Family Welfare Program has sought to promote responsible and planned parenthood on a mandatory basis.</span></p> <p><span style=\"font-family:Roboto\">II. Th</span><span style=\"font-family:Roboto\">e National Population Policy 2000 provides a policy framework to provide free and compulsory education up to the age of 14 years.</span></p>",
+        "option_1": "<p> Neither I nor II</p>",
+        "option_2": "<p> I only</p>",
+        "option_3": "<p> II only</p>",
+        "option_4": "<p> Both I and II</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family:Roboto\">The </span><span style=\"font-family:Roboto\">Family Welfare Programme</span><span style=\"font-family:Roboto\"> (launched in 1951) seeks to promote responsible and planned parenthood through voluntary (not on a mandatory basis) and free choice of family planning methods. The </span><span style=\"font-family:Roboto\">National Population Policy 2000</span><span style=\"font-family:Roboto\"> provides a policy framework to provide free and compulsory </span><span style=\"font-family:Roboto\">education up to the age of 14 years. </span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Evangelista Torricelli is famous for what discovery?</span></p>",
+        "option_1": "<p>Invention of spring balance</p>",
+        "option_2": "<p>Invention of piezometer</p>",
+        "option_3": "<p>Invention of merc<span style=\"font-family: Roboto;\">ury barometer</span></p>",
+        "option_4": "<p>Invention of vacuum gauge</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) Mercury Barometer<span style=\"font-family: Roboto;\"> (</span><span style=\"font-family: Roboto;\">an instrument measuring atmospheric pressure</span><span style=\"font-family: Roboto;\">) - Evangelista Torricelli. </span><br/><span style=\"font-family: Roboto;\">Spring Balance</span><span style=\"font-family: Roboto;\"> (</span><span style=\"font-family: Roboto;\">a balance that measures weight by the tension of a spring</span><span style=\"font-family: Roboto;\">) - </span><span style=\"font-family: Roboto;\">Richard Salter. </span><br/><span style=\"font-family: Roboto;\">Piezometer </span><span style=\"font-family: Roboto;\">(an instrument for measuring the pressure of a liquid or gas) - Hans Christian Oersted. </span><br/><span style=\"font-family: Roboto;\">Vacuum Gauge</span><span style=\"font-family: Roboto;\"> (</span><span style=\"font-family: Roboto;\">measures pressure below the atmospheric pressure</span><span style=\"font-family: Roboto;\">) - </span><span style=\"font-family: Roboto;\">Boyle </span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\"> Who was considered as</span><span style=\"font-family:Roboto\"> the last powerful Mughal ruler of India?</span></p>",
+        "option_1": "<p> Akbar</p>",
+        "option_2": "<p> Aurangzeb</p>",
+        "option_3": "<p> Akbar II</p>",
+        "option_4": "<p> Shahjahan</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<span style=\"font-family:Roboto\">Aurangzeb </span><span style=\"font-family:Roboto\">(1658 to 1707) - 6th emperor of the Mughal Empire, considered as the last powerful Mughal ruler of India. </span><span style=\"font-family:Roboto\">Akbar </span><span style=\"font-family:Roboto\">(1556 to 1605) - 3rd emperor and son of Humayun and Hamida Banu Begum. </span><span style=\"font-family:Roboto\">Shahjahan </span><span style=\"font-family:Roboto\">(1628 - 1658) - 5th emperor - built Taj Mahal. </span><span style=\"font-family:Roboto\">Akbar II</span><span style=\"font-family:Roboto\"> (1806-</span><span style=\"font-family:Roboto\">1837) - 19th emperor. </span><span style=\"font-family:Roboto\">Babur </span><span style=\"font-family:Roboto\">(1526 to 1530) was the founder of the Mughal Empire. The </span><span style=\"font-family:Roboto\">first Battle of Panipat </span><span style=\"font-family:Roboto\">(20 April 1526) marked the beginning of the Mughal Empire and the end of the Delhi Sultanate.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">Which state government has launched the CHHATA scheme to improve groundwater table in </span><span style=\"font-family:Roboto\">September 2022?</span></p>",
+        "option_1": "<p> Uttar Pradesh</p>",
+        "option_2": "<p> Madhya Pradesh</p>",
+        "option_3": "<p> Karnataka</p>",
+        "option_4": "<p> Odisha</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>36<span style=\"font-family:Roboto\">.(d) </span><span style=\"font-family:Roboto\">Community Harnessing and Harvesting Rainwater Artificially from Terrace to Aquifer (</span><span style=\"font-family:Roboto\">CHHATA</span><span style=\"font-family:Roboto\">) scheme - by </span><span style=\"font-family:Roboto\">Odisha </span><span style=\"font-family:Roboto\">government from FY-2022-23 to FY-2026-27. For rooftop </span><span style=\"font-family:Roboto\">rain water harvesting</span><span style=\"font-family:Roboto\"> and ground water recharge. About Odisha: Capital - </span><span style=\"font-family:Roboto\">Bhubaneswar</span><span style=\"font-family:Roboto\">. 8th largest state by area, and the 11th largest by population. The ancient kingdom of </span><span style=\"font-family:Roboto\">Kalinga</span><span style=\"font-family:Roboto\">was </span><span style=\"font-family:Roboto\">modern-day Odisha. The region is also known as </span><span style=\"font-family:Roboto\">Utkala </span><span style=\"font-family:Roboto\">which is mentioned in India's national anthem. </span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">The minimum period of time taken up to which the weather variat</span><span style=\"font-family:Roboto\">ions are considered to predict the climate of a place is________years.</span></p>",
+        "option_1": "<p> 20</p>",
+        "option_2": "<p> 25</p>",
+        "option_3": "<p> 10</p>",
+        "option_4": "<p> 30</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<span style=\"font-family:Roboto\">Climate </span><span style=\"font-family:Roboto\">- long-term pattern of weather in a particular area, usually tracked for at least </span><span style=\"font-family:Roboto\">30 years.</span><span style=\"font-family:Roboto\"> A region's climate is generated by the climate system, which has five components: atmosphere, hydrosphere, cryosphere, land surface and biosphere. </span><span style=\"font-family:Roboto\">Weather </span><span style=\"font-family:Roboto\">- short-term changes in the atmosphere, generally day-to-day temperature and precipitation activit</span><span style=\"font-family:Roboto\">y. The most widely used classification of climate was developed by German climatologist and plant geographer V. Koeppen in 1918. </span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">The length of a Beach Volleyball court is:</span></p>",
+        "option_1": "<p> 12 m</p>",
+        "option_2": "<p> 16 m</p>",
+        "option_3": "<p> 20 m</p>",
+        "option_4": "<p> 15 m</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<span style=\"font-family:Roboto\">Beach volleyball - </span><span style=\"font-family:Roboto\">Court is 16 m long &amp; 8 m wide. Two teams of two or more players. An Olympic sport since the 1996 Summer Olympics (Atlanta). </span><span style=\"font-family:Roboto\">Volleyball</span><span style=\"font-family:Roboto\"> - court is 18m long and 9m wide. Two teams of six players. An Olympic sport since the 1964 Summer Olympics (Tokyo). Federation Internationale de Volleyball (FIVB) is the international governing body for both of the games.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">In which of the following sites of Harappan civilization jadeite stone was found?</span></p>",
+        "option_1": "<p> Mahagara</p>",
+        "option_2": "<p> Mehrgarh</p>",
+        "option_3": "<p> Hallur</p>",
+        "option_4": "<p> Daoj<span style=\"font-family:Roboto\">ali Hading</span></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) Daojali Hading<span style=\"font-family:Roboto\"> - A </span><span style=\"font-family:Roboto\">neolithic site in Dima Hasao District of Assam. Situated ne</span><span style=\"font-family:Roboto\">ar Brahmaputra valley close to routes leading into China and Myanmar. Excavated in 1961-63 by a team led by M C Goswami and T C Sharma. </span><span style=\"font-family:Roboto\">Artifacts found</span><span style=\"font-family:Roboto\"> - Jadeite stone (must have been transported from China). 4 types of ceramic - cord-marked, incised, stam</span><span style=\"font-family:Roboto\">ped, and plain fine red ware. </span><span style=\"font-family:Roboto\">Mahagara </span><span style=\"font-family:Roboto\">(Uttar Pradesh). </span><span style=\"font-family:Roboto\">Mehrgarh </span><span style=\"font-family:Roboto\">(Pakistan). </span><span style=\"font-family:Roboto\">Hallur </span><span style=\"font-family:Roboto\">(Karnataka).</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> _______has been elected as the 36th President of the Board of Control for Cricket in India.</span></p>",
+        "option_1": "<p>Ravi Kumar S</p>",
+        "option_2": "<p>Roger Binny</p>",
+        "option_3": "<p>Pradeep Singh Kharola</p>",
+        "option_4": "<p>Bhushan Akshikar</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<span style=\"font-family: Roboto;\">Former cricketer Roger Binny has been elected as the 36th President of the</span><span style=\"font-family: Roboto;\"> Board of Control for Cricket in India (BCCI- Founded in </span><span style=\"font-family: Roboto;\">December 1928</span><span style=\"font-family: Roboto;\">). He replaces Sourav Ganguly (2019-2022). </span><br/><span style=\"font-family: Roboto;\">Ravi Kumar S - Former Co-President/Deputy COO at Infosys Ltd. </span><br/><span style=\"font-family: Roboto;\">Pradeep Singh Kharola - Former Civil Aviation Secretary, current Chairman and Man</span><span style=\"font-family: Roboto;\">aging Director of the India Trade Promotion Organization (ITPO).</span><br/><span style=\"font-family: Roboto;\">Bhushan Akshikar - Managing Director at Glaxosmithkline Pharmaceutical.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">For pregnant women, a Special Health Care Abhiyan 'Anchal' has been launched in</span></p>",
+        "option_1": "<p> Gujarat</p>",
+        "option_2": "<p> Rajasthan</p>",
+        "option_3": "<p> Haryana</p>",
+        "option_4": "<p> Punjab</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<span style=\"font-family:Roboto\">In Rajasthan, a Special Health Care Abhiyan </span><span style=\"font-family:Roboto\">'Anchal' </span><span style=\"font-family:Roboto\">has been launched for pregnant women. </span><span style=\"font-family:Roboto\">Pradhan Mantri Matritva Vandana Yojana</span><span style=\"font-family:Roboto\"> (PMMVY) - launched in 2017 as a flagship maternity benefits programme of the Government of India. About Rajasthan - largest state by area and seventh largest by population. Capital and largest city - Jaipur.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\"> Which of the following are members of 15 naturally occurring metallic chemical elements whose atomic numbers are between 57 and 71?</span></p>",
+        "option_1": "<p> Alkali <span style=\"font-family:Roboto\">Metals</span></p>",
+        "option_2": "<p> Lanthanides</p>",
+        "option_3": "<p> Halogens</p>",
+        "option_4": "<p> Actinides</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<span style=\"font-family:Roboto\">Lanthanides </span><span style=\"font-family:Roboto\">(4f series) - 15 metallic chemical elements with atomic numbers 57–71, from lanthanum through lutetium. Along with scandium and yttrium, these are known as the rare-earth elements since the occurrence of these elements is very small. </span><span style=\"font-family:Roboto\">Actinides </span><span style=\"font-family:Roboto\">(5f series) </span><span style=\"font-family:Roboto\">- 15 metallic chemical elements with atomic numbers from 89 to 103. </span><span style=\"font-family:Roboto\">Alkali Metals</span><span style=\"font-family:Roboto\"> - 6 most electropositive metals in group 1 of the periodic table. </span><span style=\"font-family:Roboto\">Halogens </span><span style=\"font-family:Roboto\">- 6 most electronegative non metals in Group 17.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">In the beginning of the 19th century cotton mills in India were mostly located in which of the fo</span><span style=\"font-family:Roboto\">llowing states?</span></p>",
+        "option_1": "<p> Assam</p>",
+        "option_2": "<p> Punjab</p>",
+        "option_3": "<p> Maharashtra</p>",
+        "option_4": "<p> Haryana</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family:Roboto\">The </span><span style=\"font-family:Roboto\">first cotton mill</span><span style=\"font-family:Roboto\"> in India was set up as a spinning mill in Bombay in 1854. By 1900, over 84 mills (mostly by Parsi and Gujarati businessmen) started operating there. The first mill in Ahmedabad was started in 1861. </span><span style=\"font-family:Roboto\">Cotton textiles</span><span style=\"font-family:Roboto\"> are currently India's la</span><span style=\"font-family:Roboto\">rgest organized modern industry. 80 percent of the industry is located in the country's cotton-growing regions - Maharashtra, Gujarat, Madhya Pradesh, Tamil Nadu, West Bengal, Uttar Pradesh, Punjab.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">Dadabhai Naoroji offered a scathing criticism of the economic impact of British rule through his book entitled '____</span><span style=\"font-family:Roboto\">___.</span></p>",
+        "option_1": "<p> India Today</p>",
+        "option_2": "<p> The Idea of India</p>",
+        "option_3": "<p> Poverty and Un-British Rule in India</p>",
+        "option_4": "<p> The History of British India</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family:Roboto\">Poverty and Un-British Rule in India</span><span style=\"font-family:Roboto\"> (Dadabhai Naoroji) - represents the criticism of the economic impact of British rule and 'Drain of Wealth' theory. </span><span style=\"font-family:Roboto\">Dadabhai Naoroji</span><span style=\"font-family:Roboto\"> - Grand Old Man of India, Unofficial Ambassador of India - Born on 4 September 1825. Other works - Rast Goftar</span><span style=\"font-family:Roboto\"> (Anglo-Gujar</span><span style=\"font-family:Roboto\">ati Newspaper,1854), The wants and means of India, Condition of India, Poverty of India, The manners and customs of the Parsees</span><span style=\"font-family:Roboto\">. </span><span style=\"font-family:Roboto\">The History of British India</span><span style=\"font-family:Roboto\"> (James Mill). </span><span style=\"font-family:Roboto\">The Idea of India</span><span style=\"font-family:Roboto\"> (Sunil Khilnani). </span><span style=\"font-family:Roboto\">India Today </span><span style=\"font-family:Roboto\">(R. Palme Dutt). </span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">In March 2022, Pramod Sawant became the_______Chief Minister of Goa.</span></p>",
+        "option_1": "<p> 10th</p>",
+        "option_2": "<p> 13th</p>",
+        "option_3": "<p> 15th</p>",
+        "option_4": "<p> 11th</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<span style=\"font-family:Roboto\">Pramod Sawant</span><span style=\"font-family:Roboto\"> (Bharatiya Janata Party-Sanquelim constituency) - 13th and current Chief Minister of Goa. He is an ayurveda medical practitioner by profession. </span><span style=\"font-family:Roboto\">About Goa</span><span style=\"font-family:Roboto\"> - Capital : Panji. Loca</span><span style=\"font-family:Roboto\">ted on southwestern coast of India (known as the Konkan). </span><span style=\"font-family:Roboto\">Goa Liberation Day</span><span style=\"font-family:Roboto\"> - 19th December. </span><span style=\"font-family:Roboto\">Operation Vijay</span><span style=\"font-family:Roboto\"> - Indian armed forces freed Goa on 19th December, 1961 from 450 years of Portuguese rule. </span><span style=\"font-family:Roboto\">Statehood Day of Goa</span><span style=\"font-family:Roboto\"> - 30th May (Goa was separated as a</span><span style=\"font-family:Roboto\"> state from the UT of Daman &amp; Diu).</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">Identify an option that does NOT represent prokaryotic cells.</span></p>",
+        "option_1": "<p> Mycoplasma</p>",
+        "option_2": "<p> Blue-green algae</p>",
+        "option_3": "<p> Sperm</p>",
+        "option_4": "<p> Pleuropneumonia-like organism</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family:Roboto\">Prokaryotic cells</span><span style=\"font-family:Roboto\"> - do not have a true nucleus and membrane-bound orga</span><span style=\"font-family:Roboto\">nelles - single-celled microorganisms. Examples - Bacteria and Archaea, </span><span style=\"font-family:Roboto\">Mycoplasma </span><span style=\"font-family:Roboto\">(Pleuropneumonia-like organism, a genus of bacteria), Blue-green algae (cyanobacteria). </span><span style=\"font-family:Roboto\">Eukaryotic cells</span><span style=\"font-family:Roboto\"> - contain membrane-bound organelles. Examples - Human, Plant and Ani</span><span style=\"font-family:Roboto\">mal cells. </span><span style=\"font-family:Roboto\">Robert Hooke </span><span style=\"font-family:Roboto\">discovered cells in 1665.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">Which of the following is NOT an aid or auxiliary to trade?</span></p>",
+        "option_1": "<p> Hoarding </p>",
+        "option_2": "<p> Insurance</p>",
+        "option_3": "<p> War<span style=\"font-family:Roboto\">ehousing</span></p>",
+        "option_4": "<p> Transportation</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family:Roboto\">Hoarding </span><span style=\"font-family:Roboto\"> - Purchasing and storing a large amount of product belonging to a particular market, creating scarcity of that product, and ultimately driving the price of that product up. </span><span style=\"font-family:Roboto\">Aid or auxiliary to trade</span><span style=\"font-family:Roboto\"> - All those involved activities, which directly or indir</span><span style=\"font-family:Roboto\">ectly facilitates smooth exchange of goods and services. </span><span style=\"font-family:Roboto\">Examples </span><span style=\"font-family:Roboto\">- transportation, communication, banking, warehousing, insurance, salesmanship, advertising, mercantile agents and global organizations etc.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> Who is known as the Father of Geology?</span></p>",
+        "option_1": "<p>John Butler</p>",
+        "option_2": "<p>Alfred Wegener</p>",
+        "option_3": "<p>James Hutton</p>",
+        "option_4": "<p>Art Smith</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family: Roboto;\">James Hutton</span><span style=\"font-family: Roboto;\"> - Father of Geology (Study </span><span style=\"font-family: Roboto;\">of the Earth). </span><br/><span style=\"font-family: Roboto;\">John Butler</span><span style=\"font-family: Roboto;\"> - father of Indian plant pathology (study of diseases in plants). </span><br/><span style=\"font-family: Roboto;\">Alfred Wegener</span><span style=\"font-family: Roboto;\"> - father of the continental drift theory (theory of plate tectonics).</span><br/><span style=\"font-family: Roboto;\">Art Smith</span><span style=\"font-family: Roboto;\"> - 1. An American chef. 2. An American actor.</span></p>"
+    },
+    {
+        "question": "<p>49<span style=\"font-family:Roboto\">. Mirza Kamran was the brother of which of the following Mughal emperors?</span></p>",
+        "option_1": "<p> Humayun</p>",
+        "option_2": "<p> Akbar</p>",
+        "option_3": "<p> Jahangir</p>",
+        "option_4": "<p> Shah Jahan</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family:Roboto\">Mirza Kamran</span><span style=\"font-family:Roboto\"> - brother of Humayun and son of Babur and Gulrukh Begum. He came to India in 1538. </span><span style=\"font-family:Roboto\">Humayun </span><span style=\"font-family:Roboto\">(1530–1540 and 1555–1556) - Second Mughal ruler. In 1540, he was defeated by </span><span style=\"font-family:Roboto\">Sher Shah Suri</span><span style=\"font-family:Roboto\"> (established the Suri Dyn</span><span style=\"font-family:Roboto\">asty). </span><span style=\"font-family:Roboto\">Akbar </span><span style=\"font-family:Roboto\">(1556–1605) - He and Bairam Khan defeated Hemu during the </span><span style=\"font-family:Roboto\">Second Battle of Panipat.</span><span style=\"font-family:Roboto\">Jahangir </span><span style=\"font-family:Roboto\">(1605–1627) - fourth Mughal Emperor. </span><span style=\"font-family:Roboto\">Shah Jahan</span><span style=\"font-family:Roboto\"> (1628–1658) - He constructed the Taj Mahal, Jama Masjid, Red Fort, Jahangir mausoleum, and Shalimar Ga</span><span style=\"font-family:Roboto\">rdens in Lahore.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Which of the following folk dances is primarily performed in the Indian state of Bihar?</span></p>",
+        "option_1": "<p>Ghoomar</p>",
+        "option_2": "<p>Kalbeliya</p>",
+        "option_3": "<p>Bidesia</p>",
+        "option_4": "<p>Kummatti</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) Bidesia<span style=\"font-family: Roboto;\">(</span><span style=\"font-family: Roboto;\">Bihar) </span><span style=\"font-family: Roboto;\">- </span><span style=\"font-family: Roboto;\">based on a drama named Bidesiya written by Bhikhari Thakur. Other folk dances of Bihar - </span><span style=\"font-family: Roboto;\">Jata-Jatin, Bakho-Bakhain, Panwariya. </span><span style=\"font-family: Roboto;\">Kalbeliya </span><span style=\"font-family: Roboto;\">(Rajasthan) -</span><span style=\"font-family: Roboto;\">Performed by Kalbelia tribe (snake charming tribe from the Thar Desert). </span><span style=\"font-family: Roboto;\">Ghoomar </span><span style=\"font-family: Roboto;\">(Rajasthan) - Performed by Bhil tribe to worship Goddess Sarasvati. </span><span style=\"font-family: Roboto;\">Kummatti Kali</span><span style=\"font-family: Roboto;\"> (Kerala) - colorful mask-dance performed during Onam festival.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">The radius of a right circular cylinder is thrice its height. If the height of the cylinder is </span><span style=\"font-family: Roboto;\">2.1 cm, then what is the volume of the cylinder ?</span></p>",
+        "option_1": "<p>65 cm³</p>",
+        "option_2": "<p>72 cm³</p>",
+        "option_3": "<p>86 cm³</p>",
+        "option_4": "<p>95 cm³</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><span style=\"font-family: Roboto;\">Height = 2.1 cm </span></p> <p><span style=\"font-family: Roboto;\">According to question, </span></p> <p><span style=\"font-family: Roboto;\"> radius = 6.3 cm</span></p> <p><span style=\"font-family: Roboto;\">Volume of cylinder =<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>πr</mi><mn>2</mn></msup><mi mathvariant=\"normal\">h</mi></math></span></p> <p><span style=\"font-family: Roboto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>22</mn><mn>7</mn></mfrac><mo>×</mo><mn>6</mn><mo>.</mo><mn>3</mn><mo>×</mo><mn>6</mn><mo>.</mo><mn>3</mn><mo>×</mo><mn>2</mn><mo>.</mo><mn>1</mn></math> = 261.95 cm³</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> 5 men and 8 women can complete a work in 12 days working together, while 3 men and 7 women together can complete the same work in 15 days. In how many day</span><span style=\"font-family: Roboto;\">s will 11 women complete the same work?</span></p>",
+        "option_1": "<p>12</p>",
+        "option_2": "<p>8</p>",
+        "option_3": "<p>6</p>",
+        "option_4": "<p>16</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p> <p><span style=\"font-family: Roboto;\">Let the efficiency of man be m and efficiency of woman be w .</span></p> <p><span style=\"font-family: Roboto;\">According to question,</span></p> <p><span style=\"font-weight: 400;\">(5m+8w)</span><span style=\"font-weight: 400;\">×12</span><span style=\"font-weight: 400;\"> = (</span><span style=\"font-weight: 400;\">3m+7w)</span><span style=\"font-weight: 400;\">×15</span></p> <p><span style=\"font-family: Cambria Math;\">60 m - 45 m = 105w - 96w</span></p> <p><span style=\"font-family: Cambria Math;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>m</mi><mi>w</mi></mfrac><mo>=</mo><mfrac><mn>3</mn><mn>5</mn></mfrac></math></span><span style=\"font-family: Cambria Math;\"> ……(ratio of their efficiency)</span></p> <p><span style=\"font-family: Cambria Math;\">Total work =<span style=\"font-weight: 400;\"> (</span><span style=\"font-weight: 400;\">5m+8w)</span><span style=\"font-weight: 400;\">×12</span><span style=\"font-weight: 400;\"> = (</span><span style=\"font-weight: 400;\">5×3 + 8×5)</span><span style=\"font-weight: 400;\">×12</span></span><span style=\"font-family: Cambria Math;\">= 660 units</span></p> <p><span style=\"font-family: Cambria Math;\">Time required by 11 women t</span><span style=\"font-family: Cambria Math;\">o complete the same work =<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>660</mn><mrow><mn>11</mn><mo>×</mo><mn>5</mn></mrow></mfrac></math> </span><span style=\"font-family: Cambria Math;\"> = 12 days</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Study the given table and answer the question that follows.The daily wages of 50 employees of a company is shown in the table.</span></p> <p><span style=\"font-family: Roboto;\">Select the correct statement from the following options.</span></p><br>https://ssccglpinnacle.com/images/mceu_16656765611675251991624.png",
+        "option_1": "<p>The average wage of the employees lies between 80-90.</p>",
+        "option_2": "<p>The average wage of the employees lies between 110-120.</p>",
+        "option_3": "<p>The average wage of the employees lies between 100-110.</p>",
+        "option_4": "<p>The average wage of the employees lies between 90-100.</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p> <p><span style=\"font-family: Roboto;\">wages of employees = average of daily wages interval × frequency (no. of employees)</span></p> <p><span style=\"font-family: Roboto;\">Average wages of employees =<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>(</mo><mn>85</mn><mo>×</mo><mn>9</mn><mo>)</mo><mo>+</mo><mo>(</mo><mn>95</mn><mo>×</mo><mn>3</mn><mo>)</mo><mo>+</mo><mo>(</mo><mn>105</mn><mo>×</mo><mn>31</mn><mo>)</mo><mo>+</mo><mo>(</mo><mn>115</mn><mo>×</mo><mn>5</mn><mo>)</mo><mo>+</mo><mo>(</mo><mn>125</mn><mo>×</mo><mn>2</mn><mo>)</mo></mrow><mrow><mo>(</mo><mn>9</mn><mo>+</mo><mn>3</mn><mo>+</mo><mn>31</mn><mo>+</mo><mn>5</mn><mo>+</mo><mn>2</mn><mo>)</mo></mrow></mfrac><mo>=</mo><mfrac><mn>5130</mn><mn>50</mn></mfrac></math>=</span><span style=\"font-family: Cambria Math;\"> 102.6</span></p> <p><span style=\"font-family: Cambria Math;\">Clearly , average wages of the employees lie between 100-110.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> If <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>k</mi><mo>-</mo><mi>k</mi><mi>c</mi><mi>o</mi><msup><mi>t</mi><mn>2</mn></msup><msup><mn>30</mn><mn>0</mn></msup></mrow><mrow><mn>1</mn><mo>+</mo><mi>c</mi><mi>o</mi><msup><mi>t</mi><mn>2</mn></msup><msup><mn>30</mn><mn>0</mn></msup></mrow></mfrac><mo>=</mo><msup><mi>sin</mi><mn>2</mn></msup><msup><mn>60</mn><mn>0</mn></msup><mo>+</mo><mn>4</mn><msup><mi>tan</mi><mn>2</mn></msup><msup><mn>45</mn><mn>0</mn></msup><mo>-</mo><mi>cos</mi><mi>e</mi><msup><mi>c</mi><mn>2</mn></msup><msup><mn>60</mn><mn>0</mn></msup></math></span><span style=\"font-family: Roboto;\">= </span><span style=\"font-family: Roboto;\">, then the value of k (correct to two decimal places) is:</span></p>",
+        "option_1": "<p>55</p>",
+        "option_2": "<p>-6.83</p>",
+        "option_3": "<p>-5.58</p>",
+        "option_4": "<p>83</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>k</mi><mo>-</mo><mi>k</mi><mi>c</mi><mi>o</mi><msup><mi>t</mi><mn>2</mn></msup><msup><mn>30</mn><mn>0</mn></msup></mrow><mrow><mn>1</mn><mo>+</mo><mi>c</mi><mi>o</mi><msup><mi>t</mi><mn>2</mn></msup><msup><mn>30</mn><mn>0</mn></msup></mrow></mfrac><mo>=</mo><msup><mi>sin</mi><mn>2</mn></msup><msup><mn>60</mn><mn>0</mn></msup><mo>+</mo><mn>4</mn><msup><mi>tan</mi><mn>2</mn></msup><msup><mn>45</mn><mn>0</mn></msup><mo>-</mo><mi>cos</mi><mi>e</mi><msup><mi>c</mi><mn>2</mn></msup><msup><mn>60</mn><mn>0</mn></msup><mspace linebreak=\"newline\"></mspace><mfrac><mrow><mi>k</mi><mo>(</mo><mn>1</mn><mo>-</mo><mn>3</mn><mo>)</mo></mrow><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mn>3</mn><mo>)</mo></mrow></mfrac><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>+</mo><mn>4</mn><mo>×</mo><mn>1</mn><mo>-</mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mspace linebreak=\"newline\"></mspace><mi>k</mi><mo>=</mo><mo>-</mo><mn>2</mn><mfenced close=\"}\" open=\"{\"><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>+</mo><mn>4</mn><mo>-</mo><mfrac><mn>4</mn><mn>3</mn></mfrac></mrow></mfenced><mo>=</mo><mo>-</mo><mn>2</mn><mo>×</mo><mfenced><mfrac><mn>41</mn><mn>12</mn></mfrac></mfenced><mo>=</mo><mo>-</mo><mn>6</mn><mo>.</mo><mn>83</mn></math></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">A man bought a watch for 12% discount. If he had bought it for 24% discount, he would have got the watch for <span style=\"font-weight: 400;\">₹</span></span><span style=\"font-family: Roboto;\">2400 less. The marked price of the watch is:</span></p>",
+        "option_1": "<p><span style=\"font-family: Roboto;\">30,000</span></p>",
+        "option_2": "<p><span style=\"font-family: Roboto;\">22,500</span></p>",
+        "option_3": "<p><span style=\"font-family: Roboto;\">20,000</span></p>",
+        "option_4": "<p><span style=\"font-family: Roboto;\">25,000</span></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p> <p><span style=\"font-family: Roboto;\">Let the the marked price of a watch is 1</span><span style=\"font-family: Roboto;\">00 units</span></p> <p><span style=\"font-family: Roboto;\">The selling price of watch at 12% discount = </span><span style=\"font-family: Cambria Math;\"> = 88 units</span></p> <p><span style=\"font-family: Cambria Math;\">If the discount on the watch is 24 % , then S.P. will be = </span><span style=\"font-family: Cambria Math;\"> = 76 units</span></p> <p><span style=\"font-family: Cambria Math;\">According to the question,</span></p> <p><span style=\"font-family: Cambria Math;\">Difference in price arises due to difference in discount percentage .</span></p> <p><span style=\"font-family: Cambria Math;\">88 u</span><span style=\"font-family: Cambria Math;\">nits - 76 units = 12 units which is equal to Rs 2400 </span></p> <p><span style=\"font-family: Cambria Math;\">Now, Marked price (100 units ) = </span><span style=\"font-family: Roboto;\">20,000 </span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> If the price of salt decreases by 20%, then by what percentage s</span><span style=\"font-family: Roboto;\">hould consumption be increased to keep the expenditure the same?</span></p>",
+        "option_1": "<p>26%</p>",
+        "option_2": "<p>27%</p>",
+        "option_3": "<p>25%</p>",
+        "option_4": "<p>24%</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p> <p><span style=\"font-family: Roboto;\">Expenditure = Price × Consumption</span></p> <p><span style=\"font-family: Roboto;\">When expenditure is constant then the ratio of price is inversely proportional to the ratio of consumption.</span></p> <p><strong><span style=\"font-family: Roboto;\"> Price ⇒ </span><span style=\"font-family: Cambria Math;\">5 : 4</span></strong></p> <p><strong><span style=\"font-family: Cambria Math;\">Consumption <span style=\"font-family: Roboto;\">⇒ </span> </span><span style=\"font-family: Cambria Math;\">4 : 5</span></strong></p> <p><span style=\"font-family: Cambria Math;\"> __________________________________________</span></p> <p><span style=\"font-family: Cambria Math;\"> Required % = </span><span style=\"font-family: Cambria Math;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>i</mi><mi>n</mi><mi>c</mi><mi>r</mi><mi>e</mi><mi>a</mi><mi>s</mi><mi>e</mi><mi>d</mi><mo> </mo><mi>c</mi><mi>o</mi><mi>n</mi><mi>s</mi><mi>u</mi><mi>m</mi><mi>p</mi><mi>t</mi><mi>i</mi><mi>o</mi><mi>n</mi><mo> </mo><mo>-</mo><mo> </mo><mi>i</mi><mi>n</mi><mi>i</mi><mi>t</mi><mi>i</mi><mi>a</mi><mi>l</mi><mo> </mo><mi>c</mi><mi>o</mi><mi>n</mi><mi>s</mi><mi>u</mi><mi>m</mi><mi>p</mi><mi>t</mi><mi>i</mi><mi>o</mi><mi>n</mi><mo> </mo></mrow><mrow><mi>i</mi><mi>n</mi><mi>i</mi><mi>t</mi><mi>i</mi><mi>a</mi><mi>l</mi><mo> </mo><mi>c</mi><mi>o</mi><mi>n</mi><mi>s</mi><mi>u</mi><mi>m</mi><mi>p</mi><mi>t</mi><mi>i</mi><mi>o</mi><mi>n</mi></mrow></mfrac><mo>×</mo><mn>100</mn><mo> </mo><mspace linebreak=\"newline\"></mspace><mo>=</mo><mo> </mo><mfrac><mrow><mn>5</mn><mo>-</mo><mn>4</mn></mrow><mn>4</mn></mfrac><mo>×</mo><mn>100</mn><mo> </mo><mspace linebreak=\"newline\"></mspace><mo>=</mo><mo> </mo><mn>25</mn><mo>%</mo></math></span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">A solid copper sphere of radius 9 cm is hammered and moulded into a wire of radius 2 cm. What is the length of this wire?</span></p>",
+        "option_1": "<p>224 cm</p>",
+        "option_2": "<p>183 cm</p>",
+        "option_3": "<p>198 cm</p>",
+        "option_4": "<p>243 cm</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><span style=\"font-family: Roboto;\">If any solid object cast into another solid object always equates their Volume .</span></p> <p><span style=\"font-family: Roboto;\">Volume of sphere = Volume of cylinder</span></p> <p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo> </mo><mo> </mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mi mathvariant=\"normal\">π</mi><msubsup><mi>r</mi><mn>1</mn><mn>3</mn></msubsup><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo>=</mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mi mathvariant=\"normal\">π</mi><msubsup><mi>r</mi><mn>2</mn><mn>2</mn></msubsup><mi>h</mi><mo> </mo><mo> </mo><mo> </mo><mspace linebreak=\"newline\"></mspace><mo> </mo><mo> </mo><mfrac><mn>4</mn><mn>3</mn></mfrac><mo>×</mo><mfrac><mn>22</mn><mn>7</mn></mfrac><mo>×</mo><msup><mn>9</mn><mn>3</mn></msup><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo>=</mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mfrac><mn>22</mn><mn>7</mn></mfrac><mo>×</mo><msup><mn>2</mn><mn>2</mn></msup><mo>×</mo><mi>h</mi><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mspace linebreak=\"newline\"></mspace><mo> </mo><mo> </mo><mo> </mo><mi>h</mi><mo> </mo><mo> </mo><mo>=</mo><mo> </mo><mo> </mo><mfrac><mrow><mn>4</mn><mo>×</mo><mn>22</mn><mo>×</mo><mn>729</mn><mo>×</mo><mn>7</mn></mrow><mrow><mn>3</mn><mo>×</mo><mn>7</mn><mo>×</mo><mn>22</mn><mo>×</mo><mn>4</mn></mrow></mfrac><mo> </mo><mo> </mo><mo>=</mo><mo> </mo><mfrac><mn>729</mn><mn>3</mn></mfrac><mo> </mo><mo>=</mo><mo> </mo><mn>243</mn><mo> </mo><mi>c</mi><mi>m</mi></math></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> Which smallest positive number should be subtracted from each of 9 and 13 so that 18 is the third proportion to them?</span></p>",
+        "option_1": "<p>2</p>",
+        "option_2": "<p>4</p>",
+        "option_3": "<p>3</p>",
+        "option_4": "<p>1</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><span style=\"font-family: Roboto;\">If c is the third proportion of the number a and b , then <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi><mo>=</mo><mfrac><msup><mi>b</mi><mn>2</mn></msup><mi>a</mi></mfrac></math></span></p> <p><span style=\"font-family: Cambria Math;\">Let , x be the no. which is subtracted from 9 and 13 so that 18 is the third proportional to them.</span></p> <p><span style=\"font-family: Cambria Math;\">According to question ,</span></p> <p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mfenced><mrow><mn>13</mn><mo>-</mo><mi>x</mi></mrow></mfenced><mfenced><mrow><mn>13</mn><mo>-</mo><mi>x</mi></mrow></mfenced></mrow><mfenced><mrow><mn>9</mn><mo>-</mo><mi>x</mi></mrow></mfenced></mfrac><mo> </mo><mo> </mo><mo>=</mo><mo> </mo><mn>18</mn><mo> </mo><mo> </mo><mspace linebreak=\"newline\"></mspace><mn>169</mn><mo>-</mo><mn>26</mn><mi>x</mi><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mo> </mo><mn>162</mn><mo> </mo><mo>-</mo><mo> </mo><mn>18</mn><mi>x</mi><mo> </mo><mspace linebreak=\"newline\"></mspace><mn>7</mn><mo>-</mo><mo> </mo><mn>8</mn><mi>x</mi><mo> </mo><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup><mo> </mo><mo>=</mo><mo> </mo><mn>0</mn><mo> </mo><mspace linebreak=\"newline\"></mspace><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>7</mn><mi>x</mi><mo>-</mo><mi>x</mi><mo>+</mo><mn>7</mn><mo> </mo><mo>=</mo><mo> </mo><mn>0</mn><mo> </mo><mspace linebreak=\"newline\"></mspace><mfenced><mrow><mi>x</mi><mo>-</mo><mn>7</mn></mrow></mfenced><mfenced><mrow><mi>x</mi><mo>-</mo><mn>1</mn><mo> </mo></mrow></mfenced><mo>=</mo><mo> </mo><mn>0</mn></math></p> <p><span style=\"font-family: Cambria Math;\">x = 7 and x = 1</span></p> <p><span style=\"font-family: Cambria Math;\">Since, smallest positive number to be subtracted.</span></p> <p><span style=\"font-family: Cambria Math;\"><b>Hence,</b> x = 1</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> A company employed 700 men and 300 women and the average wage was Rs.450 per day. If a man go</span><span style=\"font-family: Roboto;\">t Rs.50 more than a woman, then the daily wage of the woman is:</span></p>",
+        "option_1": "<p>Rs.350</p>",
+        "option_2": "<p>Rs.375</p>",
+        "option_3": "<p>Rs.415</p>",
+        "option_4": "<p>Rs.435</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p> <p><span style=\"font-family: Roboto;\">Let the daily wages of women be Rs x Then the daily wages of men is Rs (x+50) </span></p> <p><span style=\"font-family: Roboto;\">Total daily wages of man and woman = 450 × </span><span style=\"font-family: Roboto;\">(700+300) = Rs. 450000</span></p> <p><span style=\"font-family: Roboto;\">According to the question, </span></p> <p><span style=\"font-family: Roboto;\">700×(x+50) +300×(x) = 450000</span></p> <p><span style=\"font-family: Roboto;\">35000+700 x+300 x = 450000</span></p> <p><span style=\"font-family: Roboto;\">1000x = 450000-35000 = 415000</span></p> <p><span style=\"font-family: Roboto;\">x = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>415000</mn><mn>1000</mn></mfrac></math></span><span style=\"font-family: Cambria Math;\"> = Rs 415 </span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> A,B,C are three angles of a triangle. If A - B = 45° and B - C = 15° then<span style=\"font-family: Palanquin;\">∠A</span></span><span style=\"font-family: Roboto;\">=?</span></p>",
+        "option_1": "<p>83°</p>",
+        "option_2": "<p>85°</p>",
+        "option_3": "<p>95°</p>",
+        "option_4": "<p>75°</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p> <p><span style=\"font-family: Cambria Math;\"> <span style=\"font-weight: 400;\">∠A-∠B=45°</span>....(given)</span></p> <p><span style=\"font-family: Cambria Math;\"> <span style=\"font-weight: 400;\">∠B=∠A-45°</span>….eq.(1) </span></p> <p><span style=\"font-family: Cambria Math;\"> <span style=\"font-weight: 400;\">∠B-∠C=15°</span>…..(given)</span></p> <p><span style=\"font-family: Cambria Math;\"> <span style=\"font-weight: 400;\">∠C=∠B-15</span>….eq.(2)</span></p> <p><span style=\"font-family: Cambria Math;\">Putting the value of </span><span style=\"font-family: Cambria Math;\"> in eq.(2)</span></p> <p><span style=\"font-family: Cambria Math;\"><span style=\"font-weight: 400;\">∠C=(</span><span style=\"font-weight: 400;\">∠A-45°)</span><span style=\"font-weight: 400;\">-15</span><span style=\"font-weight: 400;\"> = </span><span style=\"font-weight: 400;\">∠A-60°</span> </span><span style=\"font-family: Cambria Math;\">….eq.(3)</span></p> <p><span style=\"font-family: Cambria Math;\"><span style=\"font-weight: 400;\">∠A+∠B+∠C</span><span style=\"font-weight: 400;\"> = 180°</span> (sum of all angle of triangle )</span></p> <p><span style=\"font-weight: 400;\">∠A+(</span><span style=\"font-weight: 400;\">∠A-45°)</span><span style=\"font-weight: 400;\">+(</span><span style=\"font-weight: 400;\">∠A-60°)</span><span style=\"font-weight: 400;\"> = 180°</span></p> <p><span style=\"font-weight: 400;\">∠A=95°</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">If </span><span style=\"font-family: Roboto;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><msup><mi>a</mi><mn>3</mn></msup><mo>+</mo><mn>27</mn><msup><mi>b</mi><mn>3</mn></msup><mo>=</mo><mn>16</mn></math> and 2a + 3b= 4,then find the value of </span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>16</mn><msup><mi>a</mi><mn>4</mn></msup><mo>+</mo><mn>81</mn><msup><mi>b</mi><mn>4</mn></msup></math>.</p>",
+        "option_1": "<p>26</p>",
+        "option_2": "<p>30</p>",
+        "option_3": "<p>28</p>",
+        "option_4": "<p>32</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><msup><mi>a</mi><mn>3</mn></msup><mo>+</mo><mn>27</mn><msup><mi>b</mi><mrow><mn>3</mn><mo> </mo></mrow></msup><mo>=</mo><mo> </mo><mn>16</mn><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo>…</mo><mo>…</mo><mi>e</mi><mi>q</mi><mo>.</mo><mo>(</mo><mn>1</mn><mo>)</mo><mo> </mo><mo> </mo><mi>a</mi><mi>n</mi><mi>d</mi><mo> </mo><mspace linebreak=\"newline\"></mspace><mo> </mo><mn>2</mn><mi>a</mi><mo> </mo><mo>+</mo><mn>3</mn><mi>b</mi><mo> </mo><mo>=</mo><mo> </mo><mn>4</mn><mo> </mo><mo> </mo><mo> </mo><mo>…</mo><mo>…</mo><mi>e</mi><mi>q</mi><mo>.</mo><mo>(</mo><mn>2</mn><mo>)</mo><mo> </mo><mspace linebreak=\"newline\"></mspace><mi>T</mi><mi>a</mi><mi>k</mi><mi>i</mi><mi>n</mi><mi>g</mi><mo> </mo><mi>c</mi><mi>u</mi><mi>b</mi><mi>e</mi><mo> </mo><mi>o</mi><mi>f</mi><mo> </mo><mi>e</mi><mi>q</mi><mo>.</mo><mo>(</mo><mn>2</mn><mo>)</mo><mo>,</mo><mo> </mo><mi>w</mi><mi>e</mi><mo> </mo><mi>g</mi><mi>e</mi><mi>t</mi><mo> </mo><mspace linebreak=\"newline\"></mspace><msup><mrow><mo>(</mo><mo> </mo><mn>2</mn><mi>a</mi><mo> </mo><mo>+</mo><mn>3</mn><mi>b</mi><mo>)</mo></mrow><mn>3</mn></msup><mo> </mo><mo>=</mo><mo> </mo><mo>(</mo><mn>4</mn><msup><mo>)</mo><mrow><mn>3</mn><mo> </mo></mrow></msup><mspace linebreak=\"newline\"></mspace><mfenced><mrow><mn>8</mn><msup><mi>a</mi><mn>3</mn></msup><mo>+</mo><mn>27</mn><msup><mi>b</mi><mn>3</mn></msup><mo>+</mo><mn>18</mn><mi>a</mi><mi>b</mi><mo>(</mo><mn>2</mn><mi>a</mi><mo>+</mo><mn>3</mn><mi>b</mi><mo>)</mo></mrow></mfenced><mo> </mo><mo>=</mo><mo> </mo><mn>64</mn><mo> </mo><mspace linebreak=\"newline\"></mspace><mo>(</mo><mn>8</mn><msup><mi>a</mi><mn>3</mn></msup><mo>+</mo><mn>27</mn><msup><mi>b</mi><mn>3</mn></msup><mo>+</mo><mn>72</mn><mi>a</mi><mi>b</mi><mo>)</mo><mo> </mo><mo>=</mo><mo> </mo><mn>64</mn><mo> </mo><mspace linebreak=\"newline\"></mspace><mo>(</mo><mn>16</mn><mo>+</mo><mn>72</mn><mi>a</mi><mi>b</mi><mo> </mo><mo>)</mo><mo>=</mo><mo> </mo><mn>64</mn><mo> </mo><mspace linebreak=\"newline\"></mspace><mo> </mo><mi>a</mi><mi>b</mi><mo>=</mo><mo> </mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo> </mo><mspace linebreak=\"newline\"></mspace><mi>S</mi><mi>q</mi><mi>u</mi><mi>a</mi><mi>r</mi><mi>i</mi><mi>n</mi><mi>g</mi><mo> </mo><mo> </mo><mi>e</mi><mi>q</mi><mo>.</mo><mo>(</mo><mn>2</mn><mo>)</mo><mo>,</mo><mo> </mo><mi>w</mi><mi>e</mi><mo> </mo><mi>g</mi><mi>e</mi><mi>t</mi><mspace linebreak=\"newline\"></mspace><msup><mrow><mo>(</mo><mo> </mo><mn>2</mn><mi>a</mi><mo> </mo><mo>+</mo><mn>3</mn><mi>b</mi><mo>)</mo></mrow><mn>2</mn></msup><mo> </mo><mo>=</mo><mo> </mo><mo>(</mo><mn>4</mn><msup><mo>)</mo><mn>2</mn></msup><mo>(</mo><mo> </mo><mn>4</mn><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn><msup><mi>b</mi><mn>2</mn></msup><mo>+</mo><mn>12</mn><mi>a</mi><mi>b</mi><mo>)</mo><mo> </mo><mo>=</mo><mo> </mo><mn>16</mn><mo> </mo><mspace linebreak=\"newline\"></mspace><mo> </mo><mn>4</mn><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn><msup><mi>b</mi><mn>2</mn></msup><mo> </mo><mo>=</mo><mo> </mo><mn>16</mn><mo>-</mo><mn>12</mn><mo>×</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo> </mo><mo>=</mo><mo> </mo><mn>8</mn><mspace linebreak=\"newline\"></mspace><mo> </mo><mo> </mo><mn>4</mn><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn><msup><mi>b</mi><mrow><mn>2</mn><mo> </mo></mrow></msup><mo> </mo><mo>=</mo><mo> </mo><mn>8</mn><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo>…</mo><mo>…</mo><mo>.</mo><mi>e</mi><mi>q</mi><mo>.</mo><mo>(</mo><mn>3</mn><mo>)</mo><mo> </mo><mspace linebreak=\"newline\"></mspace><mi>S</mi><mi>q</mi><mi>u</mi><mi>a</mi><mi>r</mi><mi>i</mi><mi>n</mi><mi>g</mi><mo> </mo><mo> </mo><mi>e</mi><mi>q</mi><mo>.</mo><mo>(</mo><mn>3</mn><mo>)</mo><mo> </mo><mo>,</mo><mo> </mo><mi>w</mi><mi>e</mi><mo> </mo><mi>g</mi><mi>e</mi><mi>t</mi><mo> </mo><mo> </mo><mspace linebreak=\"newline\"></mspace><mn>16</mn><msup><mi>a</mi><mn>4</mn></msup><mo>+</mo><mn>81</mn><msup><mi>b</mi><mn>4</mn></msup><mo>+</mo><mn>72</mn><msup><mi>a</mi><mn>2</mn></msup><msup><mi>b</mi><mrow><mn>2</mn><mo> </mo></mrow></msup><mo>=</mo><mo> </mo><mn>64</mn><mo> </mo><mspace linebreak=\"newline\"></mspace><mn>16</mn><msup><mi>a</mi><mn>4</mn></msup><mo>+</mo><mn>81</mn><msup><mi>b</mi><mn>4</mn></msup><mo> </mo><mo>=</mo><mo> </mo><mn>64</mn><mo> </mo><mo>-</mo><mo> </mo><mn>72</mn><mo>×</mo><mfrac><mn>4</mn><mn>9</mn></mfrac><mo>=</mo><mo> </mo><mn>64</mn><mo> </mo><mo>-</mo><mo> </mo><mn>32</mn><mo> </mo><mo>=</mo><mo> </mo><mn>32</mn><mo> </mo></math></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">The import and export of a country (in lakhs rupees) during a certain period of time is given in the following bar-graph. Read the bar-graph carefully and answer the following question.</span></p> <p><span style=\"font-family: Roboto;\">What is the average of exports during the given period of time?</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image45.png",
+        "option_1": "<p>Rs.1,250.2 lakhs</p>",
+        "option_2": "<p>Rs.1,240.0 lakhs</p>",
+        "option_3": "<p>Rs.1,248.2 lakhs</p>",
+        "option_4": "<p>Rs.1,115.4 lakhs</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p> <p><span style=\"font-family: Roboto;\">Average of export = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo> </mo><mfrac><mrow><mn>825</mn><mo>+</mo><mn>1014</mn><mo>+</mo><mn>1240</mn><mo>+</mo><mn>1522</mn><mo>+</mo><mn>1650</mn></mrow><mn>5</mn></mfrac></math></span><span style=\"font-family: Cambria Math;\"> =1250.2 Lakhs</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">If the cost price is 72% of the selling price, then what is the percentage of profit? (Correct to 2 decimal places)</span></p>",
+        "option_1": "<p>89%</p>",
+        "option_2": "<p>75%</p>",
+        "option_3": "<p>25%</p>",
+        "option_4": "<p>75%</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p> <p><span style=\"font-family: Roboto;\">Let the Selling price be 100 units , then the Cost price will be 72 units.</span></p> <p><span style=\"font-family: Roboto;\">Profit % = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo> </mo><mfrac><mrow><mn>100</mn><mo>-</mo><mn>72</mn></mrow><mn>72</mn></mfrac><mo>×</mo><mn>100</mn><mo>=</mo><mo> </mo><mn>38</mn><mo>.</mo><mn>89</mn><mo>%</mo></math></span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">What would be the compound interest on Rs.15,750 at 20% per annum, in two years, if the interest is compounded half yearly</span><span style=\"font-family: Roboto;\">?</span></p>",
+        "option_1": "<p>Rs.5,213.25</p>",
+        "option_2": "<p>Rs.3,307.5</p>",
+        "option_3": "<p>Rs.7,305.975</p>",
+        "option_4": "<p>Rs.7,309.575</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><span style=\"font-family: Roboto;\">Here interest is compounded half yearly , </span></p> <p><span style=\"font-family: Roboto;\">Principal = Rs 15750 , Rate = 10% and R = 4 compounding cycle ,Compound interest =</span></p> <p><span style=\"font-family: Roboto;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo> </mo><mi>P</mi><mfenced close=\"}\" open=\"{\"><mrow><msup><mfenced><mrow><mn>1</mn><mo>+</mo><mfrac><mi>R</mi><mn>100</mn></mfrac></mrow></mfenced><mi>t</mi></msup><mo>-</mo><mn>1</mn><mo> </mo></mrow></mfenced><mo> </mo><mspace linebreak=\"newline\"></mspace><mo>=</mo><mo> </mo><mo> </mo><mn>15750</mn><mfenced close=\"}\" open=\"{\"><mrow><msup><mfenced><mrow><mn>1</mn><mo>+</mo><mfrac><mn>10</mn><mn>100</mn></mfrac></mrow></mfenced><mn>4</mn></msup><mo>-</mo><mn>1</mn></mrow></mfenced><mo> </mo><mspace linebreak=\"newline\"></mspace><mo> </mo><mo>=</mo><mo> </mo><mn>15750</mn><mfenced><mrow><mfrac><mn>14641</mn><mn>10000</mn></mfrac><mo>-</mo><mn>1</mn></mrow></mfenced><mo> </mo><mo> </mo><mspace linebreak=\"newline\"></mspace><mo>=</mo><mo> </mo><mn>15750</mn><mfenced><mfrac><mn>4641</mn><mn>10000</mn></mfrac></mfenced><mo> </mo><mo>=</mo><mo> </mo><mo>₹</mo><mn>7309</mn><mo>.</mo><mn>575</mn><mo> </mo></math> </span></p> <p><span style=\"font-family: Cambria Math;\">S</span><span style=\"font-family: Cambria Math;\">hort Tricks:-</span></p> <p><span style=\"font-family: Cambria Math;\">Here interest is compounded half yearly , </span></p> <p><span style=\"font-family: Cambria Math;\">Here ,</span></p> <p><span style=\"font-family: Cambria Math;\">100 units = Rs 15750 </span></p> <p><span style=\"font-family: Cambria Math;\">Then , 46.41 units = Rs 7309.575</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image47.png"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">A policeman sees a chain snatcher at a distance of 500m. He starts chasing a chain snatcher running with a speed of 5 m/s, while the policeman is chasing him with a speed of 15 m/s. What is the distance covered by the chain snatcher when he is caught by th</span><span style=\"font-family: Roboto;\">e policeman?</span></p>",
+        "option_1": "<p>200m</p>",
+        "option_2": "<p>180m</p>",
+        "option_3": "<p>150 m</p>",
+        "option_4": "<p>250m</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><span style=\"font-family: Roboto;\">Pol</span><span style=\"font-family: Roboto;\">iceman is chasing chain snatcher so, </span></p> <p><span style=\"font-family: Roboto;\">relative speed of policeman and chain snatcher = 15-5</span><span style=\"font-family: Cambria Math;\">= 10 m/s </span></p> <p><span style=\"font-family: Cambria Math;\">Chain snatcher visible to policemen at a distance of 500 m.</span></p> <p><span style=\"font-family: Cambria Math;\">Time require by policeman to catch chain snatcher = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo> </mo><mn>500</mn></mrow><mn>10</mn></mfrac></math></span><span style=\"font-family: Cambria Math;\"> = 50 sec</span></p> <p><span style=\"font-family: Cambria Math;\">Distance travelled by chai</span><span style=\"font-family: Cambria Math;\">n snatcher in 50 sec = 5 m/s ×50 sec = 250 m</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> A number when divided by 7 leaves the remainder of 4. If the square of the same number is divided by 7, </span><span style=\"font-family: Roboto;\">then what is the remainder?</span></p>",
+        "option_1": "<p>3</p>",
+        "option_2": "<p>1</p>",
+        "option_3": "<p>4</p>",
+        "option_4": "<p>2</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><span style=\"font-family: Roboto;\">A number when divided by 7 leaves remainder of 4 , then number be (7x+4 )</span></p> <p><span style=\"font-family: Roboto;\">Squaring the number = </span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mfenced><mrow><mn>7</mn><mi>x</mi><mo>+</mo><mn>4</mn></mrow></mfenced><mn>2</mn></msup><mo> </mo><mo>=</mo><mo> </mo><mn>49</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>16</mn><mo>+</mo><mn>56</mn><mi>x</mi><mo> </mo><mo> </mo><mo>=</mo><mo> </mo><mn>7</mn><mo>×</mo><mn>7</mn><mo>×</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mo>(</mo><mn>7</mn><mo>×</mo><mn>2</mn><mo>+</mo><mn>2</mn><mo>)</mo><mo>+</mo><mn>7</mn><mo>×</mo><mn>8</mn><mo>×</mo><mi>x</mi><mo> </mo></math></p> <p><span style=\"font-family: Cambria Math;\">As , the multiple of 7 is also divisible by 7 So, When we divide ,<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>49</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>16</mn><mo>+</mo><mn>56</mn><mi>x</mi></math> </span></p> <p><span style=\"font-family: Cambria Math;\"> by 7 , we get reminder 2. </span></p> <p><span style=\"font-family: Cambria Math;\">Short Tricks :-</span></p> <p><span style=\"font-family: Cambria Math;\">Assume a number which when divisible by 7 leaves remainder 4 i.e. 11</span></p> <p><span style=\"font-family: Cambria Math;\">Now square the number i.e. 121 leaves rem. 2 when divided by 7.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">The given table shows the number of new employees joined in different categories </span><span style=\"font-family: Roboto;\">of employees in an organisation and also the number of employees from these categories who left the organisation every year since the foundation of the organisation in 2015. Study the table and answer the question that follows.</span></p> <p><span style=\"font-weight: 400;\">During the years given, what is the difference between the total number of Business Analysts who joined the organisation and the total number of Sales Representatives who joined the organisation?</span></p><br>https://ssccglpinnacle.com/images/mceu_9151797221675319065701.png",
+        "option_1": "<p>141</p>",
+        "option_2": "<p>140</p>",
+        "option_3": "<p>142</p>",
+        "option_4": "<p>143</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Roboto;\">Total no. of business analysts who join = 80+63+78+42+67 =330 </span></p> <p><span style=\"font-family: Roboto;\">Total no. of sales representatives who join = 50+46+38+34+22 = 190</span></p> <p><span style=\"font-family: Roboto;\">Required difference = 330 -190 = 140 </span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> If cot B = 9, then what will be the value of sec² B?</span></p>",
+        "option_1": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>98</mn><mn>81</mn></mfrac></math></p>",
+        "option_2": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>92</mn><mn>81</mn></mfrac></math></p>",
+        "option_3": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>42</mn><mn>81</mn></mfrac></math></p>",
+        "option_4": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>82</mn><mn>81</mn></mfrac></math></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><span style=\"font-family: Cambria Math;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi><mi>o</mi><mi>t</mi><mi>B</mi><mo> </mo><mo>=</mo><mo> </mo><mfrac><mrow><mi>B</mi><mi>a</mi><mi>s</mi><mi>e</mi></mrow><mrow><mi>P</mi><mi>e</mi><mi>r</mi><mi>p</mi><mi>e</mi><mi>n</mi><mi>d</mi><mi>i</mi><mi>c</mi><mi>u</mi><mi>l</mi><mi>a</mi><mi>r</mi></mrow></mfrac><mo>=</mo><mfrac><mn>9</mn><mrow><mn>1</mn><mo> </mo><mo> </mo></mrow></mfrac></math></span></p> <p><span style=\"font-family: Cambria Math;\">Using pythagoras , we get hypotenuse =<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>82</mn></msqrt></math> </span></p> <p><span style=\"font-family: Cambria Math;\">Now <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>⇒</mo></math></span><span style=\"font-family: Cambria Math;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>s</mi><mi>e</mi><msup><mi>c</mi><mn>2</mn></msup><mi>B</mi><mo> </mo><mo>=</mo><msup><mfenced><mfrac><mrow><mi>h</mi><mi>y</mi><mi>p</mi><mi>o</mi><mi>t</mi><mi>e</mi><mi>n</mi><mi>u</mi><mi>s</mi><mi>e</mi></mrow><mrow><mi>b</mi><mi>a</mi><mi>s</mi><mi>e</mi></mrow></mfrac></mfenced><mn>2</mn></msup><mo>=</mo><mo> </mo><msup><mfenced><mrow><mo> </mo><mfrac><msqrt><mn>82</mn></msqrt><mn>9</mn></mfrac><mo> </mo></mrow></mfenced><mn>2</mn></msup><mo> </mo><mo>=</mo><mo> </mo><mfrac><mn>82</mn><mn>81</mn></mfrac><mo> </mo></math> </span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Let O be the center of a circle and P be a point outside the circle. If PAB is a secant of the circle which cuts the circle at A and B</span><span style=\"font-family: Roboto;\"> and PT is the tangent drawn from P, then find the length of PT if PA = 3 cm and AB = 9 cm.</span></p>",
+        "option_1": "<p>3<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>3</mn></msqrt></math><span style=\"font-family: Roboto;\"> cm</span></p>",
+        "option_2": "<p>4<span style=\"font-family: Roboto;\"> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>3</mn></msqrt></math>cm</span></p>",
+        "option_3": "<p>6 cm</p>",
+        "option_4": "<p>8 cm</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p> <p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>P</mi><msup><mi>T</mi><mn>2</mn></msup><mo>=</mo><mi>P</mi><mi>A</mi><mo>×</mo><mi>P</mi><mi>B</mi><mo> </mo><mo> </mo><mo> </mo><mo> </mo><mo>…</mo><mo>…</mo><mo>.</mo><mo>(</mo><mi>s</mi><mi>e</mi><mi>c</mi><mi>a</mi><mi>n</mi><mi>t</mi><mo> </mo><mo>-</mo><mo> </mo><mi>tan</mi><mi>g</mi><mi>e</mi><mi>n</mi><mi>t</mi><mo> </mo><mi>p</mi><mi>r</mi><mi>o</mi><mi>p</mi><mi>e</mi><mi>r</mi><mi>t</mi><mi>y</mi><mo> </mo><mo>)</mo><mo> </mo><mspace linebreak=\"newline\"></mspace><mi>P</mi><msup><mi>T</mi><mn>2</mn></msup><mo>=</mo><mn>3</mn><mo>×</mo><mn>12</mn><mo> </mo><mo> </mo><mo>=</mo><mo> </mo><mn>36</mn><mo> </mo><mi>c</mi><mi>m</mi><mspace linebreak=\"newline\"></mspace><mo> </mo><mi>P</mi><mi>T</mi><mo> </mo><mo> </mo><mo>=</mo><mo> </mo><mn>6</mn><mi>c</mi><mi>m</mi></math></p><br>https://ssccglpinnacle.com/images/mceu_53717808211680773705985.png"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">The value of 95 x 105 is:</span></p>",
+        "option_1": "<p>9981</p>",
+        "option_2": "<p>9935</p>",
+        "option_3": "<p>9965</p>",
+        "option_4": "<p>9975</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)</p> <p><span style=\"font-family: Roboto;\">95×105 = (100-5)×(100+5) =<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo> </mo><mo> </mo><msup><mn>100</mn><mn>2</mn></msup><mo>-</mo><msup><mn>5</mn><mn>2</mn></msup></math> </span><span style=\"font-family: Cambria Math;\"> = 10000 -25 = 9975 </span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">The LCM of two numbers is 120 and the numbers are in the ratio 3 : 8. The sum of the numbers will be:</span></p>",
+        "option_1": "<p>48</p>",
+        "option_2": "<p>55</p>",
+        "option_3": "<p>45</p>",
+        "option_4": "<p>60</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Roboto;\">Let the number be 3x and 8x , then the L.C.M. will be 3×8×x .</span></p> <p><span style=\"font-family: Roboto;\">According to the question</span><span style=\"font-family: Roboto;\"> ,</span></p> <p><span style=\"font-family: Roboto;\">120 = 24x</span></p> <p><span style=\"font-family: Roboto;\">x = 5 </span></p> <p><span style=\"font-family: Roboto;\">Now, sum of the number = 3x + 8x = 11 x = 11×5 = 55 </span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> Simplify </span><span style=\"font-family: Roboto;\">the following</span><span style=\"font-family: Roboto;\">:<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo> </mo><mfrac><mrow><mi>cos</mi><mo> </mo><mi>x</mi><mo>−</mo><mo> </mo><msqrt><mn>3</mn></msqrt><mi>sin</mi><mo> </mo><mi>x</mi></mrow><mn>2</mn></mfrac></math></span></p>",
+        "option_1": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mo>(</mo><mfrac><mi>π</mi><mn>3</mn></mfrac><mo> </mo><mo>-</mo><mo> </mo><mi>x</mi><mo>)</mo></math></p>",
+        "option_2": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo> </mo><mi>sin</mi><mo> </mo><mo>(</mo><mfrac><mi>π</mi><mn>3</mn></mfrac><mo>+</mo><mi>x</mi><mo>)</mo></math></p>",
+        "option_3": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>cos</mi><mo>(</mo><mfrac><mi>π</mi><mn>3</mn></mfrac><mo>+</mo><mi>x</mi><mo>)</mo></math></p>",
+        "option_4": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>sin</mi><mo> </mo><mo>(</mo><mfrac><mi>π</mi><mn>3</mn></mfrac><mo>-</mo><mi>x</mi><mo>)</mo></math></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)</p> <p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>cos</mi><mo> </mo><mi>x</mi><mo>-</mo><msqrt><mn>3</mn><mo> </mo></msqrt><mi>sin</mi><mo> </mo><mi>x</mi></mrow><mn>2</mn></mfrac><mo> </mo><mo> </mo><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>×</mo><mi>cos</mi><mo> </mo><mi>x</mi><mo> </mo><mo>-</mo><mo> </mo><mfrac><msqrt><mn>3</mn></msqrt><mn>2</mn></mfrac><mo>×</mo><mi>sin</mi><mo> </mo><mi>x</mi><mo> </mo><mspace linebreak=\"newline\"></mspace><mo> </mo><mi>sin</mi><mo> </mo><mn>30</mn><mo>°</mo><mo> </mo><mi>cos</mi><mo> </mo><mi>x</mi><mo> </mo><mo>-</mo><mo> </mo><mi>cos</mi><mo> </mo><mn>30</mn><mo>°</mo><mo> </mo><mi>sin</mi><mo> </mo><mi>x</mi><mo> </mo><mo> </mo><mo>=</mo><mo> </mo><mi>sin</mi><mo> </mo><mo>(</mo><mn>30</mn><mo>°</mo><mo> </mo><mo>-</mo><mo> </mo><mi>x</mi><mo>)</mo><mo> </mo><mo>=</mo><mo> </mo><mo> </mo><mi>sin</mi><mo> </mo><mo>(</mo><mn>90</mn><mo>°</mo><mo>-</mo><mo>(</mo><mn>60</mn><mo>°</mo><mo> </mo><mo>+</mo><mo> </mo><mi>x</mi><mo>)</mo><mo>)</mo><mspace linebreak=\"newline\"></mspace><mo> </mo><mi>cos</mi><mo> </mo><mo>(</mo><mn>60</mn><mo>°</mo><mo> </mo><mo>+</mo><mo> </mo><mi>x</mi><mo>)</mo><mo> </mo><mo> </mo><mo>=</mo><mo> </mo><mi>cos</mi><mo> </mo><mo>(</mo><mfrac><mi mathvariant=\"normal\">π</mi><mn>3</mn></mfrac><mo> </mo><mo>+</mo><mo> </mo><mi>x</mi><mo>)</mo></math></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Find the value of the following expression.</span></p> <p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>12</mn><mn>3</mn></msup><mo> </mo><mo>+</mo><mo> </mo><msup><mrow><mo>(</mo><mo>-</mo><mn>8</mn><mo>)</mo></mrow><mn>3</mn></msup><mo> </mo><mo>+</mo><mo> </mo><msup><mrow><mo>(</mo><mo>-</mo><mn>4</mn><mo>)</mo></mrow><mn>3</mn></msup></math></p>",
+        "option_1": "<p>952</p>",
+        "option_2": "<p>1152</p>",
+        "option_3": "<p>1052</p>",
+        "option_4": "<p>852</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>W</mi><mi>h</mi><mi>e</mi><mi>n</mi><mo> </mo><mo>,</mo><mo> </mo><mo>(</mo><mi>a</mi><mo>+</mo><mi>b</mi><mo>+</mo><mi>c</mi><mo>)</mo><mo> </mo><mo>=</mo><mo> </mo><mn>0</mn><mo> </mo><mo>,</mo><mo> </mo><mi>t</mi><mi>h</mi><mi>e</mi><mi>n</mi><mo> </mo><mo> </mo><msup><mi>a</mi><mn>3</mn></msup><mo>+</mo><msup><mi>b</mi><mn>3</mn></msup><mo>+</mo><msup><mi>c</mi><mrow><mn>3</mn><mo> </mo></mrow></msup><mo> </mo><mo>=</mo><mo> </mo><mn>3</mn><mi>a</mi><mi>b</mi><mi>c</mi><mspace linebreak=\"newline\"></mspace><mo> </mo><msup><mn>12</mn><mn>3</mn></msup><mo>+</mo><msup><mfenced><mrow><mo>-</mo><mn>8</mn></mrow></mfenced><mn>3</mn></msup><mo>+</mo><msup><mfenced><mrow><mo>-</mo><mn>4</mn></mrow></mfenced><mn>3</mn></msup><mo> </mo><mo> </mo><mo>=</mo><mo> </mo><mn>3</mn><mo>×</mo><mo> </mo><mn>12</mn><mo>×</mo><mo>(</mo><mo>-</mo><mn>8</mn><mo>)</mo><mo>×</mo><mo>(</mo><mo>-</mo><mn>4</mn><mo>)</mo><mo> </mo><mo> </mo><mo>=</mo><mo> </mo><mn>96</mn><mo>×</mo><mn>12</mn><mo> </mo><mo>=</mo><mo> </mo><mn>1152</mn></math></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Nova Mono;\"> Suppose ∆ABC be a right-angled triangle where ∠A = 90° and AD⊥BC. If area (∆ABC )</span><span style=\"font-family: Roboto;\">= 80 cm² and BC = 16 cm, then the length of AD is:</span></p>",
+        "option_1": "<p>10 cm</p>",
+        "option_2": "<p>24 cm</p>",
+        "option_3": "<p>18 cm</p>",
+        "option_4": "<p><span style=\"font-family: Roboto;\">12 cm</span></p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)</p> <p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>r</mi><mi>e</mi><mi>a</mi><mo>△</mo><mo> </mo><mi>A</mi><mi>B</mi><mi>C</mi><mo> </mo><mo>=</mo><mo> </mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>×</mo><mi>B</mi><mi>C</mi><mo>×</mo><mi>A</mi><mi>D</mi><mo> </mo><mo> </mo><mspace linebreak=\"newline\"></mspace><mn>80</mn><mo> </mo><mi>c</mi><msup><mi>m</mi><mrow><mn>2</mn><mo> </mo></mrow></msup><mo>=</mo><mfrac><mrow><mo> </mo><mn>1</mn></mrow><mn>2</mn></mfrac><mo>×</mo><mn>16</mn><mo>×</mo><mi>A</mi><mi>D</mi><mo> </mo><mo> </mo><mspace linebreak=\"newline\"></mspace><mi>A</mi><mi>D</mi><mo> </mo><mo>=</mo><mo> </mo><mn>10</mn><mo> </mo><mi>c</mi><mi>m</mi></math></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image49.png"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> The following pie chart represents the percentage-wise weight distribution of different fruits out of 2500 kg of fruits at </span><span style=\"font-family: Roboto;\">one fruit shop.</span></p> <p><span style=\"font-family: Roboto;\">What is the difference between the weights of banana and orange at the fruit shop?</span></p><br>https://ssccglpinnacle.com/admin/resources/qdocs/test-1-EN-1/1675240691/word/media/image50.png",
+        "option_1": "<p>125 kg</p>",
+        "option_2": "<p>100 kg</p>",
+        "option_3": "<p>50 kg</p>",
+        "option_4": "<p>75 kg</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p> <p><span style=\"font-family: Roboto;\">Difference between weight of banana and orange at the fruit shop =</span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2500</mn><mo>×</mo><mfenced><mfrac><mrow><mn>15</mn><mo>-</mo><mn>11</mn></mrow><mn>100</mn></mfrac></mfenced><mo> </mo><mo> </mo><mo>=</mo><mo> </mo><mn>100</mn><mo> </mo><mi>k</mi><mi>g</mi></math></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">Sentences of a paragraph are given below in jumbled o</span><span style=\"font-family:Roboto\">rder. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.</span></p> <p><span style=\"font-family:Roboto\">A.</span><span style=\"font-family:Roboto\">Shalini was scrolling down the phone screen while waiting for her friend. </span></p> <p><span style=\"font-family:Roboto\">B.</span><span style=\"font-family:Roboto\">Her friend brought a bouquet for Shalini from the market place. </span></p> <p><span style=\"font-family:Roboto\">C.</span><span style=\"font-family:Roboto\">When her friend arrived, they went to the market place. </span></p> <p><span style=\"font-family:Roboto\">D.</span><span style=\"font-family:Roboto\">The market place was thronging with people.</span></p>",
+        "option_1": "<p> BACD</p>",
+        "option_2": "<p> DACB</p>",
+        "option_3": "<p> ABCD</p>",
+        "option_4": "<p> ACDB</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<span style=\"font-family:Roboto\">ACDB</span></p> <p><span style=\"font-family:Roboto\">Sentence A will be the starting line as it contains the main idea of the parajumble i.e. </span><span style=\"font-family:Roboto\">Shalini was waiting for her friend</span><span style=\"font-family:Roboto\">. Sentence C states that</span><span style=\"font-family:Roboto\"> they went to the market place when her friend arrived</span><span style=\"font-family:Roboto\">. So, C will follow A. Further, Sentence D states that </span><span style=\"font-family:Roboto\">the market place was thronging with people </span><span style=\"font-family:Roboto\">&amp; Sentence B states that </span><span style=\"font-family:Roboto\">her friend brought a bouquet for Shalini from the market place</span><span style=\"font-family:Roboto\">. So, B will foll</span><span style=\"font-family:Roboto\">ow D. Going through the options, option d has the correct sequence. </span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> Sel</span><span style=\"font-family: Roboto;\">ect the most appropriate meaning of the given idiom.</span></p> <p><strong><span style=\"font-family: Roboto;\">Cut a poor figure</span></strong></p>",
+        "option_1": "<p>In a poor state</p>",
+        "option_2": "<p>To put a good impression</p>",
+        "option_3": "<p>To put a bad impression</p>",
+        "option_4": "<p>Bad physical form</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family: Roboto;\">Cut a poor figure- to put a bad impression.</span></p> <p><span style=\"font-family: Roboto;\">E.g.- I cut a poor figure in my last show as it was an extempore.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">Rearr</span><span style=\"font-family:Roboto\">ange the parts of the sentence in correct order. </span></p> <p><span style=\"font-family:Roboto\">A 2007-2009 study</span></p> <p><span style=\"font-family:Roboto\">P.</span><span style=\"font-family:Roboto\"> explored forward thinking techniques</span></p> <p><span style=\"font-family:Roboto\">Q.</span><span style=\"font-family:Roboto\"> to synchronise time on board deep</span></p> <p><span style=\"font-family:Roboto\">R.</span><span style=\"font-family:Roboto\"> space probes for accurate navigation, in </span></p> <p><span style=\"font-family:Roboto\">S.</span><span style=\"font-family:Roboto\"> particular looking into low-cost options</span></p>",
+        "option_1": "<p> RSPQ</p>",
+        "option_2": "<p> PSRQ</p>",
+        "option_3": "<p> SPRQ</p>",
+        "option_4": "<p> PQRS</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<span style=\"font-family:Roboto\">PQRS</span></p> <p><span style=\"font-family:Roboto\">The sentence begins with - “A 2007-2009 study,’ which is the subject of the sentence. The subject is generally followed by a verb. So part P begins with “explored” which is a verb. The answer will be either option b or option d. P will be followed by Q as </span><span style=\"font-family:Roboto\">Q mentions the purpose of these forward thinking techniques. P will be followed by Q which is in option d.So d is the correct answer. </span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Select the correct passive form of the given sentence.</span></p> <p><span style=\"font-family: Roboto;\">The indentured labourers fix the roads.</span></p>",
+        "option_1": "<p>The roads was fixed by indentured labourers.</p>",
+        "option_2": "<p>The roads were fixed by indentured labourers.</p>",
+        "option_3": "<p>The roads are fixed <span style=\"font-family: Roboto;\">by indentured labourers.</span></p>",
+        "option_4": "<p>The roads were being fixed by indentured labourers.</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family: Roboto;\"> The roads are fixed by indentured labourers.</span></p> <p><span style=\"font-weight: 400;\">(a) The roads </span><span style=\"text-decoration: underline;\"><span style=\"font-weight: 400;\">was</span></span><span style=\"font-weight: 400;\"> fixed by indentured labourers. (Incorrect Verb)</span></p> <p><span style=\"font-weight: 400;\">(b) The roads </span><span style=\"text-decoration: underline;\"><span style=\"font-weight: 400;\">were fixed</span></span><span style=\"font-weight: 400;\"> by indentured labourers. (Incorrect Tense)</span></p> <p><span style=\"font-weight: 400;\">(d) The roads </span><span style=\"text-decoration: underline;\"><span style=\"font-weight: 400;\">were being fixed</span></span><span style=\"font-weight: 400;\"> by indentured labourers. (Incorrect Tense)</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Select the option that expresses the given sentence in an active voice.</span></p> <p><span style=\"font-family: Roboto;\">The evil king was defeated by Gandolf, the savior.</span></p>",
+        "option_1": "<p>Gandolf, the savior, defeated the evil king.</p>",
+        "option_2": "<p>The savior of Gandolf defeated the evil king.</p>",
+        "option_3": "<p>Gandolf, the savior, had de<span style=\"font-family: Roboto;\">feated the evil king.</span></p>",
+        "option_4": "<p>Gandolf, the savior, defeats the evil king.</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family: Roboto;\"> Gandolf, the savior, defeated the evil king.</span></p> <p><span style=\"font-weight: 400;\">(b) The savior of Gandolf defeated the evil king. (Incorrect Sentence Structure)</span></p> <p><span style=\"font-weight: 400;\">(c) Gandolf, the savior, </span><span style=\"text-decoration: underline;\"><span style=\"font-weight: 400;\">had defeated</span></span><span style=\"font-weight: 400;\"> the evil king. (Incorrect Tense)</span></p> <p><span style=\"font-weight: 400;\">(d) Gandolf, the savior, </span><span style=\"text-decoration: underline;\"><span style=\"font-weight: 400;\">defeats</span></span><span style=\"font-weight: 400;\"> the evil king. (Incorrect Verb)</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\"> Select the most appropriate meaning of the given idiom.</span></p> <p><span style=\"font-family:Roboto\">Bear the palm</span></p>",
+        "option_1": "<p> To bring joyful news</p>",
+        "option_2": "<p> To lose a game</p>",
+        "option_3": "<p> To advocate peace</p>",
+        "option_4": "<p> To be a winner</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<span style=\"font-family:Roboto\">Bear the palm- to be a winner.</span></p> <p><span style=\"font-family:Roboto\">E.g.- </span><span style=\"font-family:Roboto\">I heard that you might bear the palm at the science fair.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">A sentence has been given with a blank to be filled with an appropriate word. Choose </span><span style=\"font-family: Roboto;\">the correct alternative.</span></p> <p><span style=\"font-family: Roboto;\">Every person s</span><span style=\"font-family: Roboto;\">hould know their own_____what their skill set is and how unique they are.</span></p>",
+        "option_1": "<p>calamities</p>",
+        "option_2": "<p>punctualities</p>",
+        "option_3": "<p>specialties</p>",
+        "option_4": "<p>fecundities</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family: Roboto;\">specialties. </span></p> <p><span style=\"font-family: Roboto;\">‘</span><span style=\"font-family: Roboto;\">Speciality</span><span style=\"font-family: Roboto;\">’ means an </span><span style=\"font-family: Roboto;\">area of study</span><span style=\"font-family: Roboto;\"> or a subject that you know a lot about</span><span style=\"font-family: Roboto;\">. The given sentence states that </span><span style=\"font-family: Roboto;\">every person should know their own specialties what their skill set is and how unique they are</span><span style=\"font-family: Roboto;\">. <b>Hence,</b> ‘</span><span style=\"font-family: Roboto;\">specialties</span><span style=\"font-family: Roboto;\">’ is the most appropriate answer.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\"> The following sentence has been split into four segments. Identify the segment that contains a grammatical error.</span></p> <p><span style=\"font-family:Roboto\">The manager told her that / she should be a bit more / careful while executed the / orders of the compan</span><span style=\"font-family:Roboto\">y.</span></p>",
+        "option_1": "<p> The manager told her that</p>",
+        "option_2": "<p> she should be a bit more</p>",
+        "option_3": "<p> orders of the company</p>",
+        "option_4": "<p> careful while executed the</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<span style=\"font-family:Roboto\"> careful while executed the. </span></p> <p><span style=\"font-family:Roboto\">We generally use the V-ing form of the verb after a preposition(‘while’ in the given sentence). <b>Hence,</b> ‘</span><span style=\"font-family:Roboto\">careful while executing(V-ing)</span><span style=\"font-family:Roboto\">’ is the most appropriate answer.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">Select the option that can be used as a one-word substitute for the given group of words.</span></p> <p><span style=\"font-family:Roboto\">A loud appea</span><span style=\"font-family:Roboto\">l or demand</span></p>",
+        "option_1": "<p> Protest</p>",
+        "option_2": "<p> Entourage</p>",
+        "option_3": "<p> Clamour</p>",
+        "option_4": "<p> Gambit</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family:Roboto\">Clamour- a loud appeal or demand</span></p> <p><span style=\"font-family:Roboto\">Protest- </span><span style=\"font-family:Roboto\">a</span><span style=\"font-family:Roboto\"> statement or action that shows that you do not like or approve of something</span></p> <p><span style=\"font-family:Roboto\">Entourage- </span><span style=\"font-family:Roboto\">a group of people who travel with an important or famous person</span></p> <p><span style=\"font-family:Roboto\">Gambit- </span><span style=\"font-family:Roboto\">an act or remark that is calculated to gain an advantage</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> Select the sentences that contains no spelling errors.</span></p>",
+        "option_1": "<p>He screeched hystericalli after seeing the accident.</p>",
+        "option_2": "<p>He screeched hystericaly after seeing the accident.</p>",
+        "option_3": "<p>He screeched hysteerically after seeing the accident.</p>",
+        "option_4": "<p>He screeched hysterically after seeing the accident.</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d<span style=\"font-family: Roboto;\">) </span><span style=\"font-family: Roboto;\">He screeched hysterically after seeing the accident.</span></p> <p><span style=\"font-family: Roboto;\">‘Hysterically’ is the correct spelling which is only given in option ‘d’.</span></p> <p><span style=\"font-family: Roboto;\">Hysterically - with wildly uncontrolled emotion</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Select the option that expresses the given sentence in indirect speech.</span></p> <p><span style=\"font-family: Roboto;\"> He said, 'Let us wait for the award.'</span></p>",
+        "option_1": "<p>He proposed that they should wait for the award.</p>",
+        "option_2": "<p>He said that he should wait for the award.</p>",
+        "option_3": "<p>He proposed that he should wait for the award.</p>",
+        "option_4": "<p>He said that they should waited for the award.</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family: Roboto;\"> He proposed that they should wait for the award.</span></p> <p><span style=\"font-weight: 400;\">(b) He </span><span style=\"text-decoration: underline;\"><span style=\"font-weight: 400;\">said</span></span><span style=\"font-weight: 400;\"> that he should wait for the award. (Incorrect Reporting Verb)</span></p> <p><span style=\"font-weight: 400;\">(c) He proposed that </span><span style=\"font-weight: 400;\">he</span><span style=\"font-weight: 400;\"> should wait for the award. (Incorrect Pronoun)</span></p> <p><span style=\"font-family: Roboto;\"><span style=\"font-weight: 400;\">(d) He </span><span style=\"text-decoration: underline;\"><span style=\"font-weight: 400;\">said</span></span><span style=\"font-weight: 400;\"> that they should waited for the award. (Incorrect Reporting Verb)</span></span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">Select the most appropriate ANTONYM of the given word.</span></p> <p><span style=\"font-family:Roboto\">Humble</span></p>",
+        "option_1": "<p> Dishonour</p>",
+        "option_2": "<p> Pleasantry</p>",
+        "option_3": "<p> Modest</p>",
+        "option_4": "<p> Arrogant</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<span style=\"font-family:Roboto\">Arrogant- </span><span style=\"font-family:Roboto\">thi</span><span style=\"font-family:Roboto\">nking that you are better and more important than other people</span></p> <p><span style=\"font-family:Roboto\">Humble- </span><span style=\"font-family:Roboto\">having or showing a modest or low estimate of one's own importance.</span></p> <p><span style=\"font-family:Roboto\">Dishonour- </span><span style=\"font-family:Roboto\">the state of no longer being respected</span></p> <p><span style=\"font-family:Roboto\">Pleasantry- </span><span style=\"font-family:Roboto\">a polite remark</span></p> <p><span style=\"font-family:Roboto\">Modest- </span><span style=\"font-family:Roboto\">not talking too much about your own abilities, good qualities, etc</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Select the most appropriate option to substitute the underlined segment in the given sentence.</span></p> <p><span style=\"font-family: Roboto;\">During my Goa tour, I </span><span style=\"text-decoration: underline;\"><span style=\"font-family: Roboto;\">had v</span><span style=\"font-family: Roboto;\">isited</span></span><span style=\"font-family: Roboto;\"> beaches in Vasco, Baga and Vagator.</span></p>",
+        "option_1": "<p>visited</p>",
+        "option_2": "<p>have visited</p>",
+        "option_3": "<p>was visited</p>",
+        "option_4": "<p>had visited</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family: Roboto;\">visited. </span></p> <p><span style=\"font-family: Roboto;\">The given sentence is in the simple past tense so the verb must be used in the simple past form(</span><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mn>2</mn></msub></math><span style=\"font-family: Roboto;\">). <b>Hence,</b> ‘visited(<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>v</mi><mn>2</mn></msub></math></span><span style=\"font-family: Roboto;\">)’ is the most appropriate answer. </span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">Select the most appropriate option to fill i</span><span style=\"font-family:Roboto\">n the blank.</span></p> <p><span style=\"font-family:Roboto\">The country's rapid______has led to a rise in many people's standard of living.</span></p>",
+        "option_1": "<p> idea</p>",
+        "option_2": "<p> life</p>",
+        "option_3": "<p> confidence</p>",
+        "option_4": "<p> growth</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<span style=\"font-family:Roboto\">growth</span></p> <p><span style=\"font-family:Roboto\">‘</span><span style=\"font-family:Roboto\">Growth</span><span style=\"font-family:Roboto\">’ means </span><span style=\"font-family:Roboto\">the process of growing and developing</span><span style=\"font-family:Roboto\">. The given sentence states that </span><span style=\"font-family:Roboto\">the country's rapid growth has led to a rise in many people's standard of living</span><span style=\"font-family:Roboto\">. <b>Hence,</b> ‘</span><span style=\"font-family:Roboto\">growth</span><span style=\"font-family:Roboto\">’ is the most appropriate answer.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Select the most appropriate ANTONYM of the word <strong>laborious</strong> from the given sentence:</span></p> <p><span style=\"font-family: Roboto;\">Although gardening is a laborious job, but it gives me boundless joy, st</span><span style=\"font-family: Roboto;\">renuous happiness and immense satisfaction and I like this facile activity.</span></p>",
+        "option_1": "<p>boundless</p>",
+        "option_2": "<p>facile</p>",
+        "option_3": "<p>strenuous</p>",
+        "option_4": "<p>immense</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<span style=\"font-family: Roboto;\">Facile- e</span><span style=\"font-family: Roboto;\">asy or too easy, not needing effort</span></p> <p><span style=\"font-family: Roboto;\">Laborious- </span><span style=\"font-family: Roboto;\">nee</span><span style=\"font-family: Roboto;\">ding a lot of time and effort</span></p> <p><span style=\"font-family: Roboto;\">Boundless- </span><span style=\"font-family: Roboto;\">having no limit</span></p> <p><span style=\"font-family: Roboto;\">Strenuous- </span><span style=\"font-family: Roboto;\">needing or using a lot of effort or energy</span></p> <p><span style=\"font-family: Roboto;\">Immense- something </span><span style=\"font-family: Roboto;\">very big or great</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> Select the INCORRECTLY spelt word.</span></p>",
+        "option_1": "<p>Friwsk</p>",
+        "option_2": "<p>Reply</p>",
+        "option_3": "<p>Rusk</p>",
+        "option_4": "<p>Foliage</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family: Roboto;\">Friwsk</span></p> <p><span style=\"font-family: Roboto;\">‘</span><span style=\"font-family: Roboto;\">Frisk’ is the correct spelling.</span></p> <p><span style=\"font-family: Roboto;\">Frisk - skip or leap playfully</span></p> <p><span style=\"font-family: Roboto;\">Foliage - plant leaves collectively</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">Select the most appropriate adverb to fill in the blank.</span></p> <p><span style=\"font-family:Roboto\">They supplied the required human resource_________</span></p>",
+        "option_1": "<p> faultlessly</p>",
+        "option_2": "<p> heavy</p>",
+        "option_3": "<p> clear</p>",
+        "option_4": "<p> able</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family:Roboto\">faultlessly. </span></p> <p><span style=\"font-family:Roboto\">‘</span><span style=\"font-family:Roboto\">Faultlessly</span><span style=\"font-family:Roboto\">’ means </span><span style=\"font-family:Roboto\">in a way that is perfect or without mistakes</span><span style=\"font-family:Roboto\">. The given sentence states that </span><span style=\"font-family:Roboto\">they supplied the required human resource faultlessly</span><span style=\"font-family:Roboto\">. <b>Hence,</b> ‘</span><span style=\"font-family:Roboto\">faultlessly</span><span style=\"font-family:Roboto\">’ is the most appropriate a</span><span style=\"font-family:Roboto\">nswer.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\"> Select the</span><span style=\"font-family: Roboto;\"> most appropriate synonym of the underlined word.</span></p> <p><span style=\"font-family: Roboto;\">The celebrity was</span><span style=\"text-decoration: underline;\"><span style=\"font-family: Roboto;\">inundated</span></span><span style=\"font-family: Roboto;\">with birthday wishes from his admirers.</span></p>",
+        "option_1": "<p>Annoyed</p>",
+        "option_2": "<p>Preoccupied</p>",
+        "option_3": "<p>Rewarded</p>",
+        "option_4": "<p>Overwhelmed</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<span style=\"font-family: Roboto;\">Overwhelmed- </span><span style=\"font-family: Roboto;\">to cause somebody to feel such a strong emotion that he/she does not know how to react</span></p> <p><span style=\"font-family: Roboto;\">In</span><span style=\"font-family: Roboto;\">undated- </span><span style=\"font-family: Roboto;\">to cover an area of land with water</span></p> <p><span style=\"font-family: Roboto;\">Annoyed- </span><span style=\"font-family: Roboto;\">feeling angry or slightly angry</span></p> <p><span style=\"font-family: Roboto;\">Preoccupied- </span><span style=\"font-family: Roboto;\">not paying attention to somebody/something because you are thinking or worrying about somebody/something else</span></p> <p><span style=\"font-family: Roboto;\">Rewarded- </span><span style=\"font-family: Roboto;\">to give something to somebody because</span><span style=\"font-family: Roboto;\"> he/she has done something good, worked hard, etc.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family:Roboto\">Select the most appropriate ANTONYM of the given word.</span></p> <p><span style=\"font-family:Roboto\">Dispatch</span></p>",
+        "option_1": "<p> Acqu<span style=\"font-family:Roboto\">ire</span></p>",
+        "option_2": "<p> Transmit</p>",
+        "option_3": "<p> Deliver</p>",
+        "option_4": "<p> Bulletin</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family:Roboto\">Acquire- </span><span style=\"font-family:Roboto\">to obtain or buy something</span></p> <p><span style=\"font-family:Roboto\">Dispatch- </span><span style=\"font-family:Roboto\">to send somebody/something to a place</span></p> <p><span style=\"font-family:Roboto\">Transmit- </span><span style=\"font-family:Roboto\">to send out television or radio programmes, electronic signals, etc.</span></p> <p><span style=\"font-family:Roboto\">Deliver- </span><span style=\"font-family:Roboto\">to take something goods, letters, etc. to the place requested or to the address on it</span></p> <p><span style=\"font-family:Roboto\">Bulletin- </span><span style=\"font-family:Roboto\">a short news report on television </span><span style=\"font-family:Roboto\">or radio</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Select the correct direct form of the given sentence.</span></p> <p><span style=\"font-family: Roboto;\">Leena said that his relatives were landing the next day.</span></p>",
+        "option_1": "<p>Leena said, \"My relatives land tomorrow.\"</p>",
+        "option_2": "<p>Leena said, \"His relatives ar<span style=\"font-family: Roboto;\">e landing today.\"</span></p>",
+        "option_3": "<p>Leena said, \"His relatives were landing tomorrow.\"</p>",
+        "option_4": "<p>Leena said, \"His relatives are landing tomorrow.\"</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<span style=\"font-family: Roboto;\"> Leena said, \"His rela</span><span style=\"font-family: Roboto;\">tives are landing tomorrow.\"</span></p> <p><span style=\"font-weight: 400;\">(a) Leena said, \"</span><span style=\"text-decoration: underline;\"><span style=\"font-weight: 400;\">My</span></span><span style=\"font-weight: 400;\"> relatives land tomorrow.\" (Incorrect Pronoun)</span></p> <p><span style=\"font-weight: 400;\">(b) Leena said, \"His relatives are landing </span><span style=\"text-decoration: underline;\"><span style=\"font-weight: 400;\">today</span></span><span style=\"font-weight: 400;\">.\" (Incorrect Word)</span></p> <p><span style=\"font-weight: 400;\">(c) Leena said, \"His relatives </span><span style=\"text-decoration: underline;\"><span style=\"font-weight: 400;\">were landing</span></span><span style=\"font-weight: 400;\"> tomorrow.\" (Incorrect Tense)</span></p>"
+    },
+    {
+        "question": "<p>Cloze T<span style=\"font-family: Roboto;\">est : </span></p> <p><span style=\"font-family: Roboto;\">In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.</span></p> <p><span style=\"font-family: Roboto;\">Education (96)____both the teaching and learning of knowledge, proper conduct, and technical competency.</span><span style=\"font-family: Roboto;\"> It thus (97)____ on the cultivation of skills, trades or professions, as well as mental, moral and aesthetic development. Formal education consists of systematic instruction, teaching and training by (98)_______teachers. This consists of the application o</span><span style=\"font-family: Roboto;\">f pedagogy and the development of curriculam. The right to education is a (99)___ human right. Educational systems are established to provide education and (100)____ often for children and the young.</span></p> <p><strong><span style=\"font-family: Roboto;\">Select the most appropriate option to fill in blank numb</span><span style=\"font-family: Roboto;\">er 96.</span></strong></p>",
+        "option_1": "<p>likes</p>",
+        "option_2": "<p>releases</p>",
+        "option_3": "<p>makes</p>",
+        "option_4": "<p>encompasses</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<span style=\"font-family: Roboto;\">encompasses</span></p> <p><span style=\"font-family: Roboto;\">‘</span><span style=\"font-family: Roboto;\">Encompass</span><span style=\"font-family: Roboto;\">’ means </span><span style=\"font-family: Roboto;\">to include several different things</span><span style=\"font-family: Roboto;\">.</span><span style=\"font-family: Roboto;\"> The given passage states that </span><span style=\"font-family: Roboto;\">Education encompasses both the teaching and learning of knowledge, proper conduct, and technical competency</span><span style=\"font-family: Roboto;\">. <b>Hence,</b> ‘</span><span style=\"font-family: Roboto;\">encompasses</span><span style=\"font-family: Roboto;\">’ is the most appropriate answer.</span></p>"
+    },
+    {
+        "question": "<p>Cloze Test :</p> <p><span style=\"font-family: Roboto;\">In the followin</span><span style=\"font-family: Roboto;\">g passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.</span></p> <p><span style=\"font-family: Roboto;\">Education (96)____both the teaching and learning of knowledge, proper conduct, and technical competency. It thus (97)____ on t</span><span style=\"font-family: Roboto;\">he cultivation of skills, trades or professions, as well as mental, moral and aesthetic development. Formal education consists of systematic instruction, teaching and training by (98)_______teachers. This consists of the application of pedagogy and the dev</span><span style=\"font-family: Roboto;\">elopment of curriculam. The right to education is a (99)___ human right. Educational systems are established to provide education and (100)____ often for children and the young.</span></p> <p><strong><span style=\"font-family: Roboto;\">Select the most appropriate option to fill in blank number 97</span></strong></p>",
+        "option_1": "<p>changes</p>",
+        "option_2": "<p>makes</p>",
+        "option_3": "<p>focuses</p>",
+        "option_4": "<p>regards</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family: Roboto;\">focuses. </span></p> <p><span style=\"font-family: Roboto;\">‘</span><span style=\"font-family: Roboto;\">Focus</span><span style=\"font-family: Roboto;\">’ means </span><span style=\"font-family: Roboto;\">to give all your attention to something</span><span style=\"font-family: Roboto;\">. The given passage states that </span><span style=\"font-family: Roboto;\">it thus focuses on the c</span><span style=\"font-family: Roboto;\">ultivation of skills, trades or professions</span><span style=\"font-family: Roboto;\">. <b>Hence,</b> ‘focuses’ is the most appropriate answer.</span></p>"
+    },
+    {
+        "question": "<p>Cloze Test :</p> <p><span style=\"font-family: Roboto;\">In the following passage, some words have been deleted. R</span><span style=\"font-family: Roboto;\">ead the passage carefully and select the most appropriate option to fill in each blank.</span></p> <p><span style=\"font-family: Roboto;\">Education (96)____both the teaching and learning of knowledge, proper conduct, and technical competency. It thus (97)____ on the cultivation of skills, trades or profes</span><span style=\"font-family: Roboto;\">sions, as well as mental, moral and aesthetic development. Formal education consists of systematic instruction, teaching and training by (98)_______teachers. This consists of the application of pedagogy and the development of curriculam. The right to educa</span><span style=\"font-family: Roboto;\">tion is a (99)___ human right. Educational systems are established to provide education and (100)____ often for children and the young.</span></p> <p><strong><span style=\"font-family: Roboto;\">Select the most appropriate option to fill in blank number 98</span></strong></p>",
+        "option_1": "<p>general</p>",
+        "option_2": "<p>professional</p>",
+        "option_3": "<p>fresh</p>",
+        "option_4": "<p>new</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<span style=\"font-family: Roboto;\">professional</span></p> <p><span style=\"font-family: Roboto;\">‘Professional’ </span><span style=\"font-family: Roboto;\">means </span><span style=\"font-family: Roboto;\">connected with a job that needs a high level of training and/or education</span><span style=\"font-family: Roboto;\">. The given passage states that </span><span style=\"font-family: Roboto;\">formal education consists of systematic instruction, teaching and training by professional teachers</span><span style=\"font-family: Roboto;\">. <b>Hence,</b> ‘</span><span style=\"font-family: Roboto;\">professional’ </span><span style=\"font-family: Roboto;\">is the most appropriate answer.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Cloze Test : </span></p> <p><span style=\"font-family: Roboto;\">In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.</span></p> <p><span style=\"font-family: Roboto;\">Education (96)____both the teaching and learning of knowledge, proper conduct, and technical competency. It thu</span><span style=\"font-family: Roboto;\">s (97)____ on the cultivation of skills, trades or professions, as well as mental, moral and aesthetic development. Formal education consists of systematic instruction, teaching and training by (98)_______teachers. This consists of the application of pedag</span><span style=\"font-family: Roboto;\">ogy and the development of curriculam. The right to education is a (99)___ human right. Educational systems are established to provide education and (100)____ often for children and the young.</span></p> <p><strong><span style=\"font-family: Roboto;\">Select the most appropriate option to fill in blank number 99</span></strong></p>",
+        "option_1": "<p>fundamental</p>",
+        "option_2": "<p>personal</p>",
+        "option_3": "<p>beautiful</p>",
+        "option_4": "<p>long standing</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<span style=\"font-family: Roboto;\">fundamental</span></p> <p><span style=\"font-family: Roboto;\">‘</span><span style=\"font-family: Roboto;\">Fundamental</span><span style=\"font-family: Roboto;\">’ means </span><span style=\"font-family: Roboto;\">basic and important, from which everything else develops</span><span style=\"font-family: Roboto;\">. The given passage states that </span><span style=\"font-family: Roboto;\">the right to education is a fundamental human right</span><span style=\"font-family: Roboto;\">. <b>Hence,</b> ‘</span><span style=\"font-family: Roboto;\">fundamental</span><span style=\"font-family: Roboto;\">’ is the most appropriate answer.</span></p>"
+    },
+    {
+        "question": "<p><span style=\"font-family: Roboto;\">Cloze Test : </span></p> <p><span style=\"font-family: Roboto;\">In the following passage, some words have b</span><span style=\"font-family: Roboto;\">een deleted. Read the passage carefully and select the most appropriate option to fill in each blank.</span></p> <p><span style=\"font-family: Roboto;\">Education (96)____both the teaching and learning of knowledge, proper conduct, and technical competency. It thus (97)____ on the cultivation of skills, tr</span><span style=\"font-family: Roboto;\">ades or professions, as well as mental, moral and aesthetic development. Formal education consists of systematic instruction, teaching and training by (98)_______teachers. This consists of the application of pedagogy and the development of curriculam. The </span><span style=\"font-family: Roboto;\">right to education is a (99)___ human right. Educational systems are established to provide education and (100)____ often for children and the young.</span></p> <p><strong><span style=\"font-family: Roboto;\">Select the most appropriate option to fill in blank number 100</span></strong></p>",
+        "option_1": "<p>dreams</p>",
+        "option_2": "<p>challenges</p>",
+        "option_3": "<p>trainin<span style=\"font-family: Roboto;\">g</span></p>",
+        "option_4": "<p>upbringing</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<span style=\"font-family: Roboto;\">training</span></p> <p><span style=\"font-family: Roboto;\">‘</span><span style=\"font-family: Roboto;\">Training</span><span style=\"font-family: Roboto;\">’ means </span><span style=\"font-family: Roboto;\">the process of learning the skills you need to do a particular job or activity</span><span style=\"font-family: Roboto;\">. The given passage states that </span><span style=\"font-family: Roboto;\">Educational systems are established to provide education and training often for children and the young</span><span style=\"font-family: Roboto;\">. <b>Hence,</b> ‘training’ is the most appropriate answer.</span></p>"
+    }
+]
