@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "<p>How many triangles are there in the given figure?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700512974.png",
+        "option_1": "<p>5</p>",
+        "option_2": "<p>3</p>",
+        "option_3": "<p>4</p>",
+        "option_4": "<p>6</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/><br/>There are four triangles.<br/>ABC, AED, EFD, DGH </p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700513315.png"
+    },
+    {
+        "question": "<p>What will come in the place of ‘?’ in the following equation, if ‘+’ and ‘-‘ are interchanged and ‘×’ and ‘÷’ are interchanged?<br/>4 ÷ 6 + 91 × 7 − 5 = ?</p>",
+        "option_1": "<p>21</p>",
+        "option_2": "<p>16</p>",
+        "option_3": "<p>12</p>",
+        "option_4": "<p>17</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Given</strong>:- 4 ÷ 6 + 91 × 7 − 5 = ?<br/>As per given instruction after interchanging ‘+’ and ‘-‘ and ‘×’ and ‘÷’<br/>4 × 6 - 91 ÷ 7 + 5<br/>4 × 6 - 13 + 5 <br/>24 - 13 + 5 = 16</p>"
+    },
+    {
+        "question": "<p>Three of the following four letter-cluster pairs are like in a certain way and thus form a group. Which is the letter-cluster pair that does NOT belong to that group?<br/>(<strong>Note </strong>: The odd one out is not based on the number of consonants/vowels or their positions in the letter-cluster.)</p>",
+        "option_1": "<p>EJ - OT</p>",
+        "option_2": "<p>PF - OI</p>",
+        "option_3": "<p>KP - UZ</p>",
+        "option_4": "<p>CH - MR</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>' , But, </p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700513442.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700513568.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700513703.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700513826.png"
+    },
+    {
+        "question": "<p>In this question, three statements are given, followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements.<br/><strong>Statements :</strong><br/>All fans are brown.<br/>Some brown are chairs.<br/>Some chairs are plastic.<br/><strong>Conclusions :</strong><br/>I.Some brown are fans.<br/>II.Some chairs are brown.<br/>III.No chair is plastic.</p>",
+        "option_1": "<p>Only conclusions II and III follow.</p>",
+        "option_2": "<p>None of the conclusions follows.</p>",
+        "option_3": "<p>Only conclusions I and II follow.</p>",
+        "option_4": "<p>Only conclusion III follows.</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/><br/>Only conclusions I and II follow.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700513980.png"
+    },
+    {
+        "question": "<p>What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘–’ are interchanged and ‘×’ and ‘÷’ are interchanged?<br/>1604 × 4 – 525 ÷ 5 + 73 = ?</p>",
+        "option_1": "<p>2395</p>",
+        "option_2": "<p>2935</p>",
+        "option_3": "<p>2953</p>",
+        "option_4": "<p>2539</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Given:-</strong>1604 × 4 – 525 ÷ 5 + 73 = ?<br/>As per given statement after interchanging ‘+’ and ‘–’ and ‘×’ and ‘÷’<br/>1604 ÷ 4 + 525 × 5 - 73<br/>401 + 525 × 5 - 73<br/>401 + 2625 - 73 = 2953</p>"
+    },
+    {
+        "question": "<p>The position of how many letters will change, if each of the letters in the word ‘SYSTEM’ is arranged in the English alphabetical order?</p>",
+        "option_1": "<p>Five</p>",
+        "option_2": "<p>Six</p>",
+        "option_3": "<p>Three</p>",
+        "option_4": "<p>Four</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/><br/>The position of five letters changes.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700514261.png"
+    },
+    {
+        "question": "<p>Select the number from among the given options that can replace the question mark (?) in the following series.<br/>99, 123, 150, 180, 213, ?</p>",
+        "option_1": "<p>259</p>",
+        "option_2": "<p>258</p>",
+        "option_3": "<p>248</p>",
+        "option_4": "<p>249</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700514448.png"
+    },
+    {
+        "question": "<p>Select the option that can replace the question mark (?) in the following series.<br/>VO39, TM35, RK31, PI27, ?</p>",
+        "option_1": "<p>OH24</p>",
+        "option_2": "<p>NG23</p>",
+        "option_3": "<p>MH24</p>",
+        "option_4": "<p>MG22</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700514652.png"
+    },
+    {
+        "question": "<p>Read the given statements and conclusions carefully. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. You have to decide which conclusion(s) logically follow(s) from the given statements<br/><strong>Statements :</strong><br/>No river is a mountain.<br/>Some rivers are animals.<br/>Some birds are mountains.<br/><strong>Conclusions :</strong><br/>I: No animal is a mountain.<br/>II: No river is a bird.</p>",
+        "option_1": "<p>Only conclusion (II) follows</p>",
+        "option_2": "<p>Neither conclusion (I) nor (II) follows</p>",
+        "option_3": "<p>Both conclusions (I) and (II) follow</p>",
+        "option_4": "<p>Only conclusion (I) follows</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><br/>Neither conclusion (I) nor (II) follows</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700514861.png"
+    },
+    {
+        "question": "<p>Select the figure from among the given options that can replace the question mark (?) and logically complete the series.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700515223.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700515341.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700515473.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700515605.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700515731.png",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700515605.png"
+    },
+    {
+        "question": "<p>In a certain code language, ‘let it go’ is coded as ‘vc nt ap’ and ‘this is it’ is coded as ‘mq vc lh’. What is the code for ‘it’ in that language?</p>",
+        "option_1": "<p>mq</p>",
+        "option_2": "<p>vc</p>",
+        "option_3": "<p>lh</p>",
+        "option_4": "<p>nt</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><br/>The code of ‘it’ = vc</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700515877.png"
+    },
+    {
+        "question": "Select the word-pair that best represents a similar relationship to the one expressed in the pair of words given below.<br/>(The words must be considered as meaningful English words and must NOT be related to each other based on the number of letters/number of consonants/vowels in the word) <br/>Egypt : Nile",
+        "option_1": "Russia : Mississippi",
+        "option_2": "South Korea : Mekong",
+        "option_3": "Brazil : Colorado",
+        "option_4": "Myanmar : Irrawaddy",
+        "option_5": "",
+        "answer": "4",
+        "solution": "(d) The ‘Nile’ is the river of egypt. Similarly the ‘Irrawaddy’ is the river of myanmar."
+    },
+    {
+        "question": "In a certain code language, ‘It’s your life’ is written as ‘Ao Bo Co’ and ‘It’s your food’ is written as ‘Ba Co Bo’. How will ‘food’ be written in that language?",
+        "option_1": "Bo",
+        "option_2": "Co",
+        "option_3": "Ba",
+        "option_4": "Ao",
+        "option_5": "",
+        "answer": "3",
+        "solution": "(c)<br/>It’s your life <math display=\"inline\"><mo>→</mo></math> Ao Bo Co …….(i)<br/>It’s your food <math display=\"inline\"><mo>→</mo></math> Ba Co Bo …… (ii)<br/>In (i) and (ii) ‘It’s your’ and ‘Bo Co’ are common<br/>So, from (ii) the code of ‘food’ is ‘Ba’"
+    },
+    {
+        "question": "<p>Select the option that represents the letters that when placed from left to right in the blanks below will complete the given letter series.<br/>N _ B A N A _ A _ A N A N A B _ N A N A B A _ A N A</p>",
+        "option_1": "<p>ANANB</p>",
+        "option_2": "<p>NANAB</p>",
+        "option_3": "<p>ANABN</p>",
+        "option_4": "<p>ANBAN</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) N<span style=\"text-decoration: underline;\"><strong>A</strong></span>BANA/<span style=\"text-decoration: underline;\"><strong>N</strong></span>A<span style=\"text-decoration: underline;\"><strong>B</strong></span>ANA/NAB<span style=\"text-decoration: underline;\"><strong>A</strong></span>NA/NABA<span style=\"text-decoration: underline;\"><strong>N</strong></span>A/NA</p>"
+    },
+    {
+        "question": "<p>A paper is folded and cut as shown below. How will it appear when unfolded?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700516056.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700516173.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700516303.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700516414.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700516544.png",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700516303.png"
+    },
+    {
+        "question": "<p>Select the correct mirror image of the given figure when the mirror is placed at MN as shown.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700516670.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700516787.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700516908.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700517047.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700517154.png",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700516787.png"
+    },
+    {
+        "question": "<p>Select the letter-cluster from among the given options that can replace the question mark (?) to complete the given series.<br/>BVTO, DTVM, ?, HPZI, JNBG</p>",
+        "option_1": "<p>RXFK</p>",
+        "option_2": "<p>RFXK</p>",
+        "option_3": "<p>FKXR</p>",
+        "option_4": "<p>FRXK</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700517303.png"
+    },
+    {
+        "question": "<p>Select the set in which the numbers are related in the same way as are the numbers of the following sets.<br/>(NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)<br/>(18, 378, 7)<br/>(14, 210, 5)</p>",
+        "option_1": "<p>(15, 405, 9)</p>",
+        "option_2": "<p>(23, 230, 5)</p>",
+        "option_3": "<p>(17, 204, 6)</p>",
+        "option_4": "<p>(17, 272, 8)</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Logic:</strong> (first number × third number) × 3 = second number<br/>(18, 378, 7) <math display=\"inline\"><mo>⇒</mo></math> (18 × 7) × 3 = 378<br/>(14, 210, 5) <math display=\"inline\"><mo>⇒</mo></math>(14 × 5) × 3 = 210<br/>Similarly,<br/>(15, 405, 9) <math display=\"inline\"><mo>⇒</mo></math> (15 × 9) × 3 = 405</p>"
+    },
+    {
+        "question": "<p>Select the triad in which the numbers are related in the same way as are the numbers of the following triads.<br/>(NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g., 13 – Operations on 13 such as adding/deleting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)<br/>(2, 3, 17)<br/>(5, 2, 21)</p>",
+        "option_1": "<p>(3, 4, 23)</p>",
+        "option_2": "<p>(5, 6, 72)</p>",
+        "option_3": "<p>(1, 4, 17)</p>",
+        "option_4": "<p>(2, 5, 42)</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Logic</strong>: (first number × second number) + 11 = third number<br/>(2, 3, 17) <math display=\"inline\"><mo>⇒</mo></math> (2 × 3) + 11 = 17<br/>(5, 2, 21) <math display=\"inline\"><mo>⇒</mo></math> (5 × 2) + 11 = 21<br/>Similarly,<br/>(3, 4, 23) <math display=\"inline\"><mo>⇒</mo></math> (3 × 4) + 11 = 23</p>"
+    },
+    {
+        "question": "<p>Identify the figure given in the options which when put in place of the question mark (?) will logically complete the series.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700517468.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700517585.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700517738.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700517838.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700518020.png",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700517585.png"
+    },
+    {
+        "question": "<p>Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700518151.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700518293.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700518405.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700518544.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700518647.png",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700518293.png"
+    },
+    {
+        "question": "<p>The same operation(s) are followed in all the given number pairs except one. Find that odd number pair.<br/>(NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)bxs</p>",
+        "option_1": "<p>12 : 39</p>",
+        "option_2": "<p>15 : 48</p>",
+        "option_3": "<p>11 : 35</p>",
+        "option_4": "<p>13 : 42</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong> Logic:</strong> (first number × 3 + 3) = second number<br/>(12 : 39) <math display=\"inline\"><mo>⇒</mo></math> 12 × 3 +3 = 39<br/>(15 : 48) <math display=\"inline\"><mo>⇒</mo></math> 15 × 3 + 3 = 48 <br/>(13 : 42) <math display=\"inline\"><mo>⇒</mo></math> 13 × 3 + 3 = 42 <br/>But<br/>(11 : 35) <math display=\"inline\"><mo>⇒</mo></math> 11 × 3 + 3 = 36 (≠ 35)</p>"
+    },
+    {
+        "question": "<p>A square sheet of paper is folded along the dotted lines successively in the directions shown and is then punched in the last. How would the paper look when unfolded?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700518818.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700518911.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700519019.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700519158.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700519275.png",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700519019.png"
+    },
+    {
+        "question": "<p>Select the triad in which the numbers are related in the same way as are the numbers of the given triads.<br/>(16, 33, 67),<br/>(19, 39, 79)<br/>(NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)</p>",
+        "option_1": "<p>(22, 45, 91)</p>",
+        "option_2": "<p>(21, 45, 90)</p>",
+        "option_3": "<p>(18, 36, 80)</p>",
+        "option_4": "<p>(14, 27, 53)</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Logic:-</strong> (3rd number - 2nd number) ÷ 2 - 1 = 1st number<br/>(16, 33, 67):- (67 - 33) ÷ 2 - 1 ⇒ (34) ÷ 2 - 1 ⇒ (17) - 1 = 16 <br/>(19, 39, 79):- (79 - 39) <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>÷</mo></math> 2 - 1 ⇒ (40) ÷ 2 - 1 ⇒ (20) - 1 = 19<br/>Similarly,<br/>(22, 45, 91):- (91 - 45) <math display=\"inline\"><mo>÷</mo></math> 2 - 1 ⇒ (46) ÷ 2 - 1 ⇒ (23) - 1 = 22</p>"
+    },
+    {
+        "question": "<p>In a certain code language,<br/>R + T means ‘R is the sister of T’.<br/>R – T means ‘R is the father of T’.<br/>R * T means ‘R is the wife of T’.<br/>R ÷ T means ‘R is the mother of T’.<br/>Based on the above, how is F related to C if ‘A + B – C ÷ D * E – F ÷ G’?</p>",
+        "option_1": "<p>Daughter’s daughter</p>",
+        "option_2": "<p>Wife</p>",
+        "option_3": "<p>Daughter</p>",
+        "option_4": "<p>Mother</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/><br/>F is Daughter’s daughter of C</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700519449.png"
+    },
+    {
+        "question": "<p>Which condition, also known as icterus, causes a yellowing of your skin and the whites of your eyes?</p>",
+        "option_1": "<p>Ichthyosis</p>",
+        "option_2": "<p>Jaundice</p>",
+        "option_3": "<p>Eczema</p>",
+        "option_4": "<p>Pemphigus</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong> Jaundice.</strong> This yellowing occurs due to high levels of bilirubin in the blood. Bilirubin is a yellow pigment produced during the normal breakdown of red blood cells. Ichthyosis is a group of genetic skin disorders that cause dry, scaly, thickened skin. Eczema is a common skin condition that causes itchiness, rashes, dry patches, and infection. Pemphigus is a rare group of autoimmune diseases that cause blisters on the skin and mucous membranes.</p>"
+    },
+    {
+        "question": "<p>Under the leadership of which of the following revolutionaries was Chittagong Armoury Raid conducted?</p>",
+        "option_1": "<p>Rash Behari Bose</p>",
+        "option_2": "<p>Badal Gupta</p>",
+        "option_3": "<p>Hemu Kalani</p>",
+        "option_4": "<p>Surya Sen</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Surya Sen</strong> is also known as Master Da. He founded The Indian Republican Army. The Chittagong Armoury Raid took place on April 18, 1930, in Chittagong (now in Bangladesh). Ras Bihari Bose was the founder of the 'Indian Independence League’. He chaired the Indian Independence League in 1942 to formally launch the Indian National Army.</p>"
+    },
+    {
+        "question": "<p>In which of the following states is Govindji Nartanalaya located?</p>",
+        "option_1": "<p>Manipur</p>",
+        "option_2": "<p>Assam</p>",
+        "option_3": "<p>Nagaland</p>",
+        "option_4": "<p>Tripura</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Manipur</strong>. Govindji Nartanalaya is a well-known cultural institution dedicated to promoting Manipuri classical dance and other traditional art forms. This institute was founded by Manipuri dancer and choreographer Guru Bipin Singh. Some notable dance institutions established by famous dancers : Kalakshetra Foundation (Tamil Nadu) - Rukmini Devi Arundale; Shri Ram Bharatiya Kala Kendra (New Delhi) - Sumitra Charat Ram; Nrityabharti Kathak Dance Academy (Maharashtra) - Rohini Bhate.</p>"
+    },
+    {
+        "question": "<p>Which of the following celebrations is dedicated to Sun God and his wife Usha to thank them for sustaining life on earth and for granting wishes?</p>",
+        "option_1": "<p>Madai Festival</p>",
+        "option_2": "<p>Chhath Puja</p>",
+        "option_3": "<p>Vishwakarma Puja</p>",
+        "option_4": "<p>Sorath Sabha</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Chhath Puja</strong> is a four-day long strict and spiritual observance. The first day of the Chhath Puja includes taking a dip in the holy river/any water body. The second day of Chhath, also known as Kharna, involves devotees observing a day-long fast. The third day of Chhath goes in the preparation of the prasad (offerings) for the evening offerings, also known as Sanjhiya Arghya. On the fourth and final day of Chhath, family members and friends go to the banks of rivers before sunrise and make offerings (Arghya) to the rising sun.</p>"
+    },
+    {
+        "question": "<p>Which of the following inscriptions of Rudradaman happened to be the first royal inscription of early India composed in chaste Sanskrit ?</p>",
+        "option_1": "<p>Prayag</p>",
+        "option_2": "<p>Girnar</p>",
+        "option_3": "<p>Chirand</p>",
+        "option_4": "<p>Mehrauli</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Girnar</strong>. Rudradaman I, a ruler of the Western Satraps (Shaka), issued Girnar inscriptions in 150 CE. It is located on Mount Girnar in Gujarat. The inscription primarily talks about Rudradaman's achievements, including the repair of the Sudarsana Lake, which was originally constructed by Mauryan emperor Chandragupta. The Allahabad Pillar Inscription (Prayag Prasasti) was issued by Samudragupta and composed in Sanskrit by Harisena. The Iron Pillar in Mehrauli, Delhi, was established by Chandragupta II of the Gupta dynasty and contains inscriptions related to him.</p>"
+    },
+    {
+        "question": "<p>The first southern campaign of Alauddin Khilji in 1307-08 AD was led to which of the following regions?</p>",
+        "option_1": "<p>Devagiri</p>",
+        "option_2": "<p>Warangal</p>",
+        "option_3": "<p>Dwar Samudra</p>",
+        "option_4": "<p>Madura</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Devagiri </strong>(modern-day Daulatabad, Maharashtra). This campaign marked the beginning of the Delhi Sultanate's expansion into southern India. Alauddin Khilji (1296 -1316) was the second sultan of the Khilji dynasty. Campaigns of Alauddin Khilji: Gujarat (1299), Ranthambore (1301), Chittor (1303), Malwa (1305), Madurai (1311), Dwarasamudra (1310-1311).</p>"
+    },
+    {
+        "question": "<p>What is the IUPAC name of tertiarybutyl alcohol?</p>",
+        "option_1": "<p>2-Methylpropan-2-ol</p>",
+        "option_2": "<p>1-propylpropan-3-ol</p>",
+        "option_3": "<p>1-Methylpropan-3-ol</p>",
+        "option_4": "<p>1-ethylpropan-3-ol</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>2-Methylpropan-2-ol.</strong> Tertiary Butyl Alcohol, also Tert-butyl alcohol, is a tertiary alcohol used in fuels and fuel additives, intermediates and laboratory chemicals. It is a colorless oily liquid with a sharp alcohol odor.</p>"
+    },
+    {
+        "question": "<p>What is the relationship between interest rate and demand for money?</p>",
+        "option_1": "<p>No relationship exists</p>",
+        "option_2": "<p>Inverse</p>",
+        "option_3": "<p>Direct</p>",
+        "option_4": "<p>Proportionate</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Inverse</strong>. Interest rate and demand for money have an inverse relationship, meaning that demand for money decreases as interest rates increase, and increases as interest rates decrease.</p>"
+    },
+    {
+        "question": "<p>When electricity is passed through water, what kind of chemical reaction occurs?</p>",
+        "option_1": "<p>Decomposition</p>",
+        "option_2": "<p>Displacement</p>",
+        "option_3": "<p>Double displacement</p>",
+        "option_4": "<p>Combination</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Decomposition</strong>. This process is known as electrolysis which breaks down water (<math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math>) into its constituent gases, hydrogen (<math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub></math>) and oxygen (<math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">O</mi><mn>2</mn></msub></math>). Reactions in which a compound splits up into two or more simpler substances are known as decomposition reactions. Displacement: Reactions in which a more reactive element displaces a less reactive element from its compound. Example - When iron (Fe) reacts with copper sulfate (<math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>CuSO</mi><mn>4</mn></msub></math>). Double displacement: Reactions in which two compounds react by an exchange of ions to form two new compounds. Example - Silver nitrate (<math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>AgNO</mi><mn>3</mn></msub></math>) reacts with magnesium chloride (<math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>MgCl</mi><mn>2</mn></msub></math>). Combination Reaction: Two or more substances combine to form a single compound. Example - Formation of water <math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub></math>(g) + O<sub>2</sub>(g) → <math class=\"wrs_chemistry\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msub><mi mathvariant=\"normal\">H</mi><mn>2</mn></msub><mi mathvariant=\"normal\">O</mi></math>(l).</p>"
+    },
+    {
+        "question": "<p>Which music-composer duo was honoured with the National Lata Mangeshkar Award for the year 2020?</p>",
+        "option_1": "<p>Sachin–Jigar</p>",
+        "option_2": "<p>Jatin-Lalit</p>",
+        "option_3": "<p>Salim–Sulaiman</p>",
+        "option_4": "<p>Anand-Milind</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Anand-Milind</strong>. The National Lata Mangeshkar Award, presented by the Madhya Pradesh government, was established in 1984. Notable awardees include Naushad, the first recipient in 1984, as well as Kumar Sanu (2021), Uttam Singh (2022), and K. S. Chithra (2023).</p>"
+    },
+    {
+        "question": "<p>Which of the following can be represented as a functional unit of nature?</p>",
+        "option_1": "<p>Vehicles</p>",
+        "option_2": "<p>Ecosystem</p>",
+        "option_3": "<p>Humans</p>",
+        "option_4": "<p>Plants</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Ecosystem</strong>. This is because an ecosystem encompasses all living organisms (plants, animals, and microorganisms) interacting with each other and with the non-living components (like air, water, and soil) within their environment. These interactions allow for energy flow, nutrient cycling, and the maintenance of life-supporting processes, which are critical functions of nature.</p>"
+    },
+    {
+        "question": "<p>In Which state of India is kund or Tanka used for water harvesting ?</p>",
+        "option_1": "<p>Rajasthan</p>",
+        "option_2": "<p>Andhra Pradesh</p>",
+        "option_3": "<p>Uttar Pradesh</p>",
+        "option_4": "<p>Punjab</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Rajasthan</strong>. This region faces extreme arid conditions and low rainfall, so local communities have developed innovative systems to conserve and store water. Water harvesting structures in other States: Kere (large tanks) in Karnataka, Cheruvu in Andhra Pradesh, Bandharas and Tals in Maharashtra, Surangam in Kerala, Eris (tanks) in Tamil Nadu, Bhundis in Madhya Pradesh and Uttar Pradesh.</p>"
+    },
+    {
+        "question": "<p>The inaugural match of the Women Premier League 2023 cricket was played in which of the following venues?</p>",
+        "option_1": "<p>Delhi</p>",
+        "option_2": "<p>Mumbai</p>",
+        "option_3": "<p>Chennai</p>",
+        "option_4": "<p>Kolkata</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>Mumbai</strong>. Women's Premier League (WPL) is a women's Twenty20 cricket franchise league in India, owned and operated by the Board of Control for Cricket in India (BCCI). WPL 2023 Champions: Mumbai Indians; Runners-up: Delhi Capitals. Player of the Series: Hayley Matthews (Mumbai Indians). The 2024 Women's Premier League was won by Royal Challengers Bangalore, and the runners-up were Delhi Capitals.</p>"
+    },
+    {
+        "question": "<p>Which of the following is NOT correct about Directive Principles of State Policy?</p>",
+        "option_1": "<p>They ensure social and economic development.</p>",
+        "option_2": "<p>They are justiciable in nature.</p>",
+        "option_3": "<p>They provide guidelines for the governance of the country.</p>",
+        "option_4": "<p>They are morally binding on the government.</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) The Directive Principles of State Policy (DPSP) are guidelines enshrined in the Indian Constitution (Part IV Article 36 to 51) to promote social and economic welfare and direct the government in making policies that ensure justice and equality for all citizens. However, these principles are non-justiciable, meaning they cannot be enforced by a court of law, while fundamental rights are enforceable in a court.</p>"
+    },
+    {
+        "question": "<p>At what latitude does the easterly jet stream blow over peninsular India during the summer months?</p>",
+        "option_1": "<p>24°N</p>",
+        "option_2": "<p>30°N</p>",
+        "option_3": "<p>14°N</p>",
+        "option_4": "<p>28°N</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>14°N</strong>. The Jet Stream is a geostrophic wind blowing horizontally through the upper layers of the troposphere, generally from west to east. The tropical easterly jet stream, located between 8 and 35 degrees north latitude, is connected to the southwest monsoon in India.</p>"
+    },
+    {
+        "question": "<p>According to Census of India 2011, in rural India, which state has the maximum female workforce participation rate?</p>",
+        "option_1": "<p>Arunachal Pradesh</p>",
+        "option_2": "<p>Uttar Pradesh</p>",
+        "option_3": "<p>Himachal Pradesh</p>",
+        "option_4": "<p>Andhra Pradesh</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Himachal Pradesh.</strong> As per Census 2011, the workforce participation rate for females is 25.51% against 53.26% for males. Rural sector has a better female workforce participation rate of 30.02% compared with 53.03% for males whereas for the urban sector. In Rural, Himachal Pradesh has the highest female workforce participation rate (47.4) whereas Tamil Nadu has max (21.8) among major states.</p>"
+    },
+    {
+        "question": "<p>In 2021, in which of the following states did the Prime Minister lay the foundation stone for the Raja Mahendra Pratap Singh State University?</p>",
+        "option_1": "<p>Uttar Pradesh</p>",
+        "option_2": "<p>Gujarat</p>",
+        "option_3": "<p>Himachal Pradesh</p>",
+        "option_4": "<p>Nagaland</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Uttar Pradesh. </strong>Raja Mahendra Pratap Singh State University is being established in Aligarh. Raja Mahendra Pratap was an Indian freedom fighter, journalist, writer, revolutionary, President in the Provisional Government of India, which served as the Indian Government-in-exile during World War I from Kabul.</p>"
+    },
+    {
+        "question": "<p>When was a Madrasa opened in Kolkata to promote the study of Arabic, Persian and Islamic law?</p>",
+        "option_1": "<p>1772 C.E.</p>",
+        "option_2": "<p>1783 C.E.</p>",
+        "option_3": "<p>1781 C.E.</p>",
+        "option_4": "<p>1774 C.E.</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>1781 C.E</strong>. It was set up by Warren Hastings of the first Governor General of East India Company. Other universities and colleges: Aligarh Muslim University, originally as the Muhammadan Anglo-Oriental College (1875), Jamia Millia Islamia (1920), Darul Uloom Deoband (1866), Osmania University (1918).</p>"
+    },
+    {
+        "question": "<p>Which Article of the Constitution explains that the executive power of every state shall be so exercised as not to impede or prejudice the exercise of the executive power of the Union, and the executive power of the union shall extend to the giving of such directions to a state as may appear to the Government of India to be necessary for that purpose?</p>",
+        "option_1": "<p>Article 261</p>",
+        "option_2": "<p>Article 247</p>",
+        "option_3": "<p>Article 257</p>",
+        "option_4": "<p>Article 123</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Article 257</strong> - Control of the Union over States in certain cases. Other Articles: Article 123 - Power of President to promulgate Ordinances during recess of Parliament. Article 247 - Power of Parliament to provide for the establishment of certain additional courts. Article 261 - Public acts, records and judicial proceedings.</p>"
+    },
+    {
+        "question": "<p>Which of the following statements correctly defines the green revolution?</p>",
+        "option_1": "<p>It is a new strategy in agriculture to produce food grains, especially wheat and rice.</p>",
+        "option_2": "<p>It is a new strategy to increase the share of the forest.</p>",
+        "option_3": "<p>It is a new strategy to use green colour for all purposes.</p>",
+        "option_4": "<p>It is a new strategy to use only herbal products.</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) The Green Revolution began in the 1960s, particularly in countries like India, where the government aimed to achieve food security and reduce dependence on food imports. Key elements of the Green Revolution included the introduction of high-yielding variety (HYV) seeds, mechanized farming tools, improved irrigation systems, as well as the use of pesticides and fertilizers.</p>"
+    },
+    {
+        "question": "<p>In the year 1952, who among the following lent his voice for the film ‘Amar Bhupali’, which was being produced in two languages simultaneously and he sang in both Bengali and Marathi ?</p>",
+        "option_1": "<p>Kishore Kumar</p>",
+        "option_2": "<p>Hemanta Mukherjee</p>",
+        "option_3": "<p>Debabrata Biswas</p>",
+        "option_4": "<p>Manna Dey</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Manna Dey</strong> was a renowned Indian playback singer, music director, and musician. He had a classical music background, being part of the Bhendibazaar Gharana. He received Padma Shri in 1971, Padma Bhushan in 2005 and Dadasaheb Phalke award in 2007.</p>"
+    },
+    {
+        "question": "<p>In which part of India does the hot wind ‘Loo’ blow?</p>",
+        "option_1": "<p>West and Southwestern</p>",
+        "option_2": "<p>North and Northwestern</p>",
+        "option_3": "<p>East and Northeastern</p>",
+        "option_4": "<p>South and Southwestern</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>North and Northwestern. </strong>Loo is Hot, dry and oppressing winds blowing during the day in the Northern plains from Punjab to Bihar with higher intensity between Delhi and Patna. It is especially strong in the months of May and June. Sometimes they even continue until late in the evening. Direct exposure to these winds may even prove to be fatal.</p>"
+    },
+    {
+        "question": "<p>The government of which of the following states created a draft policy in 2022 for senior citizens on the basis of article 41, which aims to form a directorate for the welfare of senior citizens?</p>",
+        "option_1": "<p>Karnataka</p>",
+        "option_2": "<p>Telangana</p>",
+        "option_3": "<p>Tamil Nadu</p>",
+        "option_4": "<p>Kerala</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong> Tamil Nadu</strong>. The policy was designed To enhance the quality of life of the senior citizens, the State will ensure timely access to health, nutrition, safety, security, financial stability, shelter, and protection. Schemes related to senior citizens: National Policy on Older Persons (1999), Rashtriya Vayoshri Yojana (2017), Indira Gandhi National Old Age Pension Scheme (2007).</p>"
+    },
+    {
+        "question": "<p>When was the High Court and Supreme Court Judges (Salaries and Conditions of Service) Amendment Bill, 2021 introduced in Lok Sabha?</p>",
+        "option_1": "<p>27 September 2021</p>",
+        "option_2": "<p>30 November 2021</p>",
+        "option_3": "<p>29 March 2021</p>",
+        "option_4": "<p>28 April 2021</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong> 30 November 2021. </strong>This Bill was introduced by the Minister of Law and Justice, Kiren Rijiju. The bill amended the High Court Judges (Salaries and Conditions of Service) Act, 1954, and the Supreme Court Judges (Salaries and Conditions of Service) Act, 1958. The bill's main purpose was to clarify when retired judges would receive enhanced pension. The bill was passed by the Lok Sabha on December 8, 2021, and by the Rajya Sabha on December 13, 2021.</p>"
+    },
+    {
+        "question": "<p>At which Olympics did Gagan Narang win a bronze medal?</p>",
+        "option_1": "<p>London 2012</p>",
+        "option_2": "<p>Rio 2016</p>",
+        "option_3": "<p>Athens 2004</p>",
+        "option_4": "<p>Beijing 2008</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>London 2012. </strong>Gagan Narang is an Indian sports shooter and is associated with air rifle shooting. He won the bronze medal in the Men’s 10 meter air rifle event. He received the Arjuna award in 2005. Indian Shooters: Abhinav Bindra, Rajyavardhan Singh Rathore, Vijay Kumar, Manu Bhaker, Swapnil Kusale.</p>"
+    },
+    {
+        "question": "<p>Madhav purchased an item for ₹42,000 and sold it at a loss of 20%. With that amount, he purchased another item and sold it at a gain of 30%. What is the overall gain (in ₹)?</p>",
+        "option_1": "<p>6720</p>",
+        "option_2": "<p>4200</p>",
+        "option_3": "<p>1680</p>",
+        "option_4": "<p>2520</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/>Overall gain% = 30 - 20 - <math display=\"inline\"><mfrac><mrow><mn>30</mn><mi> </mi><mo>×</mo><mi> </mi><mn>20</mn></mrow><mrow><mn>100</mn></mrow></mfrac></math> = 10 - 6 = 4%<br/><b>Hence,</b> overall gain = 42000 × 4% = Rs.1680</p>"
+    },
+    {
+        "question": "<p>What is the volume (in cm³) of a cylinder if the radius of the cylinder is 8 cm and the height is 14 cm? (Take π =<math display=\"inline\"><mfrac><mrow><mn>22</mn></mrow><mrow><mn>7</mn></mrow></mfrac></math> )</p>",
+        "option_1": "<p>2686</p>",
+        "option_2": "<p>2816</p>",
+        "option_3": "<p>2784</p>",
+        "option_4": "<p>2456</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) Volume of cylinder =<math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi>πr</mi><mn>2</mn></msup><mi mathvariant=\"normal\">h</mi></math><br/><math display=\"inline\"><mo>⇒</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>22</mn><mn>7</mn></mfrac></math> × (8)² × 14 = 2816 cm³</p>"
+    },
+    {
+        "question": "<p>Seven years ago, Prachi was four times as old as her daughter was at that time. Four years from now, Prachi will be two- and-a-half times as old as her daughter would then be. Find the sum of the present ages (in years) of Prachi and her daughter.</p>",
+        "option_1": "<p>69</p>",
+        "option_2": "<p>77</p>",
+        "option_3": "<p>49</p>",
+        "option_4": "<p>72</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) Let the present age of Prachi be x and her daughter be y<br/>According to the question,<br/>Seven years ago-<br/>(x - 7) = 4(y - 7)<br/>x - 4y = - 21 -------(i)<br/>After four years - <br/>(x + 4) = 2.5(y + 4)<br/>x - 2.5y = 6 -------(ii)<br/>Subtract eq. (i) from (ii) we get;<br/>1.5<math display=\"inline\"><mi>y</mi></math> = 27 ⇒ y = 18<br/>Putting y = 18 in equation (i) we get;<br/>x - 4 × 18 = - 21<br/>x = 72 - 21 = 51<br/>So, sum of present age of Prachi and her daughter (x + y) = 51 + 18 = 69 years</p>"
+    },
+    {
+        "question": "<p>From a circle with the radius of 15.75 cm, a sector with the arc length of 11 cm is cut off. Find the area (in cm²) of this sector.</p>",
+        "option_1": "<p>525</p>",
+        "option_2": "<p>625</p>",
+        "option_3": "<p>875</p>",
+        "option_4": "<p>125</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>Area of sector = <math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math> × l × r<br/>= <math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math> × 11 × 15.75 = 86.625 cm²</p>"
+    },
+    {
+        "question": "<p>Simplify<br/><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>(</mo><mn>8</mn><mo>.</mo><mn>3</mn><msup><mo>)</mo><mn>3</mn></msup><mo>+</mo><mo>(</mo><mn>9</mn><mo>.</mo><mn>2</mn><msup><mo>)</mo><mn>3</mn></msup><mo>+</mo><mo>(</mo><mn>6</mn><mo>.</mo><mn>1</mn><msup><mo>)</mo><mn>3</mn></msup><mo>-</mo><mn>3</mn><mo>×</mo><mn>8</mn><mo>.</mo><mn>3</mn><mo>×</mo><mn>9</mn><mo>.</mo><mn>2</mn><mo>×</mo><mn>6</mn><mo>.</mo><mn>1</mn></mrow><mrow><mo>(</mo><mn>8</mn><mo>.</mo><mn>3</mn><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mo>(</mo><mn>9</mn><mo>.</mo><mn>2</mn><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mo>(</mo><mn>6</mn><mo>.</mo><mn>1</mn><msup><mo>)</mo><mn>2</mn></msup><mo>-</mo><mn>8</mn><mo>.</mo><mn>3</mn><mo>×</mo><mn>9</mn><mo>.</mo><mn>2</mn><mo>-</mo><mn>9</mn><mo>.</mo><mn>2</mn><mo>×</mo><mn>6</mn><mo>.</mo><mn>1</mn><mo>-</mo><mn>6</mn><mo>.</mo><mn>1</mn><mo>×</mo><mn>8</mn><mo>.</mo><mn>3</mn></mrow></mfrac></math></p>",
+        "option_1": "<p>2</p>",
+        "option_2": "<p>6</p>",
+        "option_3": "<p>7</p>",
+        "option_4": "<p>5</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>(</mo><mn>8</mn><mo>.</mo><mn>3</mn><msup><mo>)</mo><mn>3</mn></msup><mo>+</mo><mo>(</mo><mn>9</mn><mo>.</mo><mn>2</mn><msup><mo>)</mo><mn>3</mn></msup><mo>+</mo><mo>(</mo><mn>6</mn><mo>.</mo><mn>1</mn><msup><mo>)</mo><mn>3</mn></msup><mo>-</mo><mn>3</mn><mo>×</mo><mn>8</mn><mo>.</mo><mn>3</mn><mo>×</mo><mn>9</mn><mo>.</mo><mn>2</mn><mo>×</mo><mn>6</mn><mo>.</mo><mn>1</mn></mrow><mrow><mo>(</mo><mn>8</mn><mo>.</mo><mn>3</mn><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mo>(</mo><mn>9</mn><mo>.</mo><mn>2</mn><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mo>(</mo><mn>6</mn><mo>.</mo><mn>1</mn><msup><mo>)</mo><mn>2</mn></msup><mo>-</mo><mn>8</mn><mo>.</mo><mn>3</mn><mo>×</mo><mn>9</mn><mo>.</mo><mn>2</mn><mo>-</mo><mn>9</mn><mo>.</mo><mn>2</mn><mo>×</mo><mn>6</mn><mo>.</mo><mn>1</mn><mo>-</mo><mn>6</mn><mo>.</mo><mn>1</mn><mo>×</mo><mn>8</mn><mo>.</mo><mn>3</mn></mrow></mfrac></math><br/><strong>Identity used:-</strong> (a)³ + (b)³ + (c)³ - 3abc = (a + b + c)[(a)² + (b)² + (c)² - ab - bc - ac]<br/><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>(</mo><mn>8</mn><mo>.</mo><mn>3</mn><msup><mo>)</mo><mn>3</mn></msup><mo>+</mo><mo>(</mo><mn>9</mn><mo>.</mo><mn>2</mn><msup><mo>)</mo><mn>3</mn></msup><mo>+</mo><mo>(</mo><mn>6</mn><mo>.</mo><mn>1</mn><msup><mo>)</mo><mn>3</mn></msup><mo>-</mo><mn>3</mn><mo>×</mo><mn>8</mn><mo>.</mo><mn>3</mn><mo>×</mo><mn>9</mn><mo>.</mo><mn>2</mn><mo>×</mo><mn>6</mn><mo>.</mo><mn>1</mn></mrow><mfrac><mrow><mo>(</mo><mn>8</mn><mo>.</mo><mn>3</mn><msup><mo>)</mo><mn>3</mn></msup><mo>+</mo><mo>(</mo><mn>9</mn><mo>.</mo><mn>2</mn><msup><mo>)</mo><mn>3</mn></msup><mo>+</mo><mo>(</mo><mn>6</mn><mo>.</mo><mn>1</mn><msup><mo>)</mo><mn>3</mn></msup><mo>-</mo><mn>3</mn><mo>×</mo><mn>8</mn><mo>.</mo><mn>3</mn><mo>×</mo><mn>9</mn><mo>.</mo><mn>2</mn><mo>×</mo><mn>6</mn><mo>.</mo><mn>1</mn></mrow><mrow><mo>(</mo><mn>8</mn><mo>.</mo><mn>3</mn><mo>+</mo><mn>9</mn><mo>.</mo><mn>2</mn><mo>+</mo><mn>6</mn><mo>.</mo><mn>1</mn><mo>)</mo></mrow></mfrac></mfrac></math> = 8.3 + 9.2 + 6.1 = 23.6</p>"
+    },
+    {
+        "question": "<p>What is the value of sec (t), if tan(t) =<math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math>?</p>",
+        "option_1": "<p><math display=\"inline\"><mfrac><mrow><mn>2</mn><msqrt><mn>2</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac></math></p>",
+        "option_2": "<p><math display=\"inline\"><mfrac><mrow><msqrt><mn>10</mn></msqrt></mrow><mrow><mn>9</mn></mrow></mfrac></math></p>",
+        "option_3": "<p><math display=\"inline\"><mfrac><mrow><msqrt><mn>10</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac></math></p>",
+        "option_4": "<p><math display=\"inline\"><mfrac><mrow><msqrt><mn>3</mn></msqrt></mrow><mrow><mn>3</mn></mrow></mfrac></math></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/>tan(t) = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>perpendicular</mi><mi>base</mi></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>3</mn></mfrac></math><br/>Hypotenuse = <math display=\"inline\"><msqrt><mo>(</mo><mn>3</mn><msup><mrow><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mi> </mi><mo>(</mo><mn>1</mn><msup><mrow><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></msqrt></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>10</mn></msqrt></math><br/>Now, sec(t) = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>hypotenuse</mi><mi>base</mi></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msqrt><mn>10</mn></msqrt><mn>3</mn></mfrac></math></p>"
+    },
+    {
+        "question": "<p>The points P and S are on the same side of the line segment QR, such that ∠PQR = 90°, ∠SRQ = 90° and PQ = SR. Select the correct statement.</p>",
+        "option_1": "<p><math display=\"inline\"><mi>Δ</mi></math>PQR ≅ ΔSRQ by RHS</p>",
+        "option_2": "<p><math display=\"inline\"><mi>Δ</mi></math>PQR ≅ ΔSQR by SAS</p>",
+        "option_3": "<p><math display=\"inline\"><mi>Δ</mi></math>PQR ≅ ΔSQR by RHS</p>",
+        "option_4": "<p><math display=\"inline\"><mi>Δ</mi></math>PQR ≅ ΔSRQ by SAS</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/><br/>In the <math display=\"inline\"><mi>Δ</mi></math> PQR and ΔSRQ<br/>PQ = SR {given}<br/>∠Q = ∠R {both are 90°}<br/>QR = QR {common side}<br/><b>Hence,</b> <math display=\"inline\"><mi>Δ</mi></math>PQR ≅ ΔSRQ {by SAS congruence}</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700519717.png"
+    },
+    {
+        "question": "<p>The marked price of an article is 26% more than its cost price. If a discount of 32% is given, what will be the loss percentage?</p>",
+        "option_1": "<p>64%</p>",
+        "option_2": "<p>25%</p>",
+        "option_3": "<p>26%</p>",
+        "option_4": "<p>32%</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>MP</mi><mi>CP</mi></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>126</mn><mn>100</mn></mfrac></math><br/>After giving discount of 32%<br/>Selling price = 126 × <math display=\"inline\"><mfrac><mrow><mn>68</mn></mrow><mrow><mn>100</mn></mrow></mfrac></math> = 85.68<br/><b>Hence,</b> loss % = <math display=\"inline\"><mfrac><mrow><mn>100</mn><mi> </mi><mo>-</mo><mi> </mi><mn>85</mn><mo>.</mo><mn>68</mn></mrow><mrow><mn>100</mn></mrow></mfrac></math> × 100 = 14.32%</p>"
+    },
+    {
+        "question": "<p>Simplify the following.<math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>sin</mi><mo>³</mo><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\"> </mi><mo>-</mo><mi mathvariant=\"normal\"> </mi><mi>cos</mi><mo>³</mo><mi mathvariant=\"normal\">A</mi><mo> </mo></mrow><mrow><mi>sin</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">A</mi><mi mathvariant=\"normal\"> </mi><mo>-</mo><mi mathvariant=\"normal\"> </mi><mi>cos</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">A</mi></mrow></mfrac></math> where A is an acute angle.</p>",
+        "option_1": "<p>1 + sinA cosA</p>",
+        "option_2": "<p>1 - 3 sinA</p>",
+        "option_3": "<p>3 cosA - 1</p>",
+        "option_4": "<p>sinA + cosA</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Identity used: </strong><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mi mathvariant=\"normal\">a</mi><mn>3</mn></msup><mo>-</mo><msup><mi mathvariant=\"normal\">b</mi><mn>3</mn></msup></math> = (a - b)(a² + b² + ab)<br/><math style=\"font-family:Verdana\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>s</mi><mi>i</mi><msup><mi>n</mi><mn>3</mn></msup><mi>A</mi><mo>-</mo><mi>c</mi><mi>o</mi><msup><mi>s</mi><mn>3</mn></msup><mi>A</mi></mrow><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mi>A</mi><mo>-</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi></mrow></mfrac></math><br/>= <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>(</mo><mi>s</mi><mi>i</mi><mi>n</mi><mi>A</mi><mo>-</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mo>)</mo><mo>[</mo><mi>s</mi><mi>i</mi><msup><mi>n</mi><mn>2</mn></msup><mi>A</mi><mo>+</mo><mi>c</mi><mi>o</mi><msup><mi>s</mi><mn>2</mn></msup><mi>A</mi><mo>+</mo><mi>S</mi><mi>i</mi><mi>n</mi><mi>A</mi><mo>.</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mo>]</mo></mrow><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mi>A</mi><mo>-</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi></mrow></mfrac></math><br/>= <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>(</mo><mi>s</mi><mi>i</mi><mi>n</mi><mi>A</mi><mo>-</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mo>)</mo><mo>[</mo><mn>1</mn><mo>+</mo><mi>S</mi><mi>i</mi><mi>n</mi><mi>A</mi><mo>.</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mo>]</mo></mrow><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mi>A</mi><mo>-</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi></mrow></mfrac></math><br/>= <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>+</mo><mi>SinA</mi><mo>.</mo><mi>cosA</mi></math></p>"
+    },
+    {
+        "question": "<p>The given chart shows the production of different types of cars in the year 2021.<br/>Study the given chart and answer the question that follows.<br/> <br/>If the total production in the year 2021 was 2,00,00,000, then what will be the central angle of the sector representing the production of type D cars in 2021?</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700519974.png",
+        "option_1": "<p>50°</p>",
+        "option_2": "<p>36°</p>",
+        "option_3": "<p>42°</p>",
+        "option_4": "<p>72°</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) As we know, 1% = 3.6°<br/>Then, Production of type D cars in 2021 = 20% = 20 × 3.6° = 72°</p>"
+    },
+    {
+        "question": "<p>A right-angled isosceles triangle has an area of 50 square units. Its hypotenuse is (in units):</p>",
+        "option_1": "<p><math display=\"inline\"><mn>10</mn><msqrt><mn>3</mn></msqrt></math></p>",
+        "option_2": "<p><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><msqrt><mn>5</mn></msqrt></math></p>",
+        "option_3": "<p><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><msqrt><mn>2</mn></msqrt></math></p>",
+        "option_4": "<p><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><msqrt><mn>2</mn></msqrt></math></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) Area of isosceles right angle triangle =<math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mo>(</mo><mfrac><mrow><mi>hypotenuse</mi><mo>(</mo><mi mathvariant=\"normal\">H</mi><mo>)</mo></mrow><mn>2</mn></mfrac><mo>)</mo></mrow><mn>2</mn></msup></math><br/><math display=\"inline\"><mo>⇒</mo></math> (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi mathvariant=\"normal\">H</mi><mn>2</mn></mfrac></math>)² = 50<br/><math display=\"inline\"><mo>⇒</mo></math> H² = 200 <br/><math display=\"inline\"><mo>⇒</mo></math> H = 10<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>2</mn></msqrt></math> unit</p>"
+    },
+    {
+        "question": "<p>The pie chart given below shows the expenditure (in percentage) of Aditya. The monthly income of Aditya is ₹54,000.<br/> <br/>How much does he spend (in₹) on Food?</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700521025.png",
+        "option_1": "<p>12,240</p>",
+        "option_2": "<p>13,420</p>",
+        "option_3": "<p>11,240</p>",
+        "option_4": "<p>12,420</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/>Aaditya spend on food = 54000 × <math display=\"inline\"><mfrac><mrow><mn>23</mn><mi>%</mi></mrow><mrow><mn>100</mn><mi>%</mi></mrow></mfrac></math> = Rs.12420</p>"
+    },
+    {
+        "question": "<p>A person earns ₹16,000 per month and spends 80% of his income and saves the remaining amount. If his income increases by 20% and expenditure by 10%, find the percentage of increase in his savings.</p>",
+        "option_1": "<p>140%</p>",
+        "option_2": "<p>90%</p>",
+        "option_3": "<p>120%</p>",
+        "option_4": "<p>60%</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) Take his initial income = 100<br/><strong>Ratio - initial : final</strong><br/><strong>Income - </strong> 100 : 120<br/><strong>Expend. - </strong> 80 : 88<br/>-----------------------------------<br/><strong>Saving - 20 : 32</strong><br/>%increase in his savings = <math display=\"inline\"><mfrac><mrow><mn>12</mn></mrow><mrow><mn>20</mn></mrow></mfrac></math> × 100 = 60%</p>"
+    },
+    {
+        "question": "<p>Without doing the actual division, find the remainder when 28735429 is divided by 9.</p>",
+        "option_1": "<p>4</p>",
+        "option_2": "<p>2</p>",
+        "option_3": "<p>8</p>",
+        "option_4": "<p>9</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) Divisibility of 9:- sum of digits of number either be 0 or divisible by 9.<br/>Given number = 28735429<br/>2 + 8 + 7 + 3 + 5 + 4 + 2 + 9 = 40<br/>For making given number divisible by 9 we get remainder 4 <br/>I.e. 36 + 4 = 40</p>"
+    },
+    {
+        "question": "<p>The angles of triangle are such that one is average of other two, then the angles are:<br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>)</mo><mo> </mo><mfrac><mi mathvariant=\"normal\">π</mi><mn>6</mn></mfrac><mo>,</mo><mo> </mo><mfrac><mi mathvariant=\"normal\">π</mi><mn>3</mn></mfrac><mo>,</mo><mo> </mo><mfrac><mi mathvariant=\"normal\">π</mi><mn>2</mn></mfrac></math><br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>)</mo><mo> </mo><mfrac><mi mathvariant=\"normal\">π</mi><mn>3</mn></mfrac><mo>,</mo><mo> </mo><mfrac><mi mathvariant=\"normal\">π</mi><mn>3</mn></mfrac><mo>,</mo><mo> </mo><mfrac><mi mathvariant=\"normal\">π</mi><mn>2</mn></mfrac></math><br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>)</mo><mo> </mo><mfrac><mi mathvariant=\"normal\">π</mi><mn>6</mn></mfrac><mo>,</mo><mo> </mo><mfrac><mi mathvariant=\"normal\">π</mi><mn>3</mn></mfrac><mo>,</mo><mo> </mo><mfrac><mi mathvariant=\"normal\">π</mi><mn>4</mn></mfrac></math><br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mo>)</mo><mo> </mo><mfrac><mi mathvariant=\"normal\">π</mi><mn>2</mn></mfrac><mo>,</mo><mo> </mo><mfrac><mi mathvariant=\"normal\">π</mi><mn>2</mn></mfrac><mo>,</mo><mo> </mo><mfrac><mi mathvariant=\"normal\">π</mi><mn>3</mn></mfrac></math></p>",
+        "option_1": "<p>4</p>",
+        "option_2": "<p>3</p>",
+        "option_3": "<p>2</p>",
+        "option_4": "<p>1</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>After checking all the options one by one only option (d) satisfies.</strong><br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn><mo>)</mo><mo> </mo><mfrac><mi mathvariant=\"normal\">π</mi><mn>6</mn></mfrac><mo>,</mo><mo> </mo><mfrac><mi mathvariant=\"normal\">π</mi><mn>3</mn></mfrac><mo>,</mo><mo> </mo><mfrac><mi mathvariant=\"normal\">π</mi><mn>2</mn></mfrac></math> <br/>Multiplying by <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>180</mn><mo>°</mo></mrow><mi mathvariant=\"normal\">π</mi></mfrac></math> to change in degree<br/><math display=\"inline\"><mo>⇒</mo></math> 30°, 60°, 90° <br/>⇒ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>30</mn><mo>°</mo><mo>+</mo><mn>90</mn><mo>°</mo></mrow><mn>2</mn></mfrac><mo>=</mo><mn>60</mn><mo>°</mo><mo>×</mo><mfrac><mi mathvariant=\"normal\">π</mi><mn>180</mn></mfrac></math> (change in radian to multiply by<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi mathvariant=\"normal\">π</mi><mn>80</mn></mfrac></math>) = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi mathvariant=\"normal\">π</mi><mn>3</mn></mfrac></math> ( is average of two other angles)</p>"
+    },
+    {
+        "question": "<p>Let C be a circle with centre O and P be an external point to C. Let PA and PB be two tangents to C with A and B being the points of tangency, respectively. If PA and PB are inclined to each other at an angle of 60°, then find∠POA.</p>",
+        "option_1": "<p>40°</p>",
+        "option_2": "<p>60°</p>",
+        "option_3": "<p>80°</p>",
+        "option_4": "<p>30°</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><br/>In the <math display=\"inline\"><mi>Δ</mi></math>POA<br/><math display=\"inline\"><mi>∠</mi></math>OPA = 30° [when two tangents are drawn to a circle from an external point, the line drawn from that external point to the center of the circle bisects the angle formed between the two tangents.]<br/><math display=\"inline\"><mi>∠</mi></math>OAP = 90° [radius ⊥ tangent]<br/><b>Hence,</b> <math display=\"inline\"><mi>∠</mi></math>POA = 180° - (30 + 90) = 60°</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700521329.png"
+    },
+    {
+        "question": "<p>At present, A is thrice as old as B. C is 5 years elder than B. The sum of the ages of A, B, C is 75 years. The ratio of the age of B five years ago to the age of A three years from now is:</p>",
+        "option_1": "<p>2 : 3</p>",
+        "option_2": "<p>1 : 4</p>",
+        "option_3": "<p>4 : 7</p>",
+        "option_4": "<p>1 : 5</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) According to the question,<br/>{A = 3B , C = B + 5 } -------- (i)<br/>A + B + C = 75-------- (ii)<br/>By putting the value of A and C from eq.(i) to (ii) we get;<br/>3B + B + (B + 5) = 75<br/>5B = 70 <math display=\"inline\"><mo>⇒</mo></math> B = 14<br/><math display=\"inline\"><mo>⇒</mo></math> A = 3B = 42<br/><b>Hence,</b> (B - 5) : (A + 3) = 9 : 45 = 1 : 5</p>"
+    },
+    {
+        "question": "<p>The monthly wages (in ₹) of three mess workers, Rahul, Sunil and Vipin, of a boy’s hostel for three months are given in the following table. Study the table carefully and answer the question given below.<br/> <br/>In November, the wages of Sunil is what percentage of the wages of Rahul? (Correct up to two decimal places.)</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700521502.png",
+        "option_1": "<p>23%</p>",
+        "option_2": "<p>30%</p>",
+        "option_3": "<p>23%</p>",
+        "option_4": "<p>30%</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/>Required % = <math display=\"inline\"><mfrac><mrow><mn>10500</mn></mrow><mrow><mn>11500</mn></mrow></mfrac></math> × 100 = 91.30%</p>"
+    },
+    {
+        "question": "<p>If x varies inversely as y and x = 2 when y = 6, then the value of y when x = 3 is:</p>",
+        "option_1": "<p>2</p>",
+        "option_2": "<p>3</p>",
+        "option_3": "<p>4</p>",
+        "option_4": "<p>6</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) According to the question,<br/>x ∝ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mi>y</mi></mfrac></math><br/>x = k × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mi>y</mi></mfrac></math>{where k is constant}<br/>Given that x = 2 and y = 6 we get;<br/>2 = k × <math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mn>6</mn></mrow></mfrac></math> ⇒ k = 12<br/>Now, for x = 3<br/>3 = 12 × <math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mi>y</mi></mrow></mfrac></math> ⇒ y = 4</p>"
+    },
+    {
+        "question": "<p>If a sum of ₹5,000 is taken at a simple rate of interest of 15% per annum for 3 years and another sum of ₹8,000 is taken at a simple interest of 12% per annum for 4 years, the positive difference of the interests paid is:</p>",
+        "option_1": "<p>₹1,643</p>",
+        "option_2": "<p>₹1,590</p>",
+        "option_3": "<p>₹1,286</p>",
+        "option_4": "<p>₹1,378</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) Interest on 5000 for 3 years at 15% per annum<br/><math display=\"inline\"><mo>⇒</mo></math> 5000 × 45% = 2250<br/>Interest on 8000 for 4 years at 12% per annum<br/><math display=\"inline\"><mo>⇒</mo></math> 8000 × 48% = 3840<br/>Difference of interest paid = 3840 - 2250 = 1590</p>"
+    },
+    {
+        "question": "<p>Varun and Sandeep started for a car race from the same point, in the same direction and at the same time on a circular track of length 1635 m with the speeds of 90 km/h and 108 km/h, respectively. After how much time (in s) will they meet again for the first time?</p>",
+        "option_1": "<p>324</p>",
+        "option_2": "<p>325</p>",
+        "option_3": "<p>327</p>",
+        "option_4": "<p>326</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) Length of circular track = 1635 m<br/>Relative speed = (108 - 90) × <math display=\"inline\"><mfrac><mrow><mn>5</mn></mrow><mrow><mn>18</mn></mrow></mfrac></math> = 5 m/sec<br/>So, required time = <math display=\"inline\"><mfrac><mrow><mn>1635</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math> = 327 second</p>"
+    },
+    {
+        "question": "<p>Pipes M, N and S can fill a tank in 25, 50 and 100 minutes, respectively. Initially, pipes N and S are kept open for 10 minutes, and then pipe N is shut while pipe M is opened. Pipe S is closed 15 minutes before the tank overflows. How much time (in minutes) will it take to fill the tank if the three pipes work in this pattern?</p>",
+        "option_1": "<p>30</p>",
+        "option_2": "<p>33</p>",
+        "option_3": "<p>42</p>",
+        "option_4": "<p>27</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/><br/>(N + S) × 10 + (M +S) × T + M × 15 = 100<br/>3 × 10 + 5 × T + 4 × 15 = 100<br/>T = 2 <br/>And total time = 10 + 15 + 2 = 27</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700521787.png"
+    },
+    {
+        "question": "<p>Simplify the following:<br/>21− 4.9 ÷ 7 + 3.9 × 0.4 + 0.9</p>",
+        "option_1": "<p>23</p>",
+        "option_2": "<p>12</p>",
+        "option_3": "<p>32</p>",
+        "option_4": "<p>76</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) 21− 4.9 ÷ 7 + 3.9 × 0.4 + 0.9<br/>= 21− 0.7 + 1.56 + 0.9<br/>= 21− 0.7 + 1.56 + 0.9<br/>= 23.46 - 0.7 = 22.76</p>"
+    },
+    {
+        "question": "<p>The given bar graph shows the number of students enrolled in Institutes A and B during 5 years (2018 to 2022).<br/> <br/>What is the ratio of the total students enrolled in Institute B in 2019, 2020 and 2022 to that of the total students enrolled in Institute A in 2018, 2020 and 2021?</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1730700522091.png",
+        "option_1": "<p>37 : 28</p>",
+        "option_2": "<p>11 : 28</p>",
+        "option_3": "<p>28 : 11</p>",
+        "option_4": "<p>28 : 37</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>Students enrolled in institute B in 2019 , 2020 and 2022 = 350 + 375 + 200 = 925<br/>Students enrolled in institute A in 2018 , 2020 and 2021 = 150 + 300 + 250 = 700<br/>So, required ratio = 925 : 700 = 37 : 28</p>"
+    },
+    {
+        "question": "<p>The average temperature of a city for the first sixteen days of January is 22°C, and the average temperature for the last sixteen days of the same month is 26°C. If the average temperature for the entire month is 24°C, what is the temperature on the sixteenth day?</p>",
+        "option_1": "<p>24°C</p>",
+        "option_2": "<p>25°C</p>",
+        "option_3": "<p>23°C</p>",
+        "option_4": "<p>22°C</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) Temp. on 16th day = 16 ×( 22 + 26) - 31 × 24 = 768 - 744 = 24°C</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate synonym of the given word.<br/>Abundant</p>",
+        "option_1": "<p>Ample</p>",
+        "option_2": "<p>Scarce</p>",
+        "option_3": "<p>Barren</p>",
+        "option_4": "<p>Difficult</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Ample</strong>- more than enough.<br/><strong>Abundant</strong>- existing in large quantities.<br/><strong>Scarce</strong>- insufficient or hard to find.<br/><strong>Barren</strong>- unable to produce or support growth.<br/><strong>Difficult</strong>- hard to accomplish or deal with.</p>"
+    },
+    {
+        "question": "<p>Select the option that can be used as a one-word substitute for the given group of words.<br/>One who does not show response to good or bad</p>",
+        "option_1": "<p>Stoic</p>",
+        "option_2": "<p>Sceptic</p>",
+        "option_3": "<p>Cynic</p>",
+        "option_4": "<p>Phobic</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Stoic</strong>- one who does not show response to good or bad.<br/><strong>Sceptic</strong>- a person inclined to question or doubt accepted opinions.<br/><strong>Cynic</strong>- a person who believes that people are motivated purely by self-interest rather than acting for honourable or unselfish reasons.<br/><strong>Phobic</strong>- having or involving an extreme or irrational fear of or aversion to something.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate ANTONYM of the underlined word.<br/>If you want to be a good detective, it helps to have an <span style=\"text-decoration: underline;\">inquisitive</span> nature.</p>",
+        "option_1": "<p>Comprehensive</p>",
+        "option_2": "<p>Itemised</p>",
+        "option_3": "<p>Intrusive</p>",
+        "option_4": "<p>Disinterested</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Disinterested</strong>- not influenced by considerations of personal advantage.<br/><strong>Inquisitive</strong>- having or showing an interest in learning things.<br/><strong>Comprehensive</strong>- including or dealing with all or nearly all elements or aspects of something.<br/><strong>Itemised</strong>- broken down into detailed parts.<br/><strong>Intrusive</strong>- coming without invitation or welcome.</p>"
+    },
+    {
+        "question": "<p>Select the option that expresses the given sentence in active voice.<br/>The meal was not prepared by us.</p>",
+        "option_1": "<p>We had not prepare the meal.</p>",
+        "option_2": "<p>We did not prepare the meal.</p>",
+        "option_3": "<p>We did not preparing the meal.</p>",
+        "option_4": "<p>We did prepare the meal.</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) We did not prepare the meal. (Correct)<br/>(a) We <span style=\"text-decoration: underline;\">had</span> not prepare the meal. (Incorrect Helping Verb)<br/>(c) We did not <span style=\"text-decoration: underline;\">preparing</span> the meal. (Incorrect Form of the Verb)<br/>(d) We did prepare the meal. (‘Not’ is missing)</p>"
+    },
+    {
+        "question": "<p>Select the option that expresses the given sentence in active voice.<br/>The homework must be done by you.</p>",
+        "option_1": "<p>You should have done the homework.</p>",
+        "option_2": "<p>You do the homework.</p>",
+        "option_3": "<p>You will do the homework.</p>",
+        "option_4": "<p>You must do the homework.</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) You must do the homework. (Correct)<br/>(a) You <span style=\"text-decoration: underline;\">should have done</span> the homework. (Incorrect Verb)<br/>(b) You do the homework. (Modal is missing)<br/>(c) You <span style=\"text-decoration: underline;\">will</span> do the homework. (Incorrect Modal)</p>"
+    },
+    {
+        "question": "<p>Select the correctly spelled sentence.</p>",
+        "option_1": "<p>I will definitely attend the conference.</p>",
+        "option_2": "<p>I will definitly attend the conference.</p>",
+        "option_3": "<p>I will definetely attend the conference.</p>",
+        "option_4": "<p>I will definately attend the conference</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) I will<span style=\"text-decoration: underline;\">definitely</span> attend the conference.<br/>'Definitely' is the correct spelling.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate synonym of the underlined word.<br/>I would love to <span style=\"text-decoration: underline;\">organise</span> the farewell party at my house.</p>",
+        "option_1": "<p>Derange</p>",
+        "option_2": "<p>Disorder</p>",
+        "option_3": "<p>Arrange</p>",
+        "option_4": "<p>Confuse</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong>Arrange</strong>- to plan, prepare for, or organize something.<br/><strong>Organise</strong>- arrange systematically.<br/><strong>Derange</strong>- make (someone) insane.<br/><strong>Disorder</strong>- a state of confusion.<br/><strong>Confuse</strong>- make (something) more complex or less easy to understand.</p>"
+    },
+    {
+        "question": "<p>Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br/>(O) as it was the last one of the evening<br/>(P) the city bus was overcrowded<br/>(Q) and this gave an opportunity<br/>(R) to the pickpockets<br/>(S) to try their skill</p>",
+        "option_1": "<p>SRPOQ</p>",
+        "option_2": "<p>PSORQ</p>",
+        "option_3": "<p>POQRS</p>",
+        "option_4": "<p>SROPQ</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) POQRS<br/>The given sentence starts with Part P as it introduces the main idea of the sentence, i.e. ‘The city bus was crowded’. Part O states the reason for the overcrowding of the bus and Part Q states the opportunity arising out of this situation. So, Q will follow O. Further, Part R states that there is an opportunity for the pickpockets and Part S states that the pickpockets used the opportunity to try their skills. So, S will follow R. Going through the options, option ‘c’ has the correct sequence.</p>"
+    },
+    {
+        "question": "Parts of the following sentence have been given as options. Select the option that contains an error.<br/>Every students in the hostel decided to travel to Delhi to witness the Republic Day parade.",
+        "option_1": "Republic Day Parade.",
+        "option_2": "to witness the",
+        "option_3": "decided to travel to Delhi",
+        "option_4": "Every students in the hostel",
+        "option_5": "",
+        "answer": "4",
+        "solution": "(d) Every students in the hostel<br/>‘Everyone/each/ every/ nothing/ everything/ anything/ either/ neither’ represents a singular noun. Therefore, ‘students’ must be replaced with the singular noun ‘student’. <b>Hence,</b> ‘Every student in the hostel’ is the most appropriate answer."
+    },
+    {
+        "question": "<p>Select the most appropriate meaning of the given idiom.<br/>Break a leg</p>",
+        "option_1": "<p>Give advice on maintaining physical health.</p>",
+        "option_2": "<p>Encourage someone to engage in risky activities.</p>",
+        "option_3": "<p>Suggest taking a short break during work.</p>",
+        "option_4": "<p>Wish someone good luck before a performance.</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Break a leg- </strong>wish someone good luck before a performance.<br/>E.g.- You’re going to do great in the play tonight. Break a leg!</p>"
+    },
+    {
+        "question": "Given below are four jumbled sentences. Select the option that gives their correct logical sequence.<br/>A. These can turn around to track stars with the rotation of Earth.<br/>B. Observatories are places to study place.<br/>C. They are mostly built on the mountain tops.<br/>D. Telescopes are placed in the dome-shaped roof of the building.",
+        "option_1": "BCDA",
+        "option_2": "DCBA",
+        "option_3": "ACDB",
+        "option_4": "CBDA",
+        "option_5": "",
+        "answer": "1",
+        "solution": "(a) BCDA<br/>Sentence B will be the starting line as it contains the main idea of the parajumble i.e. ‘Observatories are places to study place.’ And, Sentence C states that they are mostly built on the mountain tops. So, C will follow B. Further, Sentence D states that telescopes are placed in the dome-shaped roof of the building &amp; Sentence A gives the additional information about the telescopes. So, A will follow D. Going through the options, option ‘a’ has the correct sequence."
+    },
+    {
+        "question": "Select the INCORRECTLY spelt word.",
+        "option_1": "Allocation",
+        "option_2": "Abismal",
+        "option_3": "Allegation",
+        "option_4": "Aversion",
+        "option_5": "",
+        "answer": "2",
+        "solution": "(b) Abismal<br/>'Abysmal' is the correct spelling."
+    },
+    {
+        "question": "<p>Select the most appropriate option to substitute the underlined segment in the given sentence.<br/>Raju’s job as a clerk seemed to be <span style=\"text-decoration: underline;\">bad at first because of the low salary, but resulted in something good happening later</span> because it saved him from being unemployed.</p>",
+        "option_1": "<p>a boon in disguise</p>",
+        "option_2": "<p>a blessing in disguise</p>",
+        "option_3": "<p>a jolt in disguise</p>",
+        "option_4": "<p>a gift in disguise</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong>A blessing in disguise-</strong> bad at first, but resulted in something good happening later.</p>"
+    },
+    {
+        "question": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br/>(a) the use of animal research<br/>(b) throughout the past century<br/>(c) and it continues to be used to understand many diseases<br/>(d) has been of considerable importance<br/>(e) in the field of scientific and medical advancements",
+        "option_1": "aecdb",
+        "option_2": "ecdba",
+        "option_3": "adebc",
+        "option_4": "edcba",
+        "option_5": "",
+        "answer": "3",
+        "solution": "(c) adebc<br/>The given sentence starts with Part (a) as it contains the main subject of the sentence, i.e. ‘the use of animal research’. Part (d) contains the main verb of the subject, i.e. ‘been’ and Part (e) states the field in which the use of animal research is of importance. So, (e) will follow (d). Further, Part (b) states the time period during which animal research has been of importance and Part (c) talks about the further use of animal research to understand many diseases. So, (c) will follow (b). Going through the options, option ‘c’ has the correct sequence."
+    },
+    {
+        "question": "<p>Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution’.<br/>Spreading awareness about the rights of the consumers and the relief open to them in case they did not get <span style=\"text-decoration: underline;\">their money’s worth</span> of goods and service has rightly been identified as the first priority.</p>",
+        "option_1": "<p>were unable to get their money’s worth</p>",
+        "option_2": "<p>No substitution</p>",
+        "option_3": "<p>did not getting their money’s worth</p>",
+        "option_4": "<p>will not get their money’s worth</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) were unable to get their money’s worth<br/>The phrase ‘did not get’ means to not be able to get something in the past. ‘Unable’ means to not be able to do something. <b>Hence,</b> “were unable to get their money’s worth” is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate option to substitute the underlined word in the given sentence.<br/>Pollution levels have increased so <span style=\"text-decoration: underline;\">largely</span> that they are almost killing us.</p>",
+        "option_1": "<p>highly</p>",
+        "option_2": "<p>slowly</p>",
+        "option_3": "<p>primarily</p>",
+        "option_4": "<p>chiefly</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) highly<br/>‘Highly’ means at a high level. The given sentence states that pollution levels have increased so highly that they are almost killing us. <b>Hence,</b> 'highly' is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p>Identify the most appropriate antonym of the given word.<br/>Scary</p>",
+        "option_1": "<p>bright</p>",
+        "option_2": "<p>Pristine</p>",
+        "option_3": "<p>awful</p>",
+        "option_4": "<p>comforting</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Comforting</strong>- making you feel less sad or worried.<br/><strong>Scary</strong>- making you feel afraid.<br/><strong>Bright</strong>- giving out or reflecting much light.<br/><strong>Pristine</strong>- in its original condition.<br/><strong>Awful</strong>- very bad or unpleasant.</p>"
+    },
+    {
+        "question": "<p>The following sentence has been split into four segments. Identify the segment that contains a grammatical error.<br/>By this time next year / I will had graduated from college / and starting my first job / in the field of marketing.</p>",
+        "option_1": "<p>in the field of marketing</p>",
+        "option_2": "<p>and starting my first job</p>",
+        "option_3": "<p>By this time next year</p>",
+        "option_4": "<p>I will had graduated from college</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) I will had graduated from college<br/>‘Subject + will have + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">V</mi><mn>3</mn></msub></math>’ is the correct grammatical structure for a sentence which is in the future perfect tense. Therefore, ‘will had’ must be replaced with ‘will have’. <b>Hence,</b> ‘I will have graduated from college’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate ANTONYM of the word in bold.<br/>Elisabeth stood at the piano, which did nothing to <strong>allay</strong> his anxiety.</p>",
+        "option_1": "<p>mitigate</p>",
+        "option_2": "<p>simplify</p>",
+        "option_3": "<p>mollify</p>",
+        "option_4": "<p>aggravate</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<strong>Aggravate</strong>- make (a problem, injury, or offence) worse or more serious.<br/><strong>Allay</strong>- to reduce excitement or emotion.<br/><strong>Mitigate</strong>- make (something bad) less severe, serious, or painful.<br/><strong>Simplify</strong>- make (something) simpler or easier to do or understand.<br/><strong>Mollify</strong>- appease the anger or anxiety of (someone).</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate synonym of the given word.<br/>Berserk</p>",
+        "option_1": "<p>Demented</p>",
+        "option_2": "<p>Absurd</p>",
+        "option_3": "<p>Stubborn</p>",
+        "option_4": "<p>Lazy</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong>Demented</strong>- behaving wildly and irrationally on account of anger, distress, or excitement.<br/><strong>Berserk</strong>- out of control with anger or excitement.<br/><strong>Absurd</strong>- wildly unreasonable, illogical, or inappropriate.<br/><strong>Stubborn</strong>- determined to do what he or she wants and refuses to do anything else.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:</strong><br/>From the beginning (96)_______ the eighteenth century, the ladies of European cities covered (97)_______ faces in layers of paint and powder. This particular fashion was largely brought (98) _______ by the urgent need to disguise the ravages of smallpox, (99)_______ left their faces pitted and scarred. During this same period, the ‘beauty spot’ was introduced to cover (100) _______ a facial defect.<br/>Select the most appropriate option to fill in blank number 96.</p>",
+        "option_1": "<p>in</p>",
+        "option_2": "<p>on</p>",
+        "option_3": "<p>of</p>",
+        "option_4": "<p>about</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) of<br/>‘Of’ means connected to or relating to something. The given passage states something that happened from the beginning of the eighteenth century. <b>Hence,</b> 'of' is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:</strong><br/>From the beginning (96)_______ the eighteenth century, the ladies of European cities covered (97)_______ faces in layers of paint and powder. This particular fashion was largely brought (98) _______ by the urgent need to disguise the ravages of smallpox, (99)_______ left their faces pitted and scarred. During this same period, the ‘beauty spot’ was introduced to cover (100) _______ a facial defect.<br/>Select the most appropriate option to fill in blank number 97.</p>",
+        "option_1": "<p>their</p>",
+        "option_2": "<p>there</p>",
+        "option_3": "<p>them</p>",
+        "option_4": "<p>they’re</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) their<br/>‘Their’ is a possessive used for a plural noun. Similarly, in the given passage, ‘the ladies’ is a plural noun for whom ‘their’ has been used. <b>Hence,</b> 'their' is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:</strong><br/>From the beginning (96)_______ the eighteenth century, the ladies of European cities covered (97)_______ faces in layers of paint and powder. This particular fashion was largely brought (98) _______ by the urgent need to disguise the ravages of smallpox, (99)_______ left their faces pitted and scarred. During this same period, the ‘beauty spot’ was introduced to cover (100) _______ a facial defect.<br/>Select the most appropriate option to fill in blank number 98.</p>",
+        "option_1": "<p>within</p>",
+        "option_2": "<p>around</p>",
+        "option_3": "<p>to</p>",
+        "option_4": "<p>about</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) about<br/>The phrasal verb ‘bring about’ means to cause something to happen. The given passage states that this particular fashion was largely brought about by the urgent need to disguise the ravages of smallpox. <b>Hence,</b> 'about' is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:</strong><br/>From the beginning (96)______ the eighteenth century, the ladies of European cities covered (97)_______ faces in layers of paint and powder. This particular fashion was largely brought (98) _______ by the urgent need to disguise the ravages of smallpox, (99)_______ left their faces pitted and scarred. During this same period, the ‘beauty spot’ was introduced to cover (100) _______ a facial defect.<br/>Select the most appropriate option to fill in blank number 99.</p>",
+        "option_1": "<p>that</p>",
+        "option_2": "<p>which</p>",
+        "option_3": "<p>when</p>",
+        "option_4": "<p>who</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) which<br/>‘Which’ is a relative pronoun used to provide additional information about something. Similarly, in the given passage, it provides additional information about smallpox. <b>Hence,</b> 'which' is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:</strong><br/>From the beginning (96)______ the eighteenth century, the ladies of European cities covered (97)______ faces in layers of paint and powder. This particular fashion was largely brought (98) ______ by the urgent need to disguise the ravages of smallpox, (99)______ left their faces pitted and scarred. During this same period, the ‘beauty spot’ was introduced to cover (100) ______ a facial defect.<br/>Select the most appropriate option to fill in blank number 100.</p>",
+        "option_1": "<p>on</p>",
+        "option_2": "<p>to</p>",
+        "option_3": "<p>for</p>",
+        "option_4": "<p>up</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) up<br/>‘Cover up’ means to keep something unpleasant hidden. The given passage states that during this same period, the ‘beauty spot’ was introduced to cover up a facial defect. <b>Hence,</b> 'up' is the most appropriate answer.</p>"
+    }
+]
