@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "<p>What is the maximum number of rectangles in the given figure?<br/><br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175013910.png",
+        "option_1": "<p>9</p>",
+        "option_2": "<p>12</p>",
+        "option_3": "<p>11</p>",
+        "option_4": "<p>8</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/><br/><br/>There are 11 rectangle :- ABKJ, JKLI, ILGH, ABLI , JKGH, ABHG, BCFG, CDEF , BDEG , ADEH, ACFH</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175014090.png"
+    },
+    {
+        "question": "<p>Select the combination of letters that when sequentially placed in the blanks of the given series, will complete the series.<br/>REMRRE_R_EEMRRE_M_</p>",
+        "option_1": "<p>EMER</p>",
+        "option_2": "<p>MRME</p>",
+        "option_3": "<p>REME</p>",
+        "option_4": "<p>MREM</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) REM/RRE<span style=\"text-decoration: underline;\"><strong>M</strong></span><strong>/</strong>R<span style=\"text-decoration: underline;\"><strong>R</strong></span>EEM/RRE<span style=\"text-decoration: underline;\"><strong>E</strong></span>M<span style=\"text-decoration: underline;\"><strong>M</strong></span></p>"
+    },
+    {
+        "question": "<p>17 is related to 102 following a certain logic. Following the same logic, 29 is related to 174. To which of the following is 39 related, following the same logic?<br/>(NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13- Operations on 13 such as adding / deleting / multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)</p>",
+        "option_1": "<p>238</p>",
+        "option_2": "<p>234</p>",
+        "option_3": "<p>228</p>",
+        "option_4": "<p>230</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><strong>Logic:- </strong><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><msup><mn>1</mn><mrow><mi>s</mi><mi>t</mi></mrow></msup><mi>n</mi><mi>o</mi><mo>.</mo><mo>)</mo></math> × 6 = 2<sup>nd</sup>no.<br/>(17, 102) :- 17<math display=\"inline\"><mo>×</mo></math> 6 = 102<br/>(29, 174) :- 29 <math display=\"inline\"><mo>×</mo></math> 6 = 174<br/>similarly<br/>(39, ?) :- 39 <math display=\"inline\"><mo>×</mo></math> 6 = 234</p>"
+    },
+    {
+        "question": "<p>Four letter-clusters have been given out of which three are alike in some manner and one is different. Select the one that is different.<br/>Note : The odd one out is not based on the number of consonants/vowels or their position in the letter cluster</p>",
+        "option_1": "<p>GDI</p>",
+        "option_2": "<p>XUZ</p>",
+        "option_3": "<p>LKP</p>",
+        "option_4": "<p>SPU</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/>, , <br/>But,<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175014260.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175014408.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175014555.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175014694.png"
+    },
+    {
+        "question": "<p>Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.<br/><strong>Statements:</strong><br/>Some rice is white.<br/>Some rice is brown.<br/>No white is wheat.<br/><strong>Conclusions:</strong><br/>I) Some wheat is brown.<br/>II) Some rice is not wheat.<br/>III) Some brown is not white.</p>",
+        "option_1": "<p>Only III</p>",
+        "option_2": "<p>Only II</p>",
+        "option_3": "<p>Only II and III</p>",
+        "option_4": "<p>Only I and III</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><br/>Only conclusion II follow.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175014851.png"
+    },
+    {
+        "question": "<p>Select the pair which is related to each other in the same way as the following -<br/>14 : 205<br/>5 : 34<br/>(NOTE : Operations should performed on the whole numbers , without breaking down the numbers into its constituent digits . E.g. 13 - Operations on 13 such as adding / subtracting / multiplying etc . to 13 can be performed . breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed .)</p>",
+        "option_1": "<p>25 : 636</p>",
+        "option_2": "<p>16 : 247</p>",
+        "option_3": "<p>9 : 91</p>",
+        "option_4": "<p>28 : 793</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) <strong>Logic :-</strong> (1st number)<sup>2</sup> + 9 = 2nd number<br/>14: 205 :- (14)<sup>2</sup> + 9 ⇒ 196 + 9 = 205<br/>5 : 34 :- (5)<sup>2</sup> + 9 ⇒ 25 + 9 = 34<br/>Similarly,<br/>28 : ? :- (28)<sup>2</sup> + 9 ⇒ 784 + 9 = 793</p>"
+    },
+    {
+        "question": "<p>According to the series given below, fill in the blank with a suitable letter that would satisfy the series.<br/>Z, B, D, F, H, _________.</p>",
+        "option_1": "<p>J</p>",
+        "option_2": "<p>N</p>",
+        "option_3": "<p>K</p>",
+        "option_4": "<p>I</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175015207.png"
+    },
+    {
+        "question": "<p>In a certain code language, 'all fell down' is written as 'jm ib fc', and 'down the road' is coded as 'ib gb tf'. How will 'down' be coded in that language ?</p>",
+        "option_1": "<p>gb</p>",
+        "option_2": "<p>ib</p>",
+        "option_3": "<p>tf</p>",
+        "option_4": "<p>fc</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <br/>‘all fell down’ → ‘jm ib fc’.........(i)<br/>‘down the road’ → ‘ib gb tf’....... (ii)<br/>From (i) and (ii) ‘down’ and ‘ib’ are common. The code of ‘down’ = ‘ib’</p>"
+    },
+    {
+        "question": "<p>Select the option that is related to the third term in the same way as the second term is related to the first term.<br/>(The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.)<br/>TEAM : SUDFZBLN :: PLAY : ?</p>",
+        "option_1": "<p>OQKMZBXZ</p>",
+        "option_2": "<p>OQMKZBXZ</p>",
+        "option_3": "<p>QOKMBZXZ</p>",
+        "option_4": "<p>QOMKBZZX</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/> Similarly </p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175015390.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175015506.png"
+    },
+    {
+        "question": "<p>Three of the following numbers are alike in a certain way and one is different. Pick the odd one out.<br/>(NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)</p>",
+        "option_1": "<p>12 – 7 – 209</p>",
+        "option_2": "<p>19 – 11 – 330</p>",
+        "option_3": "<p>23 – 8 – 343</p>",
+        "option_4": "<p>15 – 9 – 264</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <br/><strong>Logic :</strong> (1st number × 10 + 2nd number × 10) + (1st number +2nd number) = 3rd number.<br/>12 – 7 – 209 :- (12 × 10 + 7 × 10) + (12 + 7) = 209<br/>19 – 11 – 330 :- (19 × 10 + 11 × 10) + (19 +11) = 330<br/>15 – 9 – 264 :- (15 × 10 + 9 × 10) + (15 + 9) = 264<br/>But<br/>23 – 8 – 343 :- (23 × 10 + 8 × 10) +(23 +8) = 341 (<math display=\"inline\"><mo>≠</mo></math>343)</p>"
+    },
+    {
+        "question": "<p>Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.<br/><strong>Statements:</strong><br/>Some crayon is colour.<br/>No colour is water.<br/>Some water is liquid.<br/><strong>Conclusions:</strong><br/>I) Some crayon is liquid.<br/>II) Some crayon is not water.<br/>III) Some liquid is not colour.</p>",
+        "option_1": "<p>Only II and III</p>",
+        "option_2": "<p>Only I and III</p>",
+        "option_3": "<p>Only III</p>",
+        "option_4": "<p>Only II</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/><br/><br/>Only II and III follow.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175015677.png"
+    },
+    {
+        "question": "Which of the following numbers will replace the question mark (?) in the given series?<br/>12, 26, 54, ?, 222, 446",
+        "option_1": "110",
+        "option_2": "94",
+        "option_3": "88",
+        "option_4": "98",
+        "option_5": "",
+        "answer": "1",
+        "solution": "(a)<br/><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175015956.png"
+    },
+    {
+        "question": "In a certain code language, BUG is coded as 24 and TWO is coded as 52. What is the code for ONE in that language?",
+        "option_1": "32",
+        "option_2": "28",
+        "option_3": "33",
+        "option_4": "27",
+        "option_5": "",
+        "answer": "2",
+        "solution": "(b) Logic :- (Sum of the place value of letter) - (6) <br/>BUG :- (2 + 21 + 7) - (6) ⇒ (30) - (6) = 24<br/>TWO :- (20 + 23 + 15) - (6) ⇒ (58) - (6) = 52<br/>Similarly,<br/>ONE :- (15 + 14 + 5) - (6) ⇒ (34) - (6) = 28"
+    },
+    {
+        "question": "<p>Identify the figure in the options that when put in place of the question mark (?) will logically complete the series?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175016102.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175016256.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175016373.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175016486.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175016625.png",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175016373.png"
+    },
+    {
+        "question": "<p>Select the option that is related to the third number in the same way as the second number is related to the first number and the sixth number is related to the fifth number.<br/>84 : 196 : 51: ? :: 96 : 224<br/>(<b>NOTE:</b> Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13-Operations on 13 such as adding / subtracting / multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)</p>",
+        "option_1": "<p>119</p>",
+        "option_2": "<p>98</p>",
+        "option_3": "<p>103</p>",
+        "option_4": "<p>143</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>Logic :-</strong> <math display=\"inline\"><msup><mrow><mn>1</mn></mrow><mrow><mi>s</mi><mi>t</mi></mrow></msup></math>no. × 2 + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mn>1</mn><mrow><mi>s</mi><mi>t</mi></mrow></msup><mi>n</mi><mi>o</mi><mo>.</mo></mrow><mn>3</mn></mfrac></math> = 2<sup>nd </sup>no.<br/>(84 : 196):- 84 <math display=\"inline\"><mo>×</mo></math> 2 + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>84</mn><mn>3</mn></mfrac></math>→ 168 + 28 = 196<br/>(96 : 224):- 96 <math display=\"inline\"><mo>×</mo></math> 2 + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>96</mn><mn>3</mn></mfrac></math>→ 192 + 32 = 224<br/>Similarly,<br/>(51 : ?):- 51 <math display=\"inline\"><mo>×</mo></math> 2 + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>51</mn><mn>3</mn></mfrac></math>→ 102 + 17 = 119</p>"
+    },
+    {
+        "question": "<p>In a certain code language,<br/>A + B means ‘A is the son of B’,<br/>A − B means ‘A is the wife of B’,<br/>A × B means ‘A is the brother of B’ and<br/>A ÷ B means ‘A is the daughter of B’.<br/>Based on the above, how is P related to R if ‘P × S ÷ M − T + R’?</p>",
+        "option_1": "<p>Brother</p>",
+        "option_2": "<p>Son’s son</p>",
+        "option_3": "<p>Father’s mother</p>",
+        "option_4": "<p>Daughter</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><br/>‘P’ is the son’s son of ‘R’</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175016777.png"
+    },
+    {
+        "question": "<p>Which of the following letter-clusters will replace the question mark (?) in the given series?<br/>PTXL, OSWK, NRVJ, ?, LPTH</p>",
+        "option_1": "<p>MQVI</p>",
+        "option_2": "<p>MQUI</p>",
+        "option_3": "<p>NQUI</p>",
+        "option_4": "<p>MQUJ</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><strong id=\"docs-internal-guid-0748d315-7fff-483f-3072-fd3d6a81ff73\"></strong></p><br>https://lh7-rt.googleusercontent.com/docsz/AD_4nXcu92bDqyGkuOOtbPXyyNiWOW3BkG0WCNGvVfKL_Z96r0U7bbKIj6i-WXT20nUjXKHLynFUze9bA6TU7hSyAyp6pqnKub4bcUb8_HQVAn47uXlAykEJmrQkF0wiIyOYxdq00dM?key=hmbMC86mz8F70D6AEbfoVNI5"
+    },
+    {
+        "question": "<p>In a certain code language, ‘LIKE’ is coded as ‘4682’ and ‘BEAM’ is coded as ‘1358’.What is the code for ‘E’ in the given code language?</p>",
+        "option_1": "<p>5</p>",
+        "option_2": "<p>8</p>",
+        "option_3": "<p>2</p>",
+        "option_4": "<p>3</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>‘LIKE’ <math display=\"inline\"><mo>→</mo></math> ‘4682’ …….. (i)<br/>‘BEAM’ <math display=\"inline\"><mo>→</mo></math> ‘1358’ ……… (ii)<br/>From (i) and (ii) ‘E’ and ‘8’ are common.<br/>So, the code of ‘E’ is ‘8’.</p>"
+    },
+    {
+        "question": "<p>Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175017047.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175017201.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175017308.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175017462.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175017627.png",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175017627.png"
+    },
+    {
+        "question": "<p>A and C are sisters. A is the daughter of D. D is the mother of B. How is A related to B?</p>",
+        "option_1": "<p>Aunt</p>",
+        "option_2": "<p>Sister</p>",
+        "option_3": "<p>Mother</p>",
+        "option_4": "<p>Grandmother</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><br/>A is the sister of B.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175017754.png"
+    },
+    {
+        "question": "What will come in the place of '?’ in the following equation, if ‘+' and '-’ are interchanged?<br/> 47 + 10 × 3 - 32 ÷ 8 = ?",
+        "option_1": "19",
+        "option_2": "21",
+        "option_3": "31",
+        "option_4": "27<br/>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "(b) Given :- 47 + 10 × 3 - 32 <math display=\"inline\"><mo>÷</mo></math> 8<br/>As per given instruction after interchanging ‘+’ and ‘-’ we get<br/>47 - 10 × 3 + 32 <math display=\"inline\"><mo>÷</mo></math> 8<br/>47 - 30 + 4<br/>47 - 26 = 21"
+    },
+    {
+        "question": "<p>Identify the figure given in the options that when put in place of the question mark (?) will logically complete the series.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175017930.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175018058.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175018229.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175018331.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175018423.png",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175018229.png"
+    },
+    {
+        "question": "<p>If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘–’, what will come in place of the question mark (?) in the following equation ? <br/>8 B 9 C 49 A 7 D 25 = ?</p>",
+        "option_1": "<p>54</p>",
+        "option_2": "<p>25</p>",
+        "option_3": "<p>62</p>",
+        "option_4": "<p>57 </p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>Given :-</strong> 8 B 9 C 49 A 7 D 25<br/>As per given instruction after interchanging the letter with sign we get,<br/>8 × 9 + 49 <math display=\"inline\"><mo>÷</mo></math> 7 - 25<br/>72 + 7 - 25<br/>79 - 25 = 54</p>"
+    },
+    {
+        "question": "<p>The position of how many letters will remain unchanged if each of the letter in the word ‘CERTAIN’ is arranged in English alphabetical order?</p>",
+        "option_1": "<p>One</p>",
+        "option_2": "<p>Zero</p>",
+        "option_3": "<p>Two</p>",
+        "option_4": "<p>Four</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><br/>All letters are changed.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175018529.png"
+    },
+    {
+        "question": "<p>Six letters G, H, I, J, K and L are written on different faces of a dice. Two positions of this dice are shown in the figure below. Find the letter on the face opposite to G.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175018644.png",
+        "option_1": "<p>K</p>",
+        "option_2": "<p>I</p>",
+        "option_3": "<p>L</p>",
+        "option_4": "<p>J</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) from both dices opposite faces are <br/>L <math display=\"inline\"><mo>↔</mo></math> G, J ↔ I, K ↔ H</p>"
+    },
+    {
+        "question": "<p>Who were the first foreign rulers of northwest India in the post-Mauryan period?</p>",
+        "option_1": "<p>Kushanas</p>",
+        "option_2": "<p>Parthians</p>",
+        "option_3": "<p>Bactrian Greeks</p>",
+        "option_4": "<p>Sakas</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) The correct answer is <strong>\"Bactrian Greeks\".</strong></p>\\n<p>They established the Greco-Bactrian Kingdom around the 2nd century BCE, after the decline of the Maurya Empire, and ruled over regions in modern-day Afghanistan and parts of northwest India. The first Kushana dynasty was founded by Kujula Kadphises. The last ruler of the Kushan dynasty was Vasudeva I. The most famous Saka ruler in India was Rudradaman.</p>\\n<h3 class=\"\" data-end=\"108\" data-start=\"90\">🗝️ <span style=\"text-decoration: underline;\">Key Points</span> :- </h3>\\n<ul data-end=\"535\" data-start=\"110\">\\n<li class=\"\" data-end=\"214\" data-start=\"110\">\\n<p class=\"\" data-end=\"214\" data-start=\"112\"><strong data-end=\"212\" data-start=\"112\">The Bactrian Greeks were the first foreign rulers of northwest India in the post-Mauryan period.</strong></p>\\n</li>\\n<li class=\"\" data-end=\"305\" data-start=\"215\">\\n<p class=\"\" data-end=\"305\" data-start=\"217\">They entered India around the 2nd century BCE after the decline of the Mauryan Empire.</p>\\n</li>\\n<li class=\"\" data-end=\"402\" data-start=\"306\">\\n<p class=\"\" data-end=\"402\" data-start=\"308\">Their rule marked the beginning of Indo-Greek influence on Indian art, culture, and coinage.</p>\\n</li>\\n<li class=\"\" data-end=\"535\" data-start=\"403\">\\n<p class=\"\" data-end=\"535\" data-start=\"405\">The Bactrian Greeks laid the foundation for further invasions and settlements by other foreign powers like the Sakas and Kushanas.</p>\\n</li>\\n</ul>\\n<hr class=\"\" data-end=\"540\" data-start=\"537\"/>\\n<h3 class=\"\" data-end=\"571\" data-start=\"542\">📘<span style=\"text-decoration: underline;\"> Furthur Information</span> :- </h3>\\n<ul data-end=\"1098\" data-start=\"573\">\\n<li class=\"\" data-end=\"889\" data-start=\"573\">\\n<p class=\"\" data-end=\"889\" data-start=\"575\"><strong data-end=\"594\" data-start=\"575\">Bactrian Greeks</strong><br data-end=\"597\" data-start=\"594\"/>○ Originally part of Alexander the Great's empire, they ruled over Bactria (modern-day Afghanistan).<br data-end=\"702\" data-start=\"699\"/>○ They crossed the Hindu Kush and established control over northwestern India.<br data-end=\"785\" data-start=\"782\"/>○ Famous rulers include Demetrius and Menander (Milinda), who embraced Indian religions like Buddhism.</p>\\n</li>\\n<li class=\"\" data-end=\"1098\" data-start=\"891\">\\n<p class=\"\" data-end=\"1098\" data-start=\"893\"><strong data-end=\"916\" data-start=\"893\">Post-Mauryan Period</strong><br data-end=\"919\" data-start=\"916\"/>○ This period saw the fragmentation of the Mauryan Empire and rise of regional and foreign powers.<br data-end=\"1022\" data-start=\"1019\"/>○ It led to significant cultural exchanges between India and Central Asia.</p>\\n</li>\\n</ul>"
+    },
+    {
+        "question": "During which centuries did several Buddhist pilgrims and scholars travel to China on the historic 'silk route'?",
+        "option_1": "First, second and third centuries AD",
+        "option_2": "Sixth and seventh centuries AD",
+        "option_3": "Fourth and fifth centuries AD",
+        "option_4": "Eighth and ninth centuries AD",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>First, second and third centuries AD. </strong>During these centuries, Buddhist pilgrims and scholars traveled to China via the Silk Route, a network of trade routes connecting Asia with Europe. This was a period when Buddhism was spreading from India to China. The Silk Route played a critical role in this cultural and religious exchange. Key Buddhist figures, such as Faxian (who traveled to India) and Xuanzang.</p>"
+    },
+    {
+        "question": "<p>With which field was Madhuri Barthwal associated ?</p>",
+        "option_1": "<p>Sports</p>",
+        "option_2": "<p>Music</p>",
+        "option_3": "<p>Literature and education</p>",
+        "option_4": "<p>Medicine</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Music.</strong> Madhuri Barthwal is a folk singer from Uttarakhand. She is the first woman to be a music composer in All India Radio. Awards of Madhuri Barthwal : Padma Shri (2022), Nari Shakti Puraskar (2018). Other Folk singers of Uttrakhand : Narendra Singh Negi; Meena Rana; Pritam Bhartwan; Santosh Khetwal.</p>"
+    },
+    {
+        "question": "<p>Which of the following statements about Akbar are true?<br/>1 He introduced the Mansabdari system.<br/>2 He defeated and merged the state of Bijapur in his empire.<br/>3 He made Fatehpur Sikri his capital.</p>",
+        "option_1": "<p>All 1, 2, 3</p>",
+        "option_2": "<p>Only 1 and 3</p>",
+        "option_3": "<p>Only 2 and 3</p>",
+        "option_4": "<p>Only 1 and 2</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Only 1 and 3.</strong> Akbar (also known as Jalal-ud-din Muhammad Akbar) was the third Mughal emperor. He ruled from 1556 to 1605 and became emperor at the age of 13. Aurangzeb, the sixth Mughal emperor (1658-1707), sent his armies to conquer the Deccan Sultanates. He annexed Bijapur in 1685 and Golconda in 1687. The Mansabdari system was a system of ranking government officials and military generals in the Mughal Empire, which was introduced by Emperor Akbar in 1571.</p>"
+    },
+    {
+        "question": "<p>Who inaugurated the National Turmeric Board in New Delhi in January 2025?</p>",
+        "option_1": "<p>Nirmala Sitharaman</p>",
+        "option_2": "<p>Narendra Modi</p>",
+        "option_3": "<p>Piyush Goyal</p>",
+        "option_4": "<p>Amit Shah</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong> Piyush Goyal.</strong> Shri Goyal announced Shri Palle Ganga Reddy as its first Chairperson. The headquarters of the Board has been set up at Nizamabad. India is the largest producer, consumer and exporter of turmeric in the world. India has more than 62% share of world trade. During 2023-24, 1.62 lakh tonnes of turmeric and turmeric products valued at 226.5 million USD was exported.</p>"
+    },
+    {
+        "question": "<p>Which law states that endothermic animals from cold climates have smaller extremities or appendages than closely related species from warm climates?</p>",
+        "option_1": "<p>Harper's rule</p>",
+        "option_2": "<p>Reich's rule</p>",
+        "option_3": "<p>Allen's rule</p>",
+        "option_4": "<p>Moller's rule</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>Allen's rule. </strong>It was established by Joel Asaph Allen in 1877, is an ecogeographical principle that states animals adapted to cold climates possess shorter and thicker limbs compared to those adapted to warm climates. In contrast, animals in warmer environments tend to have longer appendages and more elongated body shapes to dissipate excess body heat. For instance, the fennec fox, which inhabits the hot deserts of North Africa, has longer ears and limbs than its Arctic relative, the Arctic fox.</p>"
+    },
+    {
+        "question": "<p>Who among the following Indian musicians is known for his contribution to the field of Hindustani music for the classification of Ragas into ten Thatas?</p>",
+        "option_1": "<p>Pandit Vishnu Narayan Bhatkhande</p>",
+        "option_2": "<p>Abdul Karim Khan</p>",
+        "option_3": "<p>Pandit Vishnu Digambar Paluskar</p>",
+        "option_4": "<p>Allauddin Khan</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>Pandit Vishnu Narayan Bhatkhande. </strong>He was a prominent musician who wrote the first modern treatise on Hindustani classical music. In 1916, he reorganized the Baroda state music school. He set up Marris College of Music in Lucknow in 1926, which is now known as Bhatkhande Music Institute. He published books Swar Malika and Shri Mallakshaya Sangeetam (pen name Chatur Pandit).</p>"
+    },
+    {
+        "question": "Norman Ernest Borlaug was awarded the _____ in 1970 for his contributions to the green revolution.",
+        "option_1": "Nobel Prize in Physics",
+        "option_2": "Nobel Peace Prize",
+        "option_3": "Nobel Prize in Chemistry",
+        "option_4": "Nobel Prize in Physiology",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Nobel Peace Prize.</strong> Norman Borlaug was a renowned American agronomist and humanitarian, often referred to as the Father of the Green Revolution. Norman E Borlaug Award : recognizes exceptional scientists under 40 and someone who works in the field of food and nutrition security and hunger eradication. It is given in the honor of Norman Borlaug.</p>"
+    },
+    {
+        "question": "Which of the following species was discovered in Tale Valley Wildlife Sanctuary of Arunachal Pradesh in April 2024?",
+        "option_1": "Neptis philyra",
+        "option_2": "Brucethoa isro",
+        "option_3": "Melanochlamys Droupadi",
+        "option_4": "Sphaerotheca Varshaabhu",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>Neptis philyra.</strong> The species was documented for the 1st time in India, representing a new record for India.</p>"
+    },
+    {
+        "question": "Who became the youngest to conquer Mount Kilimanjaro at the age of five?",
+        "option_1": "Teghbir Singh",
+        "option_2": "Arjun Vajpai",
+        "option_3": "Krushnaa Patil",
+        "option_4": "Premlata Agarwal",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>Teghbir Singh. </strong>He has become the youngest Asian to successfully scale Mount Kilimanjaro, Africa’s highest peak, standing at an impressive 5,895 meters above sea level.</p>"
+    },
+    {
+        "question": "<p>At which place was the magnificent temple of Saiva constructed by the great Rashtrakuta King ‘Krishna I’?</p>",
+        "option_1": "<p>Badami</p>",
+        "option_2": "<p>Kanchi</p>",
+        "option_3": "<p>Kannauj</p>",
+        "option_4": "<p>Ellora</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) <strong>Ellora</strong>. The temples at Ellora Caves (Maharashtra) were built by the Rashtrakuta and Yadava dynasties. Rashtrakuta dynasty built the Hindu and Buddhist caves during their reign. The Kailasa Temple (dedicated to Lord Shiva) was built by Krishna I of the Rashtrakuta dynasty. The Kailasa Temple is the largest single-rock excavation in the world. Yadava dynasty built many of the Jain caves. The Ellora Caves are a UNESCO World Heritage Site. The caves include 12 Buddhist caves, 17 Hindu caves, and 5 Jain caves.</p>"
+    },
+    {
+        "question": "<p>Which of the given options is rod-shaped, carries genetic information, is visible only at cell division and is present in the nucleus?</p>",
+        "option_1": "<p>Chromosomes</p>",
+        "option_2": "<p>Lysosomes</p>",
+        "option_3": "<p>Ribosomes</p>",
+        "option_4": "<p>Cytoplasm</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>Chromosomes.</strong> They carry genetic information in the form of DNA. Chromosomes are visible only during cell division (mitosis or meiosis), when they condense and become more distinguishable. Lysosomes: These are membrane-bound organelles responsible for digesting waste materials and cellular debris. Ribosomes: These are the sites of protein synthesis, either floating freely in the cytoplasm or attached to the rough endoplasmic reticulum. Cytoplasm: This is the gel-like substance inside the cell, excluding the nucleus, where most cellular processes occur.</p>"
+    },
+    {
+        "question": "<p>With reference to ‘slash and burn’ agriculture, which of the following names is NOT related to Odisha?</p>",
+        "option_1": "<p>Bringa</p>",
+        "option_2": "<p>Roca</p>",
+        "option_3": "<p>Pama Dabi</p>",
+        "option_4": "<p>Koman</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Roca.</strong> The ‘slash and burn’ agriculture is known as ‘Milpa’ in Mexico and Central America, ‘Conuco’ in Venezuela, ‘Roca’ in Brazil, ‘Masole’ in Central Africa, ‘Ladang’ in Indonesia, ‘Ray’ in Vietnam. In India, this primitive form of cultivation is called ‘Bewar’ or ‘Dahiya’ in Madhya Pradesh, ‘Podu’ or ‘Penda’ in Andhra Pradesh, ‘Kumari’ in Western Ghats, ‘Valre’ or ‘Waltre’ in South-eastern Rajasthan.</p>"
+    },
+    {
+        "question": "<p>Which city is referred to as the ‘Manchester of India’?</p>",
+        "option_1": "<p>Kanpur</p>",
+        "option_2": "<p>Kolkata</p>",
+        "option_3": "<p>Ahmedabad</p>",
+        "option_4": "<p>Mumbai</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>Ahmedabad.</strong> It is located in Gujarat on the banks of the Sabarmati river. The first mill was established in 1859. It soon became the second largest textile city of India, after Mumbai. It is referred to as the \"Manchester of India\" because of its similarities to the well-known cotton textile center of Manchester, Great Britain. Cities and their nicknames: Kanpur - Leather City of the World, Kolkata - City of Joy, Mumbai - City of Dreams.</p>"
+    },
+    {
+        "question": "<p>Which famous book was written by ‘Haripala’?</p>",
+        "option_1": "<p>Gita Govinda</p>",
+        "option_2": "<p>Sangeet Darpan</p>",
+        "option_3": "<p>Sangeet Ratnakara</p>",
+        "option_4": "<p>Sangeeta Sudhakara</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) <strong>Sangeeta Sudhakara. </strong>The term ‘Carnatic’ and ‘Hindustani’ to classify musical styles first appeared in it. The Gita Govinda is a work composed by the 12th-century Hindu poet, Jayadeva. Sangeet Darpan is a musical treatise on Indian classical music written by Damodar Pandit. The Sangita-Ratnakara (Ocean of Music and Dance) is one of the most important musicological texts from India.</p>"
+    },
+    {
+        "question": "<p>To which Hindustani music Gharana are the Gundecha brothers related?</p>",
+        "option_1": "<p>Patiala Gharana</p>",
+        "option_2": "<p>Agra Gharana</p>",
+        "option_3": "<p>Dagari Gharana</p>",
+        "option_4": "<p>Indore Gharana</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>Dagari Gharana.</strong> Umakant and Ramakant Gundecha are together known as the Gundecha Brothers. They received the Sangeet natak academy award in 2017. Hindustani Music Gharanas and founders: Gwalior (Nanthan Khan); Agra (Hajisujan Khan); Rangeela (Faiyyaz Khan); Jaipur Atrauli (Alladiya Khan); Kirana (Abdul Wahid Khan).</p>"
+    },
+    {
+        "question": "<p>The elements that are liquid at room temperature (25°C) are:</p>",
+        "option_1": "<p>bromine and chlorine</p>",
+        "option_2": "<p>helium and mercury</p>",
+        "option_3": "<p>bromine and mercury</p>",
+        "option_4": "<p>helium and chlorine </p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>bromine and mercury.</strong> Bromine (Br, atomic number-35), a halogen, is a reddish-brown liquid at room temperature, while mercury, a metal, is silvery-white and liquid at this temperature. Chlorine and helium are gases at room temperature, and helium remains in a gaseous state even at extremely low temperatures. Liquid bromine and mercury are exceptions among elements that are typically solids or gases.</p>"
+    },
+    {
+        "question": "<p>Which of the following acts introduced the system of dyarchy in the provincial administration in India?</p>",
+        "option_1": "<p>The Government of India Act of 1909</p>",
+        "option_2": "<p>The Government of India Act of 1919</p>",
+        "option_3": "<p>The Government of India Act of 1935</p>",
+        "option_4": "<p>The Government of India Act of 1947</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>The Government of India Act of 1919. </strong>It is also known as the Montagu-Chelmsford Reforms. Edwin Montagu was the Secretary of State and Lord Chelmsford was the Viceroy. The Act introduced a Darchy (rule of two individuals/parties) for the executive at the level of the provincial government. Provincial subjects were divided into two parts - Reserved subjects and Transferred subjects. It also introduced Bicameralism (upper house and lower house) in the central legislative assembly. It provided for the establishment of a Central Public Service Commission.</p>"
+    },
+    {
+        "question": "<p>In which year was MS Dhoni awarded Padma Shri Award?</p>",
+        "option_1": "<p>2009</p>",
+        "option_2": "<p>2010</p>",
+        "option_3": "<p>2007</p>",
+        "option_4": "<p>2012</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>2009.</strong> The Padma Shri, is the fourth-highest civilian award of the Republic of India, after the Bharat Ratna, the Padma Vibhushan and the Padma Bhushan. Established - 1954. Mahendra Singh Dhoni: Awards - Padma bhushan (2018), Rajiv Gandhi Khel Ratna Award (2007).</p>"
+    },
+    {
+        "question": "<p>What is the primary function of the excretory system in animals?</p>",
+        "option_1": "<p>Respiration</p>",
+        "option_2": "<p>Removal of waste products</p>",
+        "option_3": "<p>Digestion</p>",
+        "option_4": "<p>Reproduction</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Removal of waste products. </strong>The excretory system plays a crucial role in maintaining homeostasis by filtering out metabolic wastes like urea, carbon dioxide, and excess salts, as well as regulating water balance.</p>"
+    },
+    {
+        "question": "<p>In which state is the Raika tribe found?</p>",
+        "option_1": "<p>Kerala</p>",
+        "option_2": "<p>Manipur</p>",
+        "option_3": "<p>West Bengal</p>",
+        "option_4": "<p>Rajasthan</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) <strong>Rajasthan.</strong> The Raika tribe is renowned for herding animals, particularly camels, sheep, and goats. Other tribes of Rajasthan: Minas, Damor, Dhanka, Garasia, Kathodi etc.</p>"
+    },
+    {
+        "question": "<p>Which of the following is NOT an example of inertia at rest?</p>",
+        "option_1": "<p>Falling down backward when a vehicle starts immediately</p>",
+        "option_2": "<p>Falling down of dust particle while dusting a cloth</p>",
+        "option_3": "<p>The detachment of leaves/fruits due to shaking</p>",
+        "option_4": "<p>The sudden application of brakes in a vehicle</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) <strong>The sudden application of brakes in a vehicle. </strong>Newton's First Law of Motion, also known as the law of inertia, states that an object will remain at rest or in uniform motion in a straight line unless acted upon by an external force. Inertia is the body's resistance to changes in its state. Inertia of rest means a body at rest stays at rest until an external force acts on it. Inertia of motion means a body in motion continues moving until an external force stops it.</p>"
+    },
+    {
+        "question": "<p>Match the following items.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175018826.png",
+        "option_1": "<p>i (b), ii (d), iii (a), iv (c)</p>",
+        "option_2": "<p>i (d), ii (a), iii (b), iv (c)</p>",
+        "option_3": "<p>i (b), ii (c), iii (d), iv (a)</p>",
+        "option_4": "<p>i (c), ii (d), iii (b), iv (a)</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>i (b), ii (d), iii (a), iv (c).</strong> The Kasturba Gandhi Balika Vidyalaya (KGBV) is a government-run residential school for girls from weaker sections of society. The Mid-Day Meal Scheme (MDM) provides free, nutritious meals to school children across India. The National Assessment and Accreditation Council (NAAC) accredits higher education institutions, while the All India Council for Technical Education (AICTE) oversees technical education under the Department of Higher Education.</p>"
+    },
+    {
+        "question": "<p>Which of the following pairs of physicists and their contributions/discoveries is INCORRECT ?</p>",
+        "option_1": "<p>Galileo Galilei – Wave theory of light</p>",
+        "option_2": "<p>Michael Faraday – Laws of electromagnetic induction</p>",
+        "option_3": "<p>Heinrich Rudolf Hertz – Generation of electromagnetic waves</p>",
+        "option_4": "<p>Albert Einstein – Explanation of photoelectric effect</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a). The wave theory of light proposed by Christian Huygens. He proposed that light consists of waves vibrating up and down perpendicular to the direction of light. Galileo Galilei was born on 15 February 1564 in Pisa, Italy. In 1586, he wrote his first scientific book ‘The Little Balance (La Balancitta)’, in which he described Archimedes’ method of finding the relative densities (or specific gravities) of substances using a balance. He developed the Telescope and first Pendulum clock. Using his own telescopes on Saturn and Venus, Galileo argued that all the planets must orbit the Sun and not the earth, contrary to what was believed at that time.</p>"
+    },
+    {
+        "question": "<p>Which of the following is the compound with the chemical formula <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi>H</mi><mn>2</mn></msub><mi>S</mi><msub><mi>O</mi><mn>4</mn></msub></math>?</p>",
+        "option_1": "<p>Nitric Acid</p>",
+        "option_2": "<p>Sulfuric Acid</p>",
+        "option_3": "<p>Sulfurous Acid</p>",
+        "option_4": "<p>Hydrogen Sulfide</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Sulfuric Acid</strong> is also known as Mattling acid or Oil of vitriol. It is a colorless oily liquid. It is soluble in water with the release of heat. It is used to make fertilizers and other chemicals, in petroleum refining, in iron and steel production. Other Compounds : Nitric acid (HNO<sub>3</sub>), Sulfurous acid (H<sub>2</sub>SO<sub>3</sub>), Hydrogen sulfide (H<sub>2</sub>S).</p>"
+    },
+    {
+        "question": "<p>What is the value of a so that the seven−digit number 4645a52 is divisible by 72?</p>",
+        "option_1": "<p>2</p>",
+        "option_2": "<p>0</p>",
+        "option_3": "<p>3</p>",
+        "option_4": "<p>1</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/><strong>72 = 8 × 9</strong><br/>For 4645a52 to be divisible by 9, the sum of its digits i.e. 4 + 6 + 4 + 5 + a + 5 + 2 = 26+a, should be divisible by 9.<br/>For 4645a52 to be divisible by 8, its last 3 digits i.e. a52 must be divisible by 8.<br/>For this ‘a’ must be 1. As , 152 is divisible by 8 and 27 is divisible by 9.</p>"
+    },
+    {
+        "question": "<p>The average of runs of a cricket player in 12 innings was 42. How many runs must he make in his next innings to increase his average of runs by 2?</p>",
+        "option_1": "<p>64</p>",
+        "option_2": "<p>68</p>",
+        "option_3": "<p>72</p>",
+        "option_4": "<p>78</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>Let the total run in next innings be <math display=\"inline\"><mi>x</mi></math><br/>12 × 42 + <math display=\"inline\"><mi>x</mi></math> = 44 ×13<br/>504 + <math display=\"inline\"><mi>x</mi></math> = 572<br/><math display=\"inline\"><mi>x</mi></math> = 572 - 504 = 68</p>"
+    },
+    {
+        "question": "<p>From a point A, which is at a distance of 17 cm from the centre C of a circle with radius 8 cm, the pair of tangents AB and AD to the circle are drawn. The area of the quadrilateral ABCD is _____ cm<sup>2</sup></p>",
+        "option_1": "<p>192</p>",
+        "option_2": "<p>120</p>",
+        "option_3": "<p>60</p>",
+        "option_4": "<p>360</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><br/>In <math display=\"inline\"><mi>Δ</mi><mi>A</mi><mi>B</mi><mi>C</mi></math> <br/>∠ABC = <math display=\"inline\"><msup><mrow><mn>90</mn></mrow><mrow><mo>°</mo></mrow></msup></math> … (radius ⊥ tangent)<br/><b>hence,</b><br/><math display=\"inline\"><mi>A</mi><mi>B</mi></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mi>A</mi><msup><mi>C</mi><mn>2</mn></msup><mo>-</mo><mi>B</mi><msup><mi>C</mi><mn>2</mn></msup></msqrt></math><br/>= <math display=\"inline\"><msqrt><msup><mrow><mn>17</mn></mrow><mrow><mn>2</mn></mrow></msup><mo>-</mo><msup><mrow><mn>8</mn></mrow><mrow><mn>2</mn></mrow></msup></msqrt></math> <br/>= <math display=\"inline\"><msqrt><mn>289</mn><mo>-</mo><mn>64</mn></msqrt></math> <br/>= <math display=\"inline\"><msqrt><mn>225</mn></msqrt></math> = 15 cm<br/>Area of <math display=\"inline\"><mi>Δ</mi><mi>A</mi><mi>B</mi><mi>C</mi></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math>× base × height = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math> × AB × BC = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math>× 15× 8 = 60 cm<sup>2</sup><br/>Area of quadrilateral ABCD = 2 <math display=\"inline\"><mo>×</mo></math> Area of ΔABC = 2 × 60 = 120 cm<sup>2</sup></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175019191.png"
+    },
+    {
+        "question": "<p>The bar graph given below shows the sales of books from six schools during two consecutive years, 2013 and 2014.<br/> <br/>What percentage of the average sales of the schools A, B, and C in 2014 is the average sales of schools A, C, and F in 2013 ?</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175019418.png",
+        "option_1": "<p>81.08%</p>",
+        "option_2": "<p>81%</p>",
+        "option_3": "<p>80%</p>",
+        "option_4": "<p>80.08%</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>Average sales of the schools A, B, and C in 2014 = <math display=\"inline\"><mfrac><mrow><mn>70</mn><mo>+</mo><mn>35</mn><mo>+</mo><mn>80</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>185</mn><mn>3</mn></mfrac></math><br/>Average sales of the schools A, C, and F in 2013 = <math display=\"inline\"><mfrac><mrow><mn>50</mn><mo>+</mo><mn>60</mn><mo>+</mo><mn>40</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>150</mn><mn>3</mn></mfrac></math><br/>Ratio = <math display=\"inline\"><mfrac><mrow><mn>185</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math> : <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>150</mn><mn>3</mn></mfrac></math>= 37 : 30<br/>Required % = <math display=\"inline\"><mfrac><mrow><mn>30</mn></mrow><mrow><mn>37</mn></mrow></mfrac></math>×100 = 81.08%</p>"
+    },
+    {
+        "question": "<p>If <math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mi>M</mi></mrow></mfrac></math> : <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mi>N</mi></mfrac></math>: <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mi>O</mi></mfrac></math>= 3 : 4 : 5, then M : N : O is equal to :</p>",
+        "option_1": "<p>12 : 15 : 20</p>",
+        "option_2": "<p>20 : 15 : 12</p>",
+        "option_3": "<p>20 : 12 : 15</p>",
+        "option_4": "<p>15 : 20 : 12</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) </p>\\n<p dir=\"ltr\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>1</mn><mo> </mo></mrow><mi>M</mi></mfrac></math> : <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>1</mn><mo> </mo></mrow><mi>N</mi></mfrac></math> : <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>1</mn><mo> </mo></mrow><mi>O</mi></mfrac></math> = 3 : 4 : 5 </p>\\n<p dir=\"ltr\">Let <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>1</mn><mo> </mo></mrow><mi>M</mi></mfrac></math> = 3k , <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>1</mn><mo> </mo></mrow><mi>N</mi></mfrac></math> = 4k , <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>1</mn><mo> </mo></mrow><mi>O</mi></mfrac></math> = 5k</p>\\n<p dir=\"ltr\">M = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mrow><mn>3</mn><mi>k</mi></mrow></mfrac></math> , N = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mrow><mn>4</mn><mi>k</mi></mrow></mfrac></math> , O = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mrow><mn>5</mn><mi>k</mi></mrow></mfrac></math></p>\\n<p dir=\"ltr\">Now, LCM(3k,4k,5k) = 60k</p>\\n<p dir=\"ltr\"><b>Hence,</b> required ratio = M : N : O = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>60</mn><mi>k</mi></mrow><mrow><mn>3</mn><mi>k</mi></mrow></mfrac></math> : <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>60</mn><mi>k</mi></mrow><mrow><mn>4</mn><mi>k</mi></mrow></mfrac></math> : <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>60</mn><mi>k</mi></mrow><mrow><mn>5</mn><mi>k</mi></mrow></mfrac></math> = 20 : 15 : 12</p>\\n"
+    },
+    {
+        "question": "<p>If (sin <math display=\"inline\"><mi>x</mi></math> + sin y) = a and (cos x + cos y) = b, then find the value of (sin x sin y + cos x cos y).</p>",
+        "option_1": "<p><math display=\"inline\"><mfrac><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mi> </mi><mo>+</mo><mi> </mi><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup><mi> </mi><mo>-</mo><mi> </mi><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math></p>",
+        "option_2": "<p><math display=\"inline\"><mfrac><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mi> </mi><mo>-</mo><mi> </mi><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup><mi> </mi><mo>-</mo><mi> </mi><mn>2</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math></p>",
+        "option_3": "<p><math display=\"inline\"><mfrac><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mi> </mi><mo>+</mo><mi> </mi><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup><mi> </mi><mo>-</mo><mi> </mi><mn>2</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math></p>",
+        "option_4": "<p><math display=\"inline\"><mfrac><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mi> </mi><mo>+</mo><mi> </mi><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup><mi> </mi><mo>+</mo><mi> </mi><mn>2</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/>(sin x + sin y) = a ----------------- (i)<br/>Squaring both side, <br/><math display=\"inline\"><mi>s</mi><mi>i</mi><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></math>x + sin<sup>2</sup>y + 2sinxsiny = a<sup>2</sup> ----------------- (ii)<br/>(cos x + cos y) = b ----------------- (iii)<br/>Squaring both side, <br/><math display=\"inline\"><mi>c</mi><mi>o</mi><msup><mrow><mi>s</mi></mrow><mrow><mn>2</mn></mrow></msup></math>x + cos<sup>2</sup>y + 2cosxcosy = b<sup>2</sup> ----------------- (iv)<br/>Adding eqn (ii) &amp; (iv) we get ;<br/>(<math display=\"inline\"><mi>s</mi><mi>i</mi><msup><mrow><mi>n</mi></mrow><mrow><mn>2</mn></mrow></msup></math>x + cos<sup>2</sup>x) + (sin<sup>2</sup>y + cos<sup>2</sup>y) + 2sinxsiny + 2cosxcosy = a<sup>2</sup>+ b<sup>2</sup><br/>1 + 1 + 2(sinxsiny + cosxcosy) = <math display=\"inline\"><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></math>+ b<sup>2</sup><br/>2(1 + sinxsiny + cosxcosy) = <math display=\"inline\"><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></math>+ b<sup>2</sup><br/>(1 + sinxsiny + cosxcosy) = <math display=\"inline\"><mfrac><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mi> </mi><mo>+</mo><mi> </mi><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn></mrow></mfrac></math><br/>sinxsiny + cosxcosy = <math display=\"inline\"><mfrac><mrow><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mi> </mi><msup><mrow><mi>b</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mn>2</mn></mrow></mfrac></math> - 1 = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn></mrow><mn>2</mn></mfrac></math></p>"
+    },
+    {
+        "question": "<p>Find the maximum number of students among whom 1003 chocolates and 2703 candies can be distributed such that each student gets the same number of each.</p>",
+        "option_1": "<p>17</p>",
+        "option_2": "<p>29</p>",
+        "option_3": "<p>19</p>",
+        "option_4": "<p>33</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>Maximum no of students who got equal no of chocolates and candies <br/>= HCF of (1003, 2703) = 17</p>"
+    },
+    {
+        "question": "<p>A shopkeeper allows a discount of 22% to his customers and still gains 36%. Find the marked price (in₹) of an article which costs ₹1,092 to the shopkeeper.</p>",
+        "option_1": "<p>1,792</p>",
+        "option_2": "<p>2,024</p>",
+        "option_3": "<p>1,904</p>",
+        "option_4": "<p>1,872</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <br/>Marked price = 1092 × <math display=\"inline\"><mfrac><mrow><mn>136</mn></mrow><mrow><mn>78</mn></mrow></mfrac></math> = ₹1904</p>"
+    },
+    {
+        "question": "<p>In ΔABC, O is the point of intersection of the bisectors of angle B and angle A. If the angle BOC = 108°, then angle BAO is:</p>",
+        "option_1": "<p>18°</p>",
+        "option_2": "<p>26°</p>",
+        "option_3": "<p>22°</p>",
+        "option_4": "<p>16°</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/><br/>In <math display=\"inline\"><mi>Δ</mi></math>ABC,<br/><math display=\"inline\"><mo>⇒</mo></math> ∠BOC = 90° + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle mathsize=\"10px\"><mfrac><mrow><mo>∠</mo><mi>B</mi><mi>A</mi><mi>C</mi></mrow><mn>2</mn></mfrac></mstyle></math><br/><math display=\"inline\"><mo>⇒</mo></math> 108° - 90° = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle mathsize=\"10px\"><mfrac><mrow><mo>∠</mo><mi>B</mi><mi>A</mi><mi>C</mi></mrow><mn>2</mn></mfrac></mstyle></math><br/><math display=\"inline\"><mo>⇒</mo></math> ∠BAC = 36° </p>\\n<p><math display=\"inline\"><mo>⇒</mo></math>∠BAO = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle mathsize=\"10px\"><mfrac><mrow><mo>∠</mo><mi>B</mi><mi>A</mi><mi>C</mi></mrow><mn>2</mn></mfrac></mstyle></math> = 18°<br/>So, ∠BAO = 18°</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175019781.png"
+    },
+    {
+        "question": "<p>A, B and C invested money in a business such that 2 times A's share, 4 times B's share and 6 times C's share are all equal. If they earned ₹44,000, find the share of A.</p>",
+        "option_1": "<p>₹22,000</p>",
+        "option_2": "<p>₹12,000</p>",
+        "option_3": "<p>₹24,000</p>",
+        "option_4": "<p>₹20,000</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) If 2 times A's share, 4 times B's share and 6 times C's share are all equal<br/>∴ 2A = 4B = 6C <br/>Hence , A : B : C = 6 : 3 : 2<br/>Now , A’s share = <math display=\"inline\"><mfrac><mrow><mn>6</mn></mrow><mrow><mn>11</mn></mrow></mfrac></math> × 44000 = 24,000</p>"
+    },
+    {
+        "question": "<p>The pie chart given below shows the number of hours spent by a student for different activities on a working day.<br/>The percentage of hours spent at school in a day is _____.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175020012.png",
+        "option_1": "<p>25%</p>",
+        "option_2": "<p>35%</p>",
+        "option_3": "<p>40%</p>",
+        "option_4": "<p>30%</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>The percentage of hours spent at school in a day = <math display=\"inline\"><mfrac><mrow><mn>6</mn></mrow><mrow><mn>24</mn></mrow></mfrac></math> × 100<br/>= 25 %</p>"
+    },
+    {
+        "question": "<p>A laptop charger is sold for Rs.2,540 in cash or for a down payment of Rs.1,340 in cash together with Rs.1,205 to be paid after one month. Find the rate of interest charged in the installment scheme.</p>",
+        "option_1": "<p>5% p.a.</p>",
+        "option_2": "<p>10% p.a.</p>",
+        "option_3": "<p>15% p.a.</p>",
+        "option_4": "<p>20% p.a.</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <br/>Amount to be paid = 2540 - 1340 = ₹1200<br/>SI = 1205 - 1200 = ₹5<br/>SI = <math display=\"inline\"><mfrac><mrow><mi>P</mi><mo>×</mo><mi>R</mi><mo>×</mo><mi>T</mi></mrow><mrow><mn>100</mn></mrow></mfrac></math><br/>5 = <math display=\"inline\"><mfrac><mrow><mn>1200</mn><mo>×</mo><mi>R</mi><mo>×</mo><mn>1</mn></mrow><mrow><mn>12</mn><mo>×</mo><mn>100</mn></mrow></mfrac></math><br/>R = 5%</p>"
+    },
+    {
+        "question": "<p>18 workers can complete a piece of work in 96 days. They start working together and after 26 days 10 more workers join them. In how many days in all will the work be completed?</p>",
+        "option_1": "<p>69</p>",
+        "option_2": "<p>71</p>",
+        "option_3": "<p>72</p>",
+        "option_4": "<p>70</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>Formula used : - <math display=\"inline\"><mfrac><mrow><msub><mrow><mi>M</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi>D</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi>H</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>W</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msub><mi>M</mi><mn>2</mn></msub><msub><mi>D</mi><mn>2</mn></msub><msub><mi>H</mi><mn>2</mn></msub></mrow><msub><mi>W</mi><mn>2</mn></msub></mfrac></math><br/>According to the question,<br/>18 × 96 = 18 × 26 + (28 × x)<br/>18 × 96 - 18 × 26 = (28 × x)<br/><math display=\"inline\"><mn>18</mn><mo>(</mo><mn>96</mn></math> - 26) = (28 × x)<br/><math display=\"inline\"><mn>18</mn></math> × 70 = (28 × x)<br/><math display=\"inline\"><mi>x</mi></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>18</mn><mo>×</mo><mn>70</mn></mrow><mn>28</mn></mfrac></math> = 45 days<br/>Time taken to complete the whole work = 45 + 26 = 71 days</p>"
+    },
+    {
+        "question": "<p>Average age of 22 teachers is 64 years. After involving a new teacher What is the age of the new teacher? in that group the average increases by 1 year</p>",
+        "option_1": "<p>93 years</p>",
+        "option_2": "<p>87 years</p>",
+        "option_3": "<p>89 years</p>",
+        "option_4": "<p>91 years</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>Age of new teacher = 64 + 1 × 23 = 87 yrs</p>"
+    },
+    {
+        "question": "<p>Simplify <br/><math style=\"font-family: Verdana;\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>5</mn><mn>4</mn></mfrac></mrow></mfenced><mo>×</mo><mfenced separators=\"|\"><mrow><mfrac><mn>9</mn><mn>5</mn></mfrac><mo>-</mo><mfrac><mn>4</mn><mn>5</mn></mfrac></mrow></mfenced><mo>÷</mo><mfenced separators=\"|\"><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced></math></p>",
+        "option_1": "<p>2</p>",
+        "option_2": "<p>−1</p>",
+        "option_3": "<p>−2</p>",
+        "option_4": "<p>1</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/><math style=\"font-family:Verdana\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfenced separators=\"|\"><mrow><mfrac><mn>3</mn><mn>4</mn></mfrac><mo>+</mo><mfrac><mn>5</mn><mn>4</mn></mfrac></mrow></mfenced><mo>×</mo><mfenced separators=\"|\"><mrow><mfrac><mn>9</mn><mn>5</mn></mfrac><mo>-</mo><mfrac><mn>4</mn><mn>5</mn></mfrac></mrow></mfenced><mo>÷</mo><mfenced separators=\"|\"><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></mfenced></math><br/><math display=\"inline\"><mfrac><mrow><mn>8</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math> × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>5</mn><mn>5</mn></mfrac></math>÷ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>4</mn><mn>2</mn></mfrac></math>= <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>8</mn><mn>4</mn></mfrac></math>× <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>5</mn><mn>5</mn></mfrac></math>× <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>2</mn><mn>4</mn></mfrac></math>= 1</p>"
+    },
+    {
+        "question": "<p>If 2<math display=\"inline\"><msup><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>e</mi><mi>c</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>θ</mi></math> + 3cot<sup>2</sup>θ = 17, then the value of ‘θ’ when 0°≤ θ ≤ 90° is:</p>",
+        "option_1": "<p>45°</p>",
+        "option_2": "<p>90°</p>",
+        "option_3": "<p>30°</p>",
+        "option_4": "<p>75°</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/>2<math display=\"inline\"><msup><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>e</mi><mi>c</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>θ</mi></math> + 3cot<sup>2</sup>θ = 17<br/>By putting the values in the options one by one</p>\\n<p><math display=\"inline\"><mi>θ</mi></math> = 30° satisfies the equation:<br/>⇒ 2<math display=\"inline\"><msup><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>e</mi><mi>c</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>θ</mi></math> + 3cot<sup>2</sup>θ = 2cosec<sup>2</sup>30° + 3cot<sup>2</sup>30° <br/>= 2 × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>4</mn><mn>1</mn></mfrac></math>+ 3 × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>3</mn><mn>1</mn></mfrac></math><br/>= 8 + 9 = 17</p>"
+    },
+    {
+        "question": "<p>The average temperature of a city for the first four days of the week is 25°C, and the average temperature for the last four days is 30°C. If the average temperature for the entire week is 27°C, then what is the temperature on the fourth day?</p>",
+        "option_1": "<p>29°C</p>",
+        "option_2": "<p>31°C</p>",
+        "option_3": "<p>30°C</p>",
+        "option_4": "<p>28°C</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>Total temperature of a city for the first four days of the week = 100°C<br/>Total temperature of a city for the last four days of the week = 120°C<br/>Total temperature of a city for eight days of the week = 100 + 120 = 220°C<br/>Total temperature for the seven days of the week = 27 <math display=\"inline\"><mo>×</mo></math> 7 = 189°C<br/><math display=\"inline\"><mo>⇒</mo></math> the temperature on the fourth day = 220 - 189 =31°C</p>"
+    },
+    {
+        "question": "<p>Riya offers 12% discount on all her goods and offers an additional discount of 6% to those customers who pay in cash. How much will a customer have to pay for a fan marked for ₹2,400 if he pays in cash?</p>",
+        "option_1": "<p>₹1,985.28</p>",
+        "option_2": "<p>₹1,900</p>",
+        "option_3": "<p>₹2,300.50</p>",
+        "option_4": "<p>₹2,122.50</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>Money paid by customer = 2400 × <math display=\"inline\"><mfrac><mrow><mn>22</mn></mrow><mrow><mn>25</mn></mrow></mfrac></math> × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>47</mn><mn>50</mn></mfrac></math> = ₹1,985.28</p>"
+    },
+    {
+        "question": "<p>If a + <math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mi>a</mi></mrow></mfrac></math> = 12, then find the value of a<sup>2</sup> + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msup><mi>a</mi><mn>2</mn></msup></mfrac></math>.</p>",
+        "option_1": "<p>144</p>",
+        "option_2": "<p>146</p>",
+        "option_3": "<p>142</p>",
+        "option_4": "<p>140</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <br/><math display=\"inline\"><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msup></math> + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><msup><mi>a</mi><mn>2</mn></msup></mfrac></math>= (a + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mi>a</mi></mfrac></math>)<sup>2</sup> - 2 <br/>= <math display=\"inline\"><mn>1</mn><msup><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msup></math> - 2 = 142</p>"
+    },
+    {
+        "question": "<p>A hemispherical bowl has a 21 cm radius. It is to be painted inside as well as outside. The cost of painting it at the rate of ₹0.05 per cm<sup>2</sup> and assuming that the thickness of the bowl is negligible, is: (Use π =<math display=\"inline\"><mfrac><mrow><mi> </mi><mn>22</mn></mrow><mrow><mn>7</mn></mrow></mfrac></math>)</p>",
+        "option_1": "<p>₹410.10</p>",
+        "option_2": "<p>₹188.30</p>",
+        "option_3": "<p>₹277.20</p>",
+        "option_4": "<p>₹388.20</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/>Required area of hemisphere = 2<math display=\"inline\"><mi>π</mi></math>r<sup>2 </sup>+ 2πr<sup>2</sup><br/><math display=\"inline\"><mo>⇒</mo></math> A = 4πr<sup>2</sup><br/><math display=\"inline\"><mo>⇒</mo></math> A = 4 × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>22</mn><mn>7</mn></mfrac></math>× 21 × 21 = 5544<br/><b>Hence,</b><br/>cost of painting = 5544 <math display=\"inline\"><mo>×</mo></math> 0.05 = 277.2 Rs.</p>"
+    },
+    {
+        "question": "<p>In a circle, O is the centre and AOB is the diameter. AT is a tangent to the circle. Line TB intersects the circle at Q . Given that ∠AOQ = 94°, find ∠ATQ .</p>",
+        "option_1": "<p>133°</p>",
+        "option_2": "<p>43°</p>",
+        "option_3": "<p>86°</p>",
+        "option_4": "<p>47°</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <br/><br/>∠AQB = 90° (angle subtended by a diameter on any point of a circle is always 90°)<br/>So, ∠TQA = 90°<br/>∠OAQ = <math display=\"inline\"><mfrac><mrow><mn>180</mn><mo>°</mo><mi> </mi><mo>-</mo><mi> </mi><mn>94</mn><mo>°</mo></mrow><mrow><mn>2</mn></mrow></mfrac></math> = 43°<br/>∠QAT = 90° - 43° = 47°<br/>In <math display=\"inline\"><mi>Δ</mi></math>TQA,<br/>∠QTA = 180° - (90° + 47°)<br/>∠QTA = 180° - 137° = 43°<br/>Required angle(∠QTA) = 43°</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744175020362.png"
+    },
+    {
+        "question": "<p>At a school building, there is an overhead tank. To fill this tank 50 buckets of water are required. Assume that the capacity of the bucket is reduced to two-fifth of the present. How many buckets of water are required to fill the same tank?</p>",
+        "option_1": "<p>62.5</p>",
+        "option_2": "<p>20</p>",
+        "option_3": "<p>125</p>",
+        "option_4": "<p>60</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) Let the initial capacity of bucket = 5 <br/>After reducing two-fifth of the initial , the capacity of bucket = 2 <br/>Total capacity of the tank = 5 × 50 = 250 <br/>After reduction , required no of bucket to fill the same tank = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>250</mn><mi> </mi></mrow><mn>2</mn></mfrac></math> = 125</p>"
+    },
+    {
+        "question": "<p>A truck driver drove for 4 hours at 40 km/h. He drove for another 3 hours at 50 km/h after taking rest for 1 h. What was the driver's average speed, in km/h, during the whole journey?</p>",
+        "option_1": "<p>40</p>",
+        "option_2": "<p>38.75</p>",
+        "option_3": "<p>39.25</p>",
+        "option_4": "<p>36.50</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>Average speed = <math display=\"inline\"><mfrac><mrow><mn>40</mn><mo>×</mo><mn>4</mn><mo>+</mo><mn>50</mn><mo>×</mo><mn>3</mn></mrow><mrow><mn>4</mn><mo>+</mo><mn>3</mn><mo>+</mo><mn>1</mn></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>160</mn><mo>+</mo><mn>150</mn></mrow><mn>8</mn></mfrac></math>= <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>310</mn><mn>8</mn></mfrac></math>= 38.75 km/hr</p>"
+    },
+    {
+        "question": "<p>45% of Samita's monthly income is equal to 63% of Anil's monthly income. If Samita's monthly income is ₹84,000, what is Anil's monthly income (in ₹)?</p>",
+        "option_1": "<p>59,400</p>",
+        "option_2": "<p>61,500</p>",
+        "option_3": "<p>58,500</p>",
+        "option_4": "<p>60,000</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/>Monthly income of Samita = ₹ 84,000<br/>According to the question,<br/>45% of 84,000 = 63% of Anil<br/>Monthly income of Anil = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>84</mn><mo>,</mo><mn>000</mn><mo>×</mo><mn>45</mn></mrow><mn>63</mn></mfrac></math> = ₹ 60,000</p>"
+    },
+    {
+        "question": "<p>A person spends 40% of his salary on food items, 50% of the remaining on transport, and 30% of the remaining on clothes. After spending on food, transport and clothes, he saves ₹1,260 every month, what is his monthly salary?</p>",
+        "option_1": "<p>₹8,000</p>",
+        "option_2": "<p>₹6,000</p>",
+        "option_3": "<p>₹7,000</p>",
+        "option_4": "<p>₹10,000</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>Let the monthly salary be x<br/>ATQ,<br/>x ×<math display=\"inline\"><mfrac><mrow><mn>60</mn></mrow><mrow><mn>100</mn></mrow></mfrac></math>× <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>50</mn><mn>100</mn></mfrac></math>× <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>70</mn><mn>100</mn></mfrac></math>= 1260<br/>x ×<math display=\"inline\"><mfrac><mrow><mn>21</mn></mrow><mrow><mn>100</mn></mrow></mfrac></math> = 1260<br/>x = 1260 ×<math display=\"inline\"><mfrac><mrow><mn>100</mn></mrow><mrow><mn>21</mn></mrow></mfrac></math> = 6000<br/>So, the monthly salary of a person is ₹6,000</p>"
+    },
+    {
+        "question": "<p>The following sentence has been divided into five segments. The first segment has no error. Select the option that has the segment with the grammatical error. <br/>Due to the pandemic, / the prices of / medicines increased / every day since / last December.</p>",
+        "option_1": "<p>every day since</p>",
+        "option_2": "<p>medicines increased</p>",
+        "option_3": "<p>last December.</p>",
+        "option_4": "<p>the prices of</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) medicines increased<br/>We use present continuous tense with ‘for/since’ to show that something has been happening for a period of time. ‘Plural subject (prices) + have been + Ving’ is the correct grammatical structure for it. <b>Hence,</b> ‘medicines have been increasing’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p>Identify the segment in the sentence, which contains the grammatical error.<br/>In this novel I came across some words which meaning I do not know.</p>",
+        "option_1": "<p>came across</p>",
+        "option_2": "<p>which meaning</p>",
+        "option_3": "<p>In this novel</p>",
+        "option_4": "<p>do not know</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) “which meaning”is incorrect. <br/>According to the context of the sentence, the phrase ‘meanings of which’ will be the correct sentence structure. Because the word “meanings” refers to the meaning of different words.</p>"
+    },
+    {
+        "question": "<p>Identify the best way to improve the underlined part of the given sentence. If there is no improvement required, select ‘no improvement’.<br/>He was a failure at art but his last piece was <span style=\"text-decoration: underline;\"><strong>so beautiful that no one could believe he had painted it.</strong></span></p>",
+        "option_1": "<p>indeed a masterpiece !</p>",
+        "option_2": "<p>No improvement</p>",
+        "option_3": "<p>breath talking enough to be unreal.</p>",
+        "option_4": "<p>very realistic and unbelievable.</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) No improvement.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate meaning of the given idiom.<br/>Keep your pants on</p>",
+        "option_1": "<p>To keep calm and quiet</p>",
+        "option_2": "<p>To wear the dress neatly</p>",
+        "option_3": "<p>To work like a tailor</p>",
+        "option_4": "<p>To make things proper</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>Keep your pants on </strong>- to keep calm and quiet.<br/>E.g.- Keep your pants on! The movie will start in just a few minutes.</p>"
+    },
+    {
+        "question": "<p>Select the option that expresses the given sentence in active voice.<br/>The meal was not prepared by us.</p>",
+        "option_1": "<p>We had not prepare the meal.</p>",
+        "option_2": "<p>We did not prepare the meal.</p>",
+        "option_3": "<p>We did not preparing the meal.</p>",
+        "option_4": "<p>We did prepare the meal.</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) We did not prepare the meal. (Correct)<br/>(a) We <span style=\"text-decoration: underline;\">had</span> not prepare the meal. (Incorrect Helping Verb)<br/>(c) We did not <span style=\"text-decoration: underline;\">preparing</span> the meal. (Incorrect Form of the Verb)<br/>(d) We did prepare the meal. (‘Not’ is missing)</p>"
+    },
+    {
+        "question": "Select the word which means the same as the group of words given<br/>The act of killing a whole group of people, especially a whole race.",
+        "option_1": "Patricide",
+        "option_2": "Parricide",
+        "option_3": "Matricide",
+        "option_4": "Genocide",
+        "option_5": "",
+        "answer": "4",
+        "solution": "(d) Genocide<br/>Patricide- the crime of killing your father.<br/>Parricide- the killing of a parent or other near relative.<br/>Matricide- the crime of killing your mother."
+    },
+    {
+        "question": "<p>Find the misspelt world.</p>",
+        "option_1": "<p>Complement</p>",
+        "option_2": "<p>Compliment</p>",
+        "option_3": "<p>Supplement</p>",
+        "option_4": "<p>Requirment</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) Requirment<br/>Requirement is the correct spelling.</p>"
+    },
+    {
+        "question": "Given below are four jumbled sentences. Pick the option that gives their correct order.<br/>(A) He made only what was ordered, and what he made never failed to fit.<br/>(B) The shop had a certain quiet distinction.<br/>(C ) There was no sign upon it other than the name of Gessler Brothers.<br/>(D) And in the window were displayed a few pairs of boots.",
+        "option_1": "DCBA",
+        "option_2": "BCAD",
+        "option_3": "BCDA",
+        "option_4": "CBAD",
+        "option_5": "",
+        "answer": "3",
+        "solution": "(c) BCDA<br/>Sentence B will be the starting line as it contains the main idea of the parajumble i.e. the distinction which the shop had. Sentence C states that there was no other sign on it other than the name of Gessler Brothers . So, C will follow B. Further, Sentence D states that there were a few pair of boots in the display and Sentence A talks about the boots mentioned in D . So, A will follow D . Going through the options, option ( c) BCDA has the correct sequence."
+    },
+    {
+        "question": "Find the misspelt world.",
+        "option_1": "Begining",
+        "option_2": "Winning",
+        "option_3": "Mining",
+        "option_4": "Running",
+        "option_5": "",
+        "answer": "1",
+        "solution": "(a) Begining.<br/>Beginning is the correct spelling."
+    },
+    {
+        "question": "Pick a word opposite in meaning to<br/>Wary",
+        "option_1": "Free",
+        "option_2": "Careless",
+        "option_3": "Watchful",
+        "option_4": "Kind",
+        "option_5": "",
+        "answer": "2",
+        "solution": "(b) Careless<br/>Wary means to be careful."
+    },
+    {
+        "question": "<p>Choose the best alternative which best expresses the meaning of the idiom/ phrase.<br/><span style=\"text-decoration: underline;\">bury the hatchet</span></p>",
+        "option_1": "<p>obtain</p>",
+        "option_2": "<p>influence friends</p>",
+        "option_3": "<p>make peace</p>",
+        "option_4": "<p>keep a secret</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) make peace<br/>Eg- After not speaking to each other for years, the two brothers decided to bury the hatchet.</p>"
+    },
+    {
+        "question": "<p>Select the word which means the same as the group of words given.<br/>Continuing for a very long time.</p>",
+        "option_1": "<p>laconic</p>",
+        "option_2": "<p>interim</p>",
+        "option_3": "<p>concise</p>",
+        "option_4": "<p>interminable</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) <strong>interminable</strong>-endless or <br/>apparently endless (often used hyperbolically).<br/>(a)<strong>laconic</strong>- using very few words.<br/>(b)<strong>interim</strong>-the intervening time.<br/>(c)<strong>concise</strong>- brief but comprehensive.</p>"
+    },
+    {
+        "question": "<p>Given below are four jumbled sentences. Pick the option that gives their correct order.<br/>(A) Children were often helping their families at work from the age of five or six.<br/>(B) The early factory system depended on the labour of children.<br/>(C) As late as the 19th century it was considered proper that children start to work as soon as they were able to.<br/>(D) It was during the 19th and early 20th centuries that ideas about childhood as a special stage of life gained influence.</p>",
+        "option_1": "<p>BDCA</p>",
+        "option_2": "<p>CBAD</p>",
+        "option_3": "<p>BCAD</p>",
+        "option_4": "<p>CABD</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>88 (d) CABD<br/>Sentence C will be the starting line as it contains the main idea of the parajumble i.e. till the 19th century, children were assumed to start work as soon as they were able to. Sentence A states that from the age of five or six they started helping their families . So, A will follow C . Further, Sentence B states that the early factory system was dependent on child labour and Sentence D states that after 19th century childhood was considered as a special stage of life . So, D will follow B . Going through the options, option (d) has the correct sequence.</p>"
+    },
+    {
+        "question": "Select the most appropriate option to fill in the blank. <br/>The Singapore government has deported ten Indian students for ______ the government rules.",
+        "option_1": "vandalising",
+        "option_2": "aiding",
+        "option_3": "verifying",
+        "option_4": "violating",
+        "option_5": "",
+        "answer": "4",
+        "solution": "(d) violating <br/>‘Violate’ means to break a rule, an agreement, etc. Similarly, the students in the given sentence break the government rules. Hence ‘violating’ is the most appropriate answer."
+    },
+    {
+        "question": "<p>Identify the best way to improve the underlined part of the given sentence. If there is no improvement required, select ‘no improvement’.<br/><span style=\"text-decoration: underline;\"><strong>Since setting up,</strong></span> the charity has raised a million dollars.</p>",
+        "option_1": "<p>Since being set up</p>",
+        "option_2": "<p>From setting up</p>",
+        "option_3": "<p>Since setting</p>",
+        "option_4": "<p>No improvement required</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) Since being set up<br/>The initial part of the given sentence is incomplete as it requires a gerund(being). <b>Hence,</b> ‘since being set up’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p dir=\"ltr\">Identify the most appropriate ANTONYM of the given word. </p>\\n<p dir=\"ltr\">Reliable</p>",
+        "option_1": "<p>Unknown</p>",
+        "option_2": "<p>Untrustworthy</p>",
+        "option_3": "<p>Uncommon</p>",
+        "option_4": "<p>Unfamiliar</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) Untrustworthy </p>\\n<p><strong>Untrustworthy-</strong> not able to be trusted.</p>\\n<p dir=\"ltr\"><strong>Reliable- </strong>able to be trusted.</p>\\n<p dir=\"ltr\"><strong>Unknown-</strong> not known.</p>\\n<p dir=\"ltr\"><strong>Uncommon-</strong> not seen very often.</p>\\n<p dir=\"ltr\"><strong>Unfamiliar-</strong> not well known. </p>\\n"
+    },
+    {
+        "question": "<p>Replace the underlined word in the given sentence with the most appropriate synonym from the options listed below.<br/>Morality is contextual; therefore, it is foolish to believe that one's moral judgement would be perfect and <span style=\"text-decoration: underline;\">immaculate.</span></p>",
+        "option_1": "<p>indelicate</p>",
+        "option_2": "<p>tarnished</p>",
+        "option_3": "<p>impeccable</p>",
+        "option_4": "<p>grubby</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>Impeccable-</strong> flawless and without mistakes.<br/><strong>Immaculate-</strong> perfectly clean and without flaws.<br/><strong>Indelicate-</strong> lacking sensitivity and refinement.<br/><strong>Tarnished-</strong> damaged in quality or appearance.<br/><strong>Grubby-</strong> dirty and unclean.</p>"
+    },
+    {
+        "question": "Select the most appropriate option to fill in the blank. <br/>Gifting is generally taken to be the easiest act to ________, if only you have the heart to part with something in your ________.",
+        "option_1": "forsake, capacity",
+        "option_2": "perform, possession",
+        "option_3": "forgive, discretion",
+        "option_4": "observe, control",
+        "option_5": "",
+        "answer": "2",
+        "solution": "(b) Perform, Possession. <br/>‘Perform’ means to do a piece of work or something that you have been ordered to do &amp; ‘possession’ means the state of having or owning something. The given sentence states that gifting is generally taken to be the easiest act to perform, if only you have the heart to part with something in your possession. <b>Hence,</b> ‘perform, possession’ is the most appropriate answer."
+    },
+    {
+        "question": "<p>Choose the most appropriate option to change the voice (active / passive) form of the given sentence.<br/>Could you pass the salt ?</p>",
+        "option_1": "<p>Could the salt been passed?</p>",
+        "option_2": "<p>Could the salt be passed by anyone?</p>",
+        "option_3": "<p>Could the salt be past?</p>",
+        "option_4": "<p>Could the salt be passed?</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) Could the salt be passed? <br/>a. Could the salt <strong>been</strong> passed ? (Incorrect word)<br/>b. Could the salt be passed by <strong>anyone</strong> ? (Incorrect word)<br/>c. Could the salt be past? (Incorrect word used)</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate synonym of the word ‘Abandon’ from the given sentence. <br/>Ramita has decided to forsake her participation in college activities until she improved her scores.</p>",
+        "option_1": "<p>improved</p>",
+        "option_2": "<p>forsake</p>",
+        "option_3": "<p>decided</p>",
+        "option_4": "<p>participation</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Forsake-</strong> to give up or leave someone.<br/><strong>Abandon-</strong> to leave a place, thing, or person, usually for ever.<br/><strong>Improved-</strong> having become better<br/><strong>Decided-</strong> clear and definite<br/><strong>Participation-</strong> the action of taking part in something.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:-</strong> <br/>Claims have been made that vaccines are responsible for certain (96)__________ health conditions, particularly autism, speech disorders and inflammatory bowel disease. Some of those claims focused on thimerosal, a mercury-containing compound used as a preservative in vaccines. Some people believed that autism (97)__________ a form of mercury poisoning, caused specifically by thimerosal in childhood vaccines. Those claims have been discredited. Still, misinformation and fear generated by false claims about associations (98)__________ autism and vaccines had a significant impact on individuals’ perceptions about vaccine safety. (99)__________, most individuals in countries where vaccination is widespread have never personally experienced vaccine-preventable disease. Thus, the focus of concern for some people shifted from the negative effects of vaccine-preventable disease to the possible negative effects of the vaccines (100)__________.<br/>Select the most appropriate option to fill in the blank no 96.</p>",
+        "option_1": "<p>contemptuous</p>",
+        "option_2": "<p>adverse</p>",
+        "option_3": "<p>affirm</p>",
+        "option_4": "<p>disperse</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) ‘Adverse’ means making something difficult for somebody. The given passage states that claims have been made that vaccines are responsible for certain adverse health conditions, particularly autism, speech disorders and inflammatory bowel disease. <b>Hence,</b> ‘adverse’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:-</strong> <br/>Claims have been made that vaccines are responsible for certain (96)__________ health conditions, particularly autism, speech disorders and inflammatory bowel disease. Some of those claims focused on thimerosal, a mercury-containing compound used as a preservative in vaccines. Some people believed that autism (97)__________ a form of mercury poisoning, caused specifically by thimerosal in childhood vaccines. Those claims have been discredited. Still, misinformation and fear generated by false claims about associations (98)__________ autism and vaccines had a significant impact on individuals’ perceptions about vaccine safety. (99)__________, most individuals in countries where vaccination is widespread have never personally experienced vaccine-preventable disease. Thus, the focus of concern for some people shifted from the negative effects of vaccine-preventable disease to the possible negative effects of the vaccines (100)__________.<br/>Select the most appropriate option to fill in the blank no 97.</p>",
+        "option_1": "<p>will</p>",
+        "option_2": "<p>shall</p>",
+        "option_3": "<p>was</p>",
+        "option_4": "<p>were</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) ‘Autism’ is a singular subject so it will take ‘was’ as a singular verb. <b>Hence,</b> ‘was’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:-</strong> <br/>Claims have been made that vaccines are responsible for certain (96)__________ health conditions, particularly autism, speech disorders and inflammatory bowel disease. Some of those claims focused on thimerosal, a mercury-containing compound used as a preservative in vaccines. Some people believed that autism (97)__________ a form of mercury poisoning, caused specifically by thimerosal in childhood vaccines. Those claims have been discredited. Still, misinformation and fear generated by false claims about associations (98)__________ autism and vaccines had a significant impact on individuals’ perceptions about vaccine safety. (99)__________, most individuals in countries where vaccination is widespread have never personally experienced vaccine-preventable disease. Thus, the focus of concern for some people shifted from the negative effects of vaccine-preventable disease to the possible negative effects of the vaccines (100)__________.<br/>Select the most appropriate option to fill in the blank no 98.</p>",
+        "option_1": "<p>one another</p>",
+        "option_2": "<p>between</p>",
+        "option_3": "<p>each other</p>",
+        "option_4": "<p>through</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) ‘Between’ means in the space in the middle of two things, people, places, etc. The given passage states that misinformation and fear are generated by false claims about associations between autism and vaccines. <b>Hence,</b> ‘between’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:-</strong> <br/>Claims have been made that vaccines are responsible for certain (96)__________ health conditions, particularly autism, speech disorders and inflammatory bowel disease. Some of those claims focused on thimerosal, a mercury-containing compound used as a preservative in vaccines. Some people believed that autism (97)__________ a form of mercury poisoning, caused specifically by thimerosal in childhood vaccines. Those claims have been discredited. Still, misinformation and fear generated by false claims about associations (98)__________ autism and vaccines had a significant impact on individuals’ perceptions about vaccine safety. (99)__________, most individuals in countries where vaccination is widespread have never personally experienced vaccine-preventable disease. Thus, the focus of concern for some people shifted from the negative effects of vaccine-preventable disease to the possible negative effects of the vaccines (100)__________.<br/>Select the most appropriate option to fill in the blank no 99.</p>",
+        "option_1": "<p>For instance</p>",
+        "option_2": "<p>Therefore</p>",
+        "option_3": "<p>In addition</p>",
+        "option_4": "<p>Likewise</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) ‘For instance’ means for an example. The given passage states that for instance, most individuals in countries where vaccination is widespread have never personally experienced the vaccine-preventable disease. <b>Hence,</b> ‘For instance’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:-</strong> <br/>Claims have been made that vaccines are responsible for certain (96)__________ health conditions, particularly autism, speech disorders and inflammatory bowel disease. Some of those claims focused on thimerosal, a mercury-containing compound used as a preservative in vaccines. Some people believed that autism (97)__________ a form of mercury poisoning, caused specifically by thimerosal in childhood vaccines. Those claims have been discredited. Still, misinformation and fear generated by false claims about associations (98)__________ autism and vaccines had a significant impact on individuals’ perceptions about vaccine safety. (99)__________, most individuals in countries where vaccination is widespread have never personally experienced vaccine-preventable disease. Thus, the focus of concern for some people shifted from the negative effects of vaccine-preventable disease to the possible negative effects of the vaccines (100)__________.<br/>Select the most appropriate option to fill in the blank no 100.</p>",
+        "option_1": "<p>themselves</p>",
+        "option_2": "<p>yourself</p>",
+        "option_3": "<p>ourselves</p>",
+        "option_4": "<p>itself</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) ‘Themselves’ is used when the people or things who do an action are also affected by it. The given passage states that the focus of concern for some people shifted from the negative effects of the vaccine-preventable disease to the possible negative effects of the vaccines themselves. <b>Hence,</b> ‘themselves’ is the most approp riate answer.</p>"
+    }
+]
