@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "<p>Select the word-pair that best represents a similar relationship to the one expressed in the pair of words given below. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word)<br/>Proud : Arrogant</p>",
+        "option_1": "<p>Authentic : Genuine</p>",
+        "option_2": "<p>Offend : Praise</p>",
+        "option_3": "<p>Trust : Doubt</p>",
+        "option_4": "<p>Wise : Ignorant</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) As Proud and Arrogant are synonyms of each other, similarly Authentic and Genuine are synonyms of each other.</p>"
+    },
+    {
+        "question": "<p>Choose the alternative which closely resembles the mirror image of the given combination.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851249783.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851249883.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851249992.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851250060.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851250258.png",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851250258.png"
+    },
+    {
+        "question": "<p>The same operation(s) are followed in all the given number pairs except one. Find that odd number pair. (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1and 3 and then performing mathematical operations on 1 and 3 is not allowed.)</p>",
+        "option_1": "<p>24 : 4</p>",
+        "option_2": "<p>36 :24</p>",
+        "option_3": "<p>12 : 8</p>",
+        "option_4": "<p>72 : 48</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/><strong>Logic:-</strong> (<math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>2</mn><mi>nd</mi></msup><mi>no</mi><mo>.</mo></math>) × 1.5 = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>1</mn><mi>st</mi></msup></math>no.<br/>(36 : 24):- (24) <math display=\"inline\"><mo>×</mo></math> 1.5 = 36<br/>(12 : 8):- (8) <math display=\"inline\"><mo>×</mo></math> 1.5 = 12<br/>(72 : 48):- (48) <math display=\"inline\"><mo>×</mo></math> 1.5 = 72<br/>but<br/>(24 : 4):- (4) <math display=\"inline\"><mo>×</mo></math> 1.5 = 6 ≠ 24</p>"
+    },
+    {
+        "question": "<p>Which of the following letter-clusters will replace the question mark (?) in the given series?<br/>PTPA, OSOB, NRNC, ?, LPLE</p>",
+        "option_1": "<p>MQND</p>",
+        "option_2": "<p>MQMC</p>",
+        "option_3": "<p>NQMD</p>",
+        "option_4": "<p>MQMD</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851250364.png"
+    },
+    {
+        "question": "<p>Three statements are followed by conclusions numbered I, II. You have to consider these statements to be true, even if they seem to be at variance with commonly known facts. Decide which of the given conclusions logically follow/s from the given statement. <br/><strong>Statements :</strong> <br/>All paints are houses. <br/>All houses are wood. <br/>Some streets are wood. <br/><strong>Conclusion (I) :</strong> Some streets are houses. <br/><strong>Conclusion (II) :</strong> All paints are wood</p>",
+        "option_1": "<p>Neither conclusion (I) nor (II) follows.</p>",
+        "option_2": "<p>Both conclusions (I) and (II) follow</p>",
+        "option_3": "<p>Only conclusion (I) follows.</p>",
+        "option_4": "<p>Only conclusion (II) follows.</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/><br/>Only conclusion II follow.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851250550.png"
+    },
+    {
+        "question": "<p>In a code language, 'DILIP' is coded as 46-36-30-36-22 and 'PRINCE' is coded as 22-18-36 26-48-44. How will 'FIROZ' be coded in the same language ?</p>",
+        "option_1": "<p>48-36-18-38-6</p>",
+        "option_2": "<p>56-36-18-32-52</p>",
+        "option_3": "<p>42-36-18-24-2</p>",
+        "option_4": "<p>2-36-18-42-52</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>Logic :-</strong> (Place value of opposite letter) × 2<br/>,<br/>Similarly,<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851250960.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851251071.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851251170.png"
+    },
+    {
+        "question": "<p>In a certain code language,<br/>‘A + B’ means ‘A is the son of B’,<br/>‘A – B’ means ‘A is the brother of B’,<br/>‘A × B’ means ‘A is the wife of B’,<br/>‘A ÷ B’ means ‘A is the daughter of B’.<br/>Based on the above, how is L related to M if ‘L – N ÷ O × M + P’ ?</p>",
+        "option_1": "<p>Father</p>",
+        "option_2": "<p>Brother</p>",
+        "option_3": "<p>Father’s father</p>",
+        "option_4": "<p>Son</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/><br/>L is the son of M.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851251593.png"
+    },
+    {
+        "question": "<p>Which of the following numbers will replace the question mark (?) in the given series ?<br/>214, 111, 179, 126,144, 141, 109, 156, ?</p>",
+        "option_1": "<p>61</p>",
+        "option_2": "<p>96</p>",
+        "option_3": "<p>89</p>",
+        "option_4": "<p>74</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851251727.png"
+    },
+    {
+        "question": "<p>How many people like either only spicy or only sweet as per the given Venn diagram ?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851251867.png",
+        "option_1": "<p>110</p>",
+        "option_2": "<p>120</p>",
+        "option_3": "<p>135</p>",
+        "option_4": "<p>144</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>No. of people like either only spicy or only sweet = 65 + 55 = 120</p>"
+    },
+    {
+        "question": "<p>Select the option that represents the letters that when placed from left to right in the blanks below will complete the given letter series.<br/>MN_OJKM_QOJK_NQ_JKMNQO_KMN</p>",
+        "option_1": "<p>QMNJO</p>",
+        "option_2": "<p>QNJMO</p>",
+        "option_3": "<p>QNMJO</p>",
+        "option_4": "<p>QNMOJ</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/>MN<span style=\"text-decoration: underline;\"><strong>Q</strong></span>OJK/M<span style=\"text-decoration: underline;\"><strong>N</strong></span>QOJK/<span style=\"text-decoration: underline;\"><strong>M</strong></span>NQ<span style=\"text-decoration: underline;\"><strong>O</strong></span>JK/MNQO<span style=\"text-decoration: underline;\"><strong>J</strong></span>K/MN</p>"
+    },
+    {
+        "question": "<p>Six letters I, O, A, Y, Z and X are written on different faces of a dice. Two positions of this dice are shown in the figures below. Find the letter on the face opposite to O.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851252071.png",
+        "option_1": "<p>A</p>",
+        "option_2": "<p>Z</p>",
+        "option_3": "<p>X</p>",
+        "option_4": "<p>Y</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/>From the two dice the opposite faces are<br/>I ↔ X , A ↔ Z , O ↔ Y</p>"
+    },
+    {
+        "question": "<p>A, B, C, D, E, F and G are sitting around a circular table facing the centre (but not necessarily in the same order). G sits third to the right of A. D sits third to the right of G. E is an immediate neighbour of both A and F. C sits third to the right of F. How many people sit between E and D when counted from the right of E ?</p>",
+        "option_1": "<p>2</p>",
+        "option_2": "<p>4</p>",
+        "option_3": "<p>3</p>",
+        "option_4": "<p>1</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><br/>Four people sit between E and D when counted from the right of E.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851252193.png"
+    },
+    {
+        "question": "<p>If 'A' stands for ‘<math display=\"inline\"><mo>÷</mo></math>', 'B' stands for '×', 'C' stands for '+' and 'D' stands for ’-’, what will come in place of the question mark (?) in the following equation ?<br/>91 B 2 D 22 A 11 C 8 = ?</p>",
+        "option_1": "<p>128</p>",
+        "option_2": "<p>188</p>",
+        "option_3": "<p>148</p>",
+        "option_4": "<p>168</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><strong>Given :- </strong>91 B 2 D 22 A 11 C 8<br/>As per given instruction after interchanging the letter with sign we get<br/>91 × 2 - 22 <math display=\"inline\"><mo>÷</mo></math> 11 + 8<br/>182 - 2 + 8 = 188</p>"
+    },
+    {
+        "question": "<p>Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the one that is different. The odd one out is not based on the number of consonants/vowels or their position in the letter cluster</p>",
+        "option_1": "<p>RTTUWW</p>",
+        "option_2": "<p>NOPPSS</p>",
+        "option_3": "<p>ACCDFF</p>",
+        "option_4": "<p>IKKLNN</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) By observing four options we can see that in each option except option (b) the 2nd letter is repeated two times.<br/><b>Hence,</b> option (b) is an odd one out.</p>"
+    },
+    {
+        "question": "<p>The position of how many letters will remain unchanged if all the letters in the word BINDER are arranged in English alphabetical order ?</p>",
+        "option_1": "<p>None</p>",
+        "option_2": "<p>One</p>",
+        "option_3": "<p>Two</p>",
+        "option_4": "<p>Three</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/><br/>The position of the two letters remain unchanged.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851252272.png"
+    },
+    {
+        "question": "<p>A paper is folded and cut as shown below. How will it appear when unfolded ?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851252365.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851252455.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851252549.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851252648.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851252735.png",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851252648.png"
+    },
+    {
+        "question": "<p>If 3 April 1996 was Wednesday, then what was the day of the week on 7 April 2001 ?</p>",
+        "option_1": "<p>Saturday</p>",
+        "option_2": "<p>Sunday</p>",
+        "option_3": "<p>Friday</p>",
+        "option_4": "<p>Monday</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>3 April 1996 is Wednesday. On going to 3 April 2001 number of odd days are <br/>+1 + 1 + 1 + 2 + 1 = 6. We have reached till 3 April 2001, we have to reach 7 April, number of days between = 4. Total number of odd days = 6 + 4 = 10.On dividing 10 by 7 remainder = 3. Wednesday + 3 = Saturday.</p>"
+    },
+    {
+        "question": "<p>In a certain code language, ‘revise the lesson’ is written as ‘rx cd st’ and ‘the lesson plan’ is written as ‘cd nq rx’. How is ‘revise’ written in the given language ?</p>",
+        "option_1": "<p>nq</p>",
+        "option_2": "<p>cd</p>",
+        "option_3": "<p>st</p>",
+        "option_4": "<p>rx</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) revise the lesson → rx cd st……..(i)<br/>the lesson plan → cd nq rx…….(ii)<br/>From (i) and (ii) ‘the lesson’ and ‘cd rx’ are common. The code of ‘revise’ = ‘st’</p>"
+    },
+    {
+        "question": "<p>Which figure should replace the question mark (?) if the following series were to be continued?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851252871.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851252990.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851253089.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851253228.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851253399.png",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851253399.png"
+    },
+    {
+        "question": "<p>Three of the following number-pairs are alike in some manner and hence form a group. Which number-pair does not belong to that group? (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 - Operations on 13 such as adding / subtracting / multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)</p>",
+        "option_1": "<p>14 - 121</p>",
+        "option_2": "<p>21 - 361</p>",
+        "option_3": "<p>18 - 256</p>",
+        "option_4": "<p>11 - 81</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <br/><strong>Logic:-</strong> (1st number - 2)² = 2nd number<br/>(21 - 361):- (21 - 2)² ⇒ (19)² = 361<br/>(18 - 256) :- (18 - 2)² ⇒ (16)² = 256<br/>(11 - 81):- (11 -2)² ⇒ (9)² = 81<br/>But,<br/>(14 - 121) :- (14 - 2)² ⇒ (12)² = 144(Not 121)</p>"
+    },
+    {
+        "question": "<p>How many triangles are there in the given figure?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851253500.png",
+        "option_1": "<p>16</p>",
+        "option_2": "<p>17</p>",
+        "option_3": "<p>18</p>",
+        "option_4": "<p>19</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/><br/>There are 19 triangles = AA’D, DEF, A’BC, FHC, FGC, CIK, JIK, CKJ, XYU, XWV, XVU, XVY, TUY, UST, SS’R, POQ, PP’Q, NLM, MM’Q .</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851253617.png"
+    },
+    {
+        "question": "<p>100 is related to 20 following a certain logic. Following the same logic, 250 is related to 50. To which of the following is 550 related, following the same logic? (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13- Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)</p>",
+        "option_1": "<p>105</p>",
+        "option_2": "<p>115</p>",
+        "option_3": "<p>110</p>",
+        "option_4": "<p>100</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <br/><strong>Logic :-</strong> (2nd number) × 5 = 1st number<br/>(100, 20) :- (20) × 5 = 100<br/>(250 , 50) :- (50) × 5 = 250<br/>Similarly,<br/>(550, 110) :- (110) × 5 = 550</p>"
+    },
+    {
+        "question": "<p>Select the option figure in which the given figure is embedded as its part (rotation is NOT allowed)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851253725.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851253826.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851253954.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851254065.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851254170.png",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851254285.png"
+    },
+    {
+        "question": "<p>Select the set in which the numbers are related in the same way as are the numbers of the following sets. (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13- Operations on 13 such as adding / subtracting / multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)<br/>(245, 49, 5)<br/>(144, 9, 16)</p>",
+        "option_1": "<p>(186, 21, 8)</p>",
+        "option_2": "<p>(246, 9, 28)</p>",
+        "option_3": "<p>(200, 8,25)</p>",
+        "option_4": "<p>(312, 24, 9)</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <br/><strong>Logic :-</strong> (2nd number × 3rd number) = 1st number<br/>(245, 49, 5) :- (49 × 5) = 245<br/>(144, 9, 16) :- (9 × 16) = 144<br/>Similarly,<br/>(200 , 8, 25) :- (8 × 25) = 200</p>"
+    },
+    {
+        "question": "<p>10 years ago, a man’s age was 5 times of his son’s age. 2 years <b>hence,</b> twice his age will be equal to 4 times the age of his son. What is the present age (in years) of the son?</p>",
+        "option_1": "<p>14</p>",
+        "option_2": "<p>16</p>",
+        "option_3": "<p>20</p>",
+        "option_4": "<p>18</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <br/>Let the present age of the man and his son be 5x + 10 and x + 10 <br/>According to the question<br/>2(5x + 10 + 2) = (x + 10 + 2)4 <br/>(5x + 12) = (x + 12)2<br/>5x - 2x = 24 - 12<br/>3x = 12, x = 4<br/><b>Hence,</b> the present age of the son = 4 + 10 = 14 years</p>"
+    },
+    {
+        "question": "<p>The All India Kabaddi Federation came into existence in the year ____________ and compiled standard rules.</p>",
+        "option_1": "<p>1951</p>",
+        "option_2": "<p>1952</p>",
+        "option_3": "<p>1953</p>",
+        "option_4": "<p>1950</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) <strong>1950.</strong> <br/>Kabaddi is a combative sport played with seven players on each side. The players on the defensive side are called \"Antis,\" while the player on the offense is known as the \"Raider.\" Kabaddi Federations and Establishment Years : Amateur Kabaddi Federation of India (AKFI) was established in 1972, International Kabaddi Federation was founded in 2004, with its headquarters in Jaipur.</p>"
+    },
+    {
+        "question": "<p>Which ministry declared 2025 as the \"Year of Reforms\"?</p>",
+        "option_1": "<p>Ministry of Home Affairs</p>",
+        "option_2": "<p>Ministry of Defence</p>",
+        "option_3": "<p>Ministry of External Affairs</p>",
+        "option_4": "<p>Ministry of Finance</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) Ministry of Defence. This decision was unanimously taken during a meeting chaired by Rajnath Singh, with the objective of transforming the triservices into a technologically-advanced combatready force capable of multi-domain integrated operations. The Department of Defence became the Ministry of Defence under a Cabinet Minister in August 1947.</p>"
+    },
+    {
+        "question": "<p>This famous classical dancer and choreographer is known for popularizing the Odissi dance form and founding the Nrityagram dance village. Who is she?</p>",
+        "option_1": "<p>Sonal Mansingh</p>",
+        "option_2": "<p>Protima Gauri</p>",
+        "option_3": "<p>Rukmini Devi Arundale</p>",
+        "option_4": "<p>Sanjukta Panigrahi</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Protima Gauri. </strong>Sanjukta Panigrahi (Odissi) : Awards - Padma Shri (1975), Sangeet Natak Akademi Award (1976). Sonal Mansingh (Bharatanatyam and Odissi) : Awards - Padma Bhushan (1992), Padma Vibhushan (2003). Rukmini Devi Arundale (Bharatanatyam) : Awards - Padma Bhushan (1956), Sangeet Natak Akademi Award (1957).</p>"
+    },
+    {
+        "question": "<p>Who of the following was famous for Punjabi folk song and for singing a long breathless alaap?</p>",
+        "option_1": "<p>Pranjal Dahiya</p>",
+        "option_2": "<p>Gurmeet Bawa</p>",
+        "option_3": "<p>Nimrat Khaira</p>",
+        "option_4": "<p>Sheenam Katholic</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong> Gurmeet Bawa.</strong> She was known as Lambi hek di malika. She was the first Punjabi female singer to sing on Indian public service broadcaster, Doordarshan. Award: Padma Bhushan (2022).</p>"
+    },
+    {
+        "question": "<p>In any tennis game, if both players win three points each in a game (i.e. score is 40-40), then it's called a _______ .</p>",
+        "option_1": "<p>equal</p>",
+        "option_2": "<p>deuce</p>",
+        "option_3": "<p>back</p>",
+        "option_4": "<p>rattle</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Deuce.</strong> Tennis scoring system - A player or team has to win 4 points to win a game. Any game starts at 0-0 and the zero point in tennis is called love. The progression of points occurs as follows: First point - 15, Second point - 30, Third point - 40, Fourth point - Game. After deuce, the player who wins the next point has advantage.</p>"
+    },
+    {
+        "question": "<p>Which of the following is the highest award for dance in India?</p>",
+        "option_1": "<p>Guru Debaprasad Award</p>",
+        "option_2": "<p>Nritya Shiromani</p>",
+        "option_3": "<p>Kalidas Samman</p>",
+        "option_4": "<p>Sangeet Natak Akademi Award</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) <strong>Sangeet Natak Akademi Award </strong>is given by the Sangeet Natak Akademi and was first awarded in 1952. It consists of a cash prize of ₹1,00,000, a citation, an angavastram (a shawl), and a tamrapatra (a brass plaque). The National Nritya Shiromani Award is given to outstanding dance performers and musicians from India and abroad. The Kalidas Samman is presented by the Government of Madhya Pradesh.</p>"
+    },
+    {
+        "question": "<p>Identify the Mughal emperor who was imprisoned for the rest of his life in Agra after the war of succession among his sons.</p>",
+        "option_1": "<p>Aurangzeb</p>",
+        "option_2": "<p>Bahadur Shah I</p>",
+        "option_3": "<p>Shah Jahan</p>",
+        "option_4": "<p>Jahandar Shah</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<strong> Shah Jahan </strong>(Mirza Shahab-ud-din Baig Muhammad Khan Khurram). He was the fifth Mughal emperor and reigned from 1628 to 1658. Aurangzeb declared himself emperor in 1658 and imprisoned Shah Jahan in Agra Fort until his death in January 1666. Some notable works of Shah Jahan : Red fort of Delhi, Taj Mahal, The Jama Masjid of Delhi, The Pearl Mosque (Moti Masjid) of Agra, The Peacock Throne etc.</p>"
+    },
+    {
+        "question": "<p>In which Indian state is the 'International Lusophone Festival' hosted?</p>",
+        "option_1": "<p>Kerala</p>",
+        "option_2": "<p>Goa</p>",
+        "option_3": "<p>Rajasthan</p>",
+        "option_4": "<p>Maharashtra</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Goa. </strong>The International Lusophone Festival seeks to strengthen India’s connection with the Lusophone world (Portugeese-speaking people). Goa has historical ties to the Lusophone world and Portuguese cultural institutions. Famous festivals of Goa : Goa Carnival, Fatorpa Zatra, Three Kings Feast, Easter, Shigmo, Shirgao Jatra, Sao Joao Festival, Sangodd, and Chikalkalo.</p>"
+    },
+    {
+        "question": "<p>All India Kisan Sabha was founded in 1936 at Indian National Congress (INC) ________ Session as All India Kisan Congress.</p>",
+        "option_1": "<p>Lucknow</p>",
+        "option_2": "<p>Agra</p>",
+        "option_3": "<p>Bombay</p>",
+        "option_4": "<p>Delhi</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>Lucknow. </strong>Swami Sahajananda Saraswati, who founded the Bihar Provincial Kisan Sabha in 1929, also led the formation of the All India Kisan Sabha (AIKS) during the Indian National Congress' Lucknow Session in 1936. The AIKS, also known as the Akhil Bharatiya Kisan Sabha.</p>"
+    },
+    {
+        "question": "<p>According to the data from the Ministry of Mines, the largest resources of gold ore (primary) are located in which of the following Indian states?</p>",
+        "option_1": "<p>West Bengal</p>",
+        "option_2": "<p>Bihar</p>",
+        "option_3": "<p>Rajasthan</p>",
+        "option_4": "<p>Karnataka</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong> Bihar. </strong>In India, the largest resources of gold ore (primary) are located in Bihar (44%) followed by Rajasthan (25%), Karnataka (21%), West Bengal (3%), Andhra Pradesh (3% ), Jharkhand (2 %).</p>"
+    },
+    {
+        "question": "<p>The Office of the Registrar General and Census Commissioner comes under which of the following ministries of Government of India</p>",
+        "option_1": "<p>Ministry of Commerce and Industry</p>",
+        "option_2": "<p>Ministry of Home Affairs</p>",
+        "option_3": "<p>Ministry of Statistics and Program Implementation</p>",
+        "option_4": "<p>Ministry of Labour and Employment</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Ministry of Home Affairs. </strong>The Registrar General and Census Commissioner of India is responsible for organizing, conducting, and analyzing the results of the demographic surveys of India, including the Census of India and the Linguistic Survey of India. The Registrar General and Census Commissioner of India was founded in 1961 by the Ministry of Home Affairs as an organization to conduct demographic surveys in India. The position is typically held by a civil servant with the rank of Joint Secretary.</p>"
+    },
+    {
+        "question": "<p>Which of the following statements is INCORRECT regarding the Coriolis force?</p>",
+        "option_1": "<p>It deflects the wind to the right in the north and left in the south.</p>",
+        "option_2": "<p>It is directly proportional to the angle of altitude</p>",
+        "option_3": "<p>Deflection is less when the wind is high</p>",
+        "option_4": "<p>It is absent at the equator.</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>Deflection is less when the wind is high.</strong> Coriolis force : An apparent force caused by the earth’s rotation. The Coriolis force acts perpendicular to the pressure gradient force (pressure gradient force is perpendicular to an isobar). It is maximum at the poles and is absent at the equator. The Coriolis force also affects ocean currents.</p>"
+    },
+    {
+        "question": "<p>The concept of Public Interest Litigation originated in _______________.</p>",
+        "option_1": "<p>Switzerland</p>",
+        "option_2": "<p>Iceland</p>",
+        "option_3": "<p>USA</p>",
+        "option_4": "<p>New Zealand</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>USA.</strong> Public Interest Litigation (PIL) means litigation filed in a court of law, for the protection of “Public Interest”, such as Pollution, Terrorism, Road safety, Constructional hazards etc. The concept of PIL was initially sown in India by Justice Krishna Iyer, in 1976 in Mumbai Kamagar Sabha vs. Abdul Thai. Any citizen can file a public case by filing a petition: Under Art 32 of the Indian Constitution, in the Supreme Court. Under Art 226 of the Indian Constitution, in the High Court. Under section 133 of the Criminal Procedure Code, in the Court of Magistrate.</p>"
+    },
+    {
+        "question": "<p>Which of the following is issued by commercial banks at a discount on face value?</p>",
+        "option_1": "<p>Commercial papers</p>",
+        "option_2": "<p>Treasury bills</p>",
+        "option_3": "<p>Certificates of deposits</p>",
+        "option_4": "<p>Promissory notes</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>Certificates of deposits</strong> are unsecured, negotiable, short-term instruments in bearer form, issued by commercial banks and development financial institutions. Commercial papers - It is issued by large companies for short-term funding at lower interest rates, with maturities of 15 days to one year. Treasury bills - They are short-term government securities maturing in less than one year.</p>"
+    },
+    {
+        "question": "<p>Which of the following statement(s) is/are INCORRECT vis-à-vis Fundamental Duties?<br/>1) The 44th amendment Act introduced Fundamental duties in the Constitution.<br/>2) Fundamental Duties were expanded by the 86th amendment act.<br/>3) Article 51A (a) entails respect for its ideals and institutions, national flag and the national anthem.<br/>4) Fundamental Duty obliges parents to provide opportunities for education to their child between 6-14 years of age.</p>",
+        "option_1": "<p>1</p>",
+        "option_2": "<p>2 and 3</p>",
+        "option_3": "<p>2 and 4</p>",
+        "option_4": "<p>Only 3</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>1.</strong> The 44th Constitutional Amendment Act of 1978 was enacted to undo many changes made by the 42nd Amendment during the Emergency in India. Key provisions include restoring judicial review, protecting civil liberties, and ensuring that the right to property is no longer a fundamental right but a legal right. Fundamental Duties are added by 42nd Amendment Act 1976. Later on, one more duty was added by 86th Amendment Act, 2002.</p>"
+    },
+    {
+        "question": "<p>Which of the following institutions has contributed mainly in improving the economic status of the poor women in rural areas ?</p>",
+        "option_1": "<p>Indira Awas Yojana</p>",
+        "option_2": "<p>Integrated Development Project</p>",
+        "option_3": "<p>Self-help Group</p>",
+        "option_4": "<p>Rural Health Scheme</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>Self-Help Groups </strong>are informal associations of people who choose to come together to find ways to improve their living conditions.They help the poor and marginalized by building skills for employment and income generation. SHGs also provide loans without requiring collateral. Indira Awas Yojana: Provides housing subsidies to poor families. Integrated Development Project: A broader rural development initiative. Rural Health Scheme: Focuses on healthcare services.</p>"
+    },
+    {
+        "question": "<p>Identify the INCORRECT pair regarding the material media and their refractive index?</p>",
+        "option_1": "<p>Kerosene – 1.44</p>",
+        "option_2": "<p>Benzene – 2.42</p>",
+        "option_3": "<p>Sapphire – 1.77</p>",
+        "option_4": "<p>Ruby – 1.71</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Benzene – 2.42.</strong> The refractive index of an optical medium is a dimensionless number that gives the indication of the light bending ability of that medium. Absolute refractive index of some material media: Benzene - 1.50, Rock salt - 1.54, Carbon disulphide - 1.63, Dense flint glass - 1.65, Diamond - 2.42, Crown glass - 1.52, Turpentine oil - 1.47, Water - 1.33, Alcohol - 1.36, Fused quartz - 1.46, Air - 1.0003.</p>"
+    },
+    {
+        "question": "<p>Which article has a similar provision to that of Article 32 and deals with writ jurisdiction?</p>",
+        "option_1": "<p>Article 227</p>",
+        "option_2": "<p>Article 228</p>",
+        "option_3": "<p>Article 225</p>",
+        "option_4": "<p>Article 226</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) <strong>Article 226. </strong>In India, writs are issued by the Supreme Court under Article 32 of the Constitution of India and by the High Courts under Article 226 of the Constitution of India. There are 5 types of writs issued in India - Habeas Corpus (to have the body of), Mandamus (we command), Certiorari (to be certified or to be informed), Prohibition (to forbid) and Quo-Warranto (by what authority or warrant).</p>"
+    },
+    {
+        "question": "<p>Which metalloid in the carbon group is chemically similar to its group neighbours tin and silicon?</p>",
+        "option_1": "<p>Germanium</p>",
+        "option_2": "<p>Flerovium</p>",
+        "option_3": "<p>Lead</p>",
+        "option_4": "<p>Arsenic</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>Germanium (Ge) i</strong>s a metalloid in the carbon group (Group 14) of the periodic table, and it is chemically similar to its group neighbors tin (Sn) and silicon (Si). This similarity arises because all three elements share similar electron configurations and chemical properties, such as forming covalent bonds and having semiconductor characteristics.</p>"
+    },
+    {
+        "question": "<p>Who was the first feudatory of Pallavas ?</p>",
+        "option_1": "<p>Harshvardhan</p>",
+        "option_2": "<p>Rajendra</p>",
+        "option_3": "<p>Ashoka</p>",
+        "option_4": "<p>Vijayalaya</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) <strong>Vijayalaya </strong>was the founder of the Chola Empire. Simhavishnu was the founder of the Pallava dynasty. The Pallavas established their authority over southern Andhra Pradesh and northern Tamil Nadu, with their capital at Kanchi. Harshvardhan belongs to the Pushyabhuti dynasty.</p>"
+    },
+    {
+        "question": "<p>In 1835, who developed the process of applying a thin layer of metallic silver to one side of a clear glass pane and created the first mirror ?</p>",
+        "option_1": "<p>CV Raman</p>",
+        "option_2": "<p>CH Townes</p>",
+        "option_3": "<p>Victor Francis Hess</p>",
+        "option_4": "<p>Justus von Liebig</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) <strong>Justus von Liebig. </strong>He was a German scientist who made major contributions to the theory, practice, and pedagogy of chemistry, as well as to agricultural and biological chemistry. C.V. Raman: Indian physicist known for his work on light scattering (Raman effect). His Awards: Nobel Prize (1930), and Bharat Ratna (1954). C.H. Townes: American physicist who worked on quantum electronics and lasers. His Award: Nobel Prize (1964). Victor Francis Hess: Austrian-American physicist who discovered cosmic rays. His Award: Nobel Prize (1936).</p>"
+    },
+    {
+        "question": "<p>Who passed away in January 2025, known for his work as a poet, journalist, filmmaker, and former Rajya Sabha member?</p>",
+        "option_1": "<p>Pritish Nandy</p>",
+        "option_2": "<p>Shashi Tharoor</p>",
+        "option_3": "<p>Khushwant Singh</p>",
+        "option_4": "<p>Harish Salve</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>Pritish Nandy.</strong> He authored 40+ poetry books and translated works in multiple languages. His poem \"Calcutta If You Must Exile Me\" is a modern Indian literature classic.</p>"
+    },
+    {
+        "question": "Which dancing form is classified as Ekaharya?",
+        "option_1": "Bharatnatyam",
+        "option_2": "Odissi",
+        "option_3": "Sattriya",
+        "option_4": "Kathak",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>Bharatnatyam.</strong> It originated in the temples of South India, particularly, Tamil Nadu. It was traditionally performed by Devadasis, and thus was also known as Dasiattam. Other Facts - Bharatanatyam includes three basic forms - Melattur, Pandanallur and Vazhuvoor. Abhinaya - Facial expressions in Bharatanatyam. Mangalam - End of a dance. Thillana - Final part of a recital. Aramandi - a fundamental dance position in Bharatanatyam that involves half sitting.</p>"
+    },
+    {
+        "question": "<p>In an electrical circuit, the ammeter reading decreases to ________________ when the length of the wire is doubled.</p>",
+        "option_1": "<p>one-sixth</p>",
+        "option_2": "<p>one-half</p>",
+        "option_3": "<p>one-fourth</p>",
+        "option_4": "<p>one-third</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>one-half. </strong>According to Ohm's law, the resistance 𝑅 of a conductor is directly proportional to its length 𝑙 and inversely proportional to its area of cross-section 𝐴. Doubling the length increases the resistance, which reduces the current, leading to a halving of the ammeter reading. That is, R ∝ 𝑙 and R ∝ <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mi>A</mi></mfrac></math>. we get R ∝ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mn>1</mn><mi>A</mi></mfrac></mstyle></math> or, R = ρ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mn>1</mn><mi>A</mi></mfrac></mstyle></math>.</p>"
+    },
+    {
+        "question": "<p>Which Indian Grandmaster recently defeated both Magnus Carlsen and Fabiano Caruana in an online blitz competition?</p>",
+        "option_1": "<p>R Praggnanandhaa</p>",
+        "option_2": "<p>Arjun Erigaisi</p>",
+        "option_3": "<p>D Gukesh</p>",
+        "option_4": "<p>Vidit Gujrathi</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<strong> Arjun Erigaisi</strong> <br/>Indian Grandmaster Arjun Erigaisi achieved a remarkable feat by defeating World No. 1 Magnus Carlsen and World No. 2 Fabiano Caruana in the Titled Tuesday weekly blitz competition conducted by Chess.com. Erigaisi finished with 10 points out of 11 rounds, showcasing his exceptional talent in the online chess community.</p>"
+    },
+    {
+        "question": "<p>The marked price of a battery-operated rickshaw is ₹90,000. It is available for sale at two successive discounts of 10% and 5%. What is the selling price (in₹) of the battery-operated rickshaw?</p>",
+        "option_1": "<p>76,950</p>",
+        "option_2": "<p>78,950</p>",
+        "option_3": "<p>77,850</p>",
+        "option_4": "<p>75,850</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>SP of the rickshaw = 90000 × <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>9</mn><mn>10</mn></mfrac></math> × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mn>19</mn><mn>20</mn></mfrac></mstyle></math> = 76,950</p>"
+    },
+    {
+        "question": "<p>If 321y72 is a multiple of 6, where y is a digit, what is the least value of y?</p>",
+        "option_1": "<p>3</p>",
+        "option_2": "<p>0</p>",
+        "option_3": "<p>7</p>",
+        "option_4": "<p>2</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) A number is divisible by 6 if it is divisible by both 2 and 3:<br/><strong>Divisibility of 2 </strong>: A number is divisible by 2 if it is an even number, <br/><strong>Divisibility of 3 :</strong> A number is divisible by 3 if the sum of all digits of that number is divisible by 3.<br/>Now, 321y72<br/><math display=\"inline\"><mo>⇒</mo></math>3 + 2 + 1 + y + 7 + 2 = 15 + y<br/>The least value of y is 0</p>"
+    },
+    {
+        "question": "<p>The area of the canvas cloth needed to erect a right conical tent of height 20ft. and circular base of circumference 30π ft. is:</p>",
+        "option_1": "<p>455π sq.ft.</p>",
+        "option_2": "<p>375π sq.ft.</p>",
+        "option_3": "<p>589π sq.ft.</p>",
+        "option_4": "<p>470π sq.ft.</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>Circumference of circular base of cone = 30π ft.<br/><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>πr</mi></math> = 30π ft.<br/><math display=\"inline\"><mi>r</mi></math> = 15 ft.<br/>Heig<math display=\"inline\"><mi>h</mi></math>t (h) of cone = 20 ft.<br/>S<math display=\"inline\"><mi>l</mi></math>ant height of cone (l) = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mi>r</mi><mo>²</mo><mo>+</mo><mi>h</mi><mo>²</mo></msqrt></math><br/>S<math display=\"inline\"><mi>l</mi></math>ant height of cone (l) = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>225</mn><mo>+</mo><mn>400</mn></msqrt></math> = 25 ft.<br/>Area of canvas needed = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">π</mi><mo>×</mo><mn>15</mn><mo>×</mo><mn>25</mn><mi mathvariant=\"normal\"> </mi></math>= 375π sq.ft.</p>"
+    },
+    {
+        "question": "<p>If x = 7 - 4<math display=\"inline\"><msqrt><mn>3</mn></msqrt></math>, then find the value of (x² + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mn>1</mn><msup><mi>x</mi><mn>2</mn></msup></mfrac></mstyle></math>).</p>",
+        "option_1": "<p>188</p>",
+        "option_2": "<p>194</p>",
+        "option_3": "<p>186</p>",
+        "option_4": "<p>196</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <br/><strong>Given x</strong> = 7 - 4<math display=\"inline\"><msqrt><mn>3</mn></msqrt></math><br/><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mi>x</mi></mfrac></math> = 7 + 4<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>3</mn></msqrt></math><br/><math display=\"inline\"><mo>⇒</mo></math>x + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mn>1</mn><mi>x</mi></mfrac></mstyle></math> = 14<br/><math display=\"inline\"><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></math> + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mn>1</mn><msup><mi>x</mi><mn>2</mn></msup></mfrac></mstyle></math> = 14² - 2 = 196 - 2 = 194</p>"
+    },
+    {
+        "question": "<p>Two numbers are, respectively, 30% and 60% more than a third number. The ratio of the two numbers is:</p>",
+        "option_1": "<p>13 : 16</p>",
+        "option_2": "<p>12 : 13</p>",
+        "option_3": "<p>11 : 15</p>",
+        "option_4": "<p>13 : 17</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) Let third number = 100<br/>Then, two number = 100 × 130% = 130 and 100 × 160% = 160<br/>Ratio of two numbers = 130 : 160 = 13 : 16</p>"
+    },
+    {
+        "question": "<p>For what least value of n, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>2</mn><mrow><mn>2</mn><mi mathvariant=\"normal\">n</mi></mrow></msup><mo>+</mo><mn>2</mn><mi mathvariant=\"normal\">n</mi></math> is completely divided by 6, where n is an integer ?</p>",
+        "option_1": "<p>3</p>",
+        "option_2": "<p>1</p>",
+        "option_3": "<p>0</p>",
+        "option_4": "<p>2</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Given:</strong> <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>2</mn><mrow><mn>2</mn><mi mathvariant=\"normal\">n</mi></mrow></msup></math> + 2n<br/>Put n = 3, <br/><math display=\"inline\"><mo>⇒</mo></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>2</mn><mrow><mn>2</mn><mo>×</mo><mn>3</mn></mrow></msup></math>+ 2 × 3 = 64 + 6 = 70 (not divisible by 6)<br/>Put n = 1<br/><math display=\"inline\"><mo>⇒</mo></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>2</mn><mrow><mn>2</mn><mo>×</mo><mn>1</mn></mrow></msup></math>+ 2 × 1 = 4 + 2 = 6 (divisible by 6)<br/>Put n = 0<br/><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>2</mn><mrow><mn>2</mn><mo>×</mo><mn>0</mn></mrow></msup></math>+ 2 × 0 = 1 + 0 = 1 (not divisible by 6)<br/>Put n = 2<br/><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>2</mn><mrow><mn>2</mn><mo>×</mo><mn>2</mn></mrow></msup></math>+ 2 × 2 = 16 + 4 = 20 (not divisible by 6)<br/>It is clear that the correct answer is option (b)</p>"
+    },
+    {
+        "question": "<p>47 masons can dig a 35 m long trench in one day. How many masons should be employed for digging a 105 m long trench of the same type in one day?</p>",
+        "option_1": "<p>94</p>",
+        "option_2": "<p>70</p>",
+        "option_3": "<p>141</p>",
+        "option_4": "<p>128</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <br/>Let required masons be <math display=\"inline\"><mi>x</mi></math><br/>According to the question,<br/><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>47</mn><mn>35</mn></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mi>x</mi><mn>105</mn></mfrac></mstyle></math> ⇒ x = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mrow><mn>47</mn><mo>×</mo><mn>105</mn></mrow><mn>35</mn></mfrac></mstyle></math> = 141</p>"
+    },
+    {
+        "question": "<p><math display=\"inline\"><mo>△</mo></math>ABC is a right-angled triangle with ∠ABC = 90°. If m(<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><menclose notation=\"top\"><mi>AB</mi></menclose></math>) = 28 cm, and m(<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><menclose notation=\"top\"><mi>BC</mi></menclose></math>) = 96 cm, find the area (in cm²) of the circumcircle of △ABC. (Use π = 3.14.)</p>",
+        "option_1": "<p>7,850</p>",
+        "option_2": "<p>8,164</p>",
+        "option_3": "<p>7,693</p>",
+        "option_4": "<p>7,536</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/><strong id=\"docs-internal-guid-3fae738b-7fff-bfc2-1aee-c245e66e3c85\"></strong><br/>AC = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mi>A</mi><msup><mi>B</mi><mn>2</mn></msup><mo>+</mo><mi>B</mi><msup><mi>C</mi><mn>2</mn></msup></msqrt><mo>=</mo><msqrt><msup><mn>28</mn><mn>2</mn></msup><mo>+</mo><msup><mn>96</mn><mn>2</mn></msup></msqrt><mo>=</mo><msqrt><mn>784</mn><mo>+</mo><mn>9216</mn></msqrt><mo>=</mo><mn>100</mn></math> <br/>Circumradius = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>H</mi><mi>y</mi><mi>p</mi><mi>o</mi><mi>t</mi><mi>e</mi><mi>n</mi><mi>u</mi><mi>s</mi><mi>e</mi><mi> </mi></mrow><mn>2</mn></mfrac></math>= <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mn>100</mn><mn>2</mn></mfrac></mstyle></math>= 50 cm<br/>Area of circumcircle = <math display=\"inline\"><mi>π</mi></math> × 50 × 50 = 3.14 × 2500 = 7850 cm²</p><br>https://lh7-rt.googleusercontent.com/docsz/AD_4nXcX2XtLGNVuw9J0cOa9hzQXJSX-J5qKtW6mJKxR2_UFG28brEMzlAL5GBl7q393INLNW96h6uLMtHkm1j9OXtcvPbHdr90AB_j7QT7EyQu1ktnMfKN7K3ZX-NtzXGoVuwAUx_0DRg?key=rpjzVTaBGZxKiw0pUORUVpY3"
+    },
+    {
+        "question": "<p>A 135 m long train crosses a man walking at a speed of 10.6 km/h in the opposite direction in 12 seconds. What is the speed (in km/h) of the train?</p>",
+        "option_1": "<p>29.9</p>",
+        "option_2": "<p>31.9</p>",
+        "option_3": "<p>32.1</p>",
+        "option_4": "<p>34.4</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) Let the speed of the train be <math display=\"inline\"><mi>x</mi></math> km/h<br/>Relative speed = (<math display=\"inline\"><mi>x</mi></math> + 10.6) km/h <br/>According to question,<br/><math display=\"inline\"><mo>⇒</mo></math>Speed = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mi>Distance</mi><mi>time</mi></mfrac></mstyle></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mn>135</mn><mn>12</mn></mfrac></mstyle></math>m/sec = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mrow><mn>135</mn><mo> </mo></mrow><mn>12</mn></mfrac></mstyle></math> × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mn>18</mn><mn>5</mn></mfrac></mstyle></math> = 40.5 km/h<br/>Now,<br/><math display=\"inline\"><mo>⇒</mo></math>(x + 10.6) = 40.5 km/h<br/><math display=\"inline\"><mo>⇒</mo></math>x = 29.9 km/h</p>"
+    },
+    {
+        "question": "<p>A man can row a boat at speed 8 km/h in still water. It takes thrice as long to row upstream as it does to row downstream. Find the speed of the stream (in km/h).</p>",
+        "option_1": "<p>6</p>",
+        "option_2": "<p>4</p>",
+        "option_3": "<p>5</p>",
+        "option_4": "<p>3</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) speed of boat = 8 km/h<br/>Let speed of current be y <br/>According to the question,<br/>3 <math display=\"inline\"><mo>×</mo></math> upstream speed = downstream speed<br/>3(8 - y) = (8 + y)<br/>24 - 3y = 8 + y<br/>4y = 16 <math display=\"inline\"><mo>⇒</mo></math> y = 4 km/h</p>"
+    },
+    {
+        "question": "<p>If 29 × 2 × 742 <math display=\"inline\"><mo>÷</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>2809</mn></msqrt></math> = y + 784, then find the value of y.</p>",
+        "option_1": "<p>26</p>",
+        "option_2": "<p>28</p>",
+        "option_3": "<p>35</p>",
+        "option_4": "<p>36</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) 29 × 2 × 742<math display=\"inline\"><mo>÷</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>2809</mn></msqrt></math> = y + 784 <br/>29 × 2 × 742 <math display=\"inline\"><mo>÷</mo></math> 53 = y + 784<br/>29 × 2 × 14 = y + 784<br/>y = 812 - 784 = 28</p>"
+    },
+    {
+        "question": "<p>The strength of a school increases and decreases every alternate year by 15%. If it started with an increase in 2012, then the strength of the school in the beginning of 2015, as compared to that in 2012, had (correct to two decimal places):</p>",
+        "option_1": "<p>Decreased by 12.41%</p>",
+        "option_2": "<p>Increased by 12.41 %</p>",
+        "option_3": "<p>Decreased by 13.85 %</p>",
+        "option_4": "<p>Increased by 13.85 %</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><br/><strong>+15 % - 15 % + 15%</strong><br/><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>23</mn><mn>20</mn></mfrac></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mn>17</mn><mn>20</mn></mfrac></mstyle></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mn>23</mn><mn>20</mn></mfrac></mstyle></math><br/>Let the total student increased in school in 2012 to 2015 be <math display=\"inline\"><mi>x</mi></math><br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>×</mo><mstyle displaystyle=\"false\"><mfrac><mn>23</mn><mn>20</mn></mfrac></mstyle><mo>×</mo><mstyle displaystyle=\"false\"><mfrac><mn>17</mn><mn>20</mn></mfrac></mstyle><mo>×</mo><mstyle displaystyle=\"false\"><mfrac><mn>23</mn><mn>20</mn></mfrac></mstyle><mo>=</mo><mstyle displaystyle=\"false\"><mfrac><mn>8993</mn><mn>8000</mn></mfrac><mi>x</mi></mstyle></math><br/>Student increase % = <math display=\"inline\"><mfrac><mrow><mn>993</mn><mi> </mi></mrow><mrow><mn>8000</mn></mrow></mfrac></math>× 100 = 12.41%</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851254635.png"
+    },
+    {
+        "question": "<p>if 7 cos².θ + 5 sin²θ - 6 = 0 , (0° &lt; θ &lt; 90°), then what is the value of 1 + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mstyle displaystyle=\"false\"><mfrac><mrow><mi>sec</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">θ</mi><mo>+</mo><mi>tan</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">θ</mi><mi mathvariant=\"normal\"> </mi></mrow><mrow><mi>sec</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">θ</mi><mo>-</mo><mi>tan</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">θ</mi></mrow></mfrac></mstyle></msqrt></math> ?</p>",
+        "option_1": "<p><math display=\"inline\"><msqrt><mn>2</mn></msqrt></math> + 2</p>",
+        "option_2": "<p><math display=\"inline\"><msqrt><mn>2</mn></msqrt></math> + 1</p>",
+        "option_3": "<p><math display=\"inline\"><msqrt><mn>2</mn></msqrt></math> - 1</p>",
+        "option_4": "<p><math display=\"inline\"><msqrt><mn>2</mn></msqrt></math> - 2</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <br/>7 cos² θ + 5 sin² θ - 6 = 0<br/>Let θ = 45°<br/>7 × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mn>1</mn><mn>2</mn></mfrac></mstyle></math> + 5 × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mn>1</mn><mn>2</mn></mfrac></mstyle></math> - 6 = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mn>12</mn><mn>2</mn></mfrac></mstyle></math>- 6 = 6 - 6 = 0<br/>Now,<br/>1 + <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mfrac><mrow><mi>s</mi><mi>e</mi><mi>c</mi><mi> </mi><mi>θ</mi><mi> </mi><mo>+</mo><mi> </mi><mi>t</mi><mi>a</mi><mi>n</mi><mi> </mi><mi>θ</mi><mi> </mi></mrow><mrow><mi>s</mi><mi>e</mi><mi>c</mi><mi> </mi><mi>θ</mi><mi> </mi><mo>-</mo><mi> </mi><mi>t</mi><mi>a</mi><mi>n</mi><mi> </mi><mi>θ</mi></mrow></mfrac></msqrt></math> = 1 + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><msqrt><mfrac><mrow><mi>s</mi><mi>e</mi><mi>c</mi><mn>45</mn><mo>°</mo><mi> </mi><mo>+</mo><mi> </mi><mi>t</mi><mi>a</mi><mi>n</mi><mi> </mi><mn>45</mn><mo>°</mo></mrow><mrow><mi>s</mi><mi>e</mi><mi>c</mi><mn>45</mn><mo>°</mo><mi> </mi><mo>-</mo><mi> </mi><mi>t</mi><mi>a</mi><mi>n</mi><mi> </mi><mn>45</mn><mo>°</mo></mrow></mfrac></msqrt></mstyle></math><br/>= 1 + <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mfrac><mrow><mfrac><mn>1</mn><msqrt><mn>2</mn></msqrt></mfrac><mi mathvariant=\"bold-italic\"> </mi><mo>+</mo><mi mathvariant=\"bold-italic\"> </mi><mn>1</mn><mi mathvariant=\"bold-italic\"> </mi></mrow><mrow><mfrac><mn>1</mn><msqrt><mn>2</mn></msqrt></mfrac><mi mathvariant=\"bold-italic\"> </mi><mo>-</mo><mi mathvariant=\"bold-italic\"> </mi><mn>1</mn></mrow></mfrac></msqrt></math> = 1 + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><msqrt><mfrac><mrow><msqrt><mn>2</mn><mo> </mo></msqrt><mo>+</mo><mo> </mo><mn>1</mn><mi> </mi></mrow><mrow><msqrt><mn>2</mn></msqrt><mo> </mo><mo>-</mo><mo> </mo><mn>1</mn></mrow></mfrac></msqrt></mstyle></math><br/>Now, 1 + <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mfrac><mrow><msqrt><mn>2</mn><mi> </mi></msqrt><mi> </mi><mo>+</mo><mn>1</mn></mrow><mrow><msqrt><mn>2</mn></msqrt><mi> </mi><mo>-</mo><mi> </mi><mn>1</mn></mrow></mfrac><mo>×</mo><mfrac><mrow><msqrt><mn>2</mn><mi> </mi></msqrt><mi> </mi><mo>+</mo><mn>1</mn></mrow><mrow><msqrt><mn>2</mn></msqrt><mi> </mi><mo>+</mo><mi> </mi><mn>1</mn></mrow></mfrac></msqrt></math> = 1 + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>2</mn></msqrt></math> + 1 = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>2</mn></msqrt></math> + 2</p>"
+    },
+    {
+        "question": "<p>A fraction <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo> </mo><mn>3</mn><mi> </mi></mrow><mn>5</mn></mfrac></math> is decreased by <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mn>2</mn><mn>5</mn></mfrac></mstyle></math>. The resulting fraction is then increased by 20%. What is the percentage decrease/increase in the value of the original fraction?</p>",
+        "option_1": "<p>Increase, 60%</p>",
+        "option_2": "<p>Increase, 50%</p>",
+        "option_3": "<p>Decrease, 60%</p>",
+        "option_4": "<p>Decrease, 50%</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/>According to the question,<br/><math display=\"inline\"><mfrac><mrow><mn>3</mn><mi> </mi></mrow><mrow><mn>5</mn></mrow></mfrac></math> - <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mn>2</mn><mn>5</mn></mfrac></mstyle></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mrow><mn>1</mn><mi> </mi></mrow><mn>5</mn></mfrac></mstyle></math><br/>After 20% increment = <math display=\"inline\"><mfrac><mrow><mn>1</mn><mi> </mi></mrow><mrow><mn>5</mn></mrow></mfrac></math> × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mn>6</mn><mn>5</mn></mfrac></mstyle></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mrow><mo> </mo><mn>6</mn><mi> </mi></mrow><mn>25</mn></mfrac></mstyle></math><br/>Ratio - initial : final<br/><math display=\"inline\"><mfrac><mrow><mn>3</mn><mi> </mi></mrow><mrow><mn>5</mn></mrow></mfrac></math> : <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mrow><mo> </mo><mn>6</mn><mi> </mi></mrow><mn>25</mn></mfrac></mstyle></math> = 5 : 2<br/>decrease% = <math display=\"inline\"><mfrac><mrow><mn>5</mn><mo>-</mo><mn>2</mn></mrow><mrow><mn>5</mn></mrow></mfrac></math> × 100 = 60%</p>"
+    },
+    {
+        "question": "<p>The side BC of ∆ABC is produced to a point D. If AC = BC and ∠BAC = 70°, then find the value of 2.5∠ACD − 1.5∠ABC.</p>",
+        "option_1": "<p>245°</p>",
+        "option_2": "<p>235°</p>",
+        "option_3": "<p>225°</p>",
+        "option_4": "<p>230°</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/><br/>In <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ΔABC</mi></math><br/>∠A + ∠B + ∠C = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>180</mn><mo>°</mo></math><br/>∠ACD = ∠A + ∠B … (exterior angle property)<br/>∠ACD = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>140</mn><mo>°</mo></math> <br/>now,<br/>2.5 <math display=\"inline\"><mo>×</mo></math> ∠ACD - 1.5 ∠ABC<br/>2.5 <math display=\"inline\"><mo>×</mo></math>140° - 1.5 × 70° = 350° - 105° = 245°</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851254742.png"
+    },
+    {
+        "question": "<p>A dishonest dealer sells his goods at 20% loss on the cost price but uses a faulty weight that weighs 25% less. His profit or loss percentage (rounded off to 2 decimal places) is:</p>",
+        "option_1": "<p>6.67%, loss</p>",
+        "option_2": "<p>3. 33%, profit</p>",
+        "option_3": "<p>3.33%, loss</p>",
+        "option_4": "<p>6.67%, profit</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/>Ratio <math display=\"inline\"><mo>→</mo></math> Initial : Final <br/>price <math display=\"inline\"><mo>→</mo></math> 5 : 4<br/>Weight <math display=\"inline\"><mo>→</mo></math> 3 : 4<br/>-----------------------------------------<br/>Final <math display=\"inline\"><mo>→</mo></math> 15 : 16<br/>Profit % = <math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mn>15</mn></mrow></mfrac><mo>×</mo></math>100 = 6.67%</p>"
+    },
+    {
+        "question": "<p>In a bank, 6% interest is given on the deposited amount. The bank then invests the money in the stock market and is able to earn ₹30,000 for every ₹3,00,000. How much money is the bank earning finally if the total amount deposited in the bank is ₹60,00,000 ?</p>",
+        "option_1": "<p>₹3,00,000</p>",
+        "option_2": "<p>₹6,40,000</p>",
+        "option_3": "<p>₹2,40,000</p>",
+        "option_4": "<p>₹3,60,000</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) Interest gained by bank on deposited amount = <math display=\"inline\"><mfrac><mrow><mn>30000</mn></mrow><mrow><mn>300000</mn></mrow></mfrac></math> × 100 = 10%<br/>Bank give by bank on deposited amount = 6%<br/>Required profit to earn by Bank = 6000000 × (10 - 6)% = ₹240000</p>"
+    },
+    {
+        "question": "<p>From a circle with the radius of 15.75 cm, a sector with the arc length of 11 cm is cut off. Find the area (in cm²) of this sector.</p>",
+        "option_1": "<p>86.525</p>",
+        "option_2": "<p>86.625</p>",
+        "option_3": "<p>86.875</p>",
+        "option_4": "<p>86.125</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>Area of sector = <math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math> × l × r<br/>= <math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math> × 11 × 15.75 = 86.625 cm²</p>"
+    },
+    {
+        "question": "<p>An equal sum of money was lent to P and Q at 8.6% per annum for a period of 7 years and 8 years, respectively. If the difference in interest paid by them was ₹172, then the sum lent to each was:</p>",
+        "option_1": "<p>₹2,000</p>",
+        "option_2": "<p>₹3,000</p>",
+        "option_3": "<p>₹2,150</p>",
+        "option_4": "<p>₹185</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>For P = 7 × 8.6%<br/>For Q = 8 × 8.6%<br/>difference (8.6 × 1 units) = ₹172<br/>Required sum (100 units) = <math display=\"inline\"><mfrac><mrow><mn>172</mn></mrow><mrow><mn>8</mn><mo>.</mo><mn>6</mn></mrow></mfrac></math> × 100 = ₹2000</p>"
+    },
+    {
+        "question": "<p>The rice sold by a grocer contained 20% of low-quality rice. What quantity of good- quality rice should be added to 175 kg of mixed rice so that the percentage of low- quality rice remains 10% ?</p>",
+        "option_1": "<p>175 kg</p>",
+        "option_2": "<p>150 kg</p>",
+        "option_3": "<p>100 kg</p>",
+        "option_4": "<p>125 kg</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>Using Alligation method, we have ; <br/><br/>1 unit --------------- 175 kg<br/>So, the required quantity of good- quality rice = 175 kg</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851255049.png"
+    },
+    {
+        "question": "<p>The largest number that can divide 147, 183 and 271 leaving remainders 11, 13 and 16, respectively, is:</p>",
+        "option_1": "<p>14</p>",
+        "option_2": "<p>17</p>",
+        "option_3": "<p>15</p>",
+        "option_4": "<p>16</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) According to question,<br/>147 - 11 = 136, 183 - 13 = 170 and 271 - 16 = 255<br/>136 = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>2</mn><mn>3</mn></msup></math><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math>17<br/>170 = 2<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math>5<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math>17<br/>255 = 3<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math>5<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math>17<strong id=\"docs-internal-guid-75565667-7fff-22f1-27a3-79f36496c1f0\"> </strong><br/>HCF of (136, 170 and 255) = 17</p>"
+    },
+    {
+        "question": "<p>The average weight of 10 students is increased by half a kg when one of the students weighing 51 kg is replaced by a new student. Find the weight of the new student.</p>",
+        "option_1": "<p>56 kg</p>",
+        "option_2": "<p>75 kg</p>",
+        "option_3": "<p>45 kg</p>",
+        "option_4": "<p>66 kg</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) Increase average = 10 × 0.5 = 5 kg<br/>So, new student weight = 51 + 5 = 56 kg</p>"
+    },
+    {
+        "question": "<p>If sin(X - Y) = sinXcosY - cosXsinY, then the value of <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mi> </mi><mo>(</mo><mi>A</mi><mo>-</mo><mi>B</mi><mo>)</mo></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>B</mi></mrow></mfrac><mo>+</mo><mfrac><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mi> </mi><mo>(</mo><mi>B</mi><mo>-</mo><mi>C</mi><mo>)</mo></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>B</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi></mrow></mfrac></math>:</p>",
+        "option_1": "<p><math display=\"inline\"><mfrac><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mo>(</mo><mi>A</mi><mi> </mi><mo>+</mo><mi> </mi><mi>C</mi><mo>)</mo></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi></mrow></mfrac></math></p>",
+        "option_2": "<p><math display=\"inline\"><mfrac><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mo>(</mo><mi>C</mi><mi> </mi><mo>-</mo><mi> </mi><mi>A</mi><mo>)</mo></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi></mrow></mfrac></math></p>",
+        "option_3": "<p><math display=\"inline\"><mfrac><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mo>(</mo><mi>A</mi><mi> </mi><mo>+</mo><mi> </mi><mi>C</mi><mo>)</mo></mrow><mrow><mi> </mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>A</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>C</mi></mrow></mfrac></math></p>",
+        "option_4": "<p><math display=\"inline\"><mfrac><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mo>(</mo><mi>A</mi><mi> </mi><mo>-</mo><mi> </mi><mi>C</mi><mo>)</mo></mrow><mrow><mi> </mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi></mrow></mfrac></math></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/>= <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mi> </mi><mo>(</mo><mi>A</mi><mo>-</mo><mi>B</mi><mo>)</mo></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>B</mi></mrow></mfrac><mo>+</mo><mfrac><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mi> </mi><mo>(</mo><mi>B</mi><mo>-</mo><mi>C</mi><mo>)</mo></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>B</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi></mrow></mfrac></mstyle></math><br/>= <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>B</mi><mi> </mi><mo>-</mo><mi> </mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>B</mi></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>B</mi></mrow></mfrac></math> + <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mi>B</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi><mi> </mi><mo>-</mo><mi> </mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>B</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>C</mi></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>B</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi></mrow></mfrac></mstyle></math><br/>= <math display=\"inline\"><mfrac><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi><mo>(</mo><mi>s</mi><mi>i</mi><mi>n</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>B</mi><mi> </mi><mo>-</mo><mi> </mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>B</mi><mo>)</mo><mi> </mi><mo>+</mo><mi> </mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mo>(</mo><mi>s</mi><mi>i</mi><mi>n</mi><mi>B</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi><mi> </mi><mo>-</mo><mi> </mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>B</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>C</mi><mo>)</mo></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>B</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi></mrow></mfrac></math><br/>= <math display=\"inline\"><mfrac><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>B</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi><mi> </mi><mo>-</mo><mi> </mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>B</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi><mi> </mi><mo>+</mo><mi> </mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>B</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi><mi> </mi><mo>-</mo><mi> </mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>B</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>C</mi></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>B</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi></mrow></mfrac></math><br/>= <math display=\"inline\"><mfrac><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>B</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi><mi> </mi><mo>-</mo><mi> </mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>B</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>C</mi></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>B</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi></mrow></mfrac></math><br/>= <math display=\"inline\"><mfrac><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>B</mi><mo>(</mo><mi>s</mi><mi>i</mi><mi>n</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi><mi> </mi><mo>-</mo><mi> </mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>C</mi><mo>)</mo></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>B</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi></mrow></mfrac></math><br/>= <math display=\"inline\"><mfrac><mrow><mo>(</mo><mi>s</mi><mi>i</mi><mi>n</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi><mi> </mi><mo>-</mo><mi> </mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>C</mi><mo>)</mo></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi></mrow></mfrac></math><br/>= <math display=\"inline\"><mfrac><mrow><mi>s</mi><mi>i</mi><mi>n</mi><mo>(</mo><mi>A</mi><mo>-</mo><mi>C</mi><mo>)</mo></mrow><mrow><mi>c</mi><mi>o</mi><mi>s</mi><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>C</mi></mrow></mfrac></math></p>"
+    },
+    {
+        "question": "<p>The following bar chart shows the year-wise percentage hike in the fuel price with respect to the previous year<br/> <br/>In how many years did the fuel prices NOT rise?</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1741851255787.png",
+        "option_1": "<p>0</p>",
+        "option_2": "<p>1</p>",
+        "option_3": "<p>2</p>",
+        "option_4": "<p>5</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>From the bar chart we can see that every year there is a rise in fuel prices.</p>"
+    },
+    {
+        "question": "<p>Which of the following fractions is the largest?<br/><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>3</mn><mn>7</mn></mfrac><mo>,</mo><mfrac><mn>7</mn><mn>53</mn></mfrac><mo>,</mo><mfrac><mn>41</mn><mn>80</mn></mfrac><mo>,</mo><mfrac><mn>29</mn><mn>79</mn></mfrac></math></p>",
+        "option_1": "<p><math display=\"inline\"><mfrac><mrow><mn>29</mn></mrow><mrow><mn>79</mn></mrow></mfrac></math></p>",
+        "option_2": "<p><math display=\"inline\"><mfrac><mrow><mn>7</mn></mrow><mrow><mn>53</mn></mrow></mfrac></math></p>",
+        "option_3": "<p><math display=\"inline\"><mfrac><mrow><mn>3</mn></mrow><mrow><mn>7</mn></mrow></mfrac></math></p>",
+        "option_4": "<p><math display=\"inline\"><mfrac><mrow><mn>41</mn></mrow><mrow><mn>80</mn></mrow></mfrac></math></p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) <br/><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mstyle displaystyle=\"false\"><mfrac><mn>3</mn><mn>7</mn></mfrac><mo>,</mo><mfrac><mn>7</mn><mn>53</mn></mfrac><mo>,</mo><mfrac><mn>41</mn><mn>80</mn></mfrac><mo>,</mo><mfrac><mn>29</mn><mn>79</mn></mfrac></mstyle></math><br/>0.42 , 0.13 , 0.51, 0.36<br/><b>Hence,</b> <math display=\"inline\"><mfrac><mrow><mn>41</mn></mrow><mrow><mn>80</mn></mrow></mfrac></math> is the largest fraction.</p>"
+    },
+    {
+        "question": "<p>Parts of the given sentence have been underlined. One of them contains an error. Select the option that has the segment with a grammatical error.<br/>The art historian argued that the painting's value <span style=\"text-decoration: underline;\">has been greatly underestimated</span>, and that <span style=\"text-decoration: underline;\">its unique style and technique</span> deserved <span style=\"text-decoration: underline;\">recognition from the art community and the public alike</span>.</p>",
+        "option_1": "<p>its unique style and technique</p>",
+        "option_2": "<p>has been greatly underestimated</p>",
+        "option_3": "<p>recognition from the art community</p>",
+        "option_4": "<p>and the public alike</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) has been greatly underestimated<br/>The given sentence is in the past tense, so the helping verb of past perfect tense (had) will be used in place of ‘has’. <b>Hence,</b> ‘had been greatly underestimated’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate synonym of the underlined word. <br/>Ramya is an <span style=\"text-decoration: underline;\">ardent</span> follower of secularism.</p>",
+        "option_1": "<p>committed</p>",
+        "option_2": "<p>forced</p>",
+        "option_3": "<p>unhappy</p>",
+        "option_4": "<p>temporary</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong> Committed</strong>- dedicated or devoted to a cause or activity.<br/><strong>Ardent- </strong>having or showing strong enthusiasm or passion.<br/><strong>Forced-</strong> done under pressure or obligation.<br/><strong>Unhappy- </strong>feeling or showing discontent.<br/><strong>Temporary-</strong> lasting for a short period.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution’.<br/>In yesterday’s fire accident, <span style=\"text-decoration: underline;\">her feets are</span> burnt badly.</p>",
+        "option_1": "<p>her feet was</p>",
+        "option_2": "<p>her feet were</p>",
+        "option_3": "<p>her foots were</p>",
+        "option_4": "<p>No substitution</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) her feet were<br/>‘Yesterday’ indicates past tense. ‘Feets’ is incorrect as ‘feet’ is the correct plural form of ‘foot’. <b>Hence,</b> ‘her feet were’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p>Choose the one which can be substituted for the given words/ sentence : <br/>A person extremely desirous of money</p>",
+        "option_1": "<p>avaricious</p>",
+        "option_2": "<p>fervent</p>",
+        "option_3": "<p>extravagant</p>",
+        "option_4": "<p>miser</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong> “Avaricious” </strong>- extreme greed.<br/><strong>“Fervent” </strong>- having or showing great warmth. <br/><strong>“Extravagant”</strong>- is spending too much money. <br/><strong>“Miser” </strong>- one who doesn’t spend a lot.</p>"
+    },
+    {
+        "question": "<p>Select the option that expresses the given sentence in passive voice..<br/>Usnis has not used the computer for weeks.</p>",
+        "option_1": "<p>The computer did not used by Usnis for weeks.</p>",
+        "option_2": "<p>The computer has not been used by Usnis for weeks.</p>",
+        "option_3": "<p>The computer was not been used by Usnis for weeks.</p>",
+        "option_4": "<p>The computer has not being used by Usnis for weeks.</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) The computer has not been used by Usnis for weeks. (Correct)<br/>(a) The computer <strong>did not used</strong> by Usnis for weeks. (Incorrect tense)<br/>(c) The computer <strong>was not been used</strong> by Usnis for weeks. (Incorrect tense)<br/>(d) The computer <strong>has not being used</strong> by Usnis for weeks. (Incorrect tense)</p>"
+    },
+    {
+        "question": "<p>Given below are four jumbled sentences. Pick the option that gives their correct order.<br/>P. Some consider this as an eco-feminist movement where women are actively involved.<br/>Q.An illiterate women Gora Devi a tribal leader from the Chamoli district mobilized the women to protect their forests.<br/>R. So they adopted the Chipko movement which promotes nonviolence.<br/>S. The Bhutiyas knew they had to save their forests.</p>",
+        "option_1": "<p>QPSR</p>",
+        "option_2": "<p>QPRS</p>",
+        "option_3": "<p>PSRQ</p>",
+        "option_4": "<p>SRQP</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) SRQP<br/>Sentence S will be the starting line as it contains the main subject of the parajumble i.e. The Bhutiyas, who had to save their forests. And, Sentence R states what they adopted to save it. So, R will follow S. Further, Sentence Q states about an illiterate lady who is the tribal leader and Sentence P states how it was considered as it involved women. So, P will follow Q. Going through the options, option (d) has the correct sequence.</p>"
+    },
+    {
+        "question": "<p>Select the correctly spelt word.</p>",
+        "option_1": "<p>machinary</p>",
+        "option_2": "<p>dispensery</p>",
+        "option_3": "<p>dictionery</p>",
+        "option_4": "<p>directory</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) directory<br/>‘Directory’ is the correct spelling.</p>"
+    },
+    {
+        "question": "<p>From among the words given in bold, select the <strong>INCORRECTLY</strong> spelt word in the following sentence.<br/>Almost all the governors of Bengal strongly <strong>resented</strong> the special <strong>privileges</strong> enjoyed by English company as it meant a huge loss to the <strong>provinciel exchequer</strong>.</p>",
+        "option_1": "<p>provinciel</p>",
+        "option_2": "<p>resented</p>",
+        "option_3": "<p>exchequer</p>",
+        "option_4": "<p>privileges</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) provinciel<br/>Provincial is the correct spelling.</p>"
+    },
+    {
+        "question": "<p>Identify the segment in the sentence which contains grammatical error. Mark ‘no error’ in case the sentence given is correct. <br/>One should respect the religions of others as much as his own .</p>",
+        "option_1": "<p>One should respect</p>",
+        "option_2": "<p>the religions of others</p>",
+        "option_3": "<p>as much as his own</p>",
+        "option_4": "<p>No error</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) as much as his own <br/>Pronoun have used as ‘one’ in the beginning , we do not have to use ‘with his own’ in part c. Replace “his own” by one’s own</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate meaning of the given idiom. <br/>Go down in flames</p>",
+        "option_1": "<p>To crash and burn</p>",
+        "option_2": "<p>To destroy completely</p>",
+        "option_3": "<p>To fail spectacularly</p>",
+        "option_4": "<p>To burn down completely</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>Go down in flames - </strong>to fail spectacularly.<br/>E.g.- The project went down in flames after the team missed all their deadlines.</p>"
+    },
+    {
+        "question": "<p>Identify the best way to improve the underlined part of the given sentence. If there is no improvement required, select ‘no improvement’.<br/>He <span style=\"text-decoration: underline;\"><strong>absented</strong></span> from the meeting.</p>",
+        "option_1": "<p>was absent</p>",
+        "option_2": "<p>absented himself</p>",
+        "option_3": "<p>took absence</p>",
+        "option_4": "<p>No improvement</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) absented himself</p>"
+    },
+    {
+        "question": "<p>Four alternatives are given for the idiom/phrase underlined in the sentence. Choose the alternative which best expresses the meaning of the idiom/phrase. <br/>My father <span style=\"text-decoration: underline;\">strained every nerve</span> to enable me to get settled in life.</p>",
+        "option_1": "<p>worked very hard</p>",
+        "option_2": "<p>spent a large amount</p>",
+        "option_3": "<p>tried all tricks</p>",
+        "option_4": "<p>bribed several persons</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) worked very hard.<br/>Example - Students strain every nerve to clear the exams.</p>"
+    },
+    {
+        "question": "<p>Given below are four jumbled sentences. Pick the option that gives their correct order.<br/>P. And Vasco Da Gama came to India in 1498.<br/>Q. Europeans had long enjoyed spices imported from India by the Arabs, the Portuguese and the Spaniards.<br/>R. They developed sea routes and navigational tools that made it easier for them to sail upon the open ocean.<br/>S. They set out for India by going through the Atlantic Ocean, Christopher Columbus ended up in America in 1492.</p>",
+        "option_1": "<p>QPSR</p>",
+        "option_2": "<p>QRSP</p>",
+        "option_3": "<p>QSPR</p>",
+        "option_4": "<p>RSPQ</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) QRSP<br/>Sentence Q will be the starting line as it contains the main idea of the parajumble i.e. Spices, imported from India. And, Sentence R states how they made it easy to import species. So, R will follow Q. Further, Sentence S states about Christopher who set out for India and Sentence P states about Vasco Da Gama, who came to India. So, P will follow S. Going through the options, option (b) has the correct sequence.</p>"
+    },
+    {
+        "question": "Select the option that can be used as a one-word substitute for the given group of words. <br/>An open space usually rectangular and enclosed in a building",
+        "option_1": "Quinton",
+        "option_2": "Quadrangle",
+        "option_3": "Quintessential",
+        "option_4": "Quadruped",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Quadrangle- </strong>an open space usually rectangular and enclosed in a building.<br/><strong>Quinton</strong>- queen's town or settlement.<br/><strong>Quintessential-</strong> representing the most perfect or typical example of a quality or class.<br/><strong>Quadruped-</strong> any animal that has four feet.</p>"
+    },
+    {
+        "question": "<p>The app gets Larry’s parents involved in the learning and improvement process, sending them advice about Larry’s behaviours and progress, and recommending motivational _______ they might undertake that are _______ to Larry’s situation and the program’s _________ about his attitudes and behaviours.</p>",
+        "option_1": "<p>intermissions, directed, injunctions</p>",
+        "option_2": "<p>interpolations, disrupted, inventions</p>",
+        "option_3": "<p>interventions, targeted, inferences</p>",
+        "option_4": "<p>interruptions, disillusioned, invasions</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) Interventions means the action of becoming intentionally involved in a difficult situation, in order to improve it or prevent it from getting worse.And intervention is available in option c only so c is the correct answer.</p>"
+    },
+    {
+        "question": "<p>In the following questions, out of the four alternatives, choose the one which can be substituted for the given words/sentence. <br/>Pay attention.</p>",
+        "option_1": "<p>Heed</p>",
+        "option_2": "<p>Glance at</p>",
+        "option_3": "<p>Overlook</p>",
+        "option_4": "<p>Repair</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) heed.<br/>Heed - pay attention to; take notice of.</p>"
+    },
+    {
+        "question": "<p>Select the option that expresses the given sentence in passive voice.<br/>They propose to build a dam for irrigation purposes</p>",
+        "option_1": "<p>Build a dam for irrigation purposes.</p>",
+        "option_2": "<p>For the irrigation purposes a dam has been built.</p>",
+        "option_3": "<p>Irrigation dam is built.</p>",
+        "option_4": "<p>It is proposed to build a dam for irrigation purposes.</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) It is proposed to build a dam for irrigation purposes. (Correct)<br/>(a) Build a dam for irrigation purposes. (Tone has changed to authoritative)<br/>(b) For the irrigation purposes a dam has been built. (Meaning has changed)<br/>(c) Irrigation dam is built. (Meaning has changed)</p>"
+    },
+    {
+        "question": "<p>Choose the word opposite in meaning to the given word.<br/>Relentless</p>",
+        "option_1": "<p>merciless</p>",
+        "option_2": "<p>yielding</p>",
+        "option_3": "<p>monotonous</p>",
+        "option_4": "<p>incisive</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>yielding</strong><br/><strong>Relentless </strong>- for describing something that's harsh, unforgiving, and persistent,<br/>(a) <strong>merciless </strong>- showing no mercy. <br/>(c) <strong>monotonous</strong> - dull, tedious, and repetitious; lacking in variety and interest. <br/>(d) <strong>incisive -</strong> (of a person or mental process) intelligently analytical and clear-thinking.</p>"
+    },
+    {
+        "question": "<p>Fill in the blank with most appropriate word<br/>I am ______ of joining the armed forces.</p>",
+        "option_1": "<p>interested</p>",
+        "option_2": "<p>keen</p>",
+        "option_3": "<p>desirous</p>",
+        "option_4": "<p>eager</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) desirous <br/>Desirous means wanting something very much. However, desirous always takes the preposition ‘of’ with it. The given sentence states that the narrator is desirous of joining the armed forces. <b>Hence,</b> ‘desirous’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate ANTONYM of the given word.<br/>Confound</p>",
+        "option_1": "<p>Expire</p>",
+        "option_2": "<p>Suppress</p>",
+        "option_3": "<p>Discern</p>",
+        "option_4": "<p>Assure</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>Discern</strong>- to recognize or understand something clearly.<br/><strong>Confound-</strong> to confuse or perplex someone.<br/><strong>Expire-</strong> to come to an end or cease to be valid.<br/><strong>Suppress-</strong> to prevent or restrain something.<br/><strong>Assure-</strong> to make someone feel certain or confident.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze test:</strong><br/>The postal service is the government agency (96)_________handles the mail. Its job is (97)________letters and packages to people and businesses all over the world. Its goal is to see that your mail gets to its destination (98)________ possible. People (99)_________ the postal service to deliver important letters and even valuables, (100)_________time and to the right person. <br/>Select the most appropriate option to fill in the blank number 96.</p>",
+        "option_1": "<p>who</p>",
+        "option_2": "<p>whether</p>",
+        "option_3": "<p>which</p>",
+        "option_4": "<p>that</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) that<br/>‘That’ is used to introduce a new clause in a sentence. The given passage states that the postal service is the government agency that <span style=\"text-decoration: underline;\">handles the mail</span>(new clause). <b>Hence,</b> ‘that’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze test:</strong><br/>The postal service is the government agency (96)_________handles the mail. Its job is (97)________letters and packages to people and businesses all over the world. Its goal is to see that your mail gets to its destination (98)________ possible. People (99)_________ the postal service to deliver important letters and even valuables, (100)_________time and to the right person.<br/>Select the most appropriate option to fill in the blank number 97.</p>",
+        "option_1": "<p>being delivered</p>",
+        "option_2": "<p>to be delivered</p>",
+        "option_3": "<p>to have delivered</p>",
+        "option_4": "<p>to deliver</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) to deliver<br/>‘Preposition<span style=\"text-decoration: underline;\"> to + first form of the verb</span>(<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">V</mi><mn>1</mn></msub></math>)” is grammatically the correct structure for the given sentence which is in the present tense. <b>Hence,</b> ‘to deliver(<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">V</mi><mn>1</mn></msub></math>)’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze test:</strong><br/>The postal service is the government agency (96)_________handles the mail. Its job is (97)________letters and packages to people and businesses all over the world. Its goal is to see that your mail gets to its destination (98)________ possible. People (99)_________ the postal service to deliver important letters and even valuables, (100)_________time and to the right person.<br/>Select the most appropriate option to fill in the blank number 98.</p>",
+        "option_1": "<p>less quickly</p>",
+        "option_2": "<p>too quickly</p>",
+        "option_3": "<p>so quickly that</p>",
+        "option_4": "<p>as quickly as</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) as quickly as<br/>The phrase ‘as quickly as’ means as fast as you are able. The given passage states that its goal is to see that your mail gets to its destination as fast(quickly) as it is possible. <b>Hence,</b> ‘as quickly as’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze test:</strong><br/>The postal service is the government agency (96)_________handles the mail. Its job is (97)________letters and packages to people and businesses all over the world. Its goal is to see that your mail gets to its destination (98)________ possible. People (99)_________ the postal service to deliver important letters and even valuables, (100)_________time and to the right person.<br/>Select the most appropriate option to fill in the blank number 99.</p>",
+        "option_1": "<p>back out</p>",
+        "option_2": "<p>check out</p>",
+        "option_3": "<p>come in</p>",
+        "option_4": "<p>rely on</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) rely on<br/>The phrase ‘rely on’ means to need(someone or something) for support, help, etc. The given passage states that people rely on(need support of) the postal service to deliver important letters. <b>Hence,</b> ‘rely on’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze test:</strong><br/>The postal service is the government agency (96)_________handles the mail. Its job is (97)________letters and packages to people and businesses all over the world. Its goal is to see that your mail gets to its destination (98)________ possible. People (99)_________ the postal service to deliver important letters and even valuables, (100)_________time and to the right person.<br/>Select the most appropriate option to fill in the blank number 100.</p>",
+        "option_1": "<p>to</p>",
+        "option_2": "<p>for</p>",
+        "option_3": "<p>at</p>",
+        "option_4": "<p>on</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) on<br/>The phrase ‘on time’ means not too late or too early, punctual. The given passage states that the postal service delivers important letters and even valuables on time. <b>Hence,</b> ‘on’ is the most appropriate answer.</p>"
+    }
+]
