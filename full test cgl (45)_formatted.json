@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "<p>35 is related to 1125 following a certain logic. Following the same logic, 45 is related to 1925. To which of the following is 85 related, following the same logic?<br/><strong>(NOTE:</strong> Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13-Operations on 13 such as adding / subtracting / multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)</p>",
+        "option_1": "<p>7255</p>",
+        "option_2": "<p>7125</p>",
+        "option_3": "<p>7325</p>",
+        "option_4": "<p>7135</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Logic</strong> :- (1st number)<sup>2</sup> - 100 = 2nd number<br/>(35, 1125) :- (35)<sup>2</sup> - 100 ⇒ 1225 - 100 = 1125<br/>(45 , 1925) :- (45)<sup>2</sup> - 100 ⇒ 2025 - 100 = 1925<br/>Similarly,<br/>(85, ?) :- (85)<sup>2</sup> - 100 ⇒ 7225 - 100 = 7125</p>"
+    },
+    {
+        "question": "<p>Pointing to a photograph, Rani said, \"She is the daughter of the only son of my grandfather.\" How is the girl in the photograph related to Rani ?</p>",
+        "option_1": "<p>Brother</p>",
+        "option_2": "<p>Cousin sister</p>",
+        "option_3": "<p>Sister</p>",
+        "option_4": "<p>Daughter</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/><br/><b>Hence,</b> ‘Girl’ in the photograph is the sister of ‘Rani’.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607698586.png"
+    },
+    {
+        "question": "<p>Select the figure from among the given options that can replace the question mark (?) in the following series.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607698922.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607699040.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607699171.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607699324.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607699441.png",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607699324.png"
+    },
+    {
+        "question": "<p>Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the one that is different.<br/><strong>Note</strong> : The odd one out is not based on the number of consonants/vowels or their position in the letter cluster</p>",
+        "option_1": "<p>ONM</p>",
+        "option_2": "<p>BCD</p>",
+        "option_3": "<p>RST</p>",
+        "option_4": "<p>JKL</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/> , , <br/>But<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607699596.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607699775.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607699923.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607700029.png"
+    },
+    {
+        "question": "<p>Three statements are followed by conclusions numbered I, II. You have to consider these statements to be true, even if they seem to be at variance with commonly known facts. Decide which of the given logically follow/s from the given statement.<br/><strong>Statements:</strong><br/>All water is earth.<br/>All earth is fire.<br/>Some fire is air.<br/><strong>Conclusion</strong> (I): Some air is earth.<br/><strong>Conclusion</strong> (II): Some fire is water.</p>",
+        "option_1": "<p>Neither conclusion (I) nor (II) follows.</p>",
+        "option_2": "<p>Only conclusion (II) follows.</p>",
+        "option_3": "<p>Only conclusion (I) follows.</p>",
+        "option_4": "<p>Both conclusions (I) and (II) follow.</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><br/>Only Conclusion II follows.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607700137.png"
+    },
+    {
+        "question": "<p>In a certain code, PROVIDE is written as QSPWJEF and PLATE is written as QMBUF. What is the code for POND ?</p>",
+        "option_1": "<p>QPOE</p>",
+        "option_2": "<p>RQPF</p>",
+        "option_3": "<p>PNOD</p>",
+        "option_4": "<p>ONMC</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/> , <br/>Similarly,<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607700359.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607700484.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607700579.png"
+    },
+    {
+        "question": "<p>Select the term from among the given options that can replace the question mark (?) in the following series.<br/>PJ 16, SM 25, VP 36, YS 49, ?</p>",
+        "option_1": "<p>CW 81</p>",
+        "option_2": "<p>BV 64</p>",
+        "option_3": "<p>DW 64</p>",
+        "option_4": "<p>CV 36</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607700680.png"
+    },
+    {
+        "question": "<p>What will come in the place of question mark (?) in the following equation, if '+' and '-' are interchanged and '×' and '÷' are interchanged?<br/>99 ÷ 9 - 999 × 9 + 99 = ?</p>",
+        "option_1": "<p>901</p>",
+        "option_2": "<p>902</p>",
+        "option_3": "<p>903</p>",
+        "option_4": "<p>904</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>Given</strong>:- 99 ÷ 9 - 999 × 9 + 99 <br/>On interchanging signs as per instructions we get,<br/>99 × 9 + 999 ÷ 9 - 99 <br/>= 891 + 111 - 99 = 903</p>"
+    },
+    {
+        "question": "<p>What will be the day of the week on 08 June 2030 ?</p>",
+        "option_1": "<p>Saturday</p>",
+        "option_2": "<p>Friday</p>",
+        "option_3": "<p>Sunday</p>",
+        "option_4": "<p>Monday</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <br/>Formula for calculating day of any date<br/>0 = sunday, 1 = monday.... 6 = saturday<br/>A = century code (4,2,0,6 for remainder 1,2,3,0) where remainder = dividing by first two digit of the year by 4<br/>B = last two digits of year<br/>C = number of leap years fallen in that century before that date.<br/>D = month code (respective code of the months are 0, 3, 3, 6, 1, 4, 6, 2, 5, 0, 3, 5)<br/>E = date<br/>Day = remainder of (A + B + C + D + E) when divided by 7.<br/>For 8 June 2030,<br/>A = 6 B = 30 C = 7 D = 4 E = 8<br/>According to formula, <br/>Remainder of (A + B + C + D + E)/7 = 55/7 <br/>is 6 ⇒ <b>Hence,</b> 6 stands for Saturday.</p>"
+    },
+    {
+        "question": "<p>How many rectangles are there in the given figure ?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607700815.png",
+        "option_1": "<p>11</p>",
+        "option_2": "<p>9</p>",
+        "option_3": "<p>8</p>",
+        "option_4": "<p>10</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/><br/>There are 10 rectangle<br/>ABDC, IHGF, NOED , OPFE, NPFD, JKLM, MLON, JKON, MLED, JKED</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607700939.png"
+    },
+    {
+        "question": "<p>Select the option figure in which the given figure (X) is embedded as its part (rotation is NOT allowed).<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607701093.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607701225.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607701318.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607701408.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607701505.png",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607701711.png"
+    },
+    {
+        "question": "Select the option that is related to the third word in the same way as the second word is related to the first word. (The words must be considered as meaningful English words and must NOT be related to each other based on the number of letters/number of consonants/vowels in the word)<br/>Sugar : Diabetes :: Fat : _______",
+        "option_1": "Insomnia",
+        "option_2": "Obesity",
+        "option_3": "Thyroid",
+        "option_4": "Lethargy",
+        "option_5": "",
+        "answer": "2",
+        "solution": "(b) As diabetes is caused by Sugar similarly Obesity is caused by Fat."
+    },
+    {
+        "question": "<p>Select the option that represents the letters that, when sequentially placed from left to right in the blanks, will complete the letter series.<br/>_ R _ _ A R _ O _ _ G O A _ G O</p>",
+        "option_1": "<p>A G O G R A A</p>",
+        "option_2": "<p>A G O G A R R</p>",
+        "option_3": "<p>A A G O G R R</p>",
+        "option_4": "<p>A G G O A R R</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><span style=\"text-decoration: underline;\"><strong>A</strong></span> R <span style=\"text-decoration: underline;\"><strong>G O</strong></span> / A R <span style=\"text-decoration: underline;\"><strong>G</strong></span> O / <span style=\"text-decoration: underline;\"><strong>A R</strong></span> G O / A <span style=\"text-decoration: underline;\"><strong>R</strong></span> G O</p>"
+    },
+    {
+        "question": "<p>In a certain code language, <br/>'X # Y' means 'X is the wife of Y',<br/>'X $ Y' means 'X is the daughter of Y',<br/>'X @ Y' means 'X is the brother of Y',<br/>'X &amp; Y' means 'X is the father of Y',<br/>'X ✕ Y' means 'X is the sister of Y'.<br/>If 'I @ H $ F # D &amp; L # K @ O', then how is I related to L?</p>",
+        "option_1": "<p>Father's brother</p>",
+        "option_2": "<p>Brother</p>",
+        "option_3": "<p>Sister</p>",
+        "option_4": "<p>Brother's son</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><br/>I is the brother of L.</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607701843.png"
+    },
+    {
+        "question": "<p>Which two numbers (not individual digits) should be interchanged to make the given equation correct ?<br/>56 + (11 <math display=\"inline\"><mo>×</mo></math> 2) - (52 ÷ 4) + 16 = 76</p>",
+        "option_1": "<p>16 and 11</p>",
+        "option_2": "<p>56 and 52</p>",
+        "option_3": "<p>2 and 4</p>",
+        "option_4": "<p>52 and 16</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Given</strong> :- 56 + (11 × 2) - (52 ÷ 4) + 16 = 76<br/>After going through all the options, option (b) satisfies. After interchanging 56 and 52 we get<br/>52 + (11 × 2) - (56 ÷ 4) + 16 <br/>52 + 22 - 14 + 16<br/>74 + 2 = 76<br/>L.H.S. = R.H.S.</p>"
+    },
+    {
+        "question": "<p>Select the option that is related to the fifth letter cluster in the same way as the second letter cluster is related to the first letter cluster and the fourth letter cluster is related to the third letter cluster,<br/>ROYAL : ALZRO :: ABOUT : UTPAB :: POLES : ?</p>",
+        "option_1": "<p>ESNPQ</p>",
+        "option_2": "<p>FRMQN</p>",
+        "option_3": "<p>FSNPR</p>",
+        "option_4": "<p>ESMPO</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/> , <br/>Similarly,<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607701974.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607702118.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607702250.png"
+    },
+    {
+        "question": "<p>What should come in place of ‘?’ in the given series?<br/>5040, 6064, 6576, 6832, 6960, ?</p>",
+        "option_1": "<p>7472</p>",
+        "option_2": "<p>7024</p>",
+        "option_3": "<p>7088</p>",
+        "option_4": "<p>7216</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607702362.png"
+    },
+    {
+        "question": "<p>In a certain code language, ‘I play football’ is coded as ‘ku ch ta’ and ‘he play cricket’ is coded as ‘al bi ta’. How is ‘play’ coded in the given language?</p>",
+        "option_1": "<p>ku</p>",
+        "option_2": "<p>al</p>",
+        "option_3": "<p>bi</p>",
+        "option_4": "<p>ta</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) I play football :- ku ch ta…..(i)<br/>he play cricket :- al bi ta……(ii)<br/>From (i) and (ii) ‘play’ and ‘ta’ are common. The code of ‘play’ = ‘ta’.</p>"
+    },
+    {
+        "question": "<p>In a certain code language, if HOUSE is coded as 67 and GROUND is coded as 83, then how will KITCHEN be coded?</p>",
+        "option_1": "<p>119</p>",
+        "option_2": "<p>110</p>",
+        "option_3": "<p>130</p>",
+        "option_4": "<p>122</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/> , <br/>Similarly,<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607702538.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607702670.png<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607702825.png"
+    },
+    {
+        "question": "<p>Six Roman numbers I, II, III, IV, V and VI are written on different faces of a dice. Two positions of this dice are shown in the figure below. Find the Roman number on the face opposite to ‘VI’.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607703458.png",
+        "option_1": "<p>V</p>",
+        "option_2": "<p>II</p>",
+        "option_3": "<p>III</p>",
+        "option_4": "<p>IV</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) in both dice two roman numbers( III,V) are common.<br/>So, the opposite face of ‘VI’ is ‘II’.</p>"
+    },
+    {
+        "question": "<p>Select the option that represents the correct order of the given words as they would appear in an English dictionary.<br/>1. Discover<br/>2. Disperse<br/>3. Disjointed<br/>4. Discard<br/>5. Disposable<br/>6. Discriminate</p>",
+        "option_1": "<p>4, 1, 6, 2, 3, 5</p>",
+        "option_2": "<p>4, 1, 6, 5, 3, 2</p>",
+        "option_3": "<p>4, 6, 1, 3, 2, 5</p>",
+        "option_4": "<p>4, 1, 6, 3, 2, 5</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) The correct order is <br/>Discard(4) → Discover(1) → Discriminate(6) → Disjointed(3) → Disperse(2) → Disposable(5)</p>"
+    },
+    {
+        "question": "<p>The sequence of folding a paper and the manner in which the folded paper is cut is shown in the following figures. How would this paper look when unfolded?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607703637.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607703744.png",
+        "option_2": "<p><br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607703861.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607703962.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607704059.png",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607704154.png"
+    },
+    {
+        "question": "<p>Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607704296.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607704394.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607704542.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607704683.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607704855.png",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607704855.png"
+    },
+    {
+        "question": "<p>Select the set in which the numbers are related in the same way as are the numbers of the following sets.<br/><strong>(NOTE</strong> : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)<br/>(21, 34, 76)<br/>(39, 26, 104)</p>",
+        "option_1": "<p>(28, 23, 79)</p>",
+        "option_2": "<p>(34, 25, 102)</p>",
+        "option_3": "<p>(25, 31, 108)</p>",
+        "option_4": "<p>(37, 43, 127)</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>Logic</strong> :- (3rd number - 2nd number) ÷ 2 = 1st number<br/>(21 ,34, 76) :- (76 - 34) ÷ 2 ⇒ (42) ÷ 2 = 21<br/>(39, 26, 104) :- (104 - 26) ÷ 2 ⇒ (78) ÷ 2 = 39<br/>Similarly,<br/>(28, 23, 79) :- (79 -23) ÷ 2 ⇒ (56) ÷ 2 = 28</p>"
+    },
+    {
+        "question": "<p>Which figure should replace the question mark (?) if the following figure series were to be continued?<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607704959.png",
+        "option_1": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607705059.png",
+        "option_2": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607705220.png",
+        "option_3": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607705317.png",
+        "option_4": "<br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607705419.png",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607705059.png"
+    },
+    {
+        "question": "<p>Which mobile app was launched in September 2024 at the Indian Council of Agricultural Research-Central Institute of Freshwater Aquaculture (ICAR - CIFA) to address the needs of the ornamental fisheries sector?</p>",
+        "option_1": "<p>Saa₹thi (SAARTHI) 2.0</p>",
+        "option_2": "<p>NERACE</p>",
+        "option_3": "<p>Lokpath</p>",
+        "option_4": "<p>Rangeen Machhli</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) <strong>Rangeen Machhli.</strong> On 12th September 2024, Union Minister Rajiv Ranjan Singh alias Lalan Singh, launched the Rangeen Machhli mobile app at Indian Council of Agricultural Research-Central Institute of Freshwater Aquaculture (ICAR-CIFA), Bhubaneswar, Odisha.</p>"
+    },
+    {
+        "question": "Jaita is the main dance form of which state?",
+        "option_1": "Karnataka",
+        "option_2": "Rajasthan",
+        "option_3": "Madhya Pradesh",
+        "option_4": "Uttar Pradesh",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) <strong>Uttar Pradesh.</strong> Jaita is a traditional folk dance performed by the Jat community, especially in the Bundelkhand region, during weddings and festivals. Other folk dances of Uttar Pradesh include: Nautanki, Raslila, Kajri. State with their folk dances: Rajasthan - Ghoomar, Suisini, kalbeliya, Chakri, Ganagor, Jhulan Leela. Madhya Pradesh - Phulpati, Jawara, Selalarki, Selabhadoni, Matki. Karnataka - Yakshagana, Lambi, Huttari, Kunitha, Suggi, Karga.</p>"
+    },
+    {
+        "question": "<p>Who was the designer of India’s national flag?</p>",
+        "option_1": "<p>BN Rau</p>",
+        "option_2": "<p>KM Munshi</p>",
+        "option_3": "<p>Pingali Venkayya</p>",
+        "option_4": "<p>Prem Behari Narain Raizada</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>Pingali</strong> <strong>Venkayya</strong>: He presented the original design of the Indian flag with red and green colors to Mahatma Gandhi in 1921. The National Flag was adopted by the Constituent Assembly of India on 22 July 1947. On August 22, 1907, Madam Bhikaji Cama became the first person to hoist the Indian flag on foreign soil in Stuttgart in Germany. B. N. Rau : Appointed Constitutional Adviser in 1946. K. M. Munshi : Described the Preamble as the \"political horoscope\" of the Constitution. He was also the first Chairman of the Order of Business Committee. Prem Behari Narain Raizada (Saxena): Hand-wrote the original Indian Constitution.</p>"
+    },
+    {
+        "question": "<p>What is the defense allocation in the Union Budget FY2025-26?</p>",
+        "option_1": "<p>₹5.5 lakh crore</p>",
+        "option_2": "<p>₹6.8 lakh crore</p>",
+        "option_3": "<p>₹7.2 lakh crore</p>",
+        "option_4": "<p>₹6.2 lakh crore</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>₹6.8 lakh crore.</strong> The budget emphasizes modernization, domestic procurement, and operational readiness, with ₹1.8 lakh crore allocated for new weapons and equipment.</p>"
+    },
+    {
+        "question": "________ is the science and art of cultivating fruits, vegetables, flowers and ornamental plants.",
+        "option_1": "Viniculture",
+        "option_2": "Floriculture",
+        "option_3": "Sericulture",
+        "option_4": "Horticulture",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) <strong>Horticulture.</strong> Olericulture : Branch of horticulture that deals with the production, processing, and marketing of vegetables. Viniculture: The cultivation of grapes, specifically for wine production. Floriculture includes cultivation and production of all types of ornamentals, viz., croton, cacti, orchids, grasses and bamboos. Sericulture: The cultivation of silkworms for silk production.</p>"
+    },
+    {
+        "question": "<p>Which Article of the Indian Constitution mentions that any person to become the President of India has to be a citizen of India?</p>",
+        "option_1": "<p>Article 58</p>",
+        "option_2": "<p>Article 57</p>",
+        "option_3": "<p>Article 60</p>",
+        "option_4": "<p>Article 59</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>Article 58</strong> of the Indian Constitution states the qualifications for a person to be eligible for election as President of India, which includes being a citizen of India. Other articles: Article 57 - Eligibility for re-election. Article 59 - Conditions of the President's office. Article 60 - Oath or affirmation by the President.</p>"
+    },
+    {
+        "question": "<p>Which of the following items has a high fibre content?</p>",
+        "option_1": "<p>Eggs</p>",
+        "option_2": "<p>Fish</p>",
+        "option_3": "<p>Whole grain</p>",
+        "option_4": "<p>Milk</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>Whole grains</strong> are high in dietary fiber, which is beneficial for digestive health. They also provide various vitamins and minerals. Other foods and their minerals: Eggs: Protein-rich, but fiber-free. Fish: Rich in protein and omega-3 fatty acids. Milk: Rich in calcium and protein.</p>"
+    },
+    {
+        "question": "<p>Select the correct statement about climax community.</p>",
+        "option_1": "<p>It is an ecological community in which populations of plants or animals, which are very unstable and exist for very few times.</p>",
+        "option_2": "<p>It is the very first community of the ecosystem.</p>",
+        "option_3": "<p>It consists of only plant population that makes a new ecological system.</p>",
+        "option_4": "<p>It is an ecological community in which populations of plants or animals remain stable and exist in balance with each other and their environment.</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) A climax community is the “endpoint” of succession within the context of a particular climate and geography. The climax community remains stable as long as the environment remains unchanged.</p>"
+    },
+    {
+        "question": "<p>Geologically, which of the following physiographic divisions of India is supposed to be one of the most stable land blocks?</p>",
+        "option_1": "<p>The Northern Plains</p>",
+        "option_2": "<p>The Himalayas</p>",
+        "option_3": "<p>The Peninsular Plateau</p>",
+        "option_4": "<p>The Indian Desert</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>The Peninsular plateau</strong> is a tableland composed of the old crystalline, igneous and metamorphic rocks. This plateau consists of two broad divisions, namely, the Central Highlands and the Deccan Plateau. The part of the Peninsular plateau lying to the north of the Narmada river. The Indian desert lies towards the western margins of the Aravali Hills. It is an undulating sandy plain covered with sand dunes. The northern plain is formed of alluvial soil. The Himalayas, geologically young and structurally fold mountains stretch over the northern borders of India.</p>"
+    },
+    {
+        "question": "<p>Which of the following is NOT among the commercial sources of energy?</p>",
+        "option_1": "<p>Petroleum</p>",
+        "option_2": "<p>Electricity</p>",
+        "option_3": "<p>Fuel wood</p>",
+        "option_4": "<p>Hydropower</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>Fuel wood.</strong> It is a non-commercial or traditional source of energy, primarily used for domestic purposes such as cooking and heating. Commercial sources of energy are typically: Fossil fuels (petroleum, coal, natural gas), Electricity (produced from a variety of energy sources), Hydropower (electricity generated from water resources).</p>"
+    },
+    {
+        "question": "<p>Atmospheric temperature does NOT depend on _________.</p>",
+        "option_1": "<p>salinity of oceans</p>",
+        "option_2": "<p>distance from sea</p>",
+        "option_3": "<p>latitude</p>",
+        "option_4": "<p>altitude</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>salinity of oceans</strong>. Atmospheric temperature primarily depends on several factors: latitude, which influences the variation in solar radiation due to the Earth's tilt; altitude, where temperature decreases with increasing elevation; and distance from the sea, which creates differences between coastal and continental temperatures.</p>"
+    },
+    {
+        "question": "<p>Who among the following was honored with the title of Khan-e-Khana during the reign of Akbar?</p>",
+        "option_1": "<p>Baz Bahadur</p>",
+        "option_2": "<p>Abul Fazal</p>",
+        "option_3": "<p>Todarmal</p>",
+        "option_4": "<p>Bairam Khan</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) <strong>Bairam Khan.</strong> He was a renowned military commander and nobleman who served as Akbar's regent and advisor. Akbar was the third Mughal emperor, reigning from 1556 to 1605. His court was known for the \"nine gems\" or Navratnas, which included Birbal, Tansen, Abul Fazl, Faizi, Todar Mal, Raja Man Singh, Abdul Rahim Khan-I-Khana, Fakir Aziao-Din, and Mullah Do Piaza.</p>"
+    },
+    {
+        "question": "<p>Rani Karnaa was awarded the Sangeet Natak Akademi (1996) for her contribution to _____ .</p>",
+        "option_1": "<p>Odissi</p>",
+        "option_2": "<p>Kathak</p>",
+        "option_3": "<p>Kathakali</p>",
+        "option_4": "<p>Kuchipudi</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Kathak.</strong> Rani Karnaa also received the Padma Shri Award in 2014. She was trained by Pandit Narayan Prasad and Sunder Prasad of the Jaipur gharana and Pandit Shambhu Maharaj and Birju Maharaj of Lucknow gharanas. Some renowned Kathak dancers include Pandit Birju Maharaj, Lachu Maharaj, and Shovana Narayan.</p>"
+    },
+    {
+        "question": "<p>Koderma Gaya Hazaribagh belt is known for the production of which of the following minerals?</p>",
+        "option_1": "<p>Bauxite</p>",
+        "option_2": "<p>Mica</p>",
+        "option_3": "<p>Coal</p>",
+        "option_4": "<p>Copper</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Mica</strong> deposits are found on the northern edge of the Chota Nagpur Plateau, with the Koderma-Gaya-Hazaribagh belt in Jharkhand leading production. Major mica-producing regions include Gaya, Hazaribagh, Ajmer, Beawar, Bhilwara, Udaipur, Dungarpur, Banswara, and Nellore. The main mica-producing states are Jharkhand, Rajasthan, and Andhra Pradesh.</p>"
+    },
+    {
+        "question": "<p>Who is credited with inventing the reflecting telescope?</p>",
+        "option_1": "<p>Isaac Newton</p>",
+        "option_2": "<p>Johannes Kepler</p>",
+        "option_3": "<p>Christiaan Huygens</p>",
+        "option_4": "<p>Galileo Galilei</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>Isaac Newton.</strong> In 1668, he devised a reflecting telescope. Instead of a lens, it used a single curved main mirror, together with a smaller flat mirror. Scientists and Discoveries: Johannes Kepler - The three laws of planetary motion; Christiaan Huygens - The Wave theory of light.</p>"
+    },
+    {
+        "question": "<p>What is the growth rate of the population of India as per census 2011?</p>",
+        "option_1": "<p>0.2164</p>",
+        "option_2": "<p>0.1894</p>",
+        "option_3": "<p>0.1764</p>",
+        "option_4": "<p>0.2154</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>0.1764</strong>. Population growth refers to the change in the number of people in a specific area over time, expressed as a percentage. The first census was initiated by British Viceroy Lord Mayo in 1872. The first synchronized census occurred in 1881. The 2011 Census, the 15th overall and 7th since Independence, had the slogan “Our Census, Our Future.”</p>"
+    },
+    {
+        "question": "<p>Which of the following was discovered by GN Ramachandran?</p>",
+        "option_1": "<p>Fluid mosaic model of a cell</p>",
+        "option_2": "<p>Plasma membrane</p>",
+        "option_3": "<p>Golgi bodies</p>",
+        "option_4": "<p>Triple helical structure of collagen</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) <strong>Triple helical structure of collagen.</strong> G.N. Ramachandran, an Indian physicist, is renowned for his work that resulted in the creation of the Ramachandran plot, which aids in understanding peptide structure. The collagen triple helix, a right-handed super-coiled structure, consists of three parallel α-chains, each adopting a polyproline II helical conformation.</p>"
+    },
+    {
+        "question": "<p>The Vienna Convention is related to ____________.</p>",
+        "option_1": "<p>protection of wild life</p>",
+        "option_2": "<p>protection of ozone layer</p>",
+        "option_3": "<p>Disposing of harmful electronic waste</p>",
+        "option_4": "<p>sustainable agriculture</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>protection of ozone layer</strong>. The Vienna Convention multilateral environmental agreement was signed in 1985, came into effect in 1988, and achieved universal ratification by 2009. The primary goal of the Vienna Convention is to safeguard human health and the environment from the harmful effects caused by ozone layer depletion.</p>"
+    },
+    {
+        "question": "<p>Which of the following is NOT considered a method of conservation of natural resources?</p>",
+        "option_1": "<p>Extraction</p>",
+        "option_2": "<p>Afforestation</p>",
+        "option_3": "<p>Recycling</p>",
+        "option_4": "<p>Terrace farming</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>Extraction</strong> - A separation method that transfers a compound from one phase or solvent to another to isolate it from impurities or unreacted starting materials. Method of conservation of Natural Resources : Reforestation, Rainwater Harvesting, Treatment of Industrial Effluents, In-Situ conservation of Biodiversity, Ex-Situ conservation of Biodiversity, Sustainable development, Crop rotation, Contour ploughing, etc.</p>"
+    },
+    {
+        "question": "<p>Select the INCORRECT combination of dance and its respective state of origin.</p>",
+        "option_1": "<p>Sattriya – Himachal Pradesh</p>",
+        "option_2": "<p>Bharatanatyam – Tamil Nadu</p>",
+        "option_3": "<p>Kuchipudi – Andhra Pradesh</p>",
+        "option_4": "<p>Kathakali – Kerala</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<strong> Sattriya – Himachal Pradesh</strong>. Sattriya is a classical Indian dance form that originated in the Vaishnava monasteries of Assam. Classical dances and their state of Origin : Bharatnatyam (Tamil Nadu) · Kathak (North India) · Kathakali (Kerala) · Kuchipudi (Andhra Pradesh), Mohiniyattam (Kerala), Odissi (Odisha), Sattriya (Assam).</p>"
+    },
+    {
+        "question": "<p>In 1908 Khudiram Bose along with _________ was involved in throwing a bomb at a carriage believing it to be occupied by Kingsford, the then sitting judge of Muzaffarpur.</p>",
+        "option_1": "<p>Rajguru</p>",
+        "option_2": "<p>Sukhdev</p>",
+        "option_3": "<p>Prafulla Chaki</p>",
+        "option_4": "<p>Bhagat Singh</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>Prafulla</strong> <strong>Chaki</strong> was an Indian revolutionary associated with the Jugantar group of revolutionaries. Khudiram Bose was among the youngest martyrs of India's freedom struggle against the British. At just 15, he had joined Anushilan Samiti and took part in several revolutionary activities against the British Raj. He was executed on August 11, 1908, in Muzaffarpur jail in Bihar. </p>"
+    },
+    {
+        "question": "<p>Industries of strategic and national importance are usually placed in the ________ sector.</p>",
+        "option_1": "<p>Public</p>",
+        "option_2": "<p>Co-operative</p>",
+        "option_3": "<p>Private</p>",
+        "option_4": "<p>Joint</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>Public</strong> sector enterprises are government/state controlled companies or corporations funded by governments. The private sector is the part of the economy that is not state-controlled and is run by individuals and companies for profit. Co-operative sector industries are operated and owned by the suppliers or producers of raw materials, workers or both. A Joint sector is a business or industry that is jointly owned, controlled, and managed by the government and private entrepreneurs.</p>"
+    },
+    {
+        "question": "<p>Under which of the following Mughal emperors were the Marathas a major challenge to the sovereignty of the Mughals?</p>",
+        "option_1": "<p>Humayun</p>",
+        "option_2": "<p>Aurangzeb</p>",
+        "option_3": "<p>Jahangir</p>",
+        "option_4": "<p>Babur</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Aurangzeb</strong> (Reign : 1658-1707) - He was the sixth Mughal Emperor and also known as Zinda Pir (living saint), Fakir, and Darbesh. He gave the French permission to build a factory in Surat in 1667. He banned singing, dancing and playing musical instruments, and Kalma writings on coins. He reimposed Jizya and Pilgrim tax in 1679 and ended the celebration of Navroz.</p>"
+    },
+    {
+        "question": "<p>Which of the following is NOT a poverty alleviation programme in India?</p>",
+        "option_1": "<p>Rural Housing - Indira Awaas Yojana (IAY)</p>",
+        "option_2": "<p>Namami Gange</p>",
+        "option_3": "<p>Rural Employment Generation Programme (REGP)</p>",
+        "option_4": "<p>Sampoorna Grameen Rozgar Yojana (SGRY)</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Namami Gange.</strong> India has implemented several poverty alleviation programs aimed at reducing poverty and improving living standards. Poverty alleviation programme in India: Mahatma Gandhi National Rural Employment Guarantee Act (2005), Pradhan Mantri Awas Yojana (2015), National Rural Livelihood Mission (2011), Public Distribution System (PDS), Pradhan Mantri Garib Kalyan Yojana (2016).</p>"
+    },
+    {
+        "question": "<p>Which state will host the 39th National Games in 2027 ?</p>",
+        "option_1": "<p>Assam</p>",
+        "option_2": "<p>Meghalaya</p>",
+        "option_3": "<p>Karnataka</p>",
+        "option_4": "<p>Odisha</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Meghalaya.</strong> The Indian Olympic Association confirmed Meghalaya as the host for the 39th National Games in February/March 2027. Meghalaya will host the event for the first time, aiming to boost sports infrastructure in the Northeast. The 2023 National Games were held in Goa, while Uttarakhand will host the 2025 edition.</p>"
+    },
+    {
+        "question": "<p>What is the Highest Common Factor of <math display=\"inline\"><msup><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></msup></math> × 3<sup>5</sup> and 2<sup>4</sup> × 3<sup>6 </sup>?</p>",
+        "option_1": "<p>2 <math display=\"inline\"><mo>×</mo></math> 3<sup>2</sup></p>",
+        "option_2": "<p><math display=\"inline\"><msup><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></msup></math> × 3<sup>3</sup></p>",
+        "option_3": "<p><math display=\"inline\"><msup><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></msup></math> × 3<sup>5</sup></p>",
+        "option_4": "<p><math display=\"inline\"><msup><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msup></math> × 3<sup>2</sup></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/><math display=\"inline\"><msup><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></msup></math> × 3<sup>5</sup> and 2<sup>4</sup> × 3<sup>6</sup><br/>HCF = <math display=\"inline\"><msup><mrow><mn>2</mn></mrow><mrow><mn>3</mn></mrow></msup></math> × 3<sup>5</sup></p>"
+    },
+    {
+        "question": "<p>For what value of K does the following system have an infinite number of solutions? <br/>x + 2Ky - 8 = 0 <br/>2x - y - 16 = 0</p>",
+        "option_1": "<p>4</p>",
+        "option_2": "<p>- <math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math></p>",
+        "option_3": "<p>2 </p>",
+        "option_4": "<p>- <math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) x + 2Ky - 8 = 0 …. (i) <br/>2x - y - 16 = 0 ….(ii)<br/>Condition for infinitely many solution , <math display=\"inline\"><mfrac><mrow><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn><msub><mrow></mrow><mrow></mrow></msub></mrow></msub></mrow><mrow><msub><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi mathvariant=\"normal\">b</mi><mn>1</mn></msub><msub><mi mathvariant=\"normal\">b</mi><mn>2</mn></msub></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>c</mi><mn>1</mn></msub><msub><mi>c</mi><mn>2</mn></msub></mfrac></math><br/>By comparing, <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi>a</mi><mn>1</mn></msub><msub><mi>a</mi><mn>2</mn></msub></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi mathvariant=\"normal\">b</mi><mn>1</mn></msub><msub><mi mathvariant=\"normal\">b</mi><mn>2</mn></msub></mfrac></math><br/><math display=\"inline\"><mo>⇒</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\">k</mi></mrow><mrow><mo>-</mo><mn>1</mn></mrow></mfrac></math><br/><math display=\"inline\"><mo>⇒</mo></math> k = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>-</mo><mo> </mo><mn>1</mn></mrow><mn>4</mn></mfrac></math></p>"
+    },
+    {
+        "question": "<p>The third proportional of <math display=\"inline\"><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn><mo>.</mo><mn>5</mn><mi> </mi></mrow></msup></mrow><mrow><msup><mrow><mi>y</mi><mi> </mi></mrow><mrow><mn>1</mn><mo>.</mo><mn>5</mn></mrow></msup></mrow></mfrac></math> × Z<sup>3.5</sup> and x<sup>0.25</sup> × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi mathvariant=\"normal\">y</mi><mrow><mn>0</mn><mo>.</mo><mn>25</mn></mrow></msup><mrow><mo> </mo><msup><mi mathvariant=\"normal\">z</mi><mrow><mo>-</mo><mn>0</mn><mo>.</mo><mn>25</mn></mrow></msup></mrow></mfrac></math> is ______.</p>",
+        "option_1": "<p><math display=\"inline\"><mfrac><mrow><msup><mrow><mi>Y</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow><mrow><msup><mrow><mi>X</mi></mrow><mrow><mn>3</mn></mrow></msup><msup><mrow><mi>Z</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></math></p>",
+        "option_2": "<p><math display=\"inline\"><mfrac><mrow><msup><mrow><mi>Y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>X</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>Z</mi></mrow><mrow><mn>3</mn></mrow></msup></mrow></mfrac></math></p>",
+        "option_3": "<p><math display=\"inline\"><mfrac><mrow><msup><mrow><mi>Y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>X</mi></mrow><mrow><mn>2</mn></mrow></msup><msup><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math></p>",
+        "option_4": "<p><math display=\"inline\"><mfrac><mrow><msup><mrow><mi>Y</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><msup><mrow><mi>X</mi></mrow><mrow><mn>3</mn></mrow></msup><msup><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></msup></mrow></mfrac></math></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)</p>\\n<p>Third proportional = <math display=\"inline\"><mfrac><mrow><msup><mrow><mo>(</mo><mi>x</mi></mrow><mrow><mn>0</mn><mo>.</mo><mn>25</mn></mrow></msup><mi> </mi><mo>×</mo><mi> </mi><mfrac><mrow><msup><mrow><mi>y</mi></mrow><mrow><mn>0</mn><mo>.</mo><mn>25</mn></mrow></msup></mrow><mrow><msup><mrow><mi>z</mi></mrow><mrow><mo>-</mo><mn>0</mn><mo>.</mo><mn>25</mn></mrow></msup></mrow></mfrac><msup><mrow><mo>)</mo></mrow><mrow><mn>2</mn></mrow></msup></mrow><mrow><mi mathvariant=\"bold-italic\"> </mi><mfrac><mrow><msup><mrow><mi mathvariant=\"bold-italic\">x</mi></mrow><mrow><mn>2</mn><mo>.</mo><mn>5</mn><mi mathvariant=\"bold-italic\"> </mi></mrow></msup></mrow><mrow><msup><mrow><mi mathvariant=\"bold-italic\">y</mi><mi mathvariant=\"bold-italic\"> </mi></mrow><mrow><mn>1</mn><mo>.</mo><mn>5</mn></mrow></msup></mrow></mfrac><mi mathvariant=\"bold-italic\"> </mi><mo>×</mo><mi mathvariant=\"bold-italic\"> </mi><msup><mrow><mi mathvariant=\"bold-italic\">z</mi></mrow><mrow><mn>3</mn><mo>.</mo><mn>5</mn></mrow></msup></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi>x</mi><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mn>2</mn></mfrac></mstyle></msup><mo>×</mo><mstyle displaystyle=\"true\"><mfrac><msup><mi>y</mi><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mn>2</mn></mfrac></mstyle></msup><msup><mi>z</mi><mstyle displaystyle=\"true\"><mfrac><mrow><mo>-</mo><mn>1</mn></mrow><mn>2</mn></mfrac></mstyle></msup></mfrac></mstyle><mo> </mo></mrow><mstyle displaystyle=\"true\"><mfrac><msup><mi>x</mi><mstyle displaystyle=\"true\"><mfrac><mn>5</mn><mn>2</mn></mfrac></mstyle></msup><msup><mi>y</mi><mstyle displaystyle=\"true\"><mfrac><mn>3</mn><mn>2</mn></mfrac></mstyle></msup></mfrac><mo>×</mo><mo> </mo><msup><mi>z</mi><mfrac><mn>7</mn><mn>2</mn></mfrac></msup></mstyle></mfrac></math><br/>= <math display=\"inline\"><mfrac><mrow><msup><mrow><mi>x</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup><mi> </mi><mo>×</mo><mi> </mi><msup><mrow><mi>y</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup><mi> </mi><mo>×</mo><mi> </mi><msup><mrow><mi>z</mi></mrow><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup></mrow><mrow><msup><mrow><mi mathvariant=\"bold-italic\">x</mi></mrow><mrow><mfrac><mrow><mn>5</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mi mathvariant=\"bold-italic\"> </mi></mrow></msup><mo>×</mo><mi mathvariant=\"bold-italic\"> </mi><msup><mrow><mi mathvariant=\"bold-italic\">y</mi><mi mathvariant=\"bold-italic\"> </mi></mrow><mrow><mo>-</mo><mi mathvariant=\"bold-italic\"> </mi><mfrac><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup><mo>×</mo><mi mathvariant=\"bold-italic\"> </mi><msup><mrow><mi mathvariant=\"bold-italic\">z</mi></mrow><mrow><mfrac><mrow><mn>7</mn></mrow><mrow><mn>2</mn></mrow></mfrac></mrow></msup><mi mathvariant=\"bold-italic\"> </mi><mi mathvariant=\"bold-italic\"> </mi></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi mathvariant=\"normal\">y</mi><mrow><mo>(</mo><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mn>2</mn></mfrac></mstyle><mo> </mo><mo>+</mo><mo> </mo><mstyle displaystyle=\"true\"><mfrac><mn>3</mn><mn>2</mn></mfrac></mstyle><mo>)</mo></mrow></msup><mrow><msup><mi mathvariant=\"normal\">x</mi><mrow><mo>(</mo><mstyle displaystyle=\"true\"><mfrac><mn>5</mn><mn>2</mn></mfrac></mstyle><mo> </mo><mo>-</mo><mo> </mo><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mn>2</mn></mfrac></mstyle><mo>)</mo></mrow></msup><mo> </mo><mo>×</mo><mo> </mo><msup><mi mathvariant=\"normal\">z</mi><mrow><mo>(</mo><mstyle displaystyle=\"true\"><mfrac><mn>7</mn><mn>2</mn></mfrac></mstyle><mo> </mo><mo>-</mo><mo> </mo><mstyle displaystyle=\"true\"><mfrac><mn>1</mn><mn>2</mn></mfrac></mstyle><mo>)</mo></mrow></msup></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi mathvariant=\"normal\">y</mi><mrow><mo>(</mo><mstyle displaystyle=\"true\"><mfrac><mn>4</mn><mn>2</mn></mfrac></mstyle><mo>)</mo></mrow></msup><mrow><msup><mi mathvariant=\"normal\">x</mi><mstyle displaystyle=\"true\"><mfrac><mn>4</mn><mn>2</mn></mfrac></mstyle></msup><mo> </mo><mo>×</mo><mo> </mo><msup><mi mathvariant=\"normal\">z</mi><mrow><mo>(</mo><mstyle displaystyle=\"true\"><mfrac><mn>6</mn><mn>2</mn></mfrac></mstyle><mo>)</mo></mrow></msup></mrow></mfrac></math> = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi mathvariant=\"normal\">Y</mi><mn>2</mn></msup><mrow><msup><mi mathvariant=\"normal\">X</mi><mn>2</mn></msup><msup><mi mathvariant=\"normal\">Z</mi><mn>3</mn></msup></mrow></mfrac></math></p>"
+    },
+    {
+        "question": "<p>Amita can build a room in the same amount of time that Bina and Sita working together can build. If Amita and Bina together could do it in 25 days and Sita alone in 35 days, then how many days are required for Bina alone to do the same work ?</p>",
+        "option_1": "<p>152 Days</p>",
+        "option_2": "<p>175 Days</p>",
+        "option_3": "<p>165 Days</p>",
+        "option_4": "<p>180 Days</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>Ratio <math display=\"inline\"><mo>→</mo></math> Amita : Bina + Sita<br/>Time <math display=\"inline\"><mo>→</mo></math> 1 : 1<br/>Effi. <math display=\"inline\"><mo>→</mo></math> 1 : 1<br/>Total Effi. = 2 units … (i)<br/>Now, <br/><br/>Effi. of Amita + Bina + Sita = 12 unit … (ii)<br/>From (i) and (ii)<br/>Effi. of Bina and Sita = 6 unit<br/>Effi. of Bina = 6 - 5 = 1 unit<br/>Time taken by Bina = <math display=\"inline\"><mfrac><mrow><mn>175</mn></mrow><mrow><mn>1</mn></mrow></mfrac></math> = 175 days</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607705591.png"
+    },
+    {
+        "question": "<p>A certain sum of money is lent out at simple interest. If that money becomes ₹24,000 in 2 years and ₹32,000 in 4 years, the annual rate of interest is:</p>",
+        "option_1": "<p>20%</p>",
+        "option_2": "<p>25%</p>",
+        "option_3": "<p>16%</p>",
+        "option_4": "<p>30%</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>Simple interest for 1 year = <math display=\"inline\"><mfrac><mrow><mn>32000</mn><mi> </mi><mo>-</mo><mi> </mi><mn>24000</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>8000</mn><mn>2</mn></mfrac></math> = ₹4000<br/>Principal = 24000 - 2 × 4000 = ₹16000<br/><b>Hence,</b> rate = <math display=\"inline\"><mfrac><mrow><mn>4000</mn></mrow><mrow><mn>16000</mn></mrow></mfrac></math> × 100 = 25%</p>"
+    },
+    {
+        "question": "<p>In a class, there are 60 students. The average weight of the entire class is 42 kg. If there are 36 boys in the class and the average weight of all the boys is 50 kg, then what is the average weight (in kg) of all the girls?</p>",
+        "option_1": "<p>30</p>",
+        "option_2": "<p>32</p>",
+        "option_3": "<p>36</p>",
+        "option_4": "<p>34</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>Total weight of 60 students = 60 <math display=\"inline\"><mo>×</mo></math> 42 = 2520<br/>Total weight of boys = 36 <math display=\"inline\"><mo>×</mo></math> 50 = 1800<br/>Total weight of girls = 2520 - 1800 = 720<br/>Average weight of girls = <math display=\"inline\"><mfrac><mrow><mn>720</mn></mrow><mrow><mn>24</mn></mrow></mfrac></math> = 30</p>"
+    },
+    {
+        "question": "<p>A reduction of 7.5% in the cost price of a commodity enables a shopkeeper to purchase 15 kg more than what he previously purchased for a sum of ₹7,400. In order to make a profit of 32.5% on the pre-reduction cost price of the commodity, at what price (in ₹) per kg should the commodity be sold ?</p>",
+        "option_1": "<p>54</p>",
+        "option_2": "<p>53</p>",
+        "option_3": "<p>52</p>",
+        "option_4": "<p>51</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>Expenditure = Price × Consumption<br/>Ratio <math display=\"inline\"><mo>→</mo></math> Original : Final<br/>Price <math display=\"inline\"><mo>→</mo></math> 40 : 37<br/>Consumption <math display=\"inline\"><mo>→</mo></math> 37 : 40<br/>---------------------------------------------------<br/>Expenditure <math display=\"inline\"><mo>→</mo></math> 1480 : 1480<br/>Increase in quantity (3 units) = 15 kg.<br/>Original consumption (37 units) = <math display=\"inline\"><mfrac><mrow><mn>15</mn></mrow><mrow><mn>3</mn></mrow></mfrac></math> × 37 = 185 kg.<br/>The original price of sugar per kg = <math display=\"inline\"><mfrac><mrow><mn>7400</mn></mrow><mrow><mn>185</mn></mrow></mfrac></math> = 40 Rs.<br/>Selling price after 32.5% profit = 40 <math display=\"inline\"><mo>×</mo></math> <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>132</mn><mo>.</mo><mn>5</mn></mrow><mn>100</mn></mfrac></math> = 53</p>"
+    },
+    {
+        "question": "<p>Two towns P and Q are 275 km apart. A motorcycle rider starts from P towards Q at 10:00 a.m. at the speed of 25 km/h. Another rider starts from Q towards P at 12 noon on the same day at the speed of 20 km/h. At what time will they cross each other?</p>",
+        "option_1": "<p>3:00 p.m.</p>",
+        "option_2": "<p>5:00 p.m.</p>",
+        "option_3": "<p>1:15 p.m.</p>",
+        "option_4": "<p>4:30 p.m.</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>Distance travelled by P in 2 hour = 50 km<br/>Remaining distance = 275 - 50 = 225<br/>Time taken to meet = <math display=\"inline\"><mfrac><mrow><mn>225</mn></mrow><mrow><mn>25</mn><mi> </mi><mo>+</mo><mi> </mi><mn>20</mn></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>225</mn><mn>45</mn></mfrac></math> = 5 hours<br/><b>Hence,</b> they will meet at 5:00 (12 noon + 5 hrs) pm.</p>"
+    },
+    {
+        "question": "<p>Which of the following numbers is divisible by 11?</p>",
+        "option_1": "<p>88,65,987</p>",
+        "option_2": "<p>55,78,961</p>",
+        "option_3": "<p>88,65,747</p>",
+        "option_4": "<p>45,12,458</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/><strong>For divisibility by 11</strong>, the difference between the sum of the digits at odd places and the sum of the digits at even places of the number is either 0 or divisible by 11.<br/>Option (a) 88,65,987 <br/>(8 + 6 + 9 + 7) - (8 + 5 + 8) = 30 - 21 = 9 (not divisible by 11)<br/>Option (b) 55,78,961<br/>(5 + 7 + 9 + 1) - (5 + 8 + 6) =22 - 19 = 3 (not divisible by 11)<br/>Option (c) 88,65,747 <br/>(8 + 6 + 7 + 7) - (8 + 5 + 4) = 28 - 17 = 11 (divisible by 11)<br/>Option (d) 45,12,458<br/>(4 + 1 + 4 + 8) - (5 + 2 + 5) = 17 - 12 = 5 (not divisible by 11)</p>"
+    },
+    {
+        "question": "<p>Simplify the expression:<br/>15 × 15 × 15 + 3 × 15 × 12 × 12 - 3 × 15 × 15 × 12 - 12 × 12 × 12</p>",
+        "option_1": "<p>36</p>",
+        "option_2": "<p>9</p>",
+        "option_3": "<p>18</p>",
+        "option_4": "<p>27</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/><strong>Concept used : </strong><br/>(a - b<math display=\"inline\"><msup><mrow><mo>)</mo></mrow><mrow><mn>3</mn></mrow></msup></math> = a<sup>3</sup> - b<sup>3</sup> - 3a<sup>2</sup>b + 3ab<sup>2</sup><br/>15 × 15 × 15 + 3 × 15 × 12 × 12 - 3 × 15 × 15 × 12 - 12 × 12 × 12<br/><math display=\"inline\"><mn>1</mn><msup><mrow><mn>5</mn></mrow><mrow><mn>3</mn></mrow></msup></math> + 3 × 15 × 12<sup>2</sup> - 3 × 15<sup>2 </sup>× 12 - 12<sup>3<br/></sup>= (15 - 12<math display=\"inline\"><msup><mrow><mo>)</mo></mrow><mrow><mn>3</mn></mrow></msup></math> = 3<sup>3</sup> = 27</p>"
+    },
+    {
+        "question": "<p>What is the value of cos(x + y) - sin(x - y) + tan(2z)?</p>",
+        "option_1": "<p>cos x. cos y - sin x. sin y - sin x. cos y - cos x. sin y + <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\"> </mi><mi>tan</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">z</mi></mrow><mrow><mn>1</mn><mi mathvariant=\"normal\"> </mi><mo>-</mo><mi mathvariant=\"normal\"> </mi><msup><mi>tan</mi><mn>2</mn></msup><mi mathvariant=\"normal\">z</mi></mrow></mfrac></math></p>",
+        "option_2": "<p>sin x. sin y + <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\"> </mi><mi>tan</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">z</mi></mrow><mrow><mn>1</mn><mi mathvariant=\"normal\"> </mi><mo>-</mo><mi mathvariant=\"normal\"> </mi><msup><mi>tan</mi><mn>2</mn></msup><mi mathvariant=\"normal\">z</mi></mrow></mfrac></math></p>",
+        "option_3": "<p>cos x.cos y - sin x. sin y - sin x.cos y + cos x. sin y + <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\"> </mi><mi>tan</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">z</mi></mrow><mrow><mn>1</mn><mi mathvariant=\"normal\"> </mi><mo>-</mo><mi mathvariant=\"normal\"> </mi><msup><mi>tan</mi><mn>2</mn></msup><mi mathvariant=\"normal\">z</mi></mrow></mfrac></math></p>",
+        "option_4": "<p>cos x.cos y - sin x. sin y - cos x. sin y + <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>tan</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">z</mi></mrow><mrow><mn>1</mn><mi mathvariant=\"normal\"> </mi><mo>-</mo><mi mathvariant=\"normal\"> </mi><msup><mi>tan</mi><mn>2</mn></msup><mi mathvariant=\"normal\">z</mi></mrow></mfrac></math></p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/>As we know <br/>{cos(x + y) = cos x.cos y - sin x. sin y }<br/>{sin(x - y) = sin x.cos y - cos x. sin y}<br/>{tan(2z) = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\"> </mi><mi>tan</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">z</mi></mrow><mrow><mn>1</mn><mi mathvariant=\"normal\"> </mi><mo>-</mo><mi mathvariant=\"normal\"> </mi><msup><mi>tan</mi><mn>2</mn></msup><mi mathvariant=\"normal\">z</mi></mrow></mfrac></math> }<br/>So, cos(x + y) - sin(x - y) + tan(2z)<br/>= cos x.cos y - sin x. sin y - (sin x.cos y - cos x. sin y) + <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\"> </mi><mi>tan</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">z</mi></mrow><mrow><mn>1</mn><mi mathvariant=\"normal\"> </mi><mo>-</mo><mi mathvariant=\"normal\"> </mi><msup><mi>tan</mi><mn>2</mn></msup><mi mathvariant=\"normal\">z</mi></mrow></mfrac></math><br/>= cos x.cos y - sin x. sin y - sin x.cos y + cos x. sin y + <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>2</mn><mi mathvariant=\"normal\"> </mi><mi>tan</mi><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">z</mi></mrow><mrow><mn>1</mn><mi mathvariant=\"normal\"> </mi><mo>-</mo><mi mathvariant=\"normal\"> </mi><msup><mi>tan</mi><mn>2</mn></msup><mi mathvariant=\"normal\">z</mi></mrow></mfrac></math></p>"
+    },
+    {
+        "question": "<p>A cylinder has a curved surface area equal to 350% of the curved surface area of another cylinder. If their radii are in the ratio 3 : 1, then the volume of the smaller cylinder is approximately _____% of the larger cylinder (the smaller cylinder has its radius and height smaller when compared to the larger).</p>",
+        "option_1": "<p>10.16</p>",
+        "option_2": "<p>8.86</p>",
+        "option_3": "<p>7.28</p>",
+        "option_4": "<p>9.52</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/>According to the question,<br/>CSA of the cylinder = 2<math display=\"inline\"><mi>π</mi><mi>r</mi><mi>h</mi></math><br/>2<math display=\"inline\"><mi>π</mi><mi>r</mi><mi>h</mi></math> × <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>350</mn><mn>100</mn></mfrac></math> = 2πRH<br/>h : H = 6 : 7 (where radii ratio are, 3 : 1)<br/>Volume of the cylinder = <math display=\"inline\"><mi>π</mi><msup><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>h</mi></math> <br/>Small cylinder volume = <math display=\"inline\"><mi>π</mi><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mi> </mi><mo>×</mo><mi> </mi><mn>6</mn></math><br/>Big cylinder volume = <math display=\"inline\"><mi>π</mi><msup><mrow><mfenced separators=\"|\"><mrow><mn>3</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mi> </mi><mo>×</mo><mi> </mi></math>7<br/>required% = <math display=\"inline\"><mfrac><mrow><mi>π</mi><msup><mrow><mfenced separators=\"|\"><mrow><mn>1</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mi> </mi><mo>×</mo><mi> </mi><mn>6</mn></mrow><mrow><mi> </mi><mi>π</mi><msup><mrow><mfenced separators=\"|\"><mrow><mn>3</mn></mrow></mfenced></mrow><mrow><mn>2</mn></mrow></msup><mi> </mi><mo>×</mo><mi> </mi><mn>7</mn></mrow></mfrac></math> × 100 = 9.52%</p>"
+    },
+    {
+        "question": "<p>For which of the following values of a and b do the given equations, have NO solution? <br/>x - ay = 2 - a (1 - a)x + 6y = a + b</p>",
+        "option_1": "<p>a = -3,b ≠ 1</p>",
+        "option_2": "<p>a = 3,b ≠-1</p>",
+        "option_3": "<p>a = -3,b ≠ -1</p>",
+        "option_4": "<p>a = 3,b ≠ 1</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <br/><math display=\"inline\"><mi>x</mi></math> - ay = 2 - a<br/><math display=\"inline\"><mi>x</mi></math> - ay - (2 - a) = 0 … (i)<br/>(1 - <math display=\"inline\"><mi>a</mi></math>)x + 6y - (a + b) … (ii)<br/>For No solution<br/><math display=\"inline\"><mfrac><mrow><msub><mrow><mi>a</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mrow><msub><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msub></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi mathvariant=\"normal\">b</mi><mn>1</mn></msub><msub><mi mathvariant=\"normal\">b</mi><mn>2</mn></msub></mfrac></math> ≠ <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msub><mi mathvariant=\"normal\">c</mi><mn>1</mn></msub><msub><mi mathvariant=\"normal\">c</mi><mn>2</mn></msub></mfrac></math><br/></p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607706045.png"
+    },
+    {
+        "question": "<p>CD is a tangent to a circle of circumference of 88 cm with its centre at O. OC cuts the circle at P while OD cuts circle at V such that ∠COD = 90°. Length of PC is 6 cm. What is half of CD (in cm) if OD exceeds OC by 1 cm?</p>",
+        "option_1": "<p>14.5</p>",
+        "option_2": "<p>15.5</p>",
+        "option_3": "<p>16.5</p>",
+        "option_4": "<p>31</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/><br/>Circumference of the circle = 2<math display=\"inline\"><mi>π</mi><mi>r</mi></math><br/>88 = 2 × <math display=\"inline\"><mfrac><mrow><mn>22</mn></mrow><mrow><mn>7</mn></mrow></mfrac></math> × r<br/>r = 14 cm<br/>Length of PO and OV = 14 cm<br/>So the length of CO = 6 + 14 = 20 cm<br/>And the length of OD = 20 + 1 = 21<br/><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mo>(</mo><mi>CD</mi><mo>)</mo></mrow><mn>2</mn></msup></math> = (CO)<sup>2</sup> + (OD)<sup>2</sup><br/><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mo>(</mo><mi>CD</mi><mo>)</mo></mrow><mn>2</mn></msup></math> = (20)<sup>2</sup> + (21)<sup>2</sup><br/><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mo>(</mo><mi>CD</mi><mo>)</mo></mrow><mn>2</mn></msup></math> = 400 + 441 = 841<br/>CD = 29 cm<br/>Half of the CD = <math display=\"inline\"><mfrac><mrow><mn>29</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math> = 14.5 cm</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607706277.png"
+    },
+    {
+        "question": "<p>Naman bought a few apples for ₹720 from a shop. He negotiated the price and the shopkeeper reduced it by ₹2 per apple. Due to this Naman could buy four more apples than what he had bought earlier. How many apples did he originally buy?</p>",
+        "option_1": "<p>48</p>",
+        "option_2": "<p>44</p>",
+        "option_3": "<p>36</p>",
+        "option_4": "<p>40</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c)<br/>Let the initial price of apples be ₹x<br/>According to question<br/><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>720</mn><mrow><mi mathvariant=\"normal\">x</mi><mo>-</mo><mn>2</mn></mrow></mfrac></math> - <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>720</mn><mi mathvariant=\"normal\">x</mi></mfrac></math> = 4<br/>720(<math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>2</mn><mrow><mi mathvariant=\"normal\">x</mi><mo>(</mo><mi mathvariant=\"normal\">x</mi><mo>-</mo><mn>2</mn><mo>)</mo></mrow></mfrac></math>) = 4<br/>x(x - 2) = 360<br/><math display=\"inline\"><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></math> - 2x - 360 = 0<br/><math display=\"inline\"><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup></math> - 20x +18x - 360 = 0<br/>x(x - 20) + 18(x - 20) = 0<br/>(x - 20)(x + 18) = 0<br/><math display=\"inline\"><mo>⇒</mo></math> x = 20<br/>the no of apples originally bought = <math display=\"inline\"><mfrac><mrow><mn>720</mn></mrow><mrow><mn>20</mn></mrow></mfrac></math> = 36</p>"
+    },
+    {
+        "question": "<p>If cot<math display=\"inline\"><mi>α</mi></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">Q</mi></mfrac></math>, then find the value of <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>Pcosα</mi><mo> </mo><mo>-</mo><mo> </mo><mi>Qsinα</mi></mrow><mrow><mi>Pcosα</mi><mo> </mo><mo>+</mo><mo> </mo><mi>Qsinα</mi></mrow></mfrac></math> - <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi mathvariant=\"normal\">P</mi><mn>2</mn></msup><mo> </mo><mo>-</mo><mo> </mo><msup><mi mathvariant=\"normal\">Q</mi><mn>2</mn></msup></mrow><mrow><msup><mi mathvariant=\"normal\">P</mi><mn>2</mn></msup><mo>+</mo><msup><mi mathvariant=\"normal\">Q</mi><mn>2</mn></msup></mrow></mfrac></math> + 3.</p>",
+        "option_1": "<p>0</p>",
+        "option_2": "<p>3</p>",
+        "option_3": "<p><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><msup><mi mathvariant=\"normal\">P</mi><mn>2</mn></msup><mrow><msup><mi mathvariant=\"bold\">P</mi><mn>2</mn></msup><mi mathvariant=\"bold\"> </mi><mo>+</mo><mi mathvariant=\"bold\"> </mi><msup><mi mathvariant=\"bold\">Q</mi><mn>2</mn></msup></mrow></mfrac></math></p>",
+        "option_4": "<p><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">Q</mi></mfrac></math></p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>Pcosα</mi><mi mathvariant=\"normal\"> </mi><mo>-</mo><mi mathvariant=\"normal\"> </mi><mi>Qsinα</mi></mrow><mrow><mi>Pcosα</mi><mi mathvariant=\"normal\"> </mi><mo>+</mo><mi mathvariant=\"normal\"> </mi><mi>Qsinα</mi></mrow></mfrac></math><br/>Divide numerator and denominator by sin<math display=\"inline\"><mi>α</mi></math><br/><math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi mathvariant=\"normal\">P</mi><mo>×</mo><mi mathvariant=\"normal\"> </mi><mfrac><mi>cosα</mi><mrow><mi>sinα</mi><mi mathvariant=\"normal\"> </mi></mrow></mfrac><mi mathvariant=\"normal\"> </mi><mo>-</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">Q</mi><mo>×</mo><mi mathvariant=\"normal\"> </mi><mfrac><mi>sinα</mi><mi>sinα</mi></mfrac></mrow><mrow><mi mathvariant=\"normal\">P</mi><mo>×</mo><mi mathvariant=\"normal\"> </mi><mfrac><mi>cosα</mi><mrow><mi>sinα</mi><mi mathvariant=\"normal\"> </mi></mrow></mfrac><mi mathvariant=\"normal\"> </mi><mo>+</mo><mi mathvariant=\"normal\"> </mi><mi mathvariant=\"normal\">Q</mi><mo>×</mo><mi mathvariant=\"normal\"> </mi><mfrac><mi>sinα</mi><mi>sinα</mi></mfrac></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi mathvariant=\"normal\">P</mi><mo> </mo><mo>×</mo><mstyle displaystyle=\"true\"><mfrac><mrow><mo> </mo><mi mathvariant=\"normal\">P</mi></mrow><mi mathvariant=\"normal\">Q</mi></mfrac></mstyle><mo> </mo><mo>-</mo><mo> </mo><mi mathvariant=\"normal\">Q</mi><mo> </mo></mrow><mrow><mi mathvariant=\"normal\">P</mi><mo> </mo><mo>×</mo><mo> </mo><mstyle displaystyle=\"true\"><mfrac><mi mathvariant=\"normal\">P</mi><mi mathvariant=\"normal\">Q</mi></mfrac></mstyle><mo>+</mo><mo> </mo><mi mathvariant=\"normal\">Q</mi></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi mathvariant=\"normal\">P</mi><mn>2</mn></msup><mo> </mo><mo>-</mo><mo> </mo><msup><mi mathvariant=\"normal\">Q</mi><mn>2</mn></msup></mrow><mrow><msup><mi mathvariant=\"normal\">P</mi><mn>2</mn></msup><mo> </mo><mo>+</mo><mo> </mo><msup><mi mathvariant=\"normal\">Q</mi><mn>2</mn></msup></mrow></mfrac></math><br/>So, <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>Pcosα</mi><mi mathvariant=\"normal\"> </mi><mo>-</mo><mi mathvariant=\"normal\"> </mi><mi>Qsinα</mi></mrow><mrow><mi>Pcosα</mi><mi mathvariant=\"normal\"> </mi><mo>+</mo><mi mathvariant=\"normal\"> </mi><mi>Qsinα</mi></mrow></mfrac></math> - <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi mathvariant=\"normal\">P</mi><mn>2</mn></msup><mo> </mo><mo>-</mo><mo> </mo><msup><mi mathvariant=\"normal\">Q</mi><mn>2</mn></msup></mrow><mrow><msup><mi mathvariant=\"normal\">P</mi><mn>2</mn></msup><mo> </mo><mo>+</mo><mo> </mo><msup><mi mathvariant=\"normal\">Q</mi><mn>2</mn></msup></mrow></mfrac></math> + 3 = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi mathvariant=\"normal\">P</mi><mn>2</mn></msup><mo> </mo><mo>-</mo><mo> </mo><msup><mi mathvariant=\"normal\">Q</mi><mn>2</mn></msup></mrow><mrow><msup><mi mathvariant=\"normal\">P</mi><mn>2</mn></msup><mo> </mo><mo>+</mo><mo> </mo><msup><mi mathvariant=\"normal\">Q</mi><mn>2</mn></msup></mrow></mfrac></math> -<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><msup><mi mathvariant=\"normal\">P</mi><mn>2</mn></msup><mo> </mo><mo>-</mo><mo> </mo><msup><mi mathvariant=\"normal\">Q</mi><mn>2</mn></msup></mrow><mrow><msup><mi mathvariant=\"normal\">P</mi><mn>2</mn></msup><mo> </mo><mo>+</mo><mo> </mo><msup><mi mathvariant=\"normal\">Q</mi><mn>2</mn></msup></mrow></mfrac></math> + 3 = 3</p>"
+    },
+    {
+        "question": "<p>The population of a city was 5000000 in 2020. The population grows 7.5% annually. The population in 2022 is ______.</p>",
+        "option_1": "<p>5558875</p>",
+        "option_2": "<p>5887125</p>",
+        "option_3": "<p>5875215</p>",
+        "option_4": "<p>5778125</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/>7.5% = <math display=\"inline\"><mfrac><mrow><mn>3</mn></mrow><mrow><mn>40</mn></mrow></mfrac></math><br/>Required population = 5000000 × <math display=\"inline\"><mfrac><mrow><mn>43</mn></mrow><mrow><mn>40</mn></mrow></mfrac></math> × <math display=\"inline\"><mfrac><mrow><mn>43</mn></mrow><mrow><mn>40</mn></mrow></mfrac></math> = 5778125</p>"
+    },
+    {
+        "question": "<p>What is the discount that Rohan should offer on the remaining ₹ 8,000 of a laptop priced at ₹ 48,000, given that, he has already given a 12% discount on the first ₹ 28,000 and 8% discount on the next ₹ 12,000 to match the discount amount of 9.5% given on the total price?</p>",
+        "option_1": "<p>₹ 402</p>",
+        "option_2": "<p>₹ 204</p>",
+        "option_3": "<p>₹ 420</p>",
+        "option_4": "<p>₹ 240</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d)<br/>Overall discount given = 48000 × 9.5% = ₹4560<br/>Discount on first ₹28000 = 28000 × 12% = ₹3360<br/>Discount on next ₹12000 = 12000 × 8% = ₹960<br/><b>Hence,</b> required discount = 4560 - (3360 + 960) = ₹240</p>"
+    },
+    {
+        "question": "<p>PQ is parallel to SR in a trapezium PQRS. It is given that PQ &gt; SR and the diagonals PR and QS intersect at O. If PO = 3x − 15, OQ = x + 9, OR = x − 5 and OS = 5 and x has two values x<sub>1 </sub>and x<sub>2</sub>, then the value of (x<sub>1</sub><sup>2</sup> - x<sub>2</sub><sup>2</sup>) is:</p>",
+        "option_1": "<p>15</p>",
+        "option_2": "<p>11</p>",
+        "option_3": "<p>13</p>",
+        "option_4": "<p>19</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/>According to the question,<br/><br/><strong>Concept used :</strong> - <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>PO</mi><mi>OR</mi></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>QO</mi><mi>OS</mi></mfrac></math><br/><math display=\"inline\"><mfrac><mrow><mn>3</mn><mi>x</mi><mo>-</mo><mn>15</mn></mrow><mrow><mi>x</mi><mo>-</mo><mn>5</mn></mrow></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>x</mi><mo> </mo><mo>+</mo><mo> </mo><mn>9</mn></mrow><mn>5</mn></mfrac></math><br/>15<math display=\"inline\"><mi>x</mi></math> - 75 = x<sup>2</sup> + 9x - 5x - 45<br/><math display=\"inline\"><mi>x</mi></math><sup>2</sup> - 11x + 30 = 0<br/><math display=\"inline\"><mi>x</mi></math><sup>2</sup> - 6x - 5x + 30 = 0 <br/><math display=\"inline\"><mi>x</mi></math>(x - 6) - 5(x - 6) = 0<br/>(<math display=\"inline\"><mi>x</mi></math> - 5)(x - 6)<br/><math display=\"inline\"><mi>x</mi></math> = 5, x = 6<br/>Now, the value of (x<sub>1</sub><sup>2</sup> - x<sub>2</sub><sup>2</sup>) = (6<sup>2</sup> - 5<sup>2</sup>) = 36 - 25 = 11</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607706526.png"
+    },
+    {
+        "question": "<p>Read the given information and answer the question that follows.<br/>The following table gives the percentage of marks obtained by seven students in six different subjects in an examination.<br/>The number in the brackets give the maximum marks in each subject.<br/> <br/>If someone secured all the highest scores that have been obtained by some student or the other in the six subjects as given in the table above, what would be the exact overall percentage score obtained by that student?</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607706632.png",
+        "option_1": "<p>91 <math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mn>6</mn></mrow></mfrac></math>%</p>",
+        "option_2": "<p>95.16 %</p>",
+        "option_3": "<p>91%</p>",
+        "option_4": "<p>90 <math display=\"inline\"><mfrac><mrow><mn>5</mn></mrow><mrow><mn>6</mn></mrow></mfrac></math>%</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>Highest marks in maths = 150 × <math display=\"inline\"><mfrac><mrow><mn>100</mn></mrow><mrow><mn>100</mn></mrow></mfrac></math> = 150<br/>Highest marks in chemistry = 130 × <math display=\"inline\"><mfrac><mrow><mn>80</mn></mrow><mrow><mn>100</mn></mrow></mfrac></math> = 104<br/>Highest marks in Physics = 120 × <math display=\"inline\"><mfrac><mrow><mn>90</mn></mrow><mrow><mn>100</mn></mrow></mfrac></math> = 108<br/>Highest marks in Geography = 100 × <math display=\"inline\"><mfrac><mrow><mn>95</mn></mrow><mrow><mn>100</mn></mrow></mfrac></math> = 95<br/>Highest marks in History = 60 × <math display=\"inline\"><mfrac><mrow><mn>90</mn></mrow><mrow><mn>100</mn></mrow></mfrac></math> = 54<br/>Highest marks in Computer science = 40 × <math display=\"inline\"><mfrac><mrow><mn>90</mn></mrow><mrow><mn>100</mn></mrow></mfrac></math> = 36<br/>Required percentage = <math display=\"inline\"><mfrac><mrow><mn>150</mn><mi> </mi><mo>+</mo><mi> </mi><mn>104</mn><mi> </mi><mo>+</mo><mi> </mi><mn>108</mn><mi> </mi><mo>+</mo><mi> </mi><mn>95</mn><mi> </mi><mo>+</mo><mi> </mi><mn>54</mn><mi> </mi><mo>+</mo><mi> </mi><mn>36</mn></mrow><mrow><mn>150</mn><mi> </mi><mo>+</mo><mi> </mi><mn>130</mn><mi> </mi><mo>+</mo><mi> </mi><mn>120</mn><mi> </mi><mo>+</mo><mi> </mi><mn>100</mn><mi> </mi><mo>+</mo><mi> </mi><mn>60</mn><mi> </mi><mo>+</mo><mi> </mi><mn>40</mn><mi> </mi></mrow></mfrac></math> × 100 <br/>= <math display=\"inline\"><mfrac><mrow><mn>547</mn></mrow><mrow><mn>600</mn></mrow></mfrac></math> × 100 = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>547</mn><mn>6</mn></mfrac></math> = 91 <math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mn>6</mn></mrow></mfrac></math>%</p>"
+    },
+    {
+        "question": "<p>In a 5-km race, A beats B by 750 metres and C by 1260 metres. By how many metres does B beat C in the same race?</p>",
+        "option_1": "<p>700 metres</p>",
+        "option_2": "<p>600 metres</p>",
+        "option_3": "<p>500 metres</p>",
+        "option_4": "<p>400 metres</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b)<br/><strong>Ratio - A : B : C</strong><br/><strong>Distance</strong> - 5km : 4.25km : 3.74km<br/>Now, total distance covered by C in the same race till B finish the race <br/><math display=\"inline\"><mfrac><mrow><mn>5</mn></mrow><mrow><mn>4</mn><mo>.</mo><mn>25</mn></mrow></mfrac></math> × 3.74 = 4.4 km<br/><b>Hence,</b> distance by which B beats C = 5 - 4.4 = 0.6km = 600 meter.</p>"
+    },
+    {
+        "question": "<p>If price of an article increases successively by 15% and 10%, respectively, then what is the percentage equivalent to a single price increase of that article?</p>",
+        "option_1": "<p>26.5%</p>",
+        "option_2": "<p>25%</p>",
+        "option_3": "<p>23.5%</p>",
+        "option_4": "<p>12.5%</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>increase % = 15 + 10 + <math display=\"inline\"><mfrac><mrow><mn>15</mn><mi> </mi><mo>×</mo><mi> </mi><mn>10</mn></mrow><mrow><mn>100</mn></mrow></mfrac></math> = 26.5%</p>"
+    },
+    {
+        "question": "<p>Three partners decided to start a business. They decided to donate 10% of the profit to a charity organisation and then the remaining profit would be shared among first, second and third partner in the ratio 1 : 2 : 2. The total profit received was ₹1,80,000. Find the share of the first partner.</p>",
+        "option_1": "<p>₹32,400</p>",
+        "option_2": "<p>₹31,800</p>",
+        "option_3": "<p>₹33,200</p>",
+        "option_4": "<p>₹29,600</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>Total profit distributed among partners in business = 1,80,000 × 90% = ₹1,62,000 <br/>Share of the first partner = (<math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mrow><mn>1</mn><mo>+</mo><mo> </mo><mn>2</mn><mo> </mo><mo>+</mo><mn>2</mn></mrow></mfrac></math>) × 1,62,000 = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>1</mn><mo>,</mo><mn>62</mn><mo>,</mo><mn>000</mn></mrow><mn>5</mn></mfrac></math> = ₹32,400</p>"
+    },
+    {
+        "question": "<p>An inlet pipe can fill a water storage tank in 11 hours and an outlet pipe can empty the completely filled tank in 15 hours .If both pipes opened simultaneously. The time taken to fill the empty tank ( in hrs) is :</p>",
+        "option_1": "<p>45<math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math></p>",
+        "option_2": "<p>41<math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math></p>",
+        "option_3": "<p>49<math display=\"inline\"><mfrac><mrow><mn>3</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math></p>",
+        "option_4": "<p>40</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <br/><br/>Efficiency of both pipes in 1 hour = 15 - 11 = 4 unitTime taken to fill the tank = <math display=\"inline\"><mfrac><mrow><mn>165</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math> = 41<math display=\"inline\"><mfrac><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac></math> hours</p><br>https://d2jnyx7x72uicf.cloudfront.net/image_1744607706869.png"
+    },
+    {
+        "question": "<p>A boatman rows 2 km in 10 mins, along the stream and 12 km in 2 hours against the stream. What is the speed of the stream ?</p>",
+        "option_1": "<p>3 km/h</p>",
+        "option_2": "<p>2.5 km/h</p>",
+        "option_3": "<p>4 km/h</p>",
+        "option_4": "<p>3.5 km/h</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a)<br/>Downstream speed = <math display=\"inline\"><mfrac><mrow><mn>2</mn></mrow><mrow><mn>10</mn><mi> </mi><mo>×</mo><mi> </mi><mfrac><mrow><mn>1</mn></mrow><mrow><mn>60</mn></mrow></mfrac></mrow></mfrac></math> km/h = 12 km/h<br/>Upstream speed = <math display=\"inline\"><mfrac><mrow><mn>12</mn></mrow><mrow><mn>2</mn></mrow></mfrac></math> km/h = 6 km/h<br/>Speed of stream = <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mi>downstream</mi><mi mathvariant=\"normal\"> </mi><mo>-</mo><mi mathvariant=\"normal\"> </mi><mi>upstream</mi></mrow><mn>2</mn></mfrac></math> = <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>12</mn><mo> </mo><mo>-</mo><mo> </mo><mn>6</mn></mrow><mn>2</mn></mfrac></math> = 3 km/h</p>"
+    },
+    {
+        "question": "<p>Identify the segment in the sentence, which contains the grammatical error. <br/>He is in bad mood as he could not clear the exam.</p>",
+        "option_1": "<p>He is in</p>",
+        "option_2": "<p>bad mood as</p>",
+        "option_3": "<p>could not</p>",
+        "option_4": "<p>clear the exam</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) Bad mood as<br/>There is an article error in the sentence. We will put article ‘a’ before ‘bad mood’ as it is a phrase ‘in a bad mood/situation’. <b>Hence,</b> ‘a bad mood as’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate Synonym of the given word.<br/>Brat</p>",
+        "option_1": "<p>Spoilt child</p>",
+        "option_2": "<p>Rich person</p>",
+        "option_3": "<p>Plump lady</p>",
+        "option_4": "<p>Wise man</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) Spoilt child <br/><strong>Brat-</strong> an ill-mannered annoying child or Spoilt child.<br/>Spoilt child - behaves badly if they do not get what he wants.<br/>Plump lady - having a full rounded shape and slightly fat. <br/>Wise man- having or showing wisdom, good sense, or good judgment.</p>"
+    },
+    {
+        "question": "<p>Identify the best way to improve the underlined part of the given sentence. If there is no improvement required, select ‘no improvement’.<br/>The injured man had been shot <span style=\"text-decoration: underline;\"><strong>from his back</strong></span>.</p>",
+        "option_1": "<p>in the back</p>",
+        "option_2": "<p>to the back</p>",
+        "option_3": "<p>by his back</p>",
+        "option_4": "<p>No improvement</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) In the back <br/>There is a prepositional error in the given sentence. The preposition ‘from’ must be replaced with ‘in’ because ‘shot in the back’ is the correct phrase. <b>Hence,</b> ‘in the back’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p>Find the correctly spelt word from the given options.</p>",
+        "option_1": "<p>diesel</p>",
+        "option_2": "<p>deizel</p>",
+        "option_3": "<p>diesal</p>",
+        "option_4": "<p>deisel</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) ‘Diesel’ is the correct spelling.</p>"
+    },
+    {
+        "question": "<p>Select the option that correctly expresses the given sentence in passive voice.<br/>The shareholders will elect him a director.</p>",
+        "option_1": "<p>He will be elected as director by the shareholders.</p>",
+        "option_2": "<p>The shareholders have elected him a director.</p>",
+        "option_3": "<p>The shareholders elected him a director.</p>",
+        "option_4": "<p>He will be elected a director.</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) He will be elected as director by the shareholders. (Correct)<br/>(b) The shareholders have elected him a director. (Incorrect Sentence Structure)<br/>(c) The shareholders elected him a director. (Incorrect Sentence Structure)<br/>(d) He will be elected a director. (Sentence is incomplete)</p>"
+    },
+    {
+        "question": "<p>Identify the segment in the sentence, which contains the grammatical error. <br/>Whom do you think will win the next match and take away the trophy ?</p>",
+        "option_1": "<p>Whom do</p>",
+        "option_2": "<p>you think will</p>",
+        "option_3": "<p>and take away the trophy ?</p>",
+        "option_4": "<p>win the next match</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) Whom do<br/>We will replace “Whom”( should be used to refer to the object of a verb or preposition) to “Who” (should be used to refer to the subject of a sentence.) The sentence contains error in option(b).</p>"
+    },
+    {
+        "question": "<p>Given below are four jumbled sentences. Pick the option that gives their correct order.<br/>(A) He seemed at first to resent my invasion of his privacy.<br/>(B) But when he found that I did not have a catapult ,he became friendly.<br/>(C) My first friend was a small grey squirrel.<br/>(D) When I started bringing him pieces of cake and biscuit he grew quite bold and was soon taking morsels from hand.</p>",
+        "option_1": "<p>CBAD</p>",
+        "option_2": "<p>ACBD</p>",
+        "option_3": "<p>DBCA</p>",
+        "option_4": "<p>CABD</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) <strong>CABD</strong><br/>Sentence C will be the starting line as it contains the main idea of the parajumble i.e.a small grey squirrel was the narrator’s friend . Sentence A states that first he thought that it seemed displeased as it thought he invaded its privacy . So, A will follow C. Further, Sentence B states that later it became friendly and Sentence D states that after this he started giving it pieces of cakes and biscuits. So, D will follow B . Going through the options, option (d) has the correct sequence.</p>"
+    },
+    {
+        "question": "<p>Choose the word opposite in meaning to the given word.<br/>Miniature</p>",
+        "option_1": "<p>large</p>",
+        "option_2": "<p>small</p>",
+        "option_3": "<p>heavy</p>",
+        "option_4": "<p>least</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) Large<br/>Miniature- very small of its kind.<br/>Large- considerable or relatively great size, extent, or capacity.<br/>small- a size that is less than normal or usual.<br/>heavy- to have great weight; difficult to lift or move.<br/>least- smallest in amount, extent, or significance.</p>"
+    },
+    {
+        "question": "<p>Identify the word that is misspelt.</p>",
+        "option_1": "<p>loquacious</p>",
+        "option_2": "<p>animosity</p>",
+        "option_3": "<p>supporters</p>",
+        "option_4": "<p>palpible</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) <strong>‘Palpable’</strong> is the correct spelling.</p>"
+    },
+    {
+        "question": "<p>Identify the best way to improve the underlined part of the given sentence. If there is no improvement required, select ‘no improvement’.<br/>Mr. A.R. Sahni, member of the Planning Commission said yesterday that <span style=\"text-decoration: underline;\">five lakh jobs will be created</span> by the year 2023</p>",
+        "option_1": "<p>five lakh jobs will create</p>",
+        "option_2": "<p>five lakh jobs will be creates</p>",
+        "option_3": "<p>five lakhs jobs will be create</p>",
+        "option_4": "<p>No improvement</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) No improvement. The given sentence is grammatically correct.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate meaning of the underlined idiom.<br/>Despite multiple obstacles, she continued with her endeavour, demonstrating that she has <span style=\"text-decoration: underline;\">nerves of steel</span>.</p>",
+        "option_1": "<p>The capacity to maintain composure when stressed</p>",
+        "option_2": "<p>Extraordinary beauty</p>",
+        "option_3": "<p>An absence of fear or anxiety</p>",
+        "option_4": "<p>Relentless determination</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) <strong>nerves of steel</strong> - an absence of fear or anxiety</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate meaning of idiom in the sentence.<br/>Shyam Prasad was <span style=\"text-decoration: underline;\"><strong>a chip off old block</strong></span>.</p>",
+        "option_1": "<p>a common boy of the locality</p>",
+        "option_2": "<p>an experienced old man</p>",
+        "option_3": "<p>a being of the old generation</p>",
+        "option_4": "<p>someone similar in character to one’s father</p>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(d) someone similar in character to one’s father</p>"
+    },
+    {
+        "question": "<p>Choose the best alternative which best expresses the meaning of the idiom/ phrase given below. <br/>a little gush of gratitude</p>",
+        "option_1": "<p>gradual recovery</p>",
+        "option_2": "<p>friendly feeling</p>",
+        "option_3": "<p>excessive love</p>",
+        "option_4": "<p>excessive enthusiasm</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) A little gush of gratitude- friendly feeling. <br/>She really helped me to set up in the new city, so I owe her a little gush of gratitude.</p>"
+    },
+    {
+        "question": "<p>In the following questions, out of the four alternatives, choose the one which can be substituted for the given words/sentence.<br/>One who has obstinate and narrow religious views</p>",
+        "option_1": "<p>Theosophist</p>",
+        "option_2": "<p>Bigot</p>",
+        "option_3": "<p>Philosopher</p>",
+        "option_4": "<p>Theologian</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>Bigot-</strong> a person who is intolerant towards those holding different opinions.<br/><strong>Theosophist-</strong> a person who engages or is an expert in theosophy.<br/><strong>Philosopher-</strong> a person engaged or learned in philosophy, especially as an academic discipline.<br/><strong>Theologian-</strong> a person who engages or is an expert in theology.</p>"
+    },
+    {
+        "question": "<p>Select the option that expresses the following sentence in active voice.<br/>The letter will be delivered by the postman tomorrow.</p>",
+        "option_1": "<p>The postman delivered the letter tomorrow</p>",
+        "option_2": "<p>The postman will have delivered the letter tomorrow.</p>",
+        "option_3": "<p>The postman will deliver the letter tomorrow.</p>",
+        "option_4": "<p>The postman will be delivering the letter tomorrow.</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) The postman will deliver the letter tomorrow. (Correct)<br/>(a) The postman <span style=\"text-decoration: underline;\">delivered</span> the letter tomorrow. (Incorrect Tense)<br/>(b) The postman <span style=\"text-decoration: underline;\">will have delivered</span> the letter tomorrow. (Incorrect Verb)<br/>(d) The postman <span style=\"text-decoration: underline;\">will be delivering</span> the letter tomorrow. (Incorrect Verb)</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate Synonym of the given word<br/>Prodigal</p>",
+        "option_1": "<p>talented</p>",
+        "option_2": "<p>wasteful</p>",
+        "option_3": "<p>intelligent</p>",
+        "option_4": "<p>modest</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) <strong>wasteful</strong><br/><strong>Prodigal-</strong> spending money freely and rather wastefully.<br/><strong>Wasteful-</strong> using more of something than necessary, causing waste.<br/><strong>Talented-</strong> having talent or special ability, gifted.<br/><strong>Intelligent-</strong> having or showing the ability to understand, learn and think, clever.<br/><strong>Modest-</strong> not talking too much about your own abilities, good qualities, etc.</p>"
+    },
+    {
+        "question": "<p>Select the correct collocation to complete the following sentence. <br/>She suppressed a __________ urge to yawn.</p>",
+        "option_1": "<p>stout</p>",
+        "option_2": "<p>strong</p>",
+        "option_3": "<p>hard</p>",
+        "option_4": "<p>tough</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) strong<br/>The given sentence states that she suppressed a strong urge to yawn. <b>Hence,</b> ‘strong’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p>Given below are four jumbled sentences. Pick the option that gives their correct order.<br/>(A) Reports indicate that thousands of farmers in Andhra Pradesh, Karnataka and Maharashtra have killed themselves, often by drinking pesticide.<br/>(B) What drives farmers, to this extreme step?<br/>(C) The investigation of journalist P. Sainath shows that farmers’ recent distress is due to a fusion of environmental and economic factors.<br/>(D) Agrarian conditions have become more volatile as farmers are exposed to the fluctuations of the world market.</p>",
+        "option_1": "<p>ACBD</p>",
+        "option_2": "<p>ABCD</p>",
+        "option_3": "<p>ACDB</p>",
+        "option_4": "<p>ADBC</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) ABCD<br/>Sentence A will be the starting line as it contains the main idea of the parajumble i.e.thousands of farmers in many states attempted suicide by drinking pesticide. Sentence B asks why the farmers take this step . So, B will follow A. Further, Sentence C states that the investigation showed the main reason of farmers distress is environmental and economic factors and Sentence D states about agrarian conditions . So, D will follow C. Going through the options, option (b) ABCD has the correct sequence.</p>"
+    },
+    {
+        "question": "<p>Choose the word opposite in the meaning to the word given.<br/>Feebleness</p>",
+        "option_1": "<p>soundness</p>",
+        "option_2": "<p>infirm</p>",
+        "option_3": "<p>imbecility</p>",
+        "option_4": "<p>strength</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) <strong>soundness</strong><br/><strong>Feebleness</strong> - Lacking bodily strength; weak<br/><strong>Soundness</strong> - free from injury, damage, defect, disease, etc. ; in good condition; healthy; robust:<br/><strong>Infirm</strong> - not physically or mentally strong, especially through age or illness.<br/><strong>Imbecility</strong> - an instance or point of weakness; feebleness; incapability.<br/><strong>Strength</strong> - the quality or state of being physically strong.</p>"
+    },
+    {
+        "question": "<p>It was difficult to_____ Gopal to watch a horror movie.</p>",
+        "option_1": "<p>confer</p>",
+        "option_2": "<p>persuade</p>",
+        "option_3": "<p>dissuade</p>",
+        "option_4": "<p>consult</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) persuade. <br/>Persuade means to make somebody believe something. The given sentence states that it was difficult to make Gopal watch a horror movie. <b>Hence,</b> ‘persuade’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:</strong><br/>It was an unusual dark night. In the (96)________ of an enjoyable dream, Jim thought he heard his dog (97)________ loudly. He groaned and glanced (98)________ his clock sleepily. Twelve o'clock the green fluorescent (99)________ of his clock read. Suddenly, Jim (100)________ hushed voices outside his house. He immediately became alert and jumped out of bed. As his parents had gone on a holiday, Jim was alone at home. He decided to look who was outside.<br/>Select the correct option to fill blank 96.</p>",
+        "option_1": "<p>middle</p>",
+        "option_2": "<p>end</p>",
+        "option_3": "<p>between</p>",
+        "option_4": "<p>side</p>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(a) middle<br/>The phrase ‘in the middle of’ means in the process of doing something. The given passage states that in the middle of an enjoyable dream, Jim thought he heard his dog barking loudly. <b>Hence,</b> ‘middle’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:</strong><br/>It was an unusual dark night. In the (96)________ of an enjoyable dream, Jim thought he heard his dog (97)________ loudly. He groaned and glanced (98)________ his clock sleepily. Twelve o'clock the green fluorescent (99)________ of his clock read. Suddenly, Jim (100)________ hushed voices outside his house. He immediately became alert and jumped out of bed. As his parents had gone on a holiday, Jim was alone at home. He decided to look who was outside.<br/>Select the correct option to fill blank 97.</p>",
+        "option_1": "<p>jumping</p>",
+        "option_2": "<p>barking</p>",
+        "option_3": "<p>shouting</p>",
+        "option_4": "<p>dancing</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) barking<br/>‘Barking’ is the loud sound made by dogs. The given passage states that in the middle of an enjoyable dream, Jim thought he heard his dog barking loudly. <b>Hence,</b> ‘barking’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:</strong><br/>It was an unusual dark night. In the (96)________ of an enjoyable dream, Jim thought he heard his dog (97)________ loudly. He groaned and glanced (98)________ his clock sleepily. Twelve o'clock the green fluorescent (99)________ of his clock read. Suddenly, Jim (100)________ hushed voices outside his house. He immediately became alert and jumped out of bed. As his parents had gone on a holiday, Jim was alone at home. He decided to look who was outside.<br/>Select the correct option to fill blank 98.</p>",
+        "option_1": "<p>on</p>",
+        "option_2": "<p>upon</p>",
+        "option_3": "<p>at</p>",
+        "option_4": "<p>in</p>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>(c) at<br/>‘At’ is a fixed preposition used after the verb ‘glance’. ‘Glance at’ means to take a quick look at something. <b>Hence,</b> ‘at’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:</strong><br/>It was an unusual dark night. In the (96)________ of an enjoyable dream, Jim thought he heard his dog (97)________ loudly. He groaned and glanced (98)________ his clock sleepily. Twelve o'clock the green fluorescent (99)________ of his clock read. Suddenly, Jim (100)________ hushed voices outside his house. He immediately became alert and jumped out of bed. As his parents had gone on a holiday, Jim was alone at home. He decided to look who was outside.<br/>Select the correct option to fill blank 99.</p>",
+        "option_1": "<p>light</p>",
+        "option_2": "<p>hands</p>",
+        "option_3": "<p>points</p>",
+        "option_4": "<p>dial</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) hands<br/>‘Hand’ means a clock’s pointer that indicates time. <b>Hence,</b> ‘hands’ is the most appropriate answer.</p>"
+    },
+    {
+        "question": "<p><strong>Cloze Test:</strong><br/>It was an unusual dark night. In the (96)________ of an enjoyable dream, Jim thought he heard his dog (97)________ loudly. He groaned and glanced (98)________ his clock sleepily. Twelve o'clock the green fluorescent (99)________ of his clock read. Suddenly, Jim (100)________ hushed voices outside his house. He immediately became alert and jumped out of bed. As his parents had gone on a holiday, Jim was alone at home. He decided to look who was outside.<br/>Select the correct option to fill blank 100.</p>",
+        "option_1": "<p>listened</p>",
+        "option_2": "<p>heard</p>",
+        "option_3": "<p>thought</p>",
+        "option_4": "<p>saw</p>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>(b) heard<br/>‘Heard’ is the past form of ‘hear’. The given passage states that Jim heard hushed voices outside his house. <b>Hence,</b> ‘heard’ is the most appropriate answer.</p>"
+    }
+]
