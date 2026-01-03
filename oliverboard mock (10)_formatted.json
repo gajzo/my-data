@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "<span class=\"eqt\"><p>Each of the digits in the number 64197238 is arranged in ascending order from right to left. The position of how many digits will remain unchanged as compared to that in the original number?</p></span>",
+        "option_1": "<span class=\"eqt\">Two</span>",
+        "option_2": "<span class=\"eqt\">One</span>",
+        "option_3": "<span class=\"eqt\">Three</span>",
+        "option_4": "<span class=\"eqt\">None</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>64197238 </p><p>After arranging above number in ascending order from right to left - </p><table border=\"1\" cellpadding=\"5\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%; margin: 15px 0; font-family: Arial, sans-serif; font-size: 14px; border: 1px solid #ddd;\"><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">6</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">4</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">1</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">9</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">7</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">2</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">3</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">8</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">9</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">8</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">7</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">6</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">4</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">3</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">2</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">1</td></tr></table><p>No digits will remain unchanged as compared to that in the original number.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Select the option which is related to the third term in the same way as the second term is related to the first term and the sixth term is related to the fifth term.</p><p>PLM : QMN :: YSF : ? :: DOK : EPL</p></span>",
+        "option_1": "<span class=\"eqt\">ZTG</span>",
+        "option_2": "<span class=\"eqt\">YTG<b> </b></span>",
+        "option_3": "<span class=\"eqt\">ZQG</span>",
+        "option_4": "<span class=\"eqt\">YQG</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The logic is the alphabet is interchanged with the immediately next alphabet according to the alphabetical series. </p><p>PLM ---- QMN</p><p>YSF ---- ZTG</p><p>Similarly, </p><p>DOK ---- EPL</p><p>So, option (a) is the correct answer. </p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>In a certain code language, 'CROWN' is written as '58', 'GUEST' is written as '46'. How will 'DOUBT' be written in that language? </p></span>",
+        "option_1": "<span class=\"eqt\">28</span>",
+        "option_2": "<span class=\"eqt\">29<b> </b></span>",
+        "option_3": "<span class=\"eqt\">27</span>",
+        "option_4": "<span class=\"eqt\">26</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>In this, the position of all the consonants is added to obtain the resultant. </p><p>CROWN ----- 3 + 18 + 23 + 14 = 58</p><p>GUEST ----- 7 + 19 + 20 = 46</p><p>Similarly, </p><p>DOUBT ---- 4 + 2 + 20 = 26</p><p>So, option (d) is the correct answer. </p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>24 is related to 577 by certain logic. Following the same logic, 56 is related to 3137. To which of the following is 47 related, following the same logic?</p><p>(<b>NOTE:</b> Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 - Operations on 13 such as adding/deleting/multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)</p></span>",
+        "option_1": "<span class=\"eqt\">2209</span>",
+        "option_2": "<span class=\"eqt\">2211<b> </b></span>",
+        "option_3": "<span class=\"eqt\">2210</span>",
+        "option_4": "<span class=\"eqt\">2208</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>24 ---- (24)² + 1 = 576 + 1 = 577</p><p>56 ----- (56)² + 1 = 3136 + 1 = 3137</p><p>Similarly, </p><p>47 ---- (47)² + 1 = 2209 + 1 = 2210</p><p>So, option (c) is the correct answer. </p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Select the odd group of numbers.</p><p>(<b>NOTE:</b> Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 - Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)</p></span>",
+        "option_1": "<span class=\"eqt\">(15-220-215)</span>",
+        "option_2": "<span class=\"eqt\">(10-100-95)</span>",
+        "option_3": "<span class=\"eqt\">(20-400-395)</span>",
+        "option_4": "<span class=\"eqt\">(25-625-620)</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>Option (b) -</p><p>(10-100-95)</p><p>10<sup>2</sup> = 100, 100 - 5 = 35</p><p>Option (c) -</p><p>(20-400-395)</p><p>20<sup>2</sup> = 400, 400 - 5 = 395</p><p>Option (d) -</p><p>(25-625-620)</p><p>25<sup>2</sup> = 625, 625 - 5 = 620</p><p>Option (a) -</p><p><b>15<sup>2</sup> = 225, 225 - 5 = 220</b></p><p>Thus, the answer is option (a).</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Select the combination of letters that when sequentially placed in the gaps of the given letter series will complete the series.</p></span><br>https://u1.oliveboard.in/exams/solution/oliveimg/p14000/image043.jpg",
+        "option_1": "<span class=\"eqt\">utrpqqeptqp</span>",
+        "option_2": "<span class=\"eqt\">qreruepuqre</span>",
+        "option_3": "<span class=\"eqt\">qqppreuuppp</span>",
+        "option_4": "<span class=\"eqt\">rreuupqpqeu</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The series will be:</p><p>The pattern 'pqrrute' is repeating.</p><br>https://u1.oliveboard.in/exams/solution/oliveimg/p14000/image044.jpg"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Select the set in which the numbers are related in the same way as are the numbers of the following set.</p><p>(<b>NOTE:</b> Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 - Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is NOT allowed.)</p><p>(7, 24, 10)</p><p>(5, 18, 8)</p></span>",
+        "option_1": "<span class=\"eqt\">(4, 12, 3)</span>",
+        "option_2": "<span class=\"eqt\">(7, 17, 4)</span>",
+        "option_3": "<span class=\"eqt\">(6, 18, 5)</span>",
+        "option_4": "<span class=\"eqt\">(5, 19, 9)</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>(7, 24, 10) =&gt; 7 X 2 + 10 = 14 + 10 = 24</p><p>(5, 18, 8) =&gt; 5 X 2 + 8 = 10 + 8 = 18</p><p>From option (a),</p><p>4 X 2 + 3 = 8 + 3 = 11</p><p>From option (b),</p><p>7 X 2 + 4 = 14 + 4 = 18</p><p>From option (c),</p><p>6 X 2 + 5 = 12 + 5 = 17</p><p>From option (d),</p><p><b>5 X 2 + 9 = 10 + 9 = 19</b></p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follows from the statements.</p><p>Statements:</p><p>Some bed are Sofa</p><p>All sofa are Chair</p><p>No Chair is Table</p><p>Conclusions:</p><p>I. Some sofa are table</p><p>II. Some bed are Chair</p></span>",
+        "option_1": "<span class=\"eqt\">Neither conclusion I nor II follows</span>",
+        "option_2": "<span class=\"eqt\">Only conclusion I follows</span>",
+        "option_3": "<span class=\"eqt\">Only conclusion II follows</span>",
+        "option_4": "<span class=\"eqt\">Either conclusion I or II follows</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>Venn diagram:</p><p>I. Some sofa are table ----- Does not follow</p><p>II. Some bed are Chair ----- Follows</p><p>So, Only conclusion II follows.</p><br>https://u1.oliveboard.in/exams/solution/oliveimg/p23580/image010.png"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Three statements are given, followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to beat variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements:</p><p><b>Statements:</b></p><p>All Nail are Pin</p><p>All Spikes are Pin</p><p>All Pins are Tack</p><p><b>Conclusions:</b></p><p>I. All Nail are Tacks</p><p>II. All Spikes are Tack</p><p>III. Some Tack are Pin</p></span>",
+        "option_1": "<span class=\"eqt\">Only I and II follow</span>",
+        "option_2": "<span class=\"eqt\">Only II and III follow</span>",
+        "option_3": "<span class=\"eqt\">Only I and III follow</span>",
+        "option_4": "<span class=\"eqt\">All I, II and III follow</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p><b>Statements:</b></p><p>All Nail are Pin</p><p>All Spikes are Pin</p><p>All Pins are Tack</p><p>All Nail are Tacks: All Nail are Pin. All Pins are Tack. Thus, All Nail are Tacks. So, conclusion I is true.</p><p>All Spikes are Tack: All Spikes are Pin. All Pins are Tack. Thus, All Spikes are Tack. So, conclusion II is true.</p><p>Some Tack are Pin: All Pins are Tack. Thus, Some Tack are Pin. So, conclusion III is true.</p><p><b>Hence,</b> All conclusions I, II and III follow.</p><br>https://u1.oliveboard.in/exams/solution/oliveimg/p23916/image021.png"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Which of the following figures is the exact mirror image of the given problem figure when the mirror is held at the right side?</p><p>Problem figure:</p></span><br>https://u1.oliveboard.in/exams/solution/oliveimg/p24012/image004.png<br>https://u1.oliveboard.in/exams/solution/oliveimg/p24012/image005.jpg",
+        "option_1": "<span class=\"eqt\">I</span>",
+        "option_2": "<span class=\"eqt\">II</span>",
+        "option_3": "<span class=\"eqt\">III</span>",
+        "option_4": "<span class=\"eqt\">IV</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The mirror image is - </p><p>Thus, the answer is option (b).</p><br>https://u1.oliveboard.in/exams/solution/oliveimg/p24012/image006.jpg"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>The sequence of folding a piece of paper and the manner in which the folded paper has been cut is shown below. Select the figure which would most closely resemble the unfolded form of the paper.</p></span><br>https://u1.oliveboard.in/exams/solution/oliveimg/p24012/image018.jpg",
+        "option_1": "<span class=\"eqt\">I</span>",
+        "option_2": "<span class=\"eqt\">II</span>",
+        "option_3": "<span class=\"eqt\">III</span>",
+        "option_4": "<span class=\"eqt\">IV</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>Figure IV would resemble the correct form of a paper after cutting.</p><p>Thus, the answer is option (d).</p><br>https://u1.oliveboard.in/exams/solution/oliveimg/p24012/image019.jpg"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>If A denoted '+', B denoted 'x', C denoted '÷' and D denoted '-', then what will come in place of '?' in the following equation?</p><p>756 B 4 A 925 C 25 D 42 = ?</p></span>",
+        "option_1": "<span class=\"eqt\">3018</span>",
+        "option_2": "<span class=\"eqt\">3119<b> </b></span>",
+        "option_3": "<span class=\"eqt\">3019</span>",
+        "option_4": "<span class=\"eqt\">3029</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>756 B 4 A 925 C 25 D 42 = ?</p><p>After replacing:</p><p>756 x 4 + 925 ÷ 25 - 42 = ?</p><p>3024 + 37 - 42 = ?</p><p>? = 3019</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Select the set in which the numbers are related in the same way as are the numbers of the following sets.</p><p>(<b>NOTE:</b> Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 - Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)</p><p>(19, 5, 13)</p><p>(72, 51, 20)</p></span>",
+        "option_1": "<span class=\"eqt\">(32, 28, 2)</span>",
+        "option_2": "<span class=\"eqt\">(29, 19, 9)</span>",
+        "option_3": "<span class=\"eqt\">(40, 15, 20)</span>",
+        "option_4": "<span class=\"eqt\">(22, 8, 11)</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>Here, the pattern is:</p><p>(19, 5, 13): (19 - 5) - 1 = 13</p><p>(72, 51, 20): (72 - 51) - 1 = 20</p><p>Option (a) (32, 28, 2): (32 - 28) - 1 = 3. So, option (a) is incorrect. </p><p>Option (b) (29, 19, 9): (29 - 19) - 1 = 9. So, option (b) is correct.</p><p>Option (c) (40, 15, 20): (40 - 15) - 1 = 24. So, option (c) is incorrect.</p><p>Option (d) (22, 8, 11): (22 - 8) - 1 = 13. So, option (d) is incorrect.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Which numbers will replace question mark (?) in the following series?</p><p>7, 9, 27, 31, ?, 161</p></span>",
+        "option_1": "<span class=\"eqt\">142</span>",
+        "option_2": "<span class=\"eqt\">146</span>",
+        "option_3": "<span class=\"eqt\">151</span>",
+        "option_4": "<span class=\"eqt\">155</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>Here, the pattern is:</p><p>7+2 = 9</p><p>9*3 = 27</p><p>27+4= 31</p><p><b>31*5= 155</b></p><p>155+6= 161</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>There are two couples in a family. Komali has two children. Madhurima is the wife of Omprakash, who is the brother of Mani. Pinky is the daughter of Komali. Urmila is the sister of Sanju, who is the son of Omprakash. Tarun is the son of Mani, who is a male. How Madhurima is related to Komali?</p></span>",
+        "option_1": "<span class=\"eqt\">Sister</span>",
+        "option_2": "<span class=\"eqt\">Sister-in-law</span>",
+        "option_3": "<span class=\"eqt\">Aunt</span>",
+        "option_4": "<span class=\"eqt\">Mother</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>It is given that,</p><p>Madhurima is the wife of Omprakash, who is the brother of Mani. Urmila is the sister of Sanju, who is the son of Omprakash.</p><p>We get,</p><p>Komali has two children. Pinky is the daughter of Komali. Tarun is the son of Mani, who is a male.</p><p>We get,</p><p>Here, Madhurima is the <b>sister-in-law</b> of Komali.</p><br>https://u1.oliveboard.in/exams/solution/oliveimg/p19589/image001.jpg<br>https://u1.oliveboard.in/exams/solution/oliveimg/p19589/image002.jpg"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Select the option that is related to the third term in the same way as the second term is related to the first term and the sixth term is related to the fifth term.</p><p>128 : 384 :: 296 : ? :: 549 : 1647</p></span>",
+        "option_1": "<span class=\"eqt\">888</span>",
+        "option_2": "<span class=\"eqt\">847</span>",
+        "option_3": "<span class=\"eqt\">897</span>",
+        "option_4": "<span class=\"eqt\">885</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>128 : 128 x 3 = 384</p><p>296 : 296 x 3 = 888</p><p>549 : 549 x 3 = 1647</p><p>So, Option (a) is related to the third term</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Select the option figure which is embedded in the given figure. (Rotation is NOT allowed)</p></span><br>https://u1.oliveboard.in/exams/solution/oliveimg/p24012/image022.jpg",
+        "option_1": "<span class=\"eqt\">I</span>",
+        "option_2": "<span class=\"eqt\">II</span>",
+        "option_3": "<span class=\"eqt\">III</span>",
+        "option_4": "<span class=\"eqt\">IV</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>Here, option figure (II) is embedded in the question figure.</p><p>Thus, the answer is option (b).</p><br>https://u1.oliveboard.in/exams/solution/oliveimg/p24012/image023.jpg"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Which option represents the correct order of the given words as they appear in the English dictionary?</p><p>I. Petrol </p><p>II. Pertain </p><p>III. Pendant </p><p>IV. Pendulum </p><p>V. Perfect </p></span>",
+        "option_1": "<span class=\"eqt\">IV, III, V, II, I</span>",
+        "option_2": "<span class=\"eqt\">III, IV, V, II, I</span>",
+        "option_3": "<span class=\"eqt\">III, IV, II, V, I</span>",
+        "option_4": "<span class=\"eqt\">III, I, V, II, IV</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The order in which they appear in the English dictionary is Pendant, Pendulum, Perfect, Pertain, Petrol. </p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Which of the following numbers will replace the question mark(?) in the given series?</p><p>8, 8, 24, 120, 840, ?</p></span>",
+        "option_1": "<span class=\"eqt\">6720</span>",
+        "option_2": "<span class=\"eqt\">7560</span>",
+        "option_3": "<span class=\"eqt\">9240</span>",
+        "option_4": "<span class=\"eqt\">7470</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>8 X 1 = 8</p><p>8 X 3 = 24</p><p>24 X 5 = 120</p><p>120 X 7 = 840</p><p>840 X 9 = <b>7560</b></p><p>Thus, the answer is option (b).</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Which figure should replace the question mark(?) if the series were to be continued?</p></span><br>https://u1.oliveboard.in/exams/solution/oliveimg/p24092/image009.jpg",
+        "option_1": "<span class=\"eqt\">II</span>",
+        "option_2": "<span class=\"eqt\">I</span>",
+        "option_3": "<span class=\"eqt\">IV</span>",
+        "option_4": "<span class=\"eqt\">III</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The figure is rotating 45° clockwise in each step.</p><p>So, option figure (I) can replace the question mark - </p><p>Thus, the answer is option (b).</p><br>https://u1.oliveboard.in/exams/solution/oliveimg/p24092/image010.jpg"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Each of the letters in the word CONTRIBUTE are arranged in alphabetical order. How many letters are there in the English alphabetical series between the letter which is third from the left and the one which is third from the right in the new letter-cluster thus formed?</p></span>",
+        "option_1": "<span class=\"eqt\">Eleven</span>",
+        "option_2": "<span class=\"eqt\">Thirteen<b> </b></span>",
+        "option_3": "<span class=\"eqt\">Twelve</span>",
+        "option_4": "<span class=\"eqt\">Fourteen</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>CONTRIBUTE</p><p>After arrangement:</p><p>BC<b>E</b>INOR<b>T</b>TU</p><p>Thus, the letters between E and T are F, G, H, I, J, K, L, M, N, O, P, Q, R and S.</p><p>So, the number of letters between E and T is Fourteen. </p><p>So, option (d) is the correct answer. </p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>In the following question, a dice has six faces A, B, C, D, E, and F. Four positions of the same cube are given. What will be on the bottom face if 'D' is at the top of the cube? </p></span><br>https://u1.oliveboard.in/exams/solution/oliveimg/p20713/image010.jpg",
+        "option_1": "<span class=\"eqt\">C</span>",
+        "option_2": "<span class=\"eqt\">E</span>",
+        "option_3": "<span class=\"eqt\">B</span>",
+        "option_4": "<span class=\"eqt\">F</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>Every face is adjacent to four other faces in a cube. In the given combinations, D is adjacent to B, F, A, and E. <b>Hence,</b> <b>'C'</b> will be on the bottom face if 'D' is at the top of the cube. </p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Select the correct combination of mathematical signs to sequentially replace the * signs and to balance the given equation.</p><p><b>15 * 3 * 4 * 3 * 33</b></p></span>",
+        "option_1": "<span class=\"eqt\">+,=,-,+</span>",
+        "option_2": "<span class=\"eqt\">x,=,x,+</span>",
+        "option_3": "<span class=\"eqt\">+,=,x,+</span>",
+        "option_4": "<span class=\"eqt\">-,=,-,+</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>15 x 3 = 4 x 3 +33</p><p>45 =12 + 33</p><p>45 = 45.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>In a certain code language, 'KINGDOM' is written as 'MODGNIK' and 'LEADING' is written as 'GNIDAEL', What is the code for the word 'PRIVACY' in that code language?</p></span>",
+        "option_1": "<span class=\"eqt\">YDAVIRP</span>",
+        "option_2": "<span class=\"eqt\">YCATIRP</span>",
+        "option_3": "<span class=\"eqt\">YCAVIRP</span>",
+        "option_4": "<span class=\"eqt\">YCAVISP</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p><b></b></p><p>So, the code for the word 'PRIVACY' is 'YCAVIRP' in that code language.</p><br>https://u1.oliveboard.in/exams/solution/oliveimg/p20827/image002.png"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>In a certain code language, 'PAS' is written as '6' and 'ALONG' is written as '7'. How will 'BORN' be written in that language?</p></span>",
+        "option_1": "<span class=\"eqt\">8</span>",
+        "option_2": "<span class=\"eqt\">9</span>",
+        "option_3": "<span class=\"eqt\">7</span>",
+        "option_4": "<span class=\"eqt\">4</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>'PAS' is written as '6' and 'ALONG' is written as '7'.</p><p>Here, the pattern is:</p><p>P+A+S = 16+1+19 = 36 and √36 = 6</p><p>A+L+O+N+G = 1+12+15+14+7 = 49 and √49 = 7</p><p>Similarly,</p><p>B+O+R+N = 2+15+18+14= 49 and √49 = 7</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Match the column.</p><table border=\"1\" cellpadding=\"5\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%; margin: 15px 0; font-family: Arial, sans-serif; font-size: 14px; border: 1px solid #ddd;\"><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Column - A (Name of Bacterium)</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Column - B (Activities)</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">i. Rhizobium</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">a. Produces streptomycin antibiotics.</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">ii. Azotobacter</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">b. Ferments lactose (milk sugar) to lactic acid.</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">iii. Streptomyces</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">c. Makes the soil fertile.</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">iv. Lactobacillus</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">d. Found in roots of legumes, like peas, grams, pulses etc, where it fixes atmospheric nitrogen.</td></tr></table></span>",
+        "option_1": "<span class=\"eqt\">i-b, ii-c, iii-a, iv-d</span>",
+        "option_2": "<span class=\"eqt\">i-d, ii-a, iii-b, iv-c</span>",
+        "option_3": "<span class=\"eqt\">i-d, ii-c, iii-a, iv-b</span>",
+        "option_4": "<span class=\"eqt\">i-a, ii-b, iii-c, iv-d</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>Many bacteria harm us by causing many diseases. On the other hand, some bacteria are very useful.</p><table border=\"1\" cellpadding=\"5\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%; margin: 15px 0; font-family: Arial, sans-serif; font-size: 14px; border: 1px solid #ddd;\"><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Name of bacterium </b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Activities</b></td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Rhizobium</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Found in roots of legumes, like Peas, grams, Pulses etc, where it fixes atmospheric nitrogen as ammonia, which is then converted into useful amino acid</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Azotobacter</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Makes the soil fertile. It fixes atmospheric nitrogen in the soil.</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Streptomyces</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Produces Streptomycin antibiotic.</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Lactobacillus</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Ferments lactose (milk sugar) to lactic acid. This helps in setting of milk into curd.</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Methanogenic bacteria</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Sewage treatment</td></tr></table>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Ayushman Bharat PM-JAY provides a health cover of ________ per family per year for secondary and tertiary care hospitalization.</p></span>",
+        "option_1": "<span class=\"eqt\">Rs. 5 lakhs</span>",
+        "option_2": "<span class=\"eqt\">Rs. 2 lakhs</span>",
+        "option_3": "<span class=\"eqt\">Rs. 1 lakhs</span>",
+        "option_4": "<span class=\"eqt\">Rs. 3 lakhs</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>Ayushman Bharat PM-JAY is the largest health assurance scheme in the world which aims at providing a health cover of <b>Rs. 5 lakhs per family per year</b> for secondary and tertiary care hospitalization to over 12 crores poor and vulnerable families (approximately 55 crore beneficiaries) that form the bottom 40% of the Indian population.</p><p>The households included are based on the deprivation and occupational criteria of Socio-Economic Caste Census 2011 (SECC 2011) for rural and urban areas respectively. PM-JAY was earlier known as the National Health Protection Scheme (NHPS) before being rechristened. It subsumed the then existing Rashtriya Swasthya Bima Yojana (RSBY) which had been launched in 2008.</p><p>The coverage mentioned under PM-JAY, therefore, also includes families that were covered in RSBY but are not present in the SECC 2011 database.</p><p>PM-JAY is fully funded by the Government and cost of implementation is shared between the Central and State Governments.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Sama-Chakwa, Karma are dance forms of __________</p></span>",
+        "option_1": "<span class=\"eqt\">Kerala</span>",
+        "option_2": "<span class=\"eqt\">Uttarakhand</span>",
+        "option_3": "<span class=\"eqt\">Bihar</span>",
+        "option_4": "<span class=\"eqt\">Odisha</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p><b>Dance forms of Bihar</b></p><table border=\"1\" cellpadding=\"5\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%; margin: 15px 0; font-family: Arial, sans-serif; font-size: 14px; border: 1px solid #ddd;\"><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Bihar</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Bakho-Bakhain, Bidesia, Jata-Jatin, Jatra, Panwariya, Sama-Chakwa, Karma dance,Maharai, Chamara and Kamala Damph Basuli Naach, Dance of Nrityakali, Dance of the 'bai' or Dance of 'Gajoch', Dance of Suthre Sain, Jiya or Jhijhia, Salhes, Naach of Kathakiya, Jhumar, Harnam and Jogira</td></tr></table>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Code of Points is a rule book that outlines the point values of various skills of a:</p></span>",
+        "option_1": "<span class=\"eqt\">Boxer</span>",
+        "option_2": "<span class=\"eqt\">Gymnasts</span>",
+        "option_3": "<span class=\"eqt\">Shuttler</span>",
+        "option_4": "<span class=\"eqt\">Athlete</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p><b>Gymnasts</b> are judged by the Code of Points, a rule book that outlines the point values of various skills. A gymnast's final score is calculated from a start value, where the gymnast begins with the highest possible score and then has points deducted for elements that may have been lacking in her routine. </p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Who among the following was the Governor of Reserve Bank of India when the LPG reforms were introduced?</p></span>",
+        "option_1": "<span class=\"eqt\">R N Malhotra</span>",
+        "option_2": "<span class=\"eqt\">I G Patel</span>",
+        "option_3": "<span class=\"eqt\">Manmohan Singh</span>",
+        "option_4": "<span class=\"eqt\">S Venkitaramanan</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>India introduced the Liberalization Privatization and Globalization (LPG) reforms in 1991. <b>S Venkitaramanan</b>, a member of the Indian Administrative Service, had served as Finance Secretary and adviser to the Government of Karnataka prior to his appointment as Governor. He served as the governor of RBI from 22-12-1990 to 21-12-1992.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Which of the following statements is INCORRECT for Friction?</p></span>",
+        "option_1": "<span class=\"eqt\">Friction can produce heat</span>",
+        "option_2": "<span class=\"eqt\">Ball bearings are used to reduce friction</span>",
+        "option_3": "<span class=\"eqt\">Friction acts on the ball while moving in the air</span>",
+        "option_4": "<span class=\"eqt\">The friction force does not act on fluid</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p><b>The frictional force on an object in a fluid depends on its speed with respect to the fluid.</b> The frictional force also depends on the shape of the object and the nature of the fluid. Friction can produce heat. Ball bearings are used to reduce friction. Friction acts on the ball while moving in the air. Air friction is experienced by the objects moving through the open air. Air friction acts between the object and the air through which it is moving. It is also called drag.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Which of the following report is not published by World Economic Forum?</p></span>",
+        "option_1": "<span class=\"eqt\">Global Gender Gap Report</span>",
+        "option_2": "<span class=\"eqt\">Global Assessment Report</span>",
+        "option_3": "<span class=\"eqt\">Travel and Tourism Competitiveness Report</span>",
+        "option_4": "<span class=\"eqt\">Global Information Technology Report</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The <b>Global Assessment Report</b> is published biennially by the UN Office for Disaster Risk Reduction (UNDRR), and is the product of the contributions of nations, public and private disaster risk-related science and research, amongst others.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Ustad Ghulam Mustafa Khan, who was awarded the Padma Vibhushan in 2018, was an exponent of _______ gharana of the Hindustani Classical Music.</p></span>",
+        "option_1": "<span class=\"eqt\">Jaipur-Atrauli</span>",
+        "option_2": "<span class=\"eqt\">Bhendi Bazaar</span>",
+        "option_3": "<span class=\"eqt\">Rampur-Sahaswan</span>",
+        "option_4": "<span class=\"eqt\">Gwalior</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>Ustad Ghulam Mustafa Khan was a celebrated Indian classical musician in the Hindustani classical music tradition, belonging to the Rampur-Sahaswan Gharana. He was a receiver of several accolades including the Padma Shri in 1991, followed by Padma Bhushan in 2006 and Padma Vibhushan in 2018.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Which of the following five-year plans focused on Growth with Social Justice and Equality?</p></span>",
+        "option_1": "<span class=\"eqt\">Fourth Plan</span>",
+        "option_2": "<span class=\"eqt\">Sixth Plan</span>",
+        "option_3": "<span class=\"eqt\">Eight Plan</span>",
+        "option_4": "<span class=\"eqt\">Nineth Plan</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>The Nineth Five Year Plan (1997- 2002) focussed on 'Growth with Social Justice &amp; Equality'. It aimed to depend predominantly on the private sector - Indian as well as foreign (FDI) &amp; State was envisaged to increasingly play the role of facilitator &amp; increasingly involve itself with social sector viz education , health, etc., and infrastructure where private sector participation was likely to be limited. It assigned priority to agriculture &amp; rural development with a view to generate adequate productive employment and eradicate poverty.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>In October 2023, Union Minister Amit Shah inaugurated India's first liquid nano di-ammonia phosphate (DAP) plant of Indian Farmers fertilizer Cooperative Limited (IFFCO) in which of the following city? </p></span>",
+        "option_1": "<span class=\"eqt\">Ahmedabad</span>",
+        "option_2": "<span class=\"eqt\">Varanasi</span>",
+        "option_3": "<span class=\"eqt\">Hyderabad</span>",
+        "option_4": "<span class=\"eqt\">Patna</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>In October 2023, Union Home Minister Amit Shah inaugurated India's first liquid nano di-ammonia phosphate (DAP) plant of Indian Farmers Fertiliser Cooperative Limited (IFFCO) in Ahmedabad - Kalol highway in Gandhinagar.</p><p>· IFFCO's Nano DAP (Liquid) contains 8% of nitrogen and 16% of phosphorus. This can replace a 50 kg bag of traditional DAP is currently priced at Rs.1350 for farmers.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>In 1820, who found that electric current causes a nearby magnetic needle to move and thus discovered electromagnetism?</p></span>",
+        "option_1": "<span class=\"eqt\">Benjamin Franklin</span>",
+        "option_2": "<span class=\"eqt\">James Clerk Maxwell</span>",
+        "option_3": "<span class=\"eqt\">Hans Christian Oersted</span>",
+        "option_4": "<span class=\"eqt\">Andre-Marie Ampere</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>In 1820, a Danish physicist, <b>Hans Christian Oersted</b>, discovered that there was a relationship between electricity and magnetism. By setting up a compass through a wire carrying an electric current, Oersted showed that moving electrons can create a magnetic field.</p><p>Benjamin Franklin: While famous for his kite experiment and his work with electricity, Franklin's primary focus was on static electricity. He didn't directly contribute to the discovery of the relationship between electricity and magnetism.</p><p>James Clerk Maxwell: Maxwell is best known for developing Maxwell's equations, which unified electricity and magnetism into a single electromagnetic theory. He showed that light is an electromagnetic wave.</p><p>Andr-Marie Ampre: Ampre was a French physicist who, inspired by Oersted's discovery, further investigated the relationship between electricity and magnetism. He developed mathematical laws to describe the magnetic forces between electric currents, laying the foundation for the field of electrodynamics.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Under unfavorable conditions many zooplankton species in lakes and ponds are known to enter diapause. This response to abiotic factors is an example of____________.</p></span>",
+        "option_1": "<span class=\"eqt\">regulate</span>",
+        "option_2": "<span class=\"eqt\">conform</span>",
+        "option_3": "<span class=\"eqt\">suspend</span>",
+        "option_4": "<span class=\"eqt\">migrate</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p><b>Suspend</b>: In bacteria, fungi, and lower plants, various kinds of thick-walled spores are formed which help them to survive unfavourable conditions - these germinate on the availability of a suitable environment.</p><p>In higher plants, seeds and some other vegetative reproductive structures serve as means to tide over periods of stress besides helping in dispersal - they germinate to form new plants under favourable moisture and temperature conditions. They do so by reducing their metabolic activity and going into a state of 'dormancy'.</p><p>In animals, the organism, if unable to migrate, might avoid the stress by escaping in time. The familiar case of bears going into hibernation during winter is an example of escape in time. Some snails and fish go into aestivation to avoid summer-related problems-heat and dessication. Under unfavourable conditions, many zooplankton species in lakes and ponds are known to enter diapause, a stage of suspended development.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Who was the first Indian representative in the modern Olympics?</p></span>",
+        "option_1": "<span class=\"eqt\">Khashaba Jadhav</span>",
+        "option_2": "<span class=\"eqt\">Milkha Singh</span>",
+        "option_3": "<span class=\"eqt\">P.T. Usha</span>",
+        "option_4": "<span class=\"eqt\">Norman Pritchard</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>India started its maiden Olympic stint with Norman Pritchard at the 1900 Paris Olympics. The first Indian representative in the modern Olympics won the country's first-ever medal (pre-independence) in the men's 200m hurdles.</p><p>Norman Pritchard set a then Olympic record 26.8 seconds in the semi-finals. In the final, USA's Alvin Kraenzlein ran a new Olympic record of 25.4 seconds to win the gold while Norman Pritchard won silver with a timing of 26 seconds.</p><p>Norman Pritchard earned a second Olympic medal, winning silver in the men's 200m sprint at Paris 1900.</p><p>He finished second in the semi-finals to qualify for the final, where Walter Tewksbury of the USA won gold, clocking 22.2 seconds. Norman Pritchard came home in second place to take silver in 22.8 seconds.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Which of the following layer is made of relatively light elements, especially Silica, Aluminium and Oxygen?</p></span>",
+        "option_1": "<span class=\"eqt\">Inner core</span>",
+        "option_2": "<span class=\"eqt\">Crust</span>",
+        "option_3": "<span class=\"eqt\">Outer core</span>",
+        "option_4": "<span class=\"eqt\">Mantle</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<table border=\"1\" cellpadding=\"5\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%; margin: 15px 0; font-family: Arial, sans-serif; font-size: 14px; border: 1px solid #ddd;\"><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Earth Layers</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Composition</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Crust</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Made of relatively light elements, especially Silica, Aluminium &amp; Oxygen.</b></td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Mantle</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Made mostly of iron, magnesium and silicon, it is dense, hot and semi-solid.</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Outer Core</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Made from iron and nickel, just in liquid form.</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Inner Core</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Extremely dense, it's made mostly of iron and nickel.</td></tr></table>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Who is the author of the book 'Sita - Warrior of Mithila'?</p></span>",
+        "option_1": "<span class=\"eqt\">Amish Tripathi</span>",
+        "option_2": "<span class=\"eqt\">Devdutt Pattanaik</span>",
+        "option_3": "<span class=\"eqt\">Ashok Banker</span>",
+        "option_4": "<span class=\"eqt\">Ashwin Sanghi</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p><b>Amish Tripathi's</b> second book in the Ramachandra series is the Sita: Warrior of Mithila. It was released on 29 May 2017. Ram Chandra Series is a retelling of the most famous epic of India, the Ramayana.</p><p><b>Other books:</b></p><p>Amish Tripathi</p><p>The Shiva Trilogy</p><p>- Immortals of Meluha (2010)</p><p>- The Secret of the Nagas (2011)</p><p>- The Oath of the Vayuputras (2013)</p><p>The Ram Chandra Series</p><p>- Scion of Ikshvaku (2015)</p><p>- Sita: Warrior of Mithila (2017)</p><p>- Raavan: Enemy of Aryavarta (2019)</p><p>Legend of Suheldev: The King Who Saved India (2020)</p><p><b>Devdutt Pattanaik</b></p><p>Myth = Mithya: A Handbook of Hindu Mythology (2006)</p><p>Jaya: An Illustrated Retelling of the Mahabharata (2010)</p><p>Sita: An Illustrated Retelling of the Ramayana (2011)</p><p>7 Secrets of Vishnu (2012)</p><p>Business Sutra: A Very Indian Approach to Management (2013)</p><p><b>Ashok Banker</b></p><p>The Ramayana Series (2003-2005)</p><p>The Krishna Series (2007-2009)</p><p>The Mahabharata Series (2010-2013)</p><p>Awaken: The Curse of the Nagas (2015)</p><p>Rishi: The Search for Truth (2017)</p><p><b>Ashwin Sanghi</b></p><p>The Rozabal Line (2007)</p><p>Chanakya's Chant (2010)</p><p>The Krishna Key (2013)</p><p>The Sialkot Saga (2016)</p><p>13 Steps to Bloody Hell (2018)</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Which of the following is the UN Decade of Ocean Science for Sustainable Development?</p></span>",
+        "option_1": "<span class=\"eqt\">2025 to 2034</span>",
+        "option_2": "<span class=\"eqt\">2022 to 2031</span>",
+        "option_3": "<span class=\"eqt\">2021 to 2030</span>",
+        "option_4": "<span class=\"eqt\">2019 to 2028</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>The United Nations UN Decade of Ocean Science for Sustainable Development runs from 2021 to 2030.</p><p>The UN's vision is \"the science we need for the ocean we want\", with success closely aligned to achieving the UN Sustainable Development Goals (SDGs) by 2030.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>India's maiden mission to Venus is scheduled for launch in ______.</p></span>",
+        "option_1": "<span class=\"eqt\">December 2027</span>",
+        "option_2": "<span class=\"eqt\">March 2028</span>",
+        "option_3": "<span class=\"eqt\">April 2027</span>",
+        "option_4": "<span class=\"eqt\">March 2027</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>India's maiden mission to Venus, which is scheduled for launch in March 2028, will embark on a 112-day journey to reach the planet.</p><p>The Rs.1,236-crore Venus Orbiter Mission (VOM) was approved by the Union Cabinet and the Indian Space Research Organisation (ISRO) on October 1, 2024 revealed the targeted launch window for the mission.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>By mid-July, which of the following monsoon engulfs the entire Indian subcontinent?</p></span>",
+        "option_1": "<span class=\"eqt\">North-west monsoon</span>",
+        "option_2": "<span class=\"eqt\">South-west monsoon</span>",
+        "option_3": "<span class=\"eqt\">North-east monsoon</span>",
+        "option_4": "<span class=\"eqt\">South-east monsoon</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The southwest monsoon sets in over the Kerala coast by 1st June and moves swiftly to reach Mumbai and Kolkata between 10th and 13th June. By mid-July, southwest monsoon engulfs the entire Indian subcontinent.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Chandragupta Maurya established Mauryan Empire (322 B.C.) by defeating ____.</p></span>",
+        "option_1": "<span class=\"eqt\">Dhanananda</span>",
+        "option_2": "<span class=\"eqt\">Visakadatta</span>",
+        "option_3": "<span class=\"eqt\">Udayana</span>",
+        "option_4": "<span class=\"eqt\">Pradyota</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>· Chandragupta Maurya was the founder of the Mauryan Empire. </p><p>· He, at the young age of 25, captured Pataliputra from the last ruler of the Nanda dynasty, <b>Dhanananda</b>. </p><p>· In this task he was assisted by Kautilya, who was also known as Chanakya or Vishnugupta.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>C Rajagopalachari led the Salt Satyagraha in which of the following states? </p></span>",
+        "option_1": "<span class=\"eqt\">Rajasthan</span>",
+        "option_2": "<span class=\"eqt\">West Bengal</span>",
+        "option_3": "<span class=\"eqt\">Madhya Pradesh</span>",
+        "option_4": "<span class=\"eqt\">Tamil Nadu</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>· C Rajagopalachari led the Salt Satyagraha protest in <b>Tamil Nadu</b>.</p><p>· He led the salt march from Tiruchi to Vedaranyam against the draconian salt law.</p><p>· Rajaji began his march from Tiruchi on April 13 and reached Vedaranyam on April 28, 1930. </p><p>· To help Rajaji break the salt law without attracting any surveillance, Sardar Vedarathinam deputed his men to smuggle Rajaji to Agasthyampalli.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>The Supreme Court of India has the power of judicial review, which means it can declare laws and executive actions unconstitutional. This power is derived from __________ of the Indian Constitution. The High Courts in the states also have the power of judicial review under ____________.</p></span>",
+        "option_1": "<span class=\"eqt\">Article 137, Article 226</span>",
+        "option_2": "<span class=\"eqt\">Article 136, Article 214</span>",
+        "option_3": "<span class=\"eqt\">Article 124, Article 212</span>",
+        "option_4": "<span class=\"eqt\">Article 148, Article 220</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>Article 137 of the Indian Constitution deals with the review of judgments or orders by the Supreme Court. Essentially, it grants the Supreme Court the power to review any judgment or order it has previously pronounced. However, this power is subject to any laws made by Parliament or rules framed under Article 145.</p><p>Article 226:</p><p>Notwithstanding anything in article 32, every High Court shall have power, throughout the territories in relation to which it exercises jurisdiction, to issue to any person or authority, including in appropriate cases, any Government, within those territories' directions, orders or writs, including [writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, or any of them, for the enforcement of any of the rights conferred by Part III and for any other purpose.]</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Which of the following the name of the sport where a bull is let loose among a crowd and people participating in the sport are supposed to take control of the bull by holding on to its hump for as long as they can?</p></span>",
+        "option_1": "<span class=\"eqt\">Jallikattu</span>",
+        "option_2": "<span class=\"eqt\">Eru Thazhuvuthal</span>",
+        "option_3": "<span class=\"eqt\">Mancuvirattu</span>",
+        "option_4": "<span class=\"eqt\">All of the above</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p><b>Jallikattu' event also known as 'Eru Thazhuvuthal' and 'Mancuvirattu'</b> started in full swing in three villages of Tamil Nadu's Madurai. Jallikattu, practised in Tamil Nadu as a part of Pongal celebrations on the day of Mattu Pongal, is a sport where a bull is let loose among a crowd and people participating in the sport are supposed to take control of the bull by holding on to its hump for as long as they can.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Which of the following mountain range is not part of Europe?</p></span>",
+        "option_1": "<span class=\"eqt\">Mont Blanc</span>",
+        "option_2": "<span class=\"eqt\">Atlas</span>",
+        "option_3": "<span class=\"eqt\">Elbrus</span>",
+        "option_4": "<span class=\"eqt\">Alps</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p><b>Atlas Mountains</b> is a series of mountain ranges in northwestern <b>Africa</b>, running generally southwest to northeast to form the geologic backbone of the countries of the Maghrib (the western region of the Arab world) - Morocco, Algeria, and Tunisia.</p><p>Some of the mountains and mountain ranges in Europe are Mount Elbrus, Alps, Caucasus, Black Forest, Mont Blanc, the Apennine, the Pyrenees etc.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Which of the following group is also called alkali metals?</p></span>",
+        "option_1": "<span class=\"eqt\">7A</span>",
+        "option_2": "<span class=\"eqt\">8A</span>",
+        "option_3": "<span class=\"eqt\">2A</span>",
+        "option_4": "<span class=\"eqt\">1A</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>Group 1A is also known as the alkali metals. Although most metals tend to be very hard, these metals are actually soft and can be easily cut.</p><p>Group 2A is also called the alkaline earth metals.</p><p>Group 7A (or 17) elements are also called halogens.</p><p>The noble gases are in group 8A.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>In the southern ranges of which hills is Mawsynram, which receives the highest rainfall in the world, located?</p></span>",
+        "option_1": "<span class=\"eqt\">Shevaroy hills</span>",
+        "option_2": "<span class=\"eqt\">Mizo hills</span>",
+        "option_3": "<span class=\"eqt\">Khasi hills</span>",
+        "option_4": "<span class=\"eqt\">Naga hills</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>Mawsynram, the place that receives the highest rainfall in the world, is located in the Khasi hills of Meghalaya, India.</p><p>It receives an average of 11,872 millimeters (467.4 in) of rainfall annually.</p><p>The Servarayan hills, with the anglicised name Shevaroy Hills, are a towering mountain range (1620 m) near the city of Salem, in Tamil Nadu state, southern India.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Find the values of p, q and r, so as to satisfy the equations given below:</p><p>p + q + r = 12, p - q - r = 8, p - q + r = 20 </p></span>",
+        "option_1": "<span class=\"eqt\">p = 10, q = -4, r = 6</span>",
+        "option_2": "<span class=\"eqt\">p = -10, q = 4, r = 6</span>",
+        "option_3": "<span class=\"eqt\">p = 10, q = 4, r = -6</span>",
+        "option_4": "<span class=\"eqt\">p = 10, q = 4, r = 6</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>p + q + r = 12, p - q - r = 8, p - q + r = 20 </p><p>Only option 'a' satisfies the equation p + q + r = 12. i.e.</p><p>10 + (-4) + 6 = 12</p><p>p - q - r = 10 - (-4) - 6 = 8</p><p>p - q + r = 10 - (-4) + 6 = 20 </p><p><b>Hence,</b> option 'a' is correct.</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Weights (kg) of 8 students in eight different classes numbered 1 to 8 serially are 30, 40, p, 45, 48, q, 56, 60 respectively. Average of the values obtained from the multiplication of the weight of a student by his class number (for example, class number is 2 if he studies in class 2) is 230. Find the average of 'p' and '2q'.</p></span>",
+        "option_1": "<span class=\"eqt\">72</span>",
+        "option_2": "<span class=\"eqt\">73</span>",
+        "option_3": "<span class=\"eqt\">74</span>",
+        "option_4": "<span class=\"eqt\">75</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>Average of the values obtained from the multiplication of the weight of the student by class number is 230</p><p>[(1 * 30) + (2 * 40) + (3 * p) + (4 * 45) + (5 * 48) + (6 * q) + (7 * 56) + (8 * 60)]/8 = 230</p><p>30 + 80 + 3p + 180 + 240 + 6q + 392 + 480 = 1840</p><p>3p + 6q = 438</p><p>p + 2q = 146</p><p>Required average = (p + 2q)/2</p><p>= 146/2</p><p>= 73</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p><div> If 9x</div></p></span><span> -</span><span> <div style=\"display: inline-block;position: relative;vertical-align: middle;\"><span style=\"text-align:center;display: block; padding: 0;\">5(2x + 1)</span><span style=\"display: block; padding: 0;position: absolute; top: 0em; display: none;letter-spacing: -0.1em;\">_________</span><span style=\"display: block; padding: 0;border-top: thin solid black; text-align:center\">2</span></div> = <div style=\"display: inline-block;position: relative;vertical-align: middle;\"><span style=\"text-align:center;display: block; padding: 0;\">9</span><span style=\"display: block; padding: 0;position: absolute; top: 0em; display: none;letter-spacing: -0.1em;\">_________</span><span style=\"display: block; padding: 0;border-top: thin solid black; text-align:center\">2</span></div>, then the value of x is? </span>",
+        "option_1": "<span class=\"eqt\">7/4</span>",
+        "option_2": "<span class=\"eqt\">-7/4</span>",
+        "option_3": "<span class=\"eqt\">4/7</span>",
+        "option_4": "<span class=\"eqt\">-4/7</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "\"\"<br>https://u1.oliveboard.in/exams/solution/oliveimg/stubeimg/SSCT-MML-006448.png"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Find the remainder when (7<sup>21</sup> + 3) is divided by 6?</p></span>",
+        "option_1": "<span class=\"eqt\">4</span>",
+        "option_2": "<span class=\"eqt\">3</span>",
+        "option_3": "<span class=\"eqt\">5</span>",
+        "option_4": "<span class=\"eqt\">1</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>(x+1)<sup>n</sup> = x<sup>n</sup> + nC<sub>1</sub>x<sup>n-1.</sup>....... nC<sub>(n-1)</sub>x<sup> </sup>+ 1</p><p> Except last term, each term is a factor of x,</p><p> (7)<sup>21</sup> = (6 + 1)<sup>21</sup></p><p> Every term is divisible by 6 except last, which is 1.</p><p> Remainder = 1 + 3 = 4</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>It is given that ∆XYZ ≅ ∆PQR, YZ = 9 cm, ∠Z = 60° and ∠X = 45°. Which of the following options is true?</p></span>",
+        "option_1": "<span class=\"eqt\">PQ = 9 cm and ∠Q = 75°</span>",
+        "option_2": "<span class=\"eqt\">QR = 9 cm and ∠Q = 60°</span>",
+        "option_3": "<span class=\"eqt\">PR = 9 cm and ∠Q = 45°</span>",
+        "option_4": "<span class=\"eqt\">QR = 9 cm and ∠Q = 75°</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>∆XYZ ≅ ∆PQR</p><p>QR = YZ = 9 cm</p><p>In ∆XYZ - </p><p>∠X + ∠Y + ∠Z = 180°</p><p>45° + ∠Y + 60° = 180°</p><p>∠Y = 75°</p><p>∠Y = ∠Q = 75°</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p><div> Simplify : ( <div style=\"display: inline-block;position: relative;vertical-align: middle;\"><span style=\"text-align:center;display: block; padding: 0;\">3</span><span style=\"display: block; padding: 0;position: absolute; top: 0em; display: none;letter-spacing: -0.1em;\">_________</span><span style=\"display: block; padding: 0;border-top: thin solid black; text-align:center\">8</span></div> - <div style=\"display: inline-block;position: relative;vertical-align: middle;\"><span style=\"text-align:center;display: block; padding: 0;\">1</span><span style=\"display: block; padding: 0;position: absolute; top: 0em; display: none;letter-spacing: -0.1em;\">_________</span><span style=\"display: block; padding: 0;border-top: thin solid black; text-align:center\">6</span></div> + 3) + ( <div style=\"display: inline-block;position: relative;vertical-align: middle;\"><span style=\"text-align:center;display: block; padding: 0;\">45</span><span style=\"display: block; padding: 0;position: absolute; top: 0em; display: none;letter-spacing: -0.1em;\">_________</span><span style=\"display: block; padding: 0;border-top: thin solid black; text-align:center\">2</span></div> ÷ <div style=\"display: inline-block;position: relative;vertical-align: middle;\"><span style=\"text-align:center;display: block; padding: 0;\">135</span><span style=\"display: block; padding: 0;position: absolute; top: 0em; display: none;letter-spacing: -0.1em;\">_________</span><span style=\"display: block; padding: 0;border-top: thin solid black; text-align:center\">8</span></div> + 5) </div></p></span>",
+        "option_1": "<span class=\"eqt\">8(11/24)</span>",
+        "option_2": "<span class=\"eqt\">9(13/24)</span>",
+        "option_3": "<span class=\"eqt\">10(17/24)</span>",
+        "option_4": "<span class=\"eqt\">11(13/24)</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>= 9(13/24)</p><br>https://u1.oliveboard.in/exams/solution/oliveimg/p22337/image013.png<br>https://u1.oliveboard.in/exams/solution/oliveimg/p22337/image014.png<br>https://u1.oliveboard.in/exams/solution/oliveimg/p22337/image015.png<br>https://u1.oliveboard.in/exams/solution/oliveimg/p22337/image016.png"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>In a circle chords PN and KL meet at a point M outside the circle. If ∠ KMP = 28° and ∠ PNL = 110°, then find ∠ KPN.</p></span>",
+        "option_1": "<span class=\"eqt\">78°</span>",
+        "option_2": "<span class=\"eqt\">82°</span>",
+        "option_3": "<span class=\"eqt\">92°</span>",
+        "option_4": "<span class=\"eqt\">86°</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>∠ KMP = 28° and ∠ PNL = 110°</p><p>So ∠ MNL = 180 - 110 = 70°</p><p>In Δ MNL,</p><p>∠ NLK is an external angle. So ∠ NLK = 70 + 28 = 98°</p><p>Since PKLN is a cyclic quadrilateral,</p><p>So, ∠ KPN = 180 - ∠ NLK = 180 - 98 = 82°</p><br>https://u1.oliveboard.in/exams/solution/oliveimg/p20572/image031.png"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Ticket for an adult and a child is Rs. 1200 and 880 respectively. One child goes free with two adults. If a group has 18 adults and 9 children, what percent of discount does the group get?</p></span>",
+        "option_1": "<span class=\"eqt\">20.17%</span>",
+        "option_2": "<span class=\"eqt\">36.82%</span>",
+        "option_3": "<span class=\"eqt\">21.17%</span>",
+        "option_4": "<span class=\"eqt\">26.82%</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>Cost of tickets for 18 adults = Rs. 21600</p><p>Cost of tickets for 9 children = Rs. 7920</p><p>Total cost of ticket = Rs. 29520</p><p>Discount = Rs. 7920</p><p><b>Hence,</b> the discount % = 7920 * 100/29520</p><p>= 26.82 %</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>If tan Ө + cot Ө = 12, then what is the value of tan<sup>2</sup> Ө + cot<sup>2</sup> Ө?</p></span>",
+        "option_1": "<span class=\"eqt\">142</span>",
+        "option_2": "<span class=\"eqt\">144</span>",
+        "option_3": "<span class=\"eqt\">141</span>",
+        "option_4": "<span class=\"eqt\">145</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>Let tan Ө = X</p><p>cot Ө = 1/tan Ө = 1/X</p><p>X + 1/X = 12</p><p>=&gt; X<sup>2</sup> + 1/X<sup>2</sup> = 12<sup>2</sup> - 2 = 142</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>From the table given below, find the respective ratio of number of items having price more than Rs.120 to the number of items having price less than Rs.80.<table border=\"1\" cellpadding=\"5\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%; margin: 15px 0; font-family: Arial, sans-serif; font-size: 14px; border: 1px solid #ddd;\"><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Price (in rupees)</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">40-60</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">60-80</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">80-100</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">100-120</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">120-140</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">140-160</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Number of items</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">45</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">35</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">20</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">80</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">136</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">104</td></tr></table></p></span>",
+        "option_1": "<span class=\"eqt\">8: 5</span>",
+        "option_2": "<span class=\"eqt\">5: 2</span>",
+        "option_3": "<span class=\"eqt\">2: 1</span>",
+        "option_4": "<span class=\"eqt\">3: 1</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>Here, number of items having price more than Rs.120 = 136 + 104 = 240</p><p>And, number of items having price less than Rs.80 = 45 + 35 = 80</p><p>Therefore, ratio = 240: 80 = <b>3: 1</b></p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Pipe A, B and C can fill a tank in 10 minutes, 6 minutes, and 18 minutes respectively. Find the time taken to complete the work if pipes are working alternately for 1 minutes each starting from A.</p></span>",
+        "option_1": "<span class=\"eqt\">9 minutes 30 seconds</span>",
+        "option_2": "<span class=\"eqt\">11 minutes 15 seconds</span>",
+        "option_3": "<span class=\"eqt\">9 minutes 20 seconds</span>",
+        "option_4": "<span class=\"eqt\">12 minutes 30 seconds</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>Capacity of tank = LCM of 10, 6 and 18 = 90 units</p><p>Efficiency of pipe A = 90/10 = 9 units</p><p>Efficiency of pipe B = 90/6 = 15 units</p><p>Efficiency of pipe C = 90/18 = 5 units</p><p>Part of work got completed in 3 minutes = (9 + 15 + 5) unit = 29 unit</p><p>Part of work got completed in 9 minutes = 29 * 3 = 87 unit</p><p>Time taken to complete remaining work = (90 - 87)/9 = 3/9 = 1/3 minutes or 20 seconds</p><p>Total time = 9 minutes 20 seconds</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>The price of an article got decreased by 10% each year. If it was purchased 3 years ago, at Rs. X and its current value is Rs. 24786. Find the value of X.</p></span>",
+        "option_1": "<span class=\"eqt\">Rs. 34000</span>",
+        "option_2": "<span class=\"eqt\">Rs. 35000</span>",
+        "option_3": "<span class=\"eqt\">Rs. 36000</span>",
+        "option_4": "<span class=\"eqt\">Rs. 38000</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>According to question,</p><p>X * 90/100 * 90/100 * 90/100 = 24786</p><p>X = 24786 * 100/90 * 100/90 * 100/90</p><p>X = Rs. 34000</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Below bar graph shows the number of male candidates who participated in five competitions from two cities:</p><p>Below bar graph shows the percentage of female candidates out of total no. of candidates who participated in five competitions from two cities</p><p>Find the average of number of candidates who participated in competition F and competition H from both cities together. </p></span><br>https://u1.oliveboard.in/exams/solution/oliveimg/other/er221020s14072-001.png<br>https://u1.oliveboard.in/exams/solution/oliveimg/other/er221020s14072-002.png",
+        "option_1": "<span class=\"eqt\">1950</span>",
+        "option_2": "<span class=\"eqt\">2050</span>",
+        "option_3": "<span class=\"eqt\">2150</span>",
+        "option_4": "<span class=\"eqt\">2500</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The number of candidates who participated in competition F from both cities together = 300 * 100/(100 - 40) + 960 * 100/(100 - 36) = 2000</p><p>The number of candidates who participated in competition H from both cities together = 720 * 100/(100 - 20) + 600 * 100/(100 - 50) = 2100</p><p>So, required average = (2000 + 2100)/2 = 2050</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>The simple interest on a certain sum of money will be Rs. 1250 after 10 years. If the principal amount is increased to four times after five years, what will be the total interest at the end of 10 years?</p></span>",
+        "option_1": "<span class=\"eqt\">Rs. 3125</span>",
+        "option_2": "<span class=\"eqt\">Rs. 2500</span>",
+        "option_3": "<span class=\"eqt\">Rs. 2750</span>",
+        "option_4": "<span class=\"eqt\">Rs. 2950</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>S.I = P * R * T/100 </p><p>1250 = P * R * 10/100 </p><p>PR = 12500 .. (i) </p><p>10 years S. I = Rs. 1250</p><p>5 years S. I = 1250/2 = Rs. 625 </p><p>Principal = 4P </p><p>S.I (Remaining 5 years) = 4P * R * 5/100 </p><p>= PR/5</p><p>Put the value of (i) </p><p>= 12500/5 </p><p>= Rs. 2500 </p><p><b>Hence,</b> the required S.I. = 625 + 2500 = Rs. 3125 </p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>In the given figure, ∆ABC is an inscribed triangle as shown and DE is a tangent to the circle at C. If ∠ACD = 58° and ∠ACB = 38°, find the value of ∠BAC.</p></span><br>https://u1.oliveboard.in/exams/solution/oliveimg/p26815/image016.png",
+        "option_1": "<span class=\"eqt\">42°</span>",
+        "option_2": "<span class=\"eqt\">33°</span>",
+        "option_3": "<span class=\"eqt\">84°</span>",
+        "option_4": "<span class=\"eqt\">48°</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>∠BCE + ∠ACB + ∠DCA = 180°</p><p>∠BCE + 58° + 38° = 180°</p><p>∠BCE = 84°</p><p>∠BAC = ∠BCE [Alternate segment theorem]</p><p>So, ∠BAC = 84°</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p><b>Directions:</b> The following table shows the marked price of five different articles and percentage discount offered on these in a shop during a festive sale.<table border=\"1\" cellpadding=\"5\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%; margin: 15px 0; font-family: Arial, sans-serif; font-size: 14px; border: 1px solid #ddd;\"><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Article</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Marked price (in Rs.)</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">Discount%</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">A</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">840</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">10</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">B</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">700</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">15</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">C</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">540</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">20</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">D</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">720</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">5</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">E</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">600</td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">12</td></tr></table></p><p><div> The total selling price of article A and B is Rs. X more than that of article D and E. What is the value of <div style=\"display: inline-block;position: relative;vertical-align: middle;\"><span style=\"text-align:center;display: block; padding: 0;\">X</span><span style=\"display: block; padding: 0;position: absolute; top: 0em; display: none;letter-spacing: -0.1em;\">_________</span><span style=\"display: block; padding: 0;border-top: thin solid black; text-align:center\">10</span></div> ? </div></p></span>",
+        "option_1": "<span class=\"eqt\">Rs. 13.9</span>",
+        "option_2": "<span class=\"eqt\">Rs. 16.1</span>",
+        "option_3": "<span class=\"eqt\">Rs. 15.3</span>",
+        "option_4": "<span class=\"eqt\">Rs. 12.9</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>Selling price of article, A = 840 * 90/100 = Rs. 756</p><p>Selling price of article B = 700 * 85/100 = Rs. 595</p><p>Selling price of article D = 720 * 95/100 = Rs. 684</p><p>Selling price of article E = 600 * 88/100 = Rs. 528</p><p>Therefore,</p><p>X = (756 + 595) - (684 + 528) = 1351 - 1212 = 139</p><p>Required answer = (X/10) = 139/10 = Rs. 13.9</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Time taken by a boat to travel 117 km in upstream is 90 minutes. If the speed of stream is 6 km/h, then find the speed of boat in still water.</p></span>",
+        "option_1": "<span class=\"eqt\">84 km/h</span>",
+        "option_2": "<span class=\"eqt\">90 km/h</span>",
+        "option_3": "<span class=\"eqt\">86 km/h</span>",
+        "option_4": "<span class=\"eqt\">77 km/h</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>Let the speed of boat in still water(in km/hr) = m</p><p>117/(m - 6) = 90/60</p><p>m - 6 = 78</p><p>m = 84 km/h</p><p><b>Hence,</b> the speed of boat in still water = 84 km/h</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>In a ΔABC, BA is produced to D. Bisector of ∠BDC meet BC at point E such that DE ⊥ BC. DE = 4√33 cm, CE = 16 cm and AD = 17 cm, then AB = __.</p></span>",
+        "option_1": "<span class=\"eqt\">12 cm</span>",
+        "option_2": "<span class=\"eqt\">14 cm</span>",
+        "option_3": "<span class=\"eqt\">13 cm</span>",
+        "option_4": "<span class=\"eqt\">11 cm</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>According to the question:</p><p>Here, bisector of ∠BDC meet BC at point E such that DE ⊥ BC. This means ∠BED and ∠CED are right angles. </p><p>BD = CD and BE = CE = 16 cm </p><p>DE = 4√33 cm</p><p>By using Pythagoras theorem in ΔBED, we have: </p><p>BD<sup>2</sup> = BE<sup>2</sup> + DE<sup>2</sup></p><p>BD<sup>2</sup> = (16)<sup>2</sup> + (4√33)<sup>2</sup></p><p>BD<sup>2</sup> = 784</p><p>BD = 28 cm </p><p>Now, BD = AB + AD </p><p>28 = AB + 17 </p><p><b>AB = 11 cm</b></p><br>https://u1.oliveboard.in/exams/solution/oliveimg/p14530/image002.jpg"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>The number of ₹2 coins is 4 times as many as the number of ₹5 coins and 3 times as many as the number of ₹1 coins. If the total value of all the coins is ₹2580, then what is the difference between the number of ₹1 and ₹5 coins?</p></span>",
+        "option_1": "<span class=\"eqt\">60</span>",
+        "option_2": "<span class=\"eqt\">95</span>",
+        "option_3": "<span class=\"eqt\">100</span>",
+        "option_4": "<span class=\"eqt\">45</span>",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>Let the number of ₹2 coins = 12x</p><p>Number of ₹5 coins = 12x/4 = 3x </p><p>Number of ₹1 coins = 12x/3 = 4x</p><p>Total value of all the coins = ₹2580</p><p>2*12x + 5*3x + 1*4x = 2580</p><p>43x = 2580</p><p>x = 60</p><p>Difference between the number of ₹1 and ₹5 coins = 4x - 3x = x = 60</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>A dishonest shopkeeper professes to sell his goods at the cost price but uses a false weight of 720 g instead of 1 kg. If he bought the goods at Rs. 200, then find his gain percentage.</p></span>",
+        "option_1": "<span class=\"eqt\">310/9%</span>",
+        "option_2": "<span class=\"eqt\">280/9%</span>",
+        "option_3": "<span class=\"eqt\">390/9%</span>",
+        "option_4": "<span class=\"eqt\">350/9%</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>Let him buy the total goods be 1 kg</p><p>C.P of 1 kg (1000 g) = Rs. 200</p><p>S.P of 720 g = 200</p><p>S.P of 1000 g = 200 * 1000/720</p><p>= Rs. 2500/9</p><p>Profit = 2500/9 - 200</p><p>= Rs. 700/9</p><p><b>Hence,</b> the profit % = (700/9) * 100/ 200</p><p>= 350/9%</p><p><b> Express Method</b></p><p>By Ratio Method,</p><p>SP/CP = (200/200) x (1000/720) = 25/18</p><p>Profit% = (25 - 18) x 100/18 = 350/9 %</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Height of a cylinder is 1/7<sup>th</sup> of the radius of cylinder. What is the total surface area if sum of radius and height is 24 cm? (use π = 22/7)</p></span>",
+        "option_1": "<span class=\"eqt\">3056 cm<sup>2</sup></span>",
+        "option_2": "<span class=\"eqt\">3168 cm<sup>2</sup></span>",
+        "option_3": "<span class=\"eqt\">3225 cm<sup>2</sup></span>",
+        "option_4": "<span class=\"eqt\">3172 cm<sup>2</sup></span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>Let the radius of cylinder = x cm</p><p>Height of cylinder = x/7 cm</p><p>According to question,</p><p>x + x/7 = 24</p><p>8x = 24 * 7</p><p>x = 21 cm (Radius)</p><p>Height = 21/7 = 3 cm</p><p>Total surface area of cylinder = 2 πr(h + r) = 2 * 22/7 * 21(21 + 3)</p><p>=&gt; 3168 cm<sup>2</sup></p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>The volume of a hemisphere is 2425.5 cm<sup>3</sup>. Find its diameter (in cm).</p></span>",
+        "option_1": "<span class=\"eqt\">10.5</span>",
+        "option_2": "<span class=\"eqt\">42</span>",
+        "option_3": "<span class=\"eqt\">21</span>",
+        "option_4": "<span class=\"eqt\">31.5</span>",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>Volume of Hemisphere = (2/3) * π * r<sup>3</sup></p><p> \"</p><br>https://u1.oliveboard.in/exams/solution/oliveimg/stubeimg/0a8d76c5283cf0822fcc1f3227923ec5.png"
+    },
+    {
+        "question": "<span class=\"eqt\"><p>Three types of wooden sticks of length 150 cm, 180 cm and 120 cm respectively are joined together to form three large sticks such that length of each large stick is equal and only sticks of similar length are used to form large stick, then find the maximum number of small sticks used to form large sticks.</p></span>",
+        "option_1": "<span class=\"eqt\">29</span>",
+        "option_2": "<span class=\"eqt\">53</span>",
+        "option_3": "<span class=\"eqt\">41</span>",
+        "option_4": "<span class=\"eqt\">37</span>",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>Since number of small sticks are minimum. So, length of each large stick should be as large as possible.</p><p>Maximum possible length of each large stick = LCM of 150, 180 and 120</p><p>= 1800 cm</p><p>Length of each large stick = 1800 cm</p><p>Total sticks of 150 cm length needed = 1800/150 = 12</p><p>Total sticks of 180 cm length needed = 1800/180 = 10</p><p>Total sticks of 120 cm length needed = 1800/120 = 15</p><p>Required number o sticks = 12 + 10 + 15</p><p>= 37</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p><b>Directions: </b>Study the following graph and answer accordingly. The following graph shows the number of employees recruited (in thousand) in three banks SBI, ICICI and HDFC over the years from 2002 to 2007.</p><p>What is the approximate average number of employees in SBI over all the years together?</p></span><br>https://u1.oliveboard.in/exams/solution/oliveimg/63923/image001.jpg",
+        "option_1": "<span class=\"eqt\">1990</span>",
+        "option_2": "<span class=\"eqt\">2085</span>",
+        "option_3": "<span class=\"eqt\">2300</span>",
+        "option_4": "<span class=\"eqt\">1800</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>Required average = (1+2+1.5+2.5+3+2.5)/6</p><p>= (12.5/6) * 1000</p><p>= 2083.33</p><p>~~2085</p>"
+    },
+    {
+        "question": "<span class=\"eqt\"><p><div> If 2√5 sin θ = 2, then find the value of <div style=\"display: inline-block;position: relative;vertical-align: middle;\"><span style=\"text-align:center;display: block; padding: 0;\">cotθ + 2√5cosθ</span><span style=\"display: block; padding: 0;position: absolute; top: 0em; display: none;letter-spacing: -0.1em;\">_________</span><span style=\"display: block; padding: 0;border-top: thin solid black; text-align:center\">2√5 sinθ - tanθ</span></div></div></p></span>",
+        "option_1": "<span class=\"eqt\">2</span>",
+        "option_2": "<span class=\"eqt\">4</span>",
+        "option_3": "<span class=\"eqt\">6</span>",
+        "option_4": "<span class=\"eqt\">3</span>",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>Sin θ = 2/(2√5) = P/H </p><p>H<sup>2</sup> = P<sup>2</sup> + B<sup>2</sup></p><p>B<sup>2</sup> = 20 - 4 </p><p>B = 4 </p><p>[cotθ + 2√5cosθ]/ [2√5 sinθ - tanθ]</p><p>= [4/2 + 4]/ [2 - 2/4] </p><p>= 6/[(8 - 2)/4] </p><p>= 4</p>"
+    },
+    {
+        "question": "<p>Select the option that expresses the given sentence in indirect speech.</p><p>John said, \"I have been studying for the exam all week and I feel prepared.\"</p>",
+        "option_1": "John said that he had been studying for the exam all week and he feels prepared.",
+        "option_2": "John said that he has been studying for the exam all week and he feels prepared.",
+        "option_3": "John said that he was studying for the exam all week and he felt prepared.",
+        "option_4": "John said that he had been studying for the exam all week and he felt prepared.",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>Option (d) is the correct answer. </p><p>The sentence in the Direct Speech is in <b>Present Perfect Continuous Tense</b>. Therefore, the sentence in the Indirect Speech should be in <b>Past Perfect Continuous Tense</b>.</p><p>Present Perfect Continuous (Subject + has/have + been + V1 + ing + Object) should be converted into Past Perfect Continuous (Subject + had + been + V1 + ing + Object).</p><p>For example:</p><p>He said, \"We have been waiting for hours.\" (Direct Speech)</p><p>He said that they had been waiting for hours. (Indirect Speech)</p><p>The following things in the sentence should change when changed from Direct speech to Indirect Speech:</p><p>· Inverted commas (\"..\") are removed and 'that' is placed before the reporting speech.</p><p>· The pronoun 'I' is changed into 'he'. </p><p>· The verbs 'have been studying' is changed into 'had been studying', and 'feel prepared' (simple present tense) is changed into 'felt prepared' (simple past tense). </p><p>Therefore, the correct answer is option (d): John said that he had been studying for the exam all week and he felt prepared.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate synonym of the given word.</p><p>Cogent</p>",
+        "option_1": "Erudite",
+        "option_2": "Quixotic",
+        "option_3": "Vague",
+        "option_4": "Convincing",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>'Cogent' means '(Adj)(of an argument or case) clear, logical, and convincing'. Options a) and b) can be rejected as they are unrelated to the word. 'Vague' means 'Of uncertain, indefinite, or unclear character or meaning'. <b>Hence,</b> option c) can also be rejected as it is the exact opposite. 'Erudite' means 'Having or showing great knowledge or learning'. 'Quixotic' means 'Extremely idealistic; unrealistic and impractical'. <b>Hence,</b> option d) is the correct answer.</p>"
+    },
+    {
+        "question": "<p>Select the sentence that has a spelling error.</p><p>A. In the heart of the dense forest, a sirene lake sparkled. </p><p>B. Animals from far and wide gathered to sip from its sweet waters. </p><p>C. Beneath the surface, fish swam gracefully, their presence a sign of the lake's vitality. </p><p>D. For countless cycles, this oasis remained a cherished refuge in the wilderness.</p>",
+        "option_1": "Animals from far and wide gathered to sip from its sweet waters.",
+        "option_2": "For countless cycles, this oasis remained a cherished refuge in the wilderness.",
+        "option_3": "In the heart of the dense forest, a sirene lake sparkled.",
+        "option_4": "Beneath the surface, fish swam gracefully, their presence a sign of the lake's vitality.",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>The sentence A has a spelling error. The word 'sirene' is spelt incorrectly. The correct spelling of the word is \"serene\". \"Serene\" describes a peaceful and calm atmosphere. There is no spelling error in other sentences. <b>Hence,</b> (c) is the correct answer.</p>"
+    },
+    {
+        "question": "<p><b> </b>Select the most appropriate ANTONYM of the given word from the sentence.</p><p>Incipient</p><p>After years of ageing in the oak barrels, the wine exhibited a matured flavour profile with hints of oak, fruit, and spice.</p>",
+        "option_1": "Exhibited",
+        "option_2": "Hints",
+        "option_3": "Matured",
+        "option_4": "Flavour",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>The word \"incipient\" means in the early stages of development or just beginning to emerge. 'Matured' means fully developed or grown; having reached a desired level of development, ripeness, or complexity, especially over time. So, the two words can be used as antonyms of each other. <b>Hence,</b> (c) is the correct answer.</p><p>Exhibited: To display or show something clearly or prominently; to present something for others to see or observe.</p><p>Hints: Subtle suggestions or indications of something; small clues or traces that suggest the presence or nature of something else.</p><p>Flavour: The distinctive taste or combination of tastes perceived in food or drink, often resulting from various factors such as ingredients, preparation methods, or ageing processes.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate synonym of the word given in brackets to fill in the blank.</p><p>This brought us to the final step of our _______ (pursuit) to find the movement signatures.</p>",
+        "option_1": "Appearance",
+        "option_2": "Growth",
+        "option_3": "Quest",
+        "option_4": "Definition",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>Pursuit: the act of following or searching for someone or something, in order to catch or attack the person or thing. </p><p>Quest: a search or pursuit made in order to find or obtain something.</p><p>Both words are similar in meaning. <b>Hence,</b> option (c) is the answer. </p><p>Appearance: the way a person or thing looks or seems to other people. </p><p>Growth: the process of increasing in size.</p><p>Definition: a statement of the meaning of a word or word group or a sign or symbol.</p>"
+    },
+    {
+        "question": "<p>Select the option that can be used as a one-word substitute for the given group of words.</p><p>Subject to sudden and unpredictable changes of mood or mind</p>",
+        "option_1": "Astute",
+        "option_2": "Balmy",
+        "option_3": "Tyrannical",
+        "option_4": "Mercurial",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>Astute - having or showing an ability to accurately assess situations or people and turn this to one's advantage.</p><p>Balmy - characterized by pleasantly warm weather.</p><p>Tyrannical - exercising power in a cruel or arbitrary way.</p><p>Mercurial - subject to sudden or unpredictable changes of mood or mind.</p><p><b>Hence,</b> option d) is the answer.</p>"
+    },
+    {
+        "question": "<p>Select the option that will improve the underlined part of the given sentence.</p><p>The regulator had taken prompt action regarding the issues and <u>would taken further</u> steps to avoid similar issues in the future.</p>",
+        "option_1": "will taking further",
+        "option_2": "would take further",
+        "option_3": "would taking further",
+        "option_4": "would take farther",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The underlined phrase in the sentence and the phrase in options (a) &amp; (c) cannot be used in the sentence as they make the sentence grammatically incorrect; the modal verbs 'will' and 'would' take a verb in its base form after them; 'taken' [V3] and 'taking' [V4] are not the base forms of verb. The correct phrase to be used in the sentence is 'would take further' ['further' means 'to a greater extent'], as it makes the sentence grammatically correct and meaningful. 'Farther' which means 'a greater distance from something' is contextually irrelevant. <b>Hence,</b> option (b) is the correct answer.</p>"
+    },
+    {
+        "question": "<strong>Directions:</strong><br><p><b>Directions [Set of 5 Questions]:</b> In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.</p><p>I was always sceptical of the ___(1)___, \"You can probably count your true friends on one hand.\" That blunt sum felt impossibly restrictive to someone who prides herself on having formed and maintained many meaningful friendships. And then last year, my world became ___(2)___ smaller. Everyone does it in various unexpected ways. Last year wasn't only a period of self-isolating, social distancing, and seeing less of our loved ones; it also ___(3)___ in a number of ended friendships. It's taken me nearly six months to fully confront, but I lost a best friend last year. She was a daily presence in my life. She was the first person I called when a terrible tumble with my bike left me bloody and limping - and she was there by my side before the blood had dried. It was the kind of friendship that felt too ___(4)___ and solid to fail. And then, inexplicably, our few in-person interactions during the summer turned strained and awkward, and neither of us wanted to address the uneasiness. In retrospect, I was trudging through a brief, depressive funk at the time, and I resented her for not asking if I was okay. For all I know, she may have been ___(5)___ in her troubles induced by the annus horribilis - I didn't ask her either.</p><br><br><p>Which word will perfectly fit the blank labelled as (1)?</p>",
+        "option_1": "Allure",
+        "option_2": "Adage",
+        "option_3": "Allay",
+        "option_4": "Astute",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The correct answer is <b>b) Adage</b>.</p><p>Key points:</p><p>· <b>Adage:</b> a proverb or short statement expressing a general truth.</p><p>· This is in context to the author being sceptical of the proverb which states that we can probably count our true friends on one hand.</p><p>· Therefore, the correct answer is: <b>Adage.</b></p><p>Additional Information:<table border=\"1\" cellpadding=\"5\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%; margin: 15px 0; font-family: Arial, sans-serif; font-size: 14px; border: 1px solid #ddd;\"><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Word</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Meaning</b></td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Allure</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">the quality of being powerfully and mysteriously attractive or fascinating</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Allay</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">make peace or appease</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Astute</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">having or showing shrewdness and an ability to notice and understand things clearly</td></tr></table></p>"
+    },
+    {
+        "question": "<strong>Directions:</strong><br><p><b>Directions [Set of 5 Questions]:</b> In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.</p><p>I was always sceptical of the ___(1)___, \"You can probably count your true friends on one hand.\" That blunt sum felt impossibly restrictive to someone who prides herself on having formed and maintained many meaningful friendships. And then last year, my world became ___(2)___ smaller. Everyone does it in various unexpected ways. Last year wasn't only a period of self-isolating, social distancing, and seeing less of our loved ones; it also ___(3)___ in a number of ended friendships. It's taken me nearly six months to fully confront, but I lost a best friend last year. She was a daily presence in my life. She was the first person I called when a terrible tumble with my bike left me bloody and limping - and she was there by my side before the blood had dried. It was the kind of friendship that felt too ___(4)___ and solid to fail. And then, inexplicably, our few in-person interactions during the summer turned strained and awkward, and neither of us wanted to address the uneasiness. In retrospect, I was trudging through a brief, depressive funk at the time, and I resented her for not asking if I was okay. For all I know, she may have been ___(5)___ in her troubles induced by the annus horribilis - I didn't ask her either.</p><br><br><p>Which word will perfectly fit the blank labelled as (2)?</p>",
+        "option_1": "Surreptitiously",
+        "option_2": "Adherently",
+        "option_3": "Drastically",
+        "option_4": "Corpulent",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>The correct answer is <b>c) Drastically.</b></p><p>Key points:</p><p>· <b>Drastically:</b> in a way that is likely to have a strong or far-reaching effect; extremely.</p><p>· This is in context to the author's claim that last year, his world became extremely smaller.</p><p>· Therefore, the correct answer is: <b>Drastically</b>.</p><p>Additional Information:<table border=\"1\" cellpadding=\"5\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%; margin: 15px 0; font-family: Arial, sans-serif; font-size: 14px; border: 1px solid #ddd;\"><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Word</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Meaning</b></td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Surreptitiously</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">in a way that attempts to avoid notice or attention; secretively</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Adherently</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">sticking or holding fast</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Corpulent</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">ugly or fat</td></tr></table></p>"
+    },
+    {
+        "question": "<strong>Directions:</strong><br><p><b>Directions [Set of 5 Questions]:</b> In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.</p><p>I was always sceptical of the ___(1)___, \"You can probably count your true friends on one hand.\" That blunt sum felt impossibly restrictive to someone who prides herself on having formed and maintained many meaningful friendships. And then last year, my world became ___(2)___ smaller. Everyone does it in various unexpected ways. Last year wasn't only a period of self-isolating, social distancing, and seeing less of our loved ones; it also ___(3)___ in a number of ended friendships. It's taken me nearly six months to fully confront, but I lost a best friend last year. She was a daily presence in my life. She was the first person I called when a terrible tumble with my bike left me bloody and limping - and she was there by my side before the blood had dried. It was the kind of friendship that felt too ___(4)___ and solid to fail. And then, inexplicably, our few in-person interactions during the summer turned strained and awkward, and neither of us wanted to address the uneasiness. In retrospect, I was trudging through a brief, depressive funk at the time, and I resented her for not asking if I was okay. For all I know, she may have been ___(5)___ in her troubles induced by the annus horribilis - I didn't ask her either.</p><br><br><p>Which word will perfectly fit the blank labelled as (3)?</p>",
+        "option_1": "Culminated",
+        "option_2": "Concurrently",
+        "option_3": "Capably",
+        "option_4": "Callous",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The correct answer is <b>a) Culminated.</b></p><p>Key points:</p><p>· <b>Culminated:</b> reached a climax or point of highest development.</p><p>· This is in context to the author's last year which was not only a period of self-isolating, social distancing and seeing less of his loved ones but also it led to several ended friendships.</p><p>· Therefore, the correct answer is: <b>Culminated.</b></p><p>Additional Information:<table border=\"1\" cellpadding=\"5\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%; margin: 15px 0; font-family: Arial, sans-serif; font-size: 14px; border: 1px solid #ddd;\"><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Word</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Meaning</b></td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Concurrently</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">at the same time; simultaneously</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Capably</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">competently</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Callous</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">feeling no emotion</td></tr></table></p>"
+    },
+    {
+        "question": "<strong>Directions:</strong><br><p><b>Directions [Set of 5 Questions]:</b> In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.</p><p>I was always sceptical of the ___(1)___, \"You can probably count your true friends on one hand.\" That blunt sum felt impossibly restrictive to someone who prides herself on having formed and maintained many meaningful friendships. And then last year, my world became ___(2)___ smaller. Everyone does it in various unexpected ways. Last year wasn't only a period of self-isolating, social distancing, and seeing less of our loved ones; it also ___(3)___ in a number of ended friendships. It's taken me nearly six months to fully confront, but I lost a best friend last year. She was a daily presence in my life. She was the first person I called when a terrible tumble with my bike left me bloody and limping - and she was there by my side before the blood had dried. It was the kind of friendship that felt too ___(4)___ and solid to fail. And then, inexplicably, our few in-person interactions during the summer turned strained and awkward, and neither of us wanted to address the uneasiness. In retrospect, I was trudging through a brief, depressive funk at the time, and I resented her for not asking if I was okay. For all I know, she may have been ___(5)___ in her troubles induced by the annus horribilis - I didn't ask her either.</p><br><br><p>Which word will perfectly fit the blank labelled as (4)?</p>",
+        "option_1": "Toxic",
+        "option_2": "Defiling",
+        "option_3": "Fanatical",
+        "option_4": "Familial",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>The correct answer is <b>d) Familial</b>.</p><p>Key points:</p><p>· <b>Familial:</b> relating to or occurring in a family or its members.</p><p>· This is in context to the author's friendship with his friend which he thought was too close and solid to fall apart.</p><p>· Therefore, the correct answer is<b>: Familial.</b></p><p>Additional Information:<table border=\"1\" cellpadding=\"5\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%; margin: 15px 0; font-family: Arial, sans-serif; font-size: 14px; border: 1px solid #ddd;\"><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Word</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Meaning</b></td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Toxic</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">very harmful or unpleasant in a pervasive or insidious way</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Defiling</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">damaging the purity or appearance of</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Fanatical</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">filled with excessive and single-minded zeal</td></tr></table></p>"
+    },
+    {
+        "question": "<strong>Directions:</strong><br><p><b>Directions [Set of 5 Questions]:</b> In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.</p><p>I was always sceptical of the ___(1)___, \"You can probably count your true friends on one hand.\" That blunt sum felt impossibly restrictive to someone who prides herself on having formed and maintained many meaningful friendships. And then last year, my world became ___(2)___ smaller. Everyone does it in various unexpected ways. Last year wasn't only a period of self-isolating, social distancing, and seeing less of our loved ones; it also ___(3)___ in a number of ended friendships. It's taken me nearly six months to fully confront, but I lost a best friend last year. She was a daily presence in my life. She was the first person I called when a terrible tumble with my bike left me bloody and limping - and she was there by my side before the blood had dried. It was the kind of friendship that felt too ___(4)___ and solid to fail. And then, inexplicably, our few in-person interactions during the summer turned strained and awkward, and neither of us wanted to address the uneasiness. In retrospect, I was trudging through a brief, depressive funk at the time, and I resented her for not asking if I was okay. For all I know, she may have been ___(5)___ in her troubles induced by the annus horribilis - I didn't ask her either.</p><br><br><p>Which word will perfectly fit the blank labelled as (5)?</p>",
+        "option_1": "Derided",
+        "option_2": "Deprived",
+        "option_3": "Exulted",
+        "option_4": "Mired",
+        "option_5": "",
+        "answer": "4",
+        "solution": "<p>The correct answer is <b>d) Mired.</b></p><p>Key points:</p><p>· <b>Mired:</b> involved someone or something in; entangled.</p><p>· This is in context to the author's assumption that his best friend might have been entangled in her troubles which led to their friendship falling apart.</p><p>· Therefore, the correct answer is: <b>Mired</b>.</p><p>Additional Information:<table border=\"1\" cellpadding=\"5\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%; margin: 15px 0; font-family: Arial, sans-serif; font-size: 14px; border: 1px solid #ddd;\"><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Word</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Meaning</b></td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Derided</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">expressed contempt for; ridicule</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Deprived</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">lacked a specified benefit that is considered important</td></tr><tr><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\"><b>Exulted</b></td><td align=\"left\" style=\"border: 1px solid #ddd; padding: 8px; text-align: left; vertical-align: top; border:1px solid black;padding:5px;\">felt or shown triumphant elation</td></tr></table></p>"
+    },
+    {
+        "question": "<p><b> </b>Select the correct sentence in active voice from the following options. </p>",
+        "option_1": "The dog chased the playful squirrel eagerly.",
+        "option_2": "The playful squirrel was being chased eagerly by the dog.",
+        "option_3": "The playful squirrel is being chased eagerly by the dog.",
+        "option_4": "He said, \"The playful squirrel will be chased eagerly by the dog\".",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>Option (a) is in the active voice. It states \"The dog chased the playful squirrel eagerly,\" with the subject (the dog) performing the action (chased) directly on the object (the playful squirrel). <b>Hence,</b> (a) is the correct answer.</p><p>Options (b) and (c) are in passive voice, focusing on what's happening to the squirrel rather than who's doing the chasing.</p><p>Option (d) is the construction of a direct speech sentence.</p>"
+    },
+    {
+        "question": "<p>Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.</p><p>A) By fostering a healthy media consumption habit, children can enjoy cartoons without compromising their overall development and well-being.</p><p>B) Cartoon addiction in kids can lead to reduced attention spans and diminished interest in physical activities or social interactions. </p><p>C) Parents and educators must balance screen time with other engaging activities to ensure holistic growth. </p><p>D) Excessive screen time often impacts their academic performance and hinders the development of critical thinking skills.</p>",
+        "option_1": "DBAC",
+        "option_2": "BDCA",
+        "option_3": "CABD",
+        "option_4": "DCBA",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>If the sentences are read carefully, it can be noted that the central theme of the passage is mentioned in sentence B. So, it has to be the first sentence in the order. It should be followed by sentence D in which the impact of cartoon addiction is stated which acts as the continuation of the message in sentence B. Sentences C and A make a pair, in which the solution for cartoon addiction, thereby completing the passage appropriately. Therefore, the final order of the sentences is BDCA.</p><p><b>Hence,</b> the correct answer is option (b).</p>"
+    },
+    {
+        "question": "<p>Select the option that can be used as a one-word substitute for the given group of words.</p><p>One who hides away on a ship to obtain a free passage. </p>",
+        "option_1": "Hairdresser",
+        "option_2": "Stowaway",
+        "option_3": "Angler",
+        "option_4": "Archer",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>'Stowaway' means a person who hides on board a ship, train, etc. so as to get a free passage. <b>Hence,</b> (b) is the correct answer. </p><p>'Hairdresser' means one who dresses up women's hair. </p><p>'Angler' means one who fishes with a rod. </p><p>'Archer' means one who shoots with bows and arrows.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate meaning of the given idiom.</p><p>Laugh all the way to the bank</p>",
+        "option_1": "The last in a series of unpleasant events that finally makes you feel that you cannot continue to accept a bad situation",
+        "option_2": "Make a great deal of money very easily",
+        "option_3": "An apparent misfortune that eventually has good results",
+        "option_4": "Marry a rich person",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The idiom 'Laugh all the way to the bank' means 'Make a great deal of money very easily'. Hence option b) is the correct answer. 'The last or final straw ' means 'The last in a series of unpleasant events that finally makes you feel that you cannot continue to accept a bad situation'. 'Marry money' means 'Marry a rich person'. 'A blessing in disguise' means 'An apparent misfortune that eventually has good results'.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate synonym to replace the italicised word.</p><p>Joe's <i>hapless</i> search for fun led him from one disappointment to another.</p>",
+        "option_1": "Constant",
+        "option_2": "Unlucky",
+        "option_3": "Fruitful",
+        "option_4": "Tireless",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>'Hapless' means unfortunate; deserving of pity or sympathy due to experiencing unlucky or adverse circumstances. 'Unlucky' means having or experiencing unfortunate events or outcomes; lacking good fortune. So, the two words can be used as synonyms of each other. <b>Hence,</b> (b) is the correct answer. </p><p>Constant: Occurring continuously or persistently; unchanging.</p><p>Fruitful: Producing good or useful results; productive or successful.</p><p>Tireless: Showing great effort or perseverance; not easily exhausted or fatigued.</p>"
+    },
+    {
+        "question": "<p><b> </b>The following sentence has been split into three segments. Identify the segment that contains an error. If the sentence is free of any errors, mark 'No error' as your answer.</p><p>The wall's sheets, adorned with vibrant/ wallpaper, contribute to the overall aesthetic of the/ room, enhancing its ambience and style.</p>",
+        "option_1": "the wall's sheets, adorned with vibrant",
+        "option_2": "wallpaper, contribute to the overall aesthetic of the",
+        "option_3": "room, enhancing its ambience and style",
+        "option_4": "No error",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The term \"the wall's sheets\" is not appropriate. The apostrophe is not used in the case of non-living things. The correction involves removing the apostrophe from \"wall's\" and simply writing 'the sheets of the wall' instead. <b>Hence,</b> (a) is the correct answer.</p><p>The corrected sentence would be: The sheets of the wall, adorned with vibrant wallpaper, contribute to the overall aesthetic of the room, enhancing its ambience and style.</p>"
+    },
+    {
+        "question": "<p>Spot the erroneous part if any, in the following sentence.</p><p><u>Sneha greeted</u> (A)/ her neighbours/ <u>very nice</u> (B)/ when they moved/ <u>in next door</u> (C). / No error (D). </p>",
+        "option_1": "A",
+        "option_2": "C",
+        "option_3": "B",
+        "option_4": "D",
+        "option_5": "",
+        "answer": "3",
+        "solution": "<p>The erroneous part in the sentence is (B). The error in segment (B) is related to the misuse of adjectives and adverbs. In the sentence, \"Sneha greeted her neighbours\" is the main clause, and \"very nice\" is intended to describe how she greeted them. However, \"nice\" is an adjective, which modifies nouns, while \"nicely\" is the adverbial form of \"nice,\" which modifies verbs. Since we are describing the action of greeting (the verb), we need an adverb, not an adjective. Therefore, to correctly modify the verb \"greeted,\" the adverb \"nicely\" should be used instead of the adjective \"nice.\" <b>Hence,</b> (c) is the correct answer. </p><p><b>The correct sentence is:</b> \"Sneha greeted her neighbours very nicely when they moved in next door.\"</p><p><b>NOTE:</b></p><p><b>Adverbs:</b> Words that describe a verb, an adjective, another adverb, or even a sentence as a whole are called Adverbs.</p><p><b>An adjective</b> is a word that modifies a noun or a pronoun. 'Adorable', 'attractive', 'beautiful', 'cruel', and 'clever' are some examples of adjectives.</p>"
+    },
+    {
+        "question": "<p><b> </b>The following sentence has been split into three segments. Identify the segment that contains an error. If the sentence is free of any errors, mark 'No error' as your answer. </p><p>The students found the math/ exam incredible hard, requiring them/ to apply complex problem-solving skills.</p>",
+        "option_1": "the students found the math",
+        "option_2": "exam incredible hard, requiring them",
+        "option_3": "to apply complex problem-solving skills",
+        "option_4": "No error",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The correct word is \"incredibly\" instead of \"incredible.\" The adjective \"hard\" is correct, but it should be preceded by \"incredibly\" to indicate the degree of difficulty. An adverb (and not the adjective) is used to modify an adjective. <b>Hence,</b> (b) is the correct answer. </p><p>The corrected sentence: The students found the math exam incredibly hard, requiring them to apply complex problem-solving skills.</p>"
+    },
+    {
+        "question": "<p>Select the sentence that uses the given idiom correctly.</p><p>Bite off more than you can chew</p>",
+        "option_1": "She bit off more than she could chew when she decided to run a marathon without any training.",
+        "option_2": "The manager always bites off more than he can chew when he orders food at a restaurant.",
+        "option_3": "I like to bite off more than I can chew when I study for exams because it motivates me to work harder.",
+        "option_4": "They bit off more than they could chew when they refused to buy the house for which they couldn't afford the mortgage.",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The idiom \"bite off more than you can chew\" means to take on a task that is too difficult or demanding for one's abilities or resources. It usually has a negative connotation. Option (a) uses the idiom correctly, as it implies that she took on a challenge that was beyond her capacity and likely failed or suffered. The other options either use the idiom in a positive or neutral way or in a literal sense, which is not appropriate.</p><p><b>Hence,</b> option (a) is the correct answer.</p>"
+    },
+    {
+        "question": "<p> Select the most appropriate synonym of the underlined word. </p><p>The mountain path was considered <u>hazardous</u> due to the steep cliffs and unpredictable weather.</p>",
+        "option_1": "Perilous",
+        "option_2": "Ignoble",
+        "option_3": "Indolent",
+        "option_4": "Inert",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The most appropriate synonym for 'hazardous' is 'perilous'. 'Hazardous' means risky or dangerous. 'Perilous' means full of danger or risk. 'Ignoble' means not honourable in character or purpose. 'Indolent' means lazy or avoiding activity. 'Inert' means lacking the ability or strength to move. <b>Hence,</b> (a) is the correct answer.</p>"
+    },
+    {
+        "question": "<p><b> </b>Select the most appropriate ANTONYM of the given word from the sentence.</p><p>Exalt</p><p>It is not appropriate to belittle someone's achievements, as everyone's efforts should be acknowledged and respected.</p>",
+        "option_1": "Appropriate",
+        "option_2": "Belittle",
+        "option_3": "Efforts",
+        "option_4": "Respected",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The word \"exalt\" means to praise or glorify someone or something highly; to elevate in status or rank. 'Belittle' means to make someone or something seem less impressive or important; to speak or treat someone with disrespect or scorn, often in order to diminish their achievements or worth. So, the two words can be used as antonyms of each other. <b>Hence,</b> (b) is the correct answer. </p><p>Appropriate: Suitable or proper in the circumstances; fitting or acceptable according to social norms or standards.</p><p>Efforts: The exertion of physical or mental energy towards achieving a particular goal or result; the actions or endeavours made towards accomplishing something.</p><p>Respected: Regarded with admiration or esteem; held in high regard by others due to their qualities, achievements, or actions.</p>"
+    },
+    {
+        "question": "<p>Select the most appropriate homonym of the underlined word to fill in the blank. </p><p>The guests were <u>allowed </u>to enjoy the party. But they were asked not to speak _____ during the formal dinner.</p>",
+        "option_1": "Aloud",
+        "option_2": "Allude",
+        "option_3": "Elude",
+        "option_4": "Abound",
+        "option_5": "",
+        "answer": "1",
+        "solution": "<p>The most appropriate homonym of the underlined word to fill in the blank is 'aloud'. The sentence implies that the guests were requested not to speak loudly or in a manner that might disrupt the formal dinner. 'Aloud' means to speak audibly or loudly. Other words do not fit the context of the sentence. 'Allude' means to refer to something indirectly or hint at something without explicitly mentioning it. 'Elude' means to evade or escape from someone or something. 'Abound' means to exist in large numbers or to be plentiful. <b>Hence,</b> (a) is the correct answer. </p>"
+    },
+    {
+        "question": "<p>Select the most appropriate option to fill in the blank.</p><p>There isn't much time, so I'll just give you the ______ details.</p>",
+        "option_1": "Bear",
+        "option_2": "Bare",
+        "option_3": "Berry",
+        "option_4": "Bury",
+        "option_5": "",
+        "answer": "2",
+        "solution": "<p>The given sentence talks about the details that the subject 'I' would provide to the second person 'you'. We need an adjective here that modifies the noun 'details'.</p><p>Among the given options, 'bare' fits in the blank appropriately. It is an adjective that means 'only the most basic or important'.</p><p>Options a) [noun/verb], c) [noun] and d) [verb] are incorrect as they are not adjectives.</p><p>The correct sentence is: There isn't much time, so I'll just give you the <b>bare</b> details.</p><p><b>Hence,</b> (b) is the correct answer.</p>"
+    }
+]
